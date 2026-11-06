@@ -1,0 +1,1854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CastleSiegeLeverTalkPlugIn_Name" xml:space="preserve">
+    <value>공성전 게이트 레버</value>
+  </data>
+  <data name="CastleSiegeLeverTalkPlugIn_Description" xml:space="preserve">
+    <value>공성전 게이트 레버에 대한 작업 인터페이스를 엽니다.</value>
+  </data>
+  <data name="CastleSiegeMachineTalkPlugIn_Name" xml:space="preserve">
+    <value>공성전 전쟁 기계</value>
+  </data>
+  <data name="CastleSiegeMachineTalkPlugIn_Description" xml:space="preserve">
+    <value>승인된 플레이어를 위해 공성전 전투 기계를 엽니다.</value>
+  </data>
+  <data name="CastleSiegePlugIn_Name" xml:space="preserve">
+    <value>공성전</value>
+  </data>
+  <data name="CastleSiegePlugIn_Description" xml:space="preserve">
+    <value>주간 공성전 상태 주기를 구동합니다.</value>
+  </data>
+  <data name="CastleSiegePendingRewardPlugIn_Name" xml:space="preserve">
+    <value>공성전 보상 전달 보류 중</value>
+  </data>
+  <data name="CastleSiegePendingRewardPlugIn_Description" xml:space="preserve">
+    <value>캐릭터가 게임에 입장하면 대기열에 있는 공성전 참가자 보상을 제공합니다.</value>
+  </data>
+  <data name="CastleSiegeLandOfTrialsGuardTalkPlugIn_Name" xml:space="preserve">
+    <value>공성전 시련의 땅 경비병</value>
+  </data>
+  <data name="CastleSiegeLandOfTrialsGuardTalkPlugIn_Description" xml:space="preserve">
+    <value>시험의 땅 이용 가능 여부와 해당 입장료를 보여줍니다.</value>
+  </data>
+  <data name="MuHelperFeaturePlugIn_Name" xml:space="preserve">
+    <value>MU 도우미 기능</value>
+  </data>
+  <data name="MuHelperFeaturePlugIn_Description" xml:space="preserve">
+    <value>MU 도우미 기능에 대한 구성을 제공합니다.</value>
+  </data>
+  <data name="UpdatePetCommandManagerOnItemMovePlugIn_Name" xml:space="preserve">
+    <value>아이템 이동 시 펫 명령 관리자 업데이트</value>
+  </data>
+  <data name="UpdatePetCommandManagerOnItemMovePlugIn_Description" xml:space="preserve">
+    <value>펫을 장착하거나 장착 해제한 후 플레이어 개체의 펫 명령 관리자를 업데이트합니다.</value>
+  </data>
+  <data name="GuildWarKillScorePlugIn_Name" xml:space="preserve">
+    <value>길드축구 킬점수</value>
+  </data>
+  <data name="GuildWarKillScorePlugIn_Description" xml:space="preserve">
+    <value>이 플러그인은 킬이 발생한 경우 축구 결과 점수를 높입니다.</value>
+  </data>
+  <data name="PeriodicSaveProgressPlugIn_Name" xml:space="preserve">
+    <value>주기적 저장 진행</value>
+  </data>
+  <data name="PeriodicSaveProgressPlugIn_Description" xml:space="preserve">
+    <value>플레이어 상태가 'EnteredWorld'일 때 플레이어의 진행 상황을 주기적으로 저장합니다.</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugIn_Name" xml:space="preserve">
+    <value>사망 후 플레이어 경험치 손실</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugIn_Description" xml:space="preserve">
+    <value>이 플러그인은 플레이어가 몬스터에 의해 살해된 후 경험치를 감소시킵니다.</value>
+  </data>
+  <data name="QuestMonsterKillCountPlugIn_Name" xml:space="preserve">
+    <value>죽인 퀘스트 몬스터 수 계산</value>
+  </data>
+  <data name="QuestMonsterKillCountPlugIn_Description" xml:space="preserve">
+    <value>이 플러그인은 활성 퀘스트의 퀘스트 상태에서 몬스터 처치 횟수를 증가시킵니다.</value>
+  </data>
+  <data name="SelfDefensePlugIn_Name" xml:space="preserve">
+    <value>자기 방어</value>
+  </data>
+  <data name="SelfDefensePlugIn_Description" xml:space="preserve">
+    <value>자기 방어 시스템의 상태를 업데이트합니다.</value>
+  </data>
+  <data name="ShieldRecoveryHiatusPlugIn_Name" xml:space="preserve">
+    <value>쉴드 복구 중단</value>
+  </data>
+  <data name="ShieldRecoveryHiatusPlugIn_Description" xml:space="preserve">
+    <value>쉴드 복구 중단 속성을 업데이트하고 재설정합니다.</value>
+  </data>
+  <data name="ShowMessageToAllWhenPlayerEnteredWorldPlugIn_Name" xml:space="preserve">
+    <value>플레이어가 세계에 입장하면 모두에게 메시지 표시</value>
+  </data>
+  <data name="ShowMessageToAllWhenPlayerEnteredWorldPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 게임에 입장하면 모든 플레이어에게 메시지를 표시합니다.</value>
+  </data>
+  <data name="UpdateIsInSafezoneAfterPlayerMoved_Name" xml:space="preserve">
+    <value>UpdateIsInSafezoneAfterPlayerMoved</value>
+  </data>
+  <data name="UpdateIsInSafezoneAfterPlayerMoved_Description" xml:space="preserve">
+    <value>플레이어가 안전지대에 있는 경우 속성을 업데이트합니다. 예를 들어 자동 체력 및 보호막 복구가 활성화됩니다.</value>
+  </data>
+  <data name="WeatherUpdatePlugIn_Name" xml:space="preserve">
+    <value>날씨 업데이트</value>
+  </data>
+  <data name="WeatherUpdatePlugIn_Description" xml:space="preserve">
+    <value>호스팅된 각 지도의 날씨 상태를 무작위로 업데이트합니다.</value>
+  </data>
+  <data name="GatekeeperNpcPlugin_Name" xml:space="preserve">
+    <value>GatekeeperNpcPlugin</value>
+  </data>
+  <data name="GatekeeperNpcPlugin_Description" xml:space="preserve">
+    <value>게이트키퍼 NPC 요청 처리</value>
+  </data>
+  <data name="ResetCharacterNpcPlugin_Name" xml:space="preserve">
+    <value>ResetCharacterNpcPlugin</value>
+  </data>
+  <data name="ResetCharacterNpcPlugin_Description" xml:space="preserve">
+    <value>캐릭터 재설정 NPC 요청 처리</value>
+  </data>
+  <data name="ResetChatCommandPlugIn_Name" xml:space="preserve">
+    <value>채팅 명령 재설정</value>
+  </data>
+  <data name="ResetChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/reset'을 처리합니다.</value>
+  </data>
+  <data name="ResetInfoChatCommandPlugIn_Name" xml:space="preserve">
+    <value>정보 채팅 명령 재설정</value>
+  </data>
+  <data name="ResetInfoChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/resetinfo'을 처리합니다. 다음 초기화에 필요한 비용과 부여 포인트를 표시합니다.</value>
+  </data>
+  <data name="ResetFeaturePlugIn_Name" xml:space="preserve">
+    <value>기능 재설정</value>
+  </data>
+  <data name="ResetFeaturePlugIn_Description" xml:space="preserve">
+    <value>재설정 기능에 대한 구성을 제공합니다.</value>
+  </data>
+  <data name="EndDuelWhenLeavingDuelMapPlugIn_Name" xml:space="preserve">
+    <value>결투 맵에서 나갈 때 결투 종료</value>
+  </data>
+  <data name="EndDuelWhenLeavingDuelMapPlugIn_Description" xml:space="preserve">
+    <value>결투사 중 한 명이 결투 맵을 떠나면 결투가 종료됩니다. 관전자가 결투장에서 나가면 관전자 목록에서도 삭제됩니다.</value>
+  </data>
+  <data name="UpdateDuelScorePlugIn_Name" xml:space="preserve">
+    <value>듀얼 점수 업데이트</value>
+  </data>
+  <data name="UpdateDuelScorePlugIn_Description" xml:space="preserve">
+    <value>이 플러그인은(는) 처치가 발생했을 때 결투 점수를 높여줍니다.</value>
+  </data>
+  <data name="AlcoholConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>알코올 소비 처리자</value>
+  </data>
+  <data name="AlcoholConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>알코올 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="AntidoteConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>해독제 소비 처리기</value>
+  </data>
+  <data name="AntidoteConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>해독제 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="AppleConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>Apple 소비 핸들러</value>
+  </data>
+  <data name="AppleConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>사과 소비를 처리하는 플러그인입니다.</value>
+  </data>
+  <data name="BlessJewelConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>축복받은 보석 소비 처리자</value>
+  </data>
+  <data name="BlessJewelConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 축복의 보석 소비를 처리합니다.</value>
+  </data>
+  <data name="FruitConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>과일 소비 핸들러</value>
+  </data>
+  <data name="FruitConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>과일 소비를 처리하는 플러그인입니다.</value>
+  </data>
+  <data name="StrengthResetFruitConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>힘의 열매 소비 처리기 재설정</value>
+  </data>
+  <data name="StrengthResetFruitConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 힘의 재설정 열매를 처리하고, 투자한 힘 포인트를 회수하여 레벨 업 포인트로 반환합니다.</value>
+  </data>
+  <data name="AgilityResetFruitConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>민첩성 소비 핸들러의 열매 재설정</value>
+  </data>
+  <data name="AgilityResetFruitConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>민첩성의 재설정 결과를 처리하는 플러그인은 투자된 민첩성 포인트를 회수하여 레벨 업 포인트로 반환합니다.</value>
+  </data>
+  <data name="VitalityResetFruitConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>체력의 열매 소비 처리기 재설정</value>
+  </data>
+  <data name="VitalityResetFruitConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 체력의 재설정 열매를 처리하며, 투자된 체력 포인트를 회수하여 레벨 업 포인트로 반환합니다.</value>
+  </data>
+  <data name="EnergyResetFruitConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>에너지 소비 처리기의 열매 재설정</value>
+  </data>
+  <data name="EnergyResetFruitConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>에너지 재설정 열매를 처리하는 플러그인은 투자된 에너지 포인트를 회수하여 레벨 업 포인트로 반환합니다.</value>
+  </data>
+  <data name="CommandResetFruitConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>명령 소비 처리기의 열매 재설정</value>
+  </data>
+  <data name="CommandResetFruitConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 명령 재설정 결과를 처리하며, 투자된 명령 포인트를 회수하여 레벨 업 포인트로 반환합니다.</value>
+  </data>
+  <data name="ResetFruitConsumeHandlerConfiguration_PointsPerDurability_Name" xml:space="preserve">
+    <value>내구도당 포인트</value>
+  </data>
+  <data name="ResetFruitConsumeHandlerConfiguration_PointsPerDurability_Description" xml:space="preserve">
+    <value>초기화된 과일의 내구도 1개가 회복하는 스텟 포인트 수입니다.</value>
+  </data>
+  <data name="HarmonyJewelConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>하모니 주얼 소비 핸들러</value>
+  </data>
+  <data name="HarmonyJewelConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 조화의 보석 소비를 처리합니다.</value>
+  </data>
+  <data name="HigherRefineStoneConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>상급 제련석 소비 처리자</value>
+  </data>
+  <data name="HigherRefineStoneConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>더 높은 제련석 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="LargeComplexPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>대형 복합 물약 소비 핸들러</value>
+  </data>
+  <data name="LargeComplexPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>대규모 복합 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="LargeHealthPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>대형 체력 물약 소비 처리기</value>
+  </data>
+  <data name="LargeHealthPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 대규모 건강 물약 소비를 처리합니다.</value>
+  </data>
+  <data name="LargeManaPotionConsumeHandler_Name" xml:space="preserve">
+    <value>LargeManaPotionConsumeHandler</value>
+  </data>
+  <data name="LargeManaPotionConsumeHandler_Description" xml:space="preserve">
+    <value>큰 마나 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="LargeShieldPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>대형 방패 물약 소비 처리기</value>
+  </data>
+  <data name="LargeShieldPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>큰 방패 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="LifeJewelConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>생명의 보석 소비 핸들러</value>
+  </data>
+  <data name="LifeJewelConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 생명의 보석 소비를 처리합니다.</value>
+  </data>
+  <data name="LowerRefineStoneConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>하급 제련석 소모 처리기</value>
+  </data>
+  <data name="LowerRefineStoneConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>낮은 제련석 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="MediumComplexPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>중형 복합 물약 소비 핸들러</value>
+  </data>
+  <data name="MediumComplexPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>중간 복합 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="MediumHealthPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>중간 체력 물약 소비 핸들러</value>
+  </data>
+  <data name="MediumHealthPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>중간 체력 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="MediumManaPotionConsumeHandler_Name" xml:space="preserve">
+    <value>MediumManaPotionConsumeHandler</value>
+  </data>
+  <data name="MediumManaPotionConsumeHandler_Description" xml:space="preserve">
+    <value>플러그인은 중간 마나 물약 소비를 처리합니다.</value>
+  </data>
+  <data name="MediumShieldPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>중형 보호막 물약 소비 핸들러</value>
+  </data>
+  <data name="MediumShieldPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 중간 보호막 물약 소비를 처리합니다.</value>
+  </data>
+  <data name="SiegePotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성 물약 소비 처리기</value>
+  </data>
+  <data name="SiegePotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="SmallComplexPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>소형 복합 물약 소비 핸들러</value>
+  </data>
+  <data name="SmallComplexPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>작은 복합 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="SmallHealthPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>소형 체력 물약 소비 핸들러</value>
+  </data>
+  <data name="SmallHealthPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>작은 건강 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="SmallManaPotionConsumeHandler_Name" xml:space="preserve">
+    <value>SmallManaPotionConsumeHandler</value>
+  </data>
+  <data name="SmallManaPotionConsumeHandler_Description" xml:space="preserve">
+    <value>작은 마나 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="SmallShieldPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>소형 방패 물약 소비 처리기</value>
+  </data>
+  <data name="SmallShieldPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>작은 방패 물약 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="SoulJewelConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>영혼 보석 소비 처리기</value>
+  </data>
+  <data name="SoulJewelConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 영혼의 보석 소비를 처리합니다.</value>
+  </data>
+  <data name="SummoningOrbConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>소환 구체 소비 처리기</value>
+  </data>
+  <data name="SummoningOrbConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>소환 구체 소비를 처리하는 플러그인.</value>
+  </data>
+  <data name="SantaVillageInvitationConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>산타마을 소비 핸들러 초대</value>
+  </data>
+  <data name="SantaVillageInvitationConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>플러그인은 플레이어를 산타 마을로 워프시키는 산타 마을 초대를 처리합니다.</value>
+  </data>
+  <data name="SantaVillageInvitationConsumeHandlerConfiguration_MapNumber_Name" xml:space="preserve">
+    <value>지도번호</value>
+  </data>
+  <data name="TownPortalScrollConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>타운 포털 스크롤 소비 핸들러</value>
+  </data>
+  <data name="TownPortalScrollConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>타운 포털 스크롤 소비를 처리하는 플러그인입니다.</value>
+  </data>
+  <data name="ChainLightningSkillPlugIn_Name" xml:space="preserve">
+    <value>체인 라이트닝 스킬</value>
+  </data>
+  <data name="ChainLightningSkillPlugIn_Description" xml:space="preserve">
+    <value>소환술사 클래스의 체인 라이트닝 스킬을 처리합니다. 공격받은 대상에 추가로 최대 2개의 대상을 추가로 공격합니다.</value>
+  </data>
+  <data name="DragonRoarSkillPlugIn_Name" xml:space="preserve">
+    <value>드래곤 포효 스킬</value>
+  </data>
+  <data name="DragonRoarSkillPlugIn_Description" xml:space="preserve">
+    <value>레이지파이터 클래스의 드래곤 포효 스킬을 처리합니다. 공격받은 대상에 추가로 최대 7명의 추가 대상을 공격합니다.</value>
+  </data>
+  <data name="DrainLifeSkillPlugIn_Name" xml:space="preserve">
+    <value>드레인 라이프 스킬</value>
+  </data>
+  <data name="DrainLifeSkillPlugIn_Description" xml:space="preserve">
+    <value>소환술사 클래스의 드레인 라이프 스킬을 처리합니다. 공격받은 대상에 추가로, 데미지를 입힌 만큼 생명력을 회복합니다.</value>
+  </data>
+  <data name="EarthShakeSkillPlugIn_Name" xml:space="preserve">
+    <value>땅을 흔드는 스킬</value>
+  </data>
+  <data name="EarthShakeSkillPlugIn_Description" xml:space="preserve">
+    <value>다크호스의 땅흔들기 스킬을 다룬다. 대상을 공격자로부터 멀리 밀어냅니다.</value>
+  </data>
+  <data name="FireScreamSkillPlugIn_Name" xml:space="preserve">
+    <value>불의 비명 스킬</value>
+  </data>
+  <data name="FireScreamSkillPlugIn_Description" xml:space="preserve">
+    <value>다크로드 클래스의 불 비명 스킬을 처리합니다. 확률에 따라 대상 자체가 원점인 반경 내의 모든 대상에게 추가 데미지(폭발)를 줍니다.</value>
+  </data>
+  <data name="ForceSkillAction_Name" xml:space="preserve">
+    <value>ForceSkillAction</value>
+  </data>
+  <data name="ForceSkillAction_Description" xml:space="preserve">
+    <value>다크로드의 강제 스킬을 처리합니다.</value>
+  </data>
+  <data name="ForceWaveStrengSkillAction_Name" xml:space="preserve">
+    <value>ForceWaveStrengSkillAction</value>
+  </data>
+  <data name="ForceWaveStrengSkillAction_Description" xml:space="preserve">
+    <value>다크로드의 포스 웨이브 강화 스킬을 처리합니다.</value>
+  </data>
+  <data name="NovaSkillStartPlugin_Name" xml:space="preserve">
+    <value>NovaSkillStartPlugin</value>
+  </data>
+  <data name="NovaSkillStartPlugin_Description" xml:space="preserve">
+    <value>마법사 클래스의 노바 스킬 시작을 처리합니다.</value>
+  </data>
+  <data name="NovaSkillStopPlugin_Name" xml:space="preserve">
+    <value>NovaSkillStopPlugin</value>
+  </data>
+  <data name="NovaSkillStopPlugin_Description" xml:space="preserve">
+    <value>마법사 클래스의 노바 스킬 중지를 처리합니다.</value>
+  </data>
+  <data name="PhoenixShotSkillPlugIn_Name" xml:space="preserve">
+    <value>피닉스 샷 스킬</value>
+  </data>
+  <data name="PhoenixShotSkillPlugIn_Description" xml:space="preserve">
+    <value>레이지파이터 클래스의 피닉스 사격 무기 스킬을 처리합니다. 공격받은 대상에 추가로 최대 7명의 추가 대상을 공격합니다.</value>
+  </data>
+  <data name="PollutionSkillPlugIn_Name" xml:space="preserve">
+    <value>오염 스킬</value>
+  </data>
+  <data name="PollutionSkillPlugIn_Description" xml:space="preserve">
+    <value>소환술사 클래스의 오염 스킬(라글 북)을 처리합니다. 확률에 따라 대상을 공격자로부터 2칸 밀어낼 수 있습니다.</value>
+  </data>
+  <data name="RequiemSkillPlugIn_Name" xml:space="preserve">
+    <value>레퀴엠 스킬</value>
+  </data>
+  <data name="RequiemSkillPlugIn_Description" xml:space="preserve">
+    <value>소환술사 클래스의 레퀴엠 스킬(닐의 책)을 처리합니다. 확률에 따라 대상을 기절시킬 수 있습니다.</value>
+  </data>
+  <data name="SoulBarrierProficieSkillAction_Name" xml:space="preserve">
+    <value>SoulBarrierProficieSkillAction</value>
+  </data>
+  <data name="SoulBarrierProficieSkillAction_Description" xml:space="preserve">
+    <value>그랜드마스터의 소울 바리어 숙련도 스킬을 처리합니다.</value>
+  </data>
+  <data name="SoulBarrierStrengSkillAction_Name" xml:space="preserve">
+    <value>SoulBarrierStrengSkillAction</value>
+  </data>
+  <data name="SoulBarrierStrengSkillAction_Description" xml:space="preserve">
+    <value>그랜드마스터의 소울 바리어 강화 스킬을 처리합니다.</value>
+  </data>
+  <data name="SummonPartySkillPlugin_Name" xml:space="preserve">
+    <value>SummonPartySkillPlugin</value>
+  </data>
+  <data name="SummonPartySkillPlugin_Description" xml:space="preserve">
+    <value>다크로드 클래스의 파티 소환 스킬을 처리합니다.</value>
+  </data>
+  <data name="TwistingSlashMasterySkillPlugIn_Name" xml:space="preserve">
+    <value>TwistingSlashMasterySkillPlugIn</value>
+  </data>
+  <data name="TwistingSlashMasterySkillPlugIn_Description" xml:space="preserve">
+    <value>흑기사 클래스의 회오리 베기 마스터리 스킬을 처리합니다. 확률에 따라 대상을 공격자로부터 2칸 밀어낼 수 있습니다.</value>
+  </data>
+  <data name="AddAgilityStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>민첩성 채팅 명령 추가</value>
+  </data>
+  <data name="AddAgilityStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>지정된 양의 민첩성 포인트를 캐릭터에 추가합니다.</value>
+  </data>
+  <data name="AddCommandStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>명령어 채팅 명령어 추가</value>
+  </data>
+  <data name="AddCommandStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>지정된 양의 명령 포인트를 캐릭터에 추가합니다.</value>
+  </data>
+  <data name="AddEnergyStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>에너지 채팅 명령 추가</value>
+  </data>
+  <data name="AddEnergyStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>지정된 양의 에너지 포인트를 캐릭터에 추가합니다.</value>
+  </data>
+  <data name="AddStrengthStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>강인한 채팅 명령어 추가</value>
+  </data>
+  <data name="AddStrengthStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>캐릭터에 지정된 양의 힘 포인트를 추가합니다.</value>
+  </data>
+  <data name="AddVitalityStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>체력 채팅 명령 추가</value>
+  </data>
+  <data name="AddVitalityStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>캐릭터에 지정된 양의 체력 포인트를 추가합니다.</value>
+  </data>
+  <data name="BanAccChatCommandPlugIn_Name" xml:space="preserve">
+    <value>계정 금지 명령</value>
+  </data>
+  <data name="BanAccChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/banacc &lt;acc&gt;'을 처리합니다. 게임에서 계정을 금지합니다.</value>
+  </data>
+  <data name="BanCharChatCommandPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 금지 명령</value>
+  </data>
+  <data name="BanCharChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/banchar &lt;char&gt;'을 처리합니다. 해당 캐릭터의 계정을 게임에서 차단합니다.</value>
+  </data>
+  <data name="ChangeLanguageChatCommandPlugIn_Name" xml:space="preserve">
+    <value>언어 명령 변경</value>
+  </data>
+  <data name="ChangeLanguageChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/language &lt;isoCode&gt;'을 처리합니다. 계정의 언어를 변경합니다.</value>
+  </data>
+  <data name="CharInfoChatCommandPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 정보 조회 명령</value>
+  </data>
+  <data name="CharInfoChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/charinfo &lt;char&gt;'을 처리합니다. 캐릭터에 대한 정보를 요청자에게 다시 반환합니다.</value>
+  </data>
+  <data name="ChatBanCharChatCommandPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 채팅 차단 명령</value>
+  </data>
+  <data name="ChatBanCharChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/chatban &lt;characterName&gt; &lt;durationMinutes&gt;'을 처리합니다. 지정된 시간 동안 캐릭터의 계정 채팅을 금지합니다.</value>
+  </data>
+  <data name="ChatUnbanCharChatCommandPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 채팅 차단 해제 명령</value>
+  </data>
+  <data name="ChatUnbanCharChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/chatunban &lt;characterName&gt;'을 처리합니다. 캐릭터의 계정 채팅 금지를 해제합니다.</value>
+  </data>
+  <data name="CreateMonsterChatCommand_Name" xml:space="preserve">
+    <value>몬스터 채팅 명령어 생성</value>
+  </data>
+  <data name="CreateMonsterChatCommand_Description" xml:space="preserve">
+    <value>채팅 명령 '/createmonster &lt;number&gt; &lt;intelligent&gt;'을 처리합니다. GM이 원격 조종할 수 있는 몬스터를 생성합니다.</value>
+  </data>
+  <data name="DisconnectChatCommandPlugIn_Name" xml:space="preserve">
+    <value>채팅 연결 끊기 명령</value>
+  </data>
+  <data name="DisconnectChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/disconnect &lt;char&gt;'을 처리합니다. 게임 서버에서 플레이어의 연결을 끊습니다.</value>
+  </data>
+  <data name="GuildBattleSoccerChatCommandPlugIn_Name" xml:space="preserve">
+    <value>길드전 축구 채팅 명령어</value>
+  </data>
+  <data name="GuildBattleSoccerChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/battlesoccer &lt;guildname&gt;'을 처리합니다. 요청한 길드의 길드마스터에게 요청을 보냅니다.</value>
+  </data>
+  <data name="GuildDisconnectChatCommandPlugIn_Name" xml:space="preserve">
+    <value>길드 채팅 종료 명령</value>
+  </data>
+  <data name="GuildDisconnectChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/guilddisconnect &lt;guild&gt;'을 처리합니다. 길드원 연결을 끊습니다.</value>
+  </data>
+  <data name="GuildMoveChatCommandPlugIn_Name" xml:space="preserve">
+    <value>길드 이동 채팅 명령어</value>
+  </data>
+  <data name="GuildMoveChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/guildmove &lt;guild&gt; &lt;map&gt; &lt;x?&gt; &lt;y?&gt;'를 처리합니다. 길드의 캐릭터를 지정된 지도와 좌표로 이동합니다.</value>
+  </data>
+  <data name="GuildWarChatCommandPlugIn_Name" xml:space="preserve">
+    <value>길드전 채팅 명령어</value>
+  </data>
+  <data name="GuildWarChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/war &lt;guild&gt;'을 처리합니다. 요청한 길드의 길드마스터에게 요청을 보냅니다.</value>
+  </data>
+  <data name="HelpCommand_Name" xml:space="preserve">
+    <value>도움말 명령</value>
+  </data>
+  <data name="HelpCommand_Description" xml:space="preserve">
+    <value>/help &lt;command&gt; 채팅 명령을 처리합니다. 요청한 명령에 대한 정보를 표시합니다.</value>
+  </data>
+  <data name="HideChatCommandPlugIn_Name" xml:space="preserve">
+    <value>숨기기 명령</value>
+  </data>
+  <data name="HideChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/hide'을 처리합니다. 다른 플레이어로부터 자신의 플레이어를 숨깁니다.</value>
+  </data>
+  <data name="ItemChatCommandPlugIn_Name" xml:space="preserve">
+    <value>아이템 채팅 명령어</value>
+  </data>
+  <data name="ItemChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/item &lt;group&gt; &lt;number&gt; &lt;lvl?&gt; &lt;exc?&gt; &lt;sk?&gt; &lt;lu?&gt; &lt;opt?&gt; &lt;anc?&gt; &lt;ancBonuslvl?&gt;'을 처리합니다. 캐릭터 옆에 특정 아이템을 드롭합니다.</value>
+  </data>
+  <data name="KillAllMonstersChatCommandPlugIn_Name" xml:space="preserve">
+    <value>모든 몬스터 처치 채팅 명령</value>
+  </data>
+  <data name="KillAllMonstersChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/killall'을 처리합니다. 현재 지도의 모든 몬스터를(를) 죽입니다.</value>
+  </data>
+  <data name="ListCommand_Name" xml:space="preserve">
+    <value>목록 명령</value>
+  </data>
+  <data name="ListCommand_Description" xml:space="preserve">
+    <value>모든 명령을 나열합니다.</value>
+  </data>
+  <data name="MoveChatCommandPlugIn_Name" xml:space="preserve">
+    <value>채팅 이동 명령</value>
+  </data>
+  <data name="MoveChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/move &lt;target&gt; &lt;mapIdOrName?&gt; &lt;x?&gt; &lt;y?&gt;'를 처리합니다. 캐릭터를 지정된 목적지로 이동시킵니다.</value>
+  </data>
+  <data name="MoveMonsterChatCommand_Name" xml:space="preserve">
+    <value>원격 몬스터 채팅 명령 이동</value>
+  </data>
+  <data name="MoveMonsterChatCommand_Description" xml:space="preserve">
+    <value>채팅 명령 '/movemonster &lt;id&gt; &lt;x&gt; &lt;y&gt;'을 처리합니다. GM이 원격 조종할 수 있는 이전에 생성된 몬스터를 이동시킵니다.</value>
+  </data>
+  <data name="NoticeChatCommandPlugIn_Name" xml:space="preserve">
+    <value>알림 채팅 명령</value>
+  </data>
+  <data name="NoticeChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/goldnotice 메시지'를 처리합니다. 게임의 모든 플레이어에게 글로벌 골든 알림 메시지를 보냅니다.</value>
+  </data>
+  <data name="SlideNoticeChatCommandPlugIn_Name" xml:space="preserve">
+    <value>슬라이드 공지사항 채팅 명령어</value>
+  </data>
+  <data name="SlideNoticeChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/slidenotice 메시지'를 처리합니다. 화면 상단을 스크롤하는 게임의 모든 플레이어에게 전역 알림을 보냅니다.</value>
+  </data>
+  <data name="NpcChatCommandPlugIn_Name" xml:space="preserve">
+    <value>NPC 오픈 상인 채팅 명령</value>
+  </data>
+  <data name="NpcChatCommandPlugIn_Description" xml:space="preserve">
+    <value>상인 NPC 상점을 엽니다.</value>
+  </data>
+  <data name="OnlineChatCommandPlugIn_Name" xml:space="preserve">
+    <value>온라인 채팅 명령</value>
+  </data>
+  <data name="OnlineChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/online'을 처리합니다. 게임 마스터와 온라인 플레이어의 수를 가져옵니다.</value>
+  </data>
+  <data name="OpenWarehouseChatCommandPlugIn_Name" xml:space="preserve">
+    <value>Open Warehouse 채팅 명령</value>
+  </data>
+  <data name="OpenWarehouseChatCommandPlugIn_Description" xml:space="preserve">
+    <value>창고를 엽니다.</value>
+  </data>
+  <data name="PkChatCommandPlugIn_Name" xml:space="preserve">
+    <value>PK 채팅 명령</value>
+  </data>
+  <data name="PkChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/pk &lt;char&gt; &lt;pk_lvl&gt; &lt;pk_count&gt;'를 처리합니다. 플레이어 킬 레벨과 캐릭터 수를 설정합니다.</value>
+  </data>
+  <data name="PkClearChatCommandPlugIn_Name" xml:space="preserve">
+    <value>PK 채팅 지우기 명령</value>
+  </data>
+  <data name="PkClearChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/pkclear &lt;char&gt;'을 처리합니다. 플레이어 킬 횟수를 지웁니다.</value>
+  </data>
+  <data name="PostChatCommandPlugIn_Name" xml:space="preserve">
+    <value>채팅 게시 명령</value>
+  </data>
+  <data name="PostChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/post 메시지'를 처리합니다. 게임의 모든 플레이어에게 글로벌 블루 시스템 메시지를 보냅니다.</value>
+  </data>
+  <data name="RemoveNpcChatCommand_Name" xml:space="preserve">
+    <value>NPC 채팅 명령 제거</value>
+  </data>
+  <data name="RemoveNpcChatCommand_Description" xml:space="preserve">
+    <value>채팅 명령 '/removenpc &lt;id&gt;'을 처리합니다.</value>
+  </data>
+  <data name="ShowFireworksEffectChatCommandPlugIn_Name" xml:space="preserve">
+    <value>불꽃놀이 효과 채팅 명령 표시</value>
+  </data>
+  <data name="ShowFireworksEffectChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/fireworks &lt;x&gt; &lt;y&gt;'을 처리합니다. 지정된 좌표에 불꽃놀이 효과를 표시합니다.</value>
+  </data>
+  <data name="ShowXmasFireworksEffectChatCommandPlugIn_Name" xml:space="preserve">
+    <value>크리스마스 불꽃놀이 효과 채팅 명령 표시</value>
+  </data>
+  <data name="ShowXmasFireworksEffectChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/xmasfireworks &lt;x&gt; &lt;y&gt;'을 처리합니다. 지정된 좌표에 크리스마스 불꽃놀이 효과를 표시합니다.</value>
+  </data>
+  <data name="SkinChatCommandPlugIn_Name" xml:space="preserve">
+    <value>스킨채팅 명령어</value>
+  </data>
+  <data name="SkinChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/skin &lt;number&gt;'을 처리합니다. 게임 마스터 캐릭터에 몬스터 스킨을 적용합니다.</value>
+  </data>
+  <data name="SkipMiniGameWaitChatCommandPlugIn_Name" xml:space="preserve">
+    <value>미니게임 건너뛰기 채팅 대기 명령</value>
+  </data>
+  <data name="SkipMiniGameWaitChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/skipwait'을 처리합니다. 미니게임 이벤트의 현재 대기 단계(입장, 카운트다운, 대기)를 건너뜁니다. 건너뛴 대기는 완료된 것으로 계산됩니다.</value>
+  </data>
+  <data name="StartBloodCastleEventChatCommandPlugIn_Name" xml:space="preserve">
+    <value>블러드 캐슬 이벤트 채팅 명령 시작</value>
+  </data>
+  <data name="StartBloodCastleEventChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/startbc'을 처리합니다. 가능한 다음 시간에 블러드 캐슬 이벤트를 시작합니다.</value>
+  </data>
+  <data name="StartChaosCastleEventChatCommandPlugIn_Name" xml:space="preserve">
+    <value>카오스 캐슬 이벤트 채팅 명령 시작</value>
+  </data>
+  <data name="StartChaosCastleEventChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/startcc'을 처리합니다. 가능한 다음 시간에 카오스 캐슬 이벤트를 시작합니다.</value>
+  </data>
+  <data name="StartIllusionTempleEventChatCommandPlugIn_Name" xml:space="preserve">
+    <value>환영의 사원 이벤트 채팅 명령 시작</value>
+  </data>
+  <data name="StartIllusionTempleEventChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/startit'을 처리합니다. 가능한 다음 시간에 환영의 사원 이벤트를 시작합니다.</value>
+  </data>
+  <data name="StartDevilSquareEventChatCommandPlugIn_Name" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트 채팅 명령 시작</value>
+  </data>
+  <data name="StartDevilSquareEventChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/startds'을 처리합니다. 가능한 다음 시간에 데빌 스퀘어 이벤트를 시작합니다.</value>
+  </data>
+  <data name="StartKanturuEventChatCommandPlugIn_Name" xml:space="preserve">
+    <value>칸투르 이벤트 채팅 명령 시작</value>
+  </data>
+  <data name="StartKanturuEventChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/startkanturu'을 처리합니다. 가능한 다음 시간에 칸투르 이벤트를 시작합니다.</value>
+  </data>
+  <data name="TeleportChatCommandPlugIn_Name" xml:space="preserve">
+    <value>텔레포트 채팅 명령</value>
+  </data>
+  <data name="TeleportChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/teleport &lt;x&gt; &lt;y&gt;'을 처리합니다. 게임 마스터를 지정된 좌표로 순간 이동합니다.</value>
+  </data>
+  <data name="TraceChatCommandPlugIn_Name" xml:space="preserve">
+    <value>추적 채팅 명령</value>
+  </data>
+  <data name="TraceChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/trace &lt;char&gt;'을 처리합니다. 게임 마스터를 캐릭터의 위치로 이동시킵니다.</value>
+  </data>
+  <data name="TrackChatCommandPlugIn_Name" xml:space="preserve">
+    <value>채팅 명령 추적</value>
+  </data>
+  <data name="TrackChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/track &lt;char&gt;'을 처리합니다. 플레이어를 게임 마스터 위치로 이동합니다.</value>
+  </data>
+  <data name="UnBanAccChatCommandPlugIn_Name" xml:space="preserve">
+    <value>계정 금지 해제 명령</value>
+  </data>
+  <data name="UnBanAccChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/unbanacc &lt;acc&gt;'을 처리합니다. 게임에서 계정 금지를 해제합니다.</value>
+  </data>
+  <data name="UnBanCharChatCommandPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 금지 해제 명령</value>
+  </data>
+  <data name="UnBanCharChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/unbanchar &lt;char&gt;'을 처리합니다. 게임에서 캐릭터의 계정을 금지 해제합니다.</value>
+  </data>
+  <data name="UnHideChatCommandPlugIn_Name" xml:space="preserve">
+    <value>숨기기 명령</value>
+  </data>
+  <data name="UnHideChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/unhide'을 처리합니다. 자신의 플레이어를 다른 플레이어로부터 숨김 해제합니다.</value>
+  </data>
+  <data name="WalkMonsterChatCommand_Name" xml:space="preserve">
+    <value>원격 몬스터 채팅 명령 걷기</value>
+  </data>
+  <data name="WalkMonsterChatCommand_Description" xml:space="preserve">
+    <value>채팅 명령 '/walkmonster &lt;id&gt; &lt;x&gt; &lt;y&gt;'을 처리합니다. GM이 원격 조종할 수 있는 이전에 생성된 몬스터를 걷는다.</value>
+  </data>
+  <data name="GoldenInvasionPlugIn_Name" xml:space="preserve">
+    <value>황금 몬스터 침공</value>
+  </data>
+  <data name="GoldenInvasionPlugIn_Description" xml:space="preserve">
+    <value>황금 몬스터 침공 이벤트 처리</value>
+  </data>
+  <data name="RedDragonInvasionPlugIn_Name" xml:space="preserve">
+    <value>레드 드래곤 침공</value>
+  </data>
+  <data name="RedDragonInvasionPlugIn_Description" xml:space="preserve">
+    <value>레드 드래곤 침공 이벤트 처리</value>
+  </data>
+    <data name="DurabilityDecayPlugIn_Name" xml:space="preserve">
+    <value>내구성 저하</value>
+  </data>
+  <data name="DurabilityDecayPlugIn_Description" xml:space="preserve">
+    <value>시간이 감소하는 아이템의 내구성을 업데이트합니다.</value>
+  </data>
+  <data name="HappyHourPlugIn_Name" xml:space="preserve">
+    <value>해피 아워</value>
+  </data>
+  <data name="HappyHourPlugIn_Description" xml:space="preserve">
+    <value>해피 아워 이벤트 처리</value>
+  </data>
+  <data name="UnlockDarkLordAtLevel250_Name" xml:space="preserve">
+    <value>UnlockDarkLordAtLevel250</value>
+  </data>
+  <data name="UnlockDarkLordAtLevel250_Description" xml:space="preserve">
+    <value>계정의 첫 번째 캐릭터가 레벨 250에 도달하자마자 다크로드 캐릭터 클래스가 잠금 해제됩니다.</value>
+  </data>
+  <data name="UnlockMagicGladiatorAtLevel220_Name" xml:space="preserve">
+    <value>UnlockMagicGladiatorAtLevel220</value>
+  </data>
+  <data name="UnlockMagicGladiatorAtLevel220_Description" xml:space="preserve">
+    <value>계정의 첫 번째 캐릭터가 레벨 220에 도달하자마자 마검사 캐릭터 클래스가 잠금 해제됩니다.</value>
+  </data>
+  <data name="UnlockRageFighterAtLevel150_Name" xml:space="preserve">
+    <value>UnlockRageFighterAtLevel150</value>
+  </data>
+  <data name="UnlockRageFighterAtLevel150_Description" xml:space="preserve">
+    <value>계정의 첫 번째 캐릭터가 레벨 150에 도달하자마자 레이지파이터 캐릭터 클래스가 잠금 해제됩니다.</value>
+  </data>
+  <data name="UnlockSummonerAtLevel1_Name" xml:space="preserve">
+    <value>UnlockSummonerAtLevel1</value>
+  </data>
+  <data name="UnlockSummonerAtLevel1_Description" xml:space="preserve">
+    <value>계정의 첫 번째 캐릭터가 레벨 1에 도달하자마자 소환술사 캐릭터 클래스를 잠금 해제합니다.</value>
+  </data>
+  <data name="WanderingMerchantsPlugIn_Name" xml:space="preserve">
+    <value>떠돌이 상인</value>
+  </data>
+  <data name="WanderingMerchantsPlugIn_Description" xml:space="preserve">
+    <value>이 플러그인은 떠돌이 상인을 생성하고 이동시킵니다.</value>
+  </data>
+  <data name="PlayerLosesMoneyAfterDeathPlugIn_Name" xml:space="preserve">
+    <value>플레이어 사망 후 돈 손실</value>
+  </data>
+  <data name="PlayerLosesMoneyAfterDeathPlugIn_Description" xml:space="preserve">
+    <value>이 플러그인은 플레이어가 몬스터에 의해 살해된 후 돈(젠)을 줄입니다.</value>
+  </data>
+  <data name="LearnablesConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>학습 가능한 항목 소비 처리기</value>
+  </data>
+  <data name="LearnablesConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>스킬을 추가하는 아이템(예: 주문서, 구슬)의 사용을 처리하는 플러그인입니다.</value>
+  </data>
+  <data name="TargetedSkillDefaultPlugin_Name" xml:space="preserve">
+    <value>TargetedSkillDefaultPlugin</value>
+  </data>
+  <data name="TargetedSkillDefaultPlugin_Description" xml:space="preserve">
+    <value>대상 스킬에 대한 기본(포괄) 처리기</value>
+  </data>
+  <data name="AddStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>통계 채팅 명령 추가</value>
+  </data>
+  <data name="AddStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/add (ene|agi|vit|str|cmd) (금액)'을 처리합니다. 캐릭터의 지정된 속성에 지정된 양의 스텟 포인트를 추가합니다.</value>
+  </data>
+  <data name="ClearInventoryChatCommandPlugIn_Name" xml:space="preserve">
+    <value>인벤토리 지우기 채팅 명령</value>
+  </data>
+  <data name="ClearInventoryChatCommandPlugIn_Description" xml:space="preserve">
+    <value>인벤토리를 정리합니다. 사용법: /clearinv (선택사항:캐릭터)</value>
+  </data>
+  <data name="GetLevelChatCommandPlugIn_Name" xml:space="preserve">
+    <value>레벨 명령 받기</value>
+  </data>
+  <data name="GetLevelChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 레벨을 가져옵니다. 사용법: /getlevel (선택사항:캐릭터)</value>
+  </data>
+  <data name="GetLevelUpPointsChatCommandPlugIn_Name" xml:space="preserve">
+    <value>레벨 업 포인트 얻기 명령</value>
+  </data>
+  <data name="GetLevelUpPointsChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 레벨업 포인트를 얻습니다. 사용법: /getleveluppoints (선택사항:캐릭터)</value>
+  </data>
+  <data name="GetMasterLevelChatCommandPlugIn_Name" xml:space="preserve">
+    <value>마스터 레벨 명령 받기</value>
+  </data>
+  <data name="GetMasterLevelChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 마스터 레벨을 가져옵니다. 사용법: /getmasterlevel (선택사항:캐릭터)</value>
+  </data>
+  <data name="GetMasterLevelUpPointsChatCommandPlugIn_Name" xml:space="preserve">
+    <value>마스터 레벨 업 포인트 얻기 명령</value>
+  </data>
+  <data name="GetMasterLevelUpPointsChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 마스터 레벨 업 포인트를 얻습니다. 사용법: /getmasterleveluppoints (선택사항:캐릭터)</value>
+  </data>
+  <data name="GetMoneyChatCommandPlugIn_Name" xml:space="preserve">
+    <value>돈 받기 명령</value>
+  </data>
+  <data name="GetMoneyChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 돈을 받습니다. 사용법: /getmoney (선택사항:캐릭터)</value>
+  </data>
+  <data name="GetResetsChatCommandPlugIn_Name" xml:space="preserve">
+    <value>재설정 명령 받기</value>
+  </data>
+  <data name="GetResetsChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 재설정을 가져옵니다. 사용법: /getresets (선택사항:캐릭터)</value>
+  </data>
+  <data name="GetStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>통계 채팅 명령 받기</value>
+  </data>
+  <data name="GetStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>스텟 포인트를 획득하세요. 사용법: /get (ene|agi|vit|str|cmd) (선택 사항: 캐릭터)</value>
+  </data>
+  <data name="SetLevelChatCommandPlugIn_Name" xml:space="preserve">
+    <value>레벨 설정 명령</value>
+  </data>
+  <data name="SetLevelChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 레벨을 설정합니다. 사용법: /setlevel(레벨) (선택사항:캐릭터)</value>
+  </data>
+  <data name="SetLevelUpPointsChatCommandPlugIn_Name" xml:space="preserve">
+    <value>레벨업 포인트 설정 명령</value>
+  </data>
+  <data name="SetLevelUpPointsChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 레벨업 포인트를 설정합니다. 사용법: /setleveluppoints (포인트) (선택사항:캐릭터)</value>
+  </data>
+  <data name="SetMasterLevelChatCommandPlugIn_Name" xml:space="preserve">
+    <value>마스터 레벨 명령 설정</value>
+  </data>
+  <data name="SetMasterLevelChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 마스터 레벨을 설정합니다. 사용법: /setmasterlevel(레벨) (선택사항:캐릭터)</value>
+  </data>
+  <data name="SetMasterLevelUpPointsChatCommandPlugIn_Name" xml:space="preserve">
+    <value>마스터 레벨 업 포인트 설정 명령</value>
+  </data>
+  <data name="SetMasterLevelUpPointsChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 마스터 레벨 업 포인트를 설정합니다. 사용법: /setmasterleveluppoints (포인트) (선택사항:캐릭터)</value>
+  </data>
+  <data name="SetMoneyChatCommandPlugIn_Name" xml:space="preserve">
+    <value>돈 명령 설정</value>
+  </data>
+  <data name="SetMoneyChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 돈을 설정합니다. 사용법: /setmoney (금액) (선택사항: 캐릭터)</value>
+  </data>
+  <data name="SetResetsChatCommandPlugIn_Name" xml:space="preserve">
+    <value>재설정 명령 설정</value>
+  </data>
+  <data name="SetResetsChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 재설정을 설정합니다. 사용법: /setresets (재설정) (선택 사항: 캐릭터)</value>
+  </data>
+  <data name="SetStatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>통계 채팅 명령 설정</value>
+  </data>
+  <data name="SetStatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>스텟 포인트를 설정합니다. 사용법: /set (ene|agi|vit|str|cmd) (금액) (선택 사항: 캐릭터)</value>
+  </data>
+  <data name="UpgradeItemLevelConfiguration_SuccessRatePercentage_Name" xml:space="preserve">
+      <value>성공률 %</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_SuccessRatePercentage_Description" xml:space="preserve">
+      <value>아이템 레벨 업그레이드 성공률입니다.</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_SuccessRateBonusWithLuckPercentage_Name" xml:space="preserve">
+      <value>성공률 행운 보너스 %</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_SuccessRateBonusWithLuckPercentage_Description" xml:space="preserve">
+      <value>아이템에 행운 옵션이 있을 경우 추가 성공률입니다.</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_MinimumLevel_Name" xml:space="preserve">
+      <value>아이템 최소 레벨</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_MinimumLevel_Description" xml:space="preserve">
+      <value>보석을 적용하기 전 해당 아이템이 갖춰야 할 최소 아이템 레벨입니다.</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_MaximumLevel_Name" xml:space="preserve">
+      <value>아이템 최대 레벨</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_MaximumLevel_Description" xml:space="preserve">
+      <value>보석을 적용하기 전 아이템이 갖춰야 할 최대 아이템 레벨입니다.</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_LevelAmount_Name" xml:space="preserve">
+      <value>레벨 금액 추가</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_LevelAmount_Description" xml:space="preserve">
+      <value>아이템에 레벨을 추가하는 횟수입니다(최대 허용 레벨이 됩니다).</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_ResetToLevel0WhenFailMinLevel_Name" xml:space="preserve">
+      <value>0분에 실패합니다. 레벨</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_ResetToLevel0WhenFailMinLevel_Description" xml:space="preserve">
+      <value>아이템 레벨이 지나면 아이템이 실패할 때 레벨 0으로 떨어지게 됩니다.</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_AllowedItems_Name" xml:space="preserve">
+      <value>허용되는 아이템</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_AllowedItems_Description" xml:space="preserve">
+      <value>업그레이드가 허용되는 아이템을 정의합니다. 비어 있으면 '허용되지 않는 아이템'에 있는 아이템을 제외한 모든 아이템이 허용됩니다.</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_DisallowedItems_Name" xml:space="preserve">
+      <value>허용되지 않는 아이템</value>
+    </data>
+  <data name="UpgradeItemLevelConfiguration_DisallowedItems_Description" xml:space="preserve">
+      <value>업그레이드가 허용되지 않는 아이템을 정의합니다.</value>
+    </data>
+  <data name="ClearInventoryConfiguration_MoneyCost_Name" xml:space="preserve">
+    <value>돈 비용</value>
+  </data>
+  <data name="ClearInventoryConfiguration_MoneyCost_Description" xml:space="preserve">
+    <value>인벤토리를 정리하는 데 드는 비용입니다(GM 제외). 기본값: 0.</value>
+  </data>
+  <data name="ClearInventoryConfiguration_RequireConfirmation_Name" xml:space="preserve">
+    <value>확인 필요</value>
+  </data>
+  <data name="ClearInventoryConfiguration_RequireConfirmation_Description" xml:space="preserve">
+    <value>true인 경우 플레이어는 인벤토리 정리를 확인하기 위해 10초 이내에 명령을 다시 실행해야 합니다(GM 제외).</value>
+  </data>
+  <data name="ClearInventoryConfiguration_ConfirmationMessage_Name" xml:space="preserve">
+    <value>확인 메시지</value>
+  </data>
+  <data name="ClearInventoryConfiguration_ConfirmationMessage_Description" xml:space="preserve">
+    <value>플레이어가 인벤토리 정리를 확인하기 위해 10초 이내에 명령을 다시 실행해야 할 때 표시되는 메시지입니다.</value>
+  </data>
+  <data name="ClearInventoryConfiguration_NotEnoughMoneyMessage_Name" xml:space="preserve">
+    <value>돈이 충분하지 않다는 메시지</value>
+  </data>
+  <data name="ClearInventoryConfiguration_NotEnoughMoneyMessage_Description" xml:space="preserve">
+    <value>플레이어에게 명령을 실행하기에 충분한 돈이 없을 때 표시되는 메시지입니다.</value>
+  </data>
+  <data name="ClearInventoryConfiguration_InventoryClearedMessage_Name" xml:space="preserve">
+    <value>인벤토리 정리 메시지</value>
+  </data>
+  <data name="ClearInventoryConfiguration_InventoryClearedMessage_Description" xml:space="preserve">
+    <value>인벤토리가 소진되었을 때 표시되는 메시지입니다.</value>
+  </data>
+  <data name="NpcChatCommandConfiguration_OpenMerchantNpc_Name" xml:space="preserve">
+    <value>NPC ID</value>
+  </data>
+  <data name="NpcChatCommandConfiguration_OpenMerchantNpc_Description" xml:space="preserve">
+    <value>상인 상점을 오픈하기 위한 NPC의 ID입니다. 기본값: Potion Girl Amy - 253.</value>
+  </data>
+  <data name="NpcChatCommandConfiguration_MinimumVipLevel_Name" xml:space="preserve">
+    <value>최소 VIP 레벨</value>
+  </data>
+  <data name="NpcChatCommandConfiguration_MinimumVipLevel_Description" xml:space="preserve">
+    <value>명령어를 사용하기 위한 최소 VIP 레벨입니다. 기본값: 0.</value>
+  </data>
+  <data name="NpcChatCommandConfiguration_InsufficientVipLevelMessage_Name" xml:space="preserve">
+    <value>VIP 레벨이 부족하다는 메시지</value>
+  </data>
+  <data name="NpcChatCommandConfiguration_InsufficientVipLevelMessage_Description" xml:space="preserve">
+    <value>플레이어가 이 명령에 필요한 VIP 레벨을 보유하지 않은 경우 표시되는 메시지입니다(GM 제외).</value>
+  </data>
+  <data name="OpenWarehouseChatCommandConfiguration_MinimumVipLevel_Name" xml:space="preserve">
+    <value>최소 VIP 레벨</value>
+  </data>
+  <data name="OpenWarehouseChatCommandConfiguration_MinimumVipLevel_Description" xml:space="preserve">
+    <value>명령어를 사용할 수 있는 최소 VIP 레벨입니다. (GM 제외) 기본값: 0.</value>
+  </data>
+  <data name="OpenWarehouseChatCommandConfiguration_InsufficientVipLevelMessage_Name" xml:space="preserve">
+    <value>VIP 레벨이 부족하다는 메시지</value>
+  </data>
+  <data name="OpenWarehouseChatCommandConfiguration_InsufficientVipLevelMessage_Description" xml:space="preserve">
+    <value>플레이어가 이 명령에 필요한 VIP 레벨을 보유하지 않은 경우 표시되는 메시지입니다(GM 제외).</value>
+  </data>
+  <data name="ShowNpcIdsChatCommand_ShowNpcIdsChatCommand_Name" xml:space="preserve">
+    <value>NPC ID 채팅 명령 표시</value>
+  </data>
+  <data name="ShowNpcIdsChatCommand_ShowNpcIdsChatCommand_Description" xml:space="preserve">
+    <value>채팅 명령 '/showids'을 처리합니다.</value>
+  </data>
+  <data name="MuHelperConfiguration_CostPerStage_Name" xml:space="preserve">
+    <value>단계당 비용</value>
+  </data>
+  <data name="MuHelperConfiguration_CostPerStage_Description" xml:space="preserve">
+    <value>이 값은 지급 간격별로 적용되며 전체 캐릭터 레벨에 곱해집니다.</value>
+  </data>
+  <data name="MuHelperConfiguration_PayInterval_Name" xml:space="preserve">
+    <value>지불 간격</value>
+  </data>
+  <data name="MuHelperConfiguration_StageInterval_Name" xml:space="preserve">
+    <value>단계간격</value>
+  </data>
+  <data name="MuHelperConfiguration_StageInterval_Description" xml:space="preserve">
+    <value>각 간격이 지나면 일반적으로 비용이 증가하면서 단계가 다음 단계로 올라갑니다.</value>
+  </data>
+  <data name="MuHelperConfiguration_MinLevel_Name" xml:space="preserve">
+    <value>최소 캐릭터 레벨</value>
+  </data>
+  <data name="MuHelperConfiguration_MaxLevel_Name" xml:space="preserve">
+    <value>최대 캐릭터 레벨</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_TotalRecoverPercentage_Name" xml:space="preserve">
+    <value>총 회수율</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_RecoverPercentageIncreaseByPotionLevel_Name" xml:space="preserve">
+    <value>포션 레벨에 따른 회복률 증가</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_RecoverDelayReductionByPotionLevel_Name" xml:space="preserve">
+    <value>포션 레벨에 따른 지연 감소 회복</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_RecoverDelayReductionByPotionLevel_Description" xml:space="preserve">
+    <value>0과 1 사이의 값(제외)입니다. 1은 레벨 1부터 복구가 즉시 작동함을 의미합니다.</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_AdditionalRecoverMinusCharacterLevel_Name" xml:space="preserve">
+    <value>캐릭터 레벨을 제외한 추가 회복</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_AdditionalRecoverMinusCharacterLevel_Description" xml:space="preserve">
+    <value>추가로 복구되는 값을 정의합니다. 이 값에서 캐릭터 레벨이 차감됩니다.</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_CooldownTime_Name" xml:space="preserve">
+    <value>쿨타임</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_CooldownTime_Description" xml:space="preserve">
+    <value>다음 소비까지의 쿨타임입니다.</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_RecoverSteps_Name" xml:space="preserve">
+    <value>최대 캐릭터 레벨</value>
+  </data>
+  <data name="RecoverConsumeHandlerConfiguration_RecoverSteps_Description" xml:space="preserve">
+    <value>정의된 항목이 없으면 복구가 즉시 수행됩니다.</value>
+  </data>
+  <data name="SelfDefensePlugInConfiguration_SelfDefenseTimeOut_Name" xml:space="preserve">
+    <value>자기방어 타임아웃.</value>
+  </data>
+  <data name="QuestMonsterKillCountPlugInConfiguration_Message_Name" xml:space="preserve">
+    <value>메시지</value>
+  </data>
+  <data name="PlayerLosesMoneyAfterDeathPlugInConfiguration_LossesPerLevel_Name" xml:space="preserve">
+    <value>레벨당 손실</value>
+  </data>
+  <data name="PlayerLosesMoneyAfterDeathPlugInConfiguration_MinimumLevel_Name" xml:space="preserve">
+    <value>최소 레벨</value>
+  </data>
+  <data name="PlayerLosesMoneyAfterDeathPlugInConfiguration_IsMaster_Name" xml:space="preserve">
+    <value>마스터인가</value>
+  </data>
+  <data name="PlayerLosesMoneyAfterDeathPlugInConfiguration_InventoryMoneyLossPercentage_Name" xml:space="preserve">
+    <value>인벤토리 금전 손실 %</value>
+  </data>
+  <data name="PlayerLosesMoneyAfterDeathPlugInConfiguration_VaultMoneyLossPercentage_Name" xml:space="preserve">
+    <value>금고 자금 손실 %</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugInConfiguration_LossesPerLevel_Name" xml:space="preserve">
+    <value>레벨당 손실</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugInConfiguration_MinimumLevel_Name" xml:space="preserve">
+    <value>최소 레벨</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugInConfiguration_IsMaster_Name" xml:space="preserve">
+    <value>마스터인가</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugInConfiguration_Losses_Name" xml:space="preserve">
+    <value>단계당 손실</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugInConfiguration_State_Name" xml:space="preserve">
+    <value>상태</value>
+  </data>
+  <data name="PlayerLosesExperienceAfterDeathPlugInConfiguration_ExperienceLossPercentage_Name" xml:space="preserve">
+    <value>경험치 손실 %</value>
+  </data>
+  <data name="PeriodicSaveProgressPlugInConfiguration_Interval_Name" xml:space="preserve">
+    <value>저장 간격</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_Timetable_Name" xml:space="preserve">
+    <value>시간표</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_AllowedServerIds_Name" xml:space="preserve">
+    <value>서버에서 활성</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_AllowedServerIds_Description" xml:space="preserve">
+    <value>선택한 게임 서버로 이벤트를 제한합니다. 선택 항목이 비어 있으면 이벤트가 모든 서버에서 실행된다는 의미입니다.</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_PreStartMessageDelay_Name" xml:space="preserve">
+    <value>시작 전 메시지 지연</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_TaskDuration_Name" xml:space="preserve">
+    <value>작업 기간(최소)</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_StartMessage_Name" xml:space="preserve">
+    <value>시작 메시지</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_StartMessage_Description" xml:space="preserve">
+    <value>작업이 시작될 때 게임에서 황금색 메시지로 인쇄되는 텍스트입니다.</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_EndMessage_Name" xml:space="preserve">
+    <value>메시지 종료</value>
+  </data>
+  <data name="PeriodicTaskConfiguration_EndMessage_Description" xml:space="preserve">
+    <value>작업이 끝나면 게임에서 황금색 메시지로 인쇄되는 텍스트입니다.</value>
+  </data>
+  <data name="ResetConfiguration_ResetLimit_Name" xml:space="preserve">
+    <value>한도 재설정</value>
+  </data>
+  <data name="ResetConfiguration_RequiredLevel_Name" xml:space="preserve">
+    <value>요구레벨</value>
+  </data>
+  <data name="ResetConfiguration_LevelAfterReset_Name" xml:space="preserve">
+    <value>재설정 후 레벨</value>
+  </data>
+  <data name="ResetConfiguration_RequiredMoney_Name" xml:space="preserve">
+    <value>필요한 돈</value>
+  </data>
+  <data name="ResetConfiguration_MultiplyRequiredMoneyByResetCount_Name" xml:space="preserve">
+    <value>필요한 금액에 재설정 횟수를 곱하세요</value>
+  </data>
+  <data name="ResetConfiguration_ResetStats_Name" xml:space="preserve">
+    <value>기본 능력치를 클래스 기본값으로 재설정</value>
+  </data>
+  <data name="ResetConfiguration_PointsPerReset_Name" xml:space="preserve">
+    <value>재설정당 포인트</value>
+  </data>
+  <data name="ResetConfiguration_MultiplyPointsByResetCount_Name" xml:space="preserve">
+    <value>재설정 횟수에 포인트 곱하기</value>
+  </data>
+  <data name="ResetConfiguration_ReplacePointsPerReset_Name" xml:space="preserve">
+    <value>레벨업 포인트를 총점 재설정으로 대체</value>
+  </data>
+  <data name="ResetConfiguration_MoveHome_Name" xml:space="preserve">
+    <value>집으로 이사</value>
+  </data>
+  <data name="ResetConfiguration_LogOut_Name" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="MiniGameStartConfiguration_EntranceOpenedMessage_Name" xml:space="preserve">
+    <value>입구 열림 메시지</value>
+  </data>
+  <data name="MiniGameStartConfiguration_EntranceClosedMessage_Name" xml:space="preserve">
+    <value>입구 폐쇄 메시지</value>
+  </data>
+  <data name="KanturuStartConfiguration_TowerOpenDuration_Name" xml:space="preserve">
+    <value>타워 개방 기간</value>
+  </data>
+  <data name="KanturuStartConfiguration_TowerOpenDuration_Description" xml:space="preserve">
+    <value>악몽 보스를 처치한 후에도 정제의 탑이 열려 있는 시간입니다. 창이 열려 있는 동안에는 예약된 이벤트 시작을 건너뜁니다. 게임 마스터 시작은 여전히 ​​진행되고 창을 종료합니다.</value>
+  </data>
+  <data name="KanturuStartConfiguration_TowerOpenUntilUtc_Name" xml:space="preserve">
+    <value>타워 개방 시간: (UTC)</value>
+  </data>
+  <data name="KanturuStartConfiguration_TowerOpenUntilUtc_Description" xml:space="preserve">
+    <value>UTC 기준으로 현재 열려 있는 창의 끝입니다. 악몽이 패배하면 자동으로 설정됩니다.</value>
+  </data>
+  <data name="HappyHourConfiguration_ExperienceMultiplier_Name" xml:space="preserve">
+    <value>경험치 승수</value>
+  </data>
+  <data name="WanderingMerchantsConfiguration_MinimumSpawnDuration_Name" xml:space="preserve">
+    <value>최소 생성 기간</value>
+  </data>
+  <data name="WanderingMerchantsConfiguration_MaximumSpawnDuration_Name" xml:space="preserve">
+    <value>최대 생성 기간</value>
+  </data>
+  <data name="BaseInvasionPlugIn_DefaultStartMessage" xml:space="preserve">
+    <value>[{mapName}] 침공!</value>
+  </data>
+  <data name="OfflineLevelingChatCommandPlugIn_Name" xml:space="preserve">
+    <value>오프라인 레벨링 명령</value>
+  </data>
+  <data name="OfflineLevelingChatCommandPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 /offlevel을(를) 사용하여 오프라인 레벨링을 시작할 수 있습니다. 클라이언트 연결이 끊어진 후에도 캐릭터는 세계에 머물며 플레이어가 다시 로그인하면 중지됩니다.</value>
+  </data>
+  <data name="PartyAutoRejoinPlugIn_Name" xml:space="preserve">
+    <value>파티 자동 재참여</value>
+  </data>
+  <data name="PartyAutoRejoinPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 세계에 입장하면 자동으로 이전 파티에 다시 합류합니다.</value>
+  </data>
+  <data name="MonsterAttributeScaler_Name" xml:space="preserve">
+    <value>몬스터 속성 스케일러</value>
+  </data>
+  <data name="MonsterAttributeScaler_Description" xml:space="preserve">
+    <value>모든 몬스터의 기본 능력치를 구성 가능한 비율만큼 증가시킵니다.</value>
+  </data>
+  <data name="StatResetFeaturePlugIn_Name" xml:space="preserve">
+    <value>통계 재설정 기능</value>
+  </data>
+  <data name="StatResetFeaturePlugIn_Description" xml:space="preserve">
+    <value>통계 재설정 기능에 대한 구성을 제공합니다.</value>
+  </data>
+  <data name="ResetStatsChatCommandPlugIn_Name" xml:space="preserve">
+    <value>통계 채팅 명령 재설정</value>
+  </data>
+  <data name="ResetStatsChatCommandPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령 '/resetstats'을 처리합니다.</value>
+  </data>
+  <data name="StatResetConfiguration_RequiredLevel_Name" xml:space="preserve">
+    <value>요구레벨</value>
+  </data>
+  <data name="StatResetConfiguration_RequiredMoney_Name" xml:space="preserve">
+    <value>필요한 돈</value>
+  </data>
+  <data name="StatResetConfiguration_RequiredResetItem_Name" xml:space="preserve">
+    <value>필수 재설정 아이템</value>
+  </data>
+  <data name="StatResetConfiguration_ChatCommandEnabled_Name" xml:space="preserve">
+    <value>채팅 명령 활성화됨</value>
+  </data>
+  <data name="StatResetConfiguration_MoveHome_Name" xml:space="preserve">
+    <value>집으로 이사</value>
+  </data>
+  <data name="StatResetConfiguration_LogOut_Name" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="CastleSiegeLifeStoneConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 생명석 소비 핸들러</value>
+  </data>
+  <data name="CastleSiegeLifeStoneConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 동안 성공적으로 배치된 후 생명석을 소비합니다.</value>
+  </data>
+  <data name="DoppelgangerRewardChestPlugIn_Name" xml:space="preserve">
+    <value>도플갱어 보상 상자</value>
+  </data>
+  <data name="DoppelgangerRewardChestPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 대화하면 도플갱어 이벤트의 보상 상자가 열립니다.</value>
+  </data>
+  <data name="SignOfDimensionsStackedPlugIn_Name" xml:space="preserve">
+    <value>차원 스택 변환의 부호</value>
+  </data>
+  <data name="SignOfDimensionsStackedPlugIn_Description" xml:space="preserve">
+    <value>차원의 표시 전체를 차원의 거울로 변환합니다.</value>
+  </data>
+  <data name="DoppelgangerFeaturePlugIn_Name" xml:space="preserve">
+    <value>도플갱어 이벤트</value>
+  </data>
+  <data name="DoppelgangerFeaturePlugIn_Description" xml:space="preserve">
+    <value>도플갱어 이벤트의 실행을 구성합니다. 몬스터, 경로 및 승수.</value>
+  </data>
+  <data name="BotConfiguration_Enabled_Name" xml:space="preserve"><value>활성화</value></data>
+  <data name="BotConfiguration_Enabled_Description" xml:space="preserve"><value>활성화하면 서버가 시작된 후 봇이 생성됩니다.</value></data>
+  <data name="BotConfiguration_ResetBots_Name" xml:space="preserve"><value>봇 재설정</value></data>
+  <data name="BotConfiguration_ResetBots_Description" xml:space="preserve"><value>다음 시작 시 모든 봇 계정과 캐릭터를 삭제한 후 다시 생성합니다. 나중에는 저절로 지워집니다.</value></data>
+  <data name="BotConfiguration_PurgeBots_Name" xml:space="preserve"><value>퍼지 봇</value></data>
+  <data name="BotConfiguration_PurgeBots_Description" xml:space="preserve"><value>새로운 계정과 캐릭터를 생성하지 않고 모든 봇 계정과 캐릭터를 삭제하고 봇 기능을 끕니다. 나중에는 저절로 지워집니다.</value></data>
+  <data name="BotConfiguration_StartAsFreshCharacters_Name" xml:space="preserve"><value>새로운 캐릭터로 시작하세요</value></data>
+  <data name="BotConfiguration_StartAsFreshCharacters_Description" xml:space="preserve"><value>새로 생성된 봇은 무작위 레벨, 재설정 내역 및 업그레이드된 장비 대신 새로 생성된 플레이어 캐릭터와 같은 레벨 0 시작 장비를 사용하여 레벨 1에서 시작합니다.</value></data>
+  <data name="BotConfiguration_PresenceRotation_Name" xml:space="preserve"><value>현재 상태 회전</value></data>
+  <data name="BotConfiguration_PresenceRotation_Description" xml:space="preserve"><value>봇은 연중무휴 온라인 상태가 아닌 낮 동안(밤에 가장 적고 저녁에 대부분) 로그인 및 로그아웃합니다.</value></data>
+  <data name="BotConfiguration_MinOnlineSharePercent_Name" xml:space="preserve"><value>최소 온라인 공유 %</value></data>
+  <data name="BotConfiguration_MinOnlineSharePercent_Description" xml:space="preserve"><value>가장 조용한 시간에 온라인 상태를 유지하는 봇 인구의 비율입니다(100 = 순환 효과 없음).</value></data>
+  <data name="BotConfiguration_NumberOfAccounts_Name" xml:space="preserve"><value>계정 수</value></data>
+  <data name="BotConfiguration_NumberOfAccounts_Description" xml:space="preserve"><value>유지할 봇 계정 수.</value></data>
+  <data name="BotConfiguration_MaxCharactersPerAccount_Name" xml:space="preserve"><value>계정당 캐릭터 수</value></data>
+  <data name="BotConfiguration_MaxCharactersPerAccount_Description" xml:space="preserve"><value>각 봇 계정이 보유할 캐릭터 수입니다(최대 5개).</value></data>
+  <data name="BotConfiguration_BotCapacityPercent_Name" xml:space="preserve"><value>봇 용량 %</value></data>
+  <data name="BotConfiguration_BotCapacityPercent_Description" xml:space="preserve"><value>봇이 점유할 수 있는 게임 서버의 최대 플레이어 수를 공유합니다. 나머지는 실제 플레이어를 위해 예약되어 있습니다.</value></data>
+  <data name="BotConfiguration_BotsPayResetCosts_Name" xml:space="preserve"><value>봇은 재설정 비용을 지불합니다.</value></data>
+  <data name="BotConfiguration_BotsPayResetCosts_Description" xml:space="preserve"><value>활성화된 경우 봇은 인간 플레이어처럼 재설정을 위해 구성된 젠/item 비용을 소비합니다(기본값: 무료 봇 재설정).</value></data>
+  <data name="BotConfiguration_JewelStockPerKind_Name" xml:space="preserve"><value>종류별 보석재고</value></data>
+  <data name="BotConfiguration_JewelStockPerKind_Description" xml:space="preserve"><value>봇이 각 종류별로 얼마나 많은 축복/영혼/생명/혼돈의 보석을 보관하는지; 그 이상에서는 수거를 중단하고 잉여분을 판매합니다.</value></data>
+  <data name="BotConfiguration_PotionStockCharges_Name" xml:space="preserve"><value>포션 스톡(요금)</value></data>
+  <data name="BotConfiguration_PotionStockCharges_Description" xml:space="preserve"><value>봇이 상인에게 구매하는 치유 및 마나 물약 충전량입니다.</value></data>
+  <data name="BotConfiguration_MapsForbiddenForBots_Name" xml:space="preserve"><value>봇에게는 금지된 지도</value></data>
+  <data name="BotConfiguration_MapsForbiddenForBots_Description" xml:space="preserve"><value>지도 봇은 절대 워프하지 않습니다. 그곳에서는 사냥이나 팔로우, 이벤트가 없으며 로그인한 봇은 그곳을 떠납니다. 플레이어는 영향을 받지 않습니다.</value></data>
+  <data name="BotConfiguration_ProofOfConceptAccounts_Name" xml:space="preserve"><value>애니메이션을 적용할 추가 계정</value></data>
+  <data name="BotConfiguration_ProofOfConceptAccounts_Description" xml:space="preserve"><value>생성된 인구 외에 봇으로 애니메이션화하기 위해 기존 계정의 로그인 이름을 쉼표로 구분했습니다.</value></data>
+  <data name="BotSelfDefensePlugIn_Name" xml:space="preserve"><value>봇 자기방어</value></data>
+  <data name="BotSelfDefensePlugIn_Description" xml:space="preserve"><value>플레이어가 공격할 때 서버측 봇이 반격하게 만듭니다.</value></data>
+  <data name="BotRevengePlugIn_Name" xml:space="preserve"><value>봇 복수</value></data>
+  <data name="BotRevengePlugIn_Description" xml:space="preserve"><value>서버측 봇이 죽음의 장소로 돌아가서 자신을 죽인 플레이어에게 복수하도록 합니다.</value></data>
+  <data name="BotSkillProgressionPlugIn_Name" xml:space="preserve"><value>봇 스킬 진행</value></data>
+  <data name="BotSkillProgressionPlugIn_Description" xml:space="preserve"><value>레벨 업 통계 포인트를 투자하고 서버 측 봇이 레벨을 올리면서 새로운 클래스 및 레벨에 적합한 스킬을 가르칩니다.</value></data>
+  <data name="BotFeaturePlugIn_Name" xml:space="preserve"><value>봇</value></data>
+  <data name="BotFeaturePlugIn_Description" xml:space="preserve"><value>지도에서 몬스터를 사냥하는 서버 측 봇을 생성합니다. 기능을 활성화하고 활성화하도록 계정을 구성합니다.</value></data>
+  <data name="MaximumConnectionsPerIpPlugIn_Name" xml:space="preserve"><value>IP당 최대 연결 수</value></data>
+  <data name="MaximumConnectionsPerIpPlugIn_Description" xml:space="preserve"><value>동일한 IP 주소에서 최대 병렬 연결 수를 제한합니다.</value></data>
+  <data name="LoginTimeoutPlugIn_Name" xml:space="preserve"><value>로그인 시간 초과</value></data>
+  <data name="LoginTimeoutPlugIn_Description" xml:space="preserve"><value>접속 후 설정된 시간 내에 로그인하지 않는 클라이언트의 접속을 끊습니다.</value></data>
+  <data name="SpeedHackDetectPlugIn_Name" xml:space="preserve"><value>Speedhack 안티 치트</value></data>
+  <data name="SpeedHackDetectPlugIn_Description" xml:space="preserve"><value>플레이어의 걷기 및 공격 스피드 해킹을 탐지하고 방지합니다.</value></data>
+  <data name="KanturuGatewayPlugIn_Name" xml:space="preserve"><value>KanturuGatewayPlugIn</value></data>
+  <data name="KanturuGatewayPlugIn_Description" xml:space="preserve"><value>이벤트 입력을 위해 칸투르 게이트웨이 머신 NPC를 처리합니다.</value></data>
+  <data name="SymbolOfKundunStackedPlugIn_Name" xml:space="preserve"><value>SymbolOfKundunStackedPlugIn</value></data>
+  <data name="SymbolOfKundunStackedPlugIn_Description" xml:space="preserve"><value>이 플러그인은 쿤둔 기호 스택을 잃어버린 지도로 변환합니다.</value></data>
+  <data name="DuelSpawnGatePlugIn_Name" xml:space="preserve"><value>DuelSpawnGatePlugIn</value></data>
+  <data name="DuelSpawnGatePlugIn_Description" xml:space="preserve"><value>결투 지역의 측면에서 결투 중인 플레이어를 생성합니다.</value></data>
+  <data name="SoccerSpawnGatePlugIn_Name" xml:space="preserve"><value>SoccerSpawnGatePlugIn</value></data>
+  <data name="SoccerSpawnGatePlugIn_Description" xml:space="preserve"><value>축구장에서 진행 중인 축구 경기의 플레이어를 생성합니다.</value></data>
+  <data name="PetExperiencePlugIn_Name" xml:space="preserve"><value>PetExperiencePlugIn</value></data>
+  <data name="PetExperiencePlugIn_Description" xml:space="preserve"><value>플레이어가 처치를 통해 얻은 경험치의 일부를 플레이어의 훈련 가능한 펫에게 제공합니다.</value></data>
+  <data name="PeriodicInvasionConfiguration_ForceSingleMap_Name" xml:space="preserve"><value>강제 단일 지도</value></data>
+  <data name="PeriodicInvasionConfiguration_Mobs_Name" xml:space="preserve"><value>몬스터 스폰</value></data>
+  <data name="WhiteWizardInvasionPlugIn_Name" xml:space="preserve"><value>하얀마법사 침공</value></data>
+  <data name="WhiteWizardInvasionPlugIn_Description" xml:space="preserve"><value>하얀 마법사 침입 기능을 활성화합니다.</value></data>
+  <data name="ItemRegistrationConfiguration_Rules_Name" xml:space="preserve"><value>NPC 등록 규칙</value></data>
+  <data name="ItemRegistrationConfiguration_Rules_Description" xml:space="preserve"><value>다양한 NPC에 대한 아이템 등록 규칙을 구성합니다.</value></data>
+  <data name="NpcItemRegistrationRule_NpcNumber_Name" xml:space="preserve"><value>NPC 번호</value></data>
+  <data name="NpcItemRegistrationRule_NpcNumber_Description" xml:space="preserve"><value>NPC 정의 번호입니다(예: 골든 아처는 236).</value></data>
+  <data name="NpcItemRegistrationRule_AcceptedItemGroup_Name" xml:space="preserve"><value>허용 아이템 그룹</value></data>
+  <data name="NpcItemRegistrationRule_AcceptedItemGroup_Description" xml:space="preserve"><value>받을 아이템의 그룹입니다(예: 이벤트 아이템은 14).</value></data>
+  <data name="NpcItemRegistrationRule_AcceptedItemNumber_Name" xml:space="preserve"><value>허용 아이템 번호</value></data>
+  <data name="NpcItemRegistrationRule_AcceptedItemNumber_Description" xml:space="preserve"><value>받을 아이템의 번호입니다(예: 레나는 21).</value></data>
+  <data name="NpcItemRegistrationRule_RequiredItemsCount_Name" xml:space="preserve"><value>필수 아이템 개수</value></data>
+  <data name="NpcItemRegistrationRule_RequiredItemsCount_Description" xml:space="preserve"><value>보상을 받기 위해 필요한 아이템 수입니다.</value></data>
+  <data name="NpcItemRegistrationRule_RewardZen_Name" xml:space="preserve"><value>보상 젠</value></data>
+  <data name="NpcItemRegistrationRule_RewardZen_Description" xml:space="preserve"><value>젠은 필수 아이템 수에 도달하면 수여됩니다.</value></data>
+  <data name="NpcItemRegistrationRule_RewardDropItemGroup_Name" xml:space="preserve"><value>보상 드랍 아이템 그룹</value></data>
+  <data name="NpcItemRegistrationRule_RewardDropItemGroup_Description" xml:space="preserve"><value>아이템 보상 드롭을 생성하는 데 사용되는 DropItemGroup입니다. 비어 있으면 아이템이 떨어지지 않습니다(젠 보상만 해당).</value></data>
+  <data name="ChaosCastleStartPlugIn_Name" xml:space="preserve"><value>ChaosCastleStartPlugIn</value></data>
+  <data name="ChaosCastleStartPlugIn_Description" xml:space="preserve"><value>카오스 캐슬 이벤트</value></data>
+  <data name="KanturuStartPlugIn_Name" xml:space="preserve"><value>KanturuStartPlugIn</value></data>
+  <data name="KanturuStartPlugIn_Description" xml:space="preserve"><value>칸투르 리파이너리 타워 이벤트</value></data>
+  <data name="BloodCastleStartPlugIn_Name" xml:space="preserve"><value>BloodCastleStartPlugIn</value></data>
+  <data name="BloodCastleStartPlugIn_Description" xml:space="preserve"><value>블러드 캐슬 이벤트</value></data>
+  <data name="DevilSquareStartPlugIn_Name" xml:space="preserve"><value>DevilSquareStartPlugIn</value></data>
+  <data name="DevilSquareStartPlugIn_Description" xml:space="preserve"><value>데빌 스퀘어 이벤트</value></data>
+  <data name="PKClearConfiguration_ZenCostPerKill_Name" xml:space="preserve"><value>젠 킬당 비용</value></data>
+  <data name="PKClearConfiguration_ZenCostPerKill_Description" xml:space="preserve"><value>하나의 PK 수를 삭제하는 데 필요한 젠의 양입니다.</value></data>
+  <data name="PKClearConfiguration_AllowRegularPlayers_Name" xml:space="preserve"><value>일반 플레이어 허용</value></data>
+  <data name="PKClearConfiguration_AllowRegularPlayers_Description" xml:space="preserve"><value>일반 플레이어가 이 명령을 사용하여 젠에 대한 자신의 PK 상태를 지울 수 있습니다.</value></data>
+  <data name="LostMapDroppedPlugIn_Name" xml:space="preserve"><value>LostMapDroppedPlugIn</value></data>
+  <data name="LostMapDroppedPlugIn_Description" xml:space="preserve"><value>이 플러그인은 잃어버린 지도 아이템의 드롭을 처리합니다. 칼리마 지도에 대한 게이트를 생성합니다.</value></data>
+  <data name="ItemBoxDroppedPlugIn_Name" xml:space="preserve"><value>ItemBoxDroppedPlugIn</value></data>
+  <data name="ItemBoxDroppedPlugIn_Description" xml:space="preserve"><value>이 플러그인은 아이템 상자(예: 쿤둔의 상자)를 버렸을 때의 드롭을 처리합니다.</value></data>
+  <data name="ResetConfiguration_RequiredResetItem_Name" xml:space="preserve"><value>필수 재설정 아이템</value></data>
+  <data name="ResetConfiguration_ItemCostTiers_Name" xml:space="preserve"><value>아이템 비용 등급</value></data>
+  <data name="ResetConfiguration_PointsTiers_Name" xml:space="preserve"><value>포인트 등급</value></data>
+  <data name="ResetPointTier_MinimumResetCount_Name" xml:space="preserve"><value>최소 재설정 횟수</value></data>
+  <data name="ResetPointTier_PointsGranted_Name" xml:space="preserve"><value>부여된 포인트</value></data>
+  <data name="ResetItemCostTier_MinimumResetCount_Name" xml:space="preserve"><value>최소 재설정 횟수</value></data>
+  <data name="ResetItemCostTier_RequiredItemAmount_Name" xml:space="preserve"><value>필수 아이템 금액</value></data>
+  <data name="ActorHitRecorderPlugIn_Name" xml:space="preserve"><value>테스트 액터 히트 레코더</value></data>
+  <data name="ActorHitRecorderPlugIn_Description" xml:space="preserve"><value>이벤트 스트림에서 스크립트된 테스트 행위자가 처리하고 수신한 히트를 기록합니다.</value></data>
+  <data name="MonsterAttributeScalerConfiguration_HealthPercentage_Caption" xml:space="preserve"><value>건강 백분율</value></data>
+  <data name="MonsterAttributeScalerConfiguration_DefensePercentage_Caption" xml:space="preserve"><value>방어율</value></data>
+  <data name="MonsterAttributeScalerConfiguration_DefenseRatePercentage_Caption" xml:space="preserve"><value>방어율 백분율</value></data>
+  <data name="MonsterAttributeScalerConfiguration_AttackRatePercentage_Caption" xml:space="preserve"><value>공격 성공률 백분율</value></data>
+  <data name="MonsterAttributeScalerConfiguration_DamagePercentage_Caption" xml:space="preserve"><value>데미지율</value></data>
+  <data name="MonsterAttributeScalerConfiguration_ScaleAllPercentage_Caption" xml:space="preserve"><value>모든 비율 조정</value></data>
+  <data name="MaximumConnectionsPerIpPlugInConfiguration_MaximumConnectionsPerIp_Caption" xml:space="preserve"><value>IP당 최대 연결 수</value></data>
+  <data name="LoginTimeoutPlugInConfiguration_Timeout_Caption" xml:space="preserve"><value>시간 초과</value></data>
+  <data name="SpeedHackDetectConfiguration_AttackSpeedMinIntervalMs_Caption" xml:space="preserve"><value>공격 속도 최소 간격(밀리)</value></data>
+  <data name="SpeedHackDetectConfiguration_AttackSpeedScalingFactor_Caption" xml:space="preserve"><value>공격 속도 배율 인수</value></data>
+  <data name="SpeedHackDetectConfiguration_AttackSpeedBaseDelayMs_Caption" xml:space="preserve"><value>공격 속도 기본 지연 시간(Ms)</value></data>
+  <data name="SpeedHackDetectConfiguration_MaxAttackTokens_Caption" xml:space="preserve"><value>최대 공격 토큰</value></data>
+  <data name="SpeedHackDetectConfiguration_MaxAllowedWalkStartOffset_Caption" xml:space="preserve"><value>최대 허용 걷기 시작 오프셋</value></data>
+  <data name="SpeedHackDetectConfiguration_SkillHitAreaRangeSlack_Caption" xml:space="preserve"><value>스킬 적중 범위 범위 여유</value></data>
+  <data name="SpeedHackDetectConfiguration_SkillHitCounterReplayWindowMs_Caption" xml:space="preserve"><value>스킬 히트 카운터 재생 창 Ms</value></data>
+  <data name="SpeedHackDetectConfiguration_SkillHitMaxAreaToHitDelaySeconds_Caption" xml:space="preserve"><value>스킬 적중 최대 영역 적중 지연 시간(초)</value></data>
+  <data name="SpeedHackDetectConfiguration_EnforceWalkSpeed_Caption" xml:space="preserve"><value>걷기 속도 적용</value></data>
+  <data name="SpeedHackDetectConfiguration_WalkSpeedWindowSeconds_Caption" xml:space="preserve"><value>걷기 속도 창(초)</value></data>
+  <data name="SpeedHackDetectConfiguration_WalkSpeedToleranceMs_Caption" xml:space="preserve"><value>보행 속도 공차 Ms</value></data>
+  <data name="SpeedHackDetectConfiguration_WarningHistoryHours_Caption" xml:space="preserve"><value>경고 내역 시간</value></data>
+  <data name="SpeedHackDetectConfiguration_AlertDebounceSeconds_Caption" xml:space="preserve"><value>경고 디바운스 초</value></data>
+  <data name="SpeedHackDetectConfiguration_MaxWarnings_Caption" xml:space="preserve"><value>최대 경고</value></data>
+  <data name="SpeedHackDetectConfiguration_DisconnectOnViolation_Caption" xml:space="preserve"><value>위반 시 연결 끊기</value></data>
+  <data name="SpeedHackDetectConfiguration_ObserveOnly_Caption" xml:space="preserve"><value>관찰만</value></data>
+  <data name="SpeedHackDetectConfiguration_ViolationScoreRejectThreshold_Caption" xml:space="preserve"><value>위반 점수 거부 임계값</value></data>
+  <data name="SpeedHackDetectConfiguration_ViolationScoreHalfLifeMinutes_Caption" xml:space="preserve"><value>위반 점수 반감기(분)</value></data>
+  <data name="SpeedHackDetectConfiguration_AutoBan_Caption" xml:space="preserve"><value>자동 금지</value></data>
+  <data name="SpeedHackDetectConfiguration_MagicSpeedBaseDelayMs_Caption" xml:space="preserve"><value>매직 스피드 베이스 딜레이 Ms</value></data>
+  <data name="SpeedHackDetectConfiguration_MagicSpeedScalingFactor_Caption" xml:space="preserve"><value>매직 스피드 스케일링 팩터</value></data>
+  <data name="SpeedHackDetectConfiguration_MagicSpeedMinIntervalMs_Caption" xml:space="preserve"><value>마법 속도 최소 간격 Ms</value></data>
+  <data name="SpeedHackDetectConfiguration_PingClockToleranceMs_Caption" xml:space="preserve"><value>핑 시계 허용 오차(MS)</value></data>
+  <data name="SpeedHackDetectConfiguration_PingAttackSpeedTolerance_Caption" xml:space="preserve"><value>핑 공격 속도 허용 오차</value></data>
+  <data name="SpeedHackDetectConfiguration_AttackSpeedProfiles_Caption" xml:space="preserve"><value>스킬별 공격 속도 프로필</value></data>
+  <data name="SpeedHackDetectConfiguration_AttackSpeedProfiles_Description" xml:space="preserve"><value>개별 스킬에 대한 선택적 재정의. 프로필은 해당 스킬에 대한 일반적인 공격 또는 마법 속도 설정을 대체합니다.</value></data>
+  <data name="AttackSpeedProfile_SkillId_Caption" xml:space="preserve"><value>스킬 ID</value></data>
+  <data name="AttackSpeedProfile_SpeedSource_Caption" xml:space="preserve"><value>속도 소스</value></data>
+  <data name="AttackSpeedProfile_SpeedSource_Description" xml:space="preserve"><value>지연을 조정하는 속도 속성은 무엇입니까? 물리 스킬의 공격 속도, 마법 및 저주 스킬의 마법 속도입니다.</value></data>
+  <data name="AttackSpeedProfile_BaseDelayMs_Caption" xml:space="preserve"><value>기본 지연 시간(Ms)</value></data>
+  <data name="AttackSpeedProfile_ScalingFactor_Caption" xml:space="preserve"><value>스케일링 팩터</value></data>
+  <data name="AttackSpeedProfile_MinimumIntervalMs_Caption" xml:space="preserve"><value>최소 간격(밀리초)</value></data>
+  <data name="AttackSpeedSource_AttackSpeed" xml:space="preserve"><value>공격 속도</value></data>
+  <data name="AttackSpeedSource_MagicSpeed" xml:space="preserve"><value>매직스피드</value></data>
+  <data name="InvasionSpawnConfiguration_Y_Caption" xml:space="preserve"><value>Y</value></data>
+  <data name="InvasionSpawnConfiguration_X_Caption" xml:space="preserve"><value>X</value></data>
+  <data name="InvasionSpawnConfiguration_IsSpawnOnAllMaps_Caption" xml:space="preserve"><value>모든 맵에서 생성됩니다.</value></data>
+  <data name="InvasionSpawnConfiguration_AnnounceDeath_Caption" xml:space="preserve"><value>죽음을 알리다</value></data>
+  <data name="InvasionSpawnConfiguration_MapStrategy_Caption" xml:space="preserve"><value>지도 전략</value></data>
+  <data name="InvasionSpawnConfiguration_MapIds_Caption" xml:space="preserve"><value>지도 ID</value></data>
+  <data name="InvasionSpawnConfiguration_Count_Caption" xml:space="preserve"><value>개수</value></data>
+  <data name="InvasionSpawnConfiguration_MonsterId_Caption" xml:space="preserve"><value>몬스터 아이디</value></data>
+  <data name="KanturuStartConfiguration_EventDefinition_Caption" xml:space="preserve"><value>이벤트 정의</value></data>
+  <data name="BlessJewelConsumeHandlerPlugInConfiguration_RepairTargetItems_Caption" xml:space="preserve"><value>대상 아이템 수리</value></data>
+  <data name="RaklionPlugIn_Name" xml:space="preserve">
+    <value>라클리온 이벤트</value>
+  </data>
+  <data name="RaklionPlugIn_Description" xml:space="preserve">
+    <value>라클리온 부화장에서 발생한 이벤트: 거미 알이 모두 파괴되면 셀루판이 나타납니다. 전투 종료 후 부화장은 한동안 폐쇄됩니다.</value>
+  </data>
+  <data name="CrywolfPlugIn_Name" xml:space="preserve">
+    <value>크라이울프 이벤트</value>
+  </data>
+  <data name="CrywolfPlugIn_Description" xml:space="preserve">
+    <value>크라이울프 요새의 이벤트: 플레이어는 발가스 군대에 맞서 신성한 늑대 동상을 방어합니다. 결과는 다음 이벤트까지 유지됩니다.</value>
+  </data>
+  <data name="CrywolfChatCommandPlugIn_Name" xml:space="preserve">
+    <value>채팅 명령: /crywolf</value>
+  </data>
+  <data name="CrywolfChatCommandPlugIn_Description" xml:space="preserve">
+    <value>크라이울프 이벤트를 진행합니다. 이벤트가 실행되지 않을 때 이벤트를 시작하고 전투 중에 아직 발생하지 않은 경우 발가스가 나타납니다. 그렇지 않으면 현재 상태가 종료됩니다.</value>
+  </data>
+  <data name="ImperialGuardianFeaturePlugIn_Name" xml:space="preserve">
+    <value>제국 수호군 이벤트</value>
+  </data>
+  <data name="ImperialGuardianFeaturePlugIn_Description" xml:space="preserve">
+    <value>제국 수호군 이벤트의 진행을 설정합니다(예: 시간, 경험치 보상, 몬스터 능력치 배율).</value>
+  </data>
+  <data name="SuspiciousScrapOfPaperStackedPlugIn_Name" xml:space="preserve">
+    <value>의심스러운 종이 더미 변형 조각</value>
+  </data>
+  <data name="SuspiciousScrapOfPaperStackedPlugIn_Description" xml:space="preserve">
+    <value>의심스러운 종이 조각 전체를 가이온의 명령서로 변환합니다.</value>
+  </data>
+  <data name="GensFeaturePlugIn_Name" xml:space="preserve">
+    <value>젠 시스템</value>
+  </data>
+  <data name="GensFeaturePlugIn_Description" xml:space="preserve">
+    <value>플레이어가 npcs에서 Duprian 및 Vanert 젠 중 하나에 합류할 수 있는 젠 시스템을 구성합니다.</value>
+  </data>
+  <data name="GensMembershipPlugIn_Name" xml:space="preserve">
+    <value>젠스 멤버십</value>
+  </data>
+  <data name="GensMembershipPlugIn_Description" xml:space="preserve">
+    <value>게임에 들어갈 때 캐릭터의 세대 멤버십을 로드하고 플레이어에게 보여줍니다.</value>
+  </data>
+  <data name="GensBattleZonePlugIn_Name" xml:space="preserve">
+    <value>젠스 전투 지역</value>
+  </data>
+  <data name="GensBattleZonePlugIn_Description" xml:space="preserve">
+    <value>젠 멤버만 배틀존에 입장할 수 있습니다. 살인자를 무법자로 만들지 않고 서로 다른 세대의 구성원을 죽이면 기여 포인트가 변경됩니다.</value>
+  </data>
+  <data name="GensRankingPlugIn_Name" xml:space="preserve">
+    <value>젠즈 랭킹</value>
+  </data>
+  <data name="GensRankingPlugIn_Description" xml:space="preserve">
+    <value>설정된 간격으로 세대의 순위를 계산하고, 순위 위치와 모든 구성원의 순위를 업데이트합니다.</value>
+  </data>
+  <data name="GensRelationshipRulesPlugIn_Name" xml:space="preserve">
+    <value>젠 관계 규칙</value>
+  </data>
+  <data name="GensRelationshipRulesPlugIn_Description" xml:space="preserve">
+    <value>파티, 길드, 동맹에 대한 씨족의 규칙: 서로 다른 씨족 사이에는 파티가 없고, 전투 지역에서는 길드와 동맹이 씨족 내에서만 성립됩니다.</value>
+  </data>
+  <data name="KalimaTicketConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>칼리마 티켓 소비 핸들러</value>
+  </data>
+  <data name="KalimaTicketConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터의 레벨에 맞는 칼리마 레벨의 게이트를 엽니다. 각 사용에는 티켓 사용량 중 하나가 사용됩니다.</value>
+  </data>
+  <data name="KalimaTicketConsumeHandlerConfiguration_MinimumLevels_Name" xml:space="preserve">
+    <value>칼리마 레벨의 최소 레벨</value>
+  </data>
+  <data name="KalimaTicketConsumeHandlerConfiguration_SpecialCharacterMinimumLevels_Name" xml:space="preserve">
+    <value>특수 캐릭터의 칼리마 단계별 최소 레벨</value>
+  </data>
+  <data name="SiegePotionConsumeHandlerConfiguration_BlessEffectNumber_Name" xml:space="preserve">
+    <value>축복의 물약 효과 번호</value>
+  </data>
+  <data name="SiegePotionConsumeHandlerConfiguration_SoulEffectNumber_Name" xml:space="preserve">
+    <value>영혼의 물약 효과 번호</value>
+  </data>
+  <data name="BloodCastleArchangelTalkPlugIn_Name" xml:space="preserve">
+    <value>블러드 캐슬 대천사</value>
+  </data>
+  <data name="BloodCastleArchangelTalkPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 이벤트에서 승리하기 위해 퀘스트 아이템을 제출하는 블러드 캐슬 이벤트에서 대천사와 대화를 처리합니다.</value>
+  </data>
+  <data name="IllusionTempleStoneStatueTalkPlugIn_Name" xml:space="preserve">
+    <value>환영의 사원 석상</value>
+  </data>
+  <data name="IllusionTempleStoneStatueTalkPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 신성한 유물을 가져가는 환영의 사원 이벤트에서 석상과 대화를 처리합니다.</value>
+  </data>
+  <data name="IllusionTempleAllianceStorageTalkPlugIn_Name" xml:space="preserve">
+    <value>환영의 사원 동맹 아이템 보관</value>
+  </data>
+  <data name="IllusionTempleAllianceStorageTalkPlugIn_Description" xml:space="preserve">
+    <value>연합군이 점수를 얻기 위해 신성한 유물을 운반하는 환영의 사원 이벤트에서 연합 아이템 저장소와 대화를 처리합니다.</value>
+  </data>
+  <data name="IllusionTempleIllusionStorageTalkPlugIn_Name" xml:space="preserve">
+    <value>환영의 사원 환상 아이템 보관소</value>
+  </data>
+  <data name="IllusionTempleIllusionStorageTalkPlugIn_Description" xml:space="preserve">
+    <value>환영의 사원 이벤트에서 환상 아이템 저장소와 대화하는 것을 처리합니다. 환상 세력은 점수를 얻기 위해 신성한 유물을 운반합니다.</value>
+  </data>
+  <data name="NpcTalkPlugInConfiguration_Npc_Name" xml:space="preserve">
+    <value>NPC</value>
+  </data>
+  <data name="NpcTalkPlugInConfiguration_Npc_Description" xml:space="preserve">
+    <value>이 플러그인이 처리하는 NPC입니다. NPC가 설정되지 않은 경우 플러그인은 NPC를 처리하지 않습니다.</value>
+  </data>
+  <data name="TwisterAnimationCounterStrategy_Name" xml:space="preserve">
+    <value>트위스터 애니메이션 카운터</value>
+  </data>
+  <data name="TwisterAnimationCounterStrategy_Description" xml:space="preserve">
+    <value>게임 클라이언트가 Twister의 애니메이션을 계산하는 방법을 설명합니다. 모든 애니메이션이 계산되며 히트에는 애니메이션 카운터가 포함되지 않습니다.</value>
+  </data>
+  <data name="EvilSpiritAnimationCounterStrategy_Name" xml:space="preserve">
+    <value>악령 애니메이션 카운터</value>
+  </data>
+  <data name="EvilSpiritAnimationCounterStrategy_Description" xml:space="preserve">
+    <value>게임 클라이언트가 악령의 애니메이션을 계산하는 방법을 설명합니다. 모든 애니메이션이 계산됩니다.</value>
+  </data>
+  <data name="MultiShotAnimationCounterStrategy_Name" xml:space="preserve">
+    <value>멀티샷 애니메이션 카운터</value>
+  </data>
+  <data name="MultiShotAnimationCounterStrategy_Description" xml:space="preserve">
+    <value>게임 클라이언트가 Multi-Shot의 애니메이션을 계산하는 방법을 설명합니다. 히트에는 애니메이션 카운터가 포함되지 않습니다.</value>
+  </data>
+  <data name="LostConnectionDetectionPlugIn_Name" xml:space="preserve">
+    <value>연결 끊김 감지</value>
+  </data>
+  <data name="LostConnectionDetectionPlugIn_Description" xml:space="preserve">
+    <value>클라이언트가 종료되지 않은 채 연결이 끊어졌기 때문에 클라이언트가 살아 있다고 보고하기 위해 중지된 플레이어의 연결을 끊습니다. 그렇지 않으면 연결 상태가 유지되며 해당 계정의 추가 로그인이 거부됩니다.</value>
+  </data>
+  <data name="LostConnectionDetectionConfiguration_Timeout_Name" xml:space="preserve">
+    <value>시간 초과</value>
+  </data>
+  <data name="LostConnectionDetectionConfiguration_Timeout_Description" xml:space="preserve">
+    <value>클라이언트가 연결이 살아 있다고 보고하지 않은 경우 연결이 끊어진 것으로 간주되는 시간입니다. 게임 클라이언트는 20초마다 이를 보고합니다. 0은 감지를 비활성화합니다.</value>
+  </data>
+  <data name="CashShopVersionPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 버전</value>
+  </data>
+  <data name="CashShopVersionPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 게임에 들어갈 때 현금 상점 스크립트와 배너 버전을 플레이어에게 보냅니다.</value>
+  </data>
+  <data name="CashShopFeaturePlugIn_Name" xml:space="preserve">
+    <value>캐시샵</value>
+  </data>
+  <data name="CashShopFeaturePlugIn_Description" xml:space="preserve">
+    <value>게임 내 캐시샵입니다. 비활성화하면 캐시샵을 열 수 없습니다. 구성에는 선물과 보관함 크기 같은 설정이 들어 있습니다.</value>
+  </data>
+  <data name="GoblinPointsForPlayTimePlugIn_Name" xml:space="preserve">
+    <value>플레이 시간에 따른 고블린 포인트</value>
+  </data>
+  <data name="GoblinPointsForPlayTimePlugIn_Description" xml:space="preserve">
+    <value>플레이어에게 플레이 시간에 따라 캐시샵의 고블린 포인트를 제공합니다.</value>
+  </data>
+  <data name="VaultExtensionDeliveryPlugIn_Name" xml:space="preserve">
+    <value>캐시샵: 금고 확장 증서</value>
+  </data>
+  <data name="VaultExtensionDeliveryPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 캐시샵 저장소에서 금고 확장 인증서를 사용할 때 계정의 금고를 확장합니다.</value>
+  </data>
+  <data name="InventoryExtensionDeliveryPlugIn_Name" xml:space="preserve">
+    <value>캐시샵: 매직 백팩</value>
+  </data>
+  <data name="InventoryExtensionDeliveryPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 현금 상점 보관소에서 마법 배낭을 사용할 때 캐릭터에 인벤토리 확장을 추가합니다.</value>
+  </data>
+  <data name="SummonerCharacterCardDeliveryPlugIn_Name" xml:space="preserve">
+    <value>캐시샵: 소환술사 캐릭터 카드</value>
+  </data>
+  <data name="SummonerCharacterCardDeliveryPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 현금 상점 저장소에서 소환술사 캐릭터 카드를 사용할 때 계정에 대한 소환술사 클래스를 잠금 해제합니다.</value>
+  </data>
+  <data name="RageFighterCharacterCardDeliveryPlugIn_Name" xml:space="preserve">
+    <value>캐시샵: 레이지파이터 캐릭터 카드</value>
+  </data>
+  <data name="RageFighterCharacterCardDeliveryPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 현금 상점 저장소에서 레이지파이터 캐릭터 카드를 사용할 때 계정에 대한 레이지파이터 클래스를 잠금 해제합니다.</value>
+  </data>
+  <data name="GameEventPublisherPlugIn_Name" xml:space="preserve">
+    <value>게임 이벤트 게시자</value>
+  </data>
+  <data name="GameEventPublisherPlugIn_Description" xml:space="preserve">
+    <value>미니 게임, 침공, 공성전 상태 변화, 희귀 아이템 드롭 같은 게임 이벤트를 서버 전체에 게시합니다(예: Discord 연동용).</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishMiniGameEvents_Name" xml:space="preserve">
+    <value>미니게임 이벤트 게시</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishInvasionEvents_Name" xml:space="preserve">
+    <value>침공 이벤트 게시</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishCastleSiegeEvents_Name" xml:space="preserve">
+    <value>공성전 이벤트 게시</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishGlobalNotices_Name" xml:space="preserve">
+    <value>게임마스터 글로벌 공지 게시</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishExcellentItemDrops_Name" xml:space="preserve">
+    <value>엑설런트 아이템 드롭 게시</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishAncientItemDrops_Name" xml:space="preserve">
+    <value>세트 아이템 드롭 게시</value>
+  </data>
+  <data name="PlayerShopCurrenciesFeaturePlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 화폐</value>
+  </data>
+  <data name="PlayerShopCurrenciesFeaturePlugIn_Description" xml:space="preserve">
+    <value>플레이어가 보석과 같은 구성된 아이템이나 계정 코인의 개인 상점에 있는 아이템 가격을 설정할 수 있습니다. 오픈 소스 클라이언트에만 이러한 가격이 표시됩니다. 다른 클라이언트와 함께 채팅 명령으로 설정할 수 있습니다.</value>
+  </data>
+  <data name="ShowShopCurrenciesAfterEnterWorldPlugIn_Name" xml:space="preserve">
+    <value>게임에 입장한 후 플레이어 상점 통화 표시</value>
+  </data>
+  <data name="ShowShopCurrenciesAfterEnterWorldPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 게임에 접속할 때 개인 상점 가격으로 사용할 수 있는 통화를 클라이언트에게 알려줍니다.</value>
+  </data>
+  <data name="ShopPriceChatCommandPlugIn_Name" xml:space="preserve">
+    <value>상점 가격 채팅 명령</value>
+  </data>
+  <data name="ShopPriceChatCommandPlugIn_Description" xml:space="preserve">
+    <value>개인 상점 아이템의 가격을 활성화된 화폐 중 하나로 설정합니다(예: '/shopprice 1 10 bless'). 인수 없이 사용하면 가격 목록을 보여 줍니다.</value>
+  </data>
+  <data name="ServerAnnouncementsPlugIn_Name" xml:space="preserve">
+    <value>서버 공지</value>
+  </data>
+  <data name="ServerAnnouncementsPlugIn_Description" xml:space="preserve">
+    <value>게임 서버의 모든 플레이어에게 구성된 알림 목록을 고정된 간격으로 차례로 표시합니다.</value>
+  </data>
+  <data name="ServerAnnouncementsConfiguration_Interval_Name" xml:space="preserve">
+    <value>간격</value>
+  </data>
+  <data name="ServerAnnouncementsConfiguration_Interval_Description" xml:space="preserve">
+    <value>한 발표와 다음 발표 사이의 시간입니다. 최소값은 10초입니다.</value>
+  </data>
+  <data name="ServerAnnouncementsConfiguration_Messages_Name" xml:space="preserve">
+    <value>공지사항</value>
+  </data>
+  <data name="ServerAnnouncementsConfiguration_Messages_Description" xml:space="preserve">
+    <value>공지사항이 표시되는 순서대로 표시됩니다. 마지막 것 이후에는 첫 번째 것부터 다시 시작됩니다.</value>
+  </data>
+  <data name="ServerAnnouncementsConfiguration_Text_Name" xml:space="preserve">
+    <value>텍스트</value>
+  </data>
+  <data name="ServerAnnouncementsConfiguration_Type_Name" xml:space="preserve">
+    <value>메시지 유형</value>
+  </data>
+  <data name="ServerAnnouncementsConfiguration_Type_Description" xml:space="preserve">
+    <value>공지 표시 방식입니다(예: 화면 중앙의 골드 메시지 또는 파란색 시스템 메시지).</value>
+  </data>
+  <data name="CastleSiegeRegistrationGuardsmanTalkPlugIn_Name" xml:space="preserve">
+    <value>공성전 등록 경비원</value>
+  </data>
+  <data name="CastleSiegeRegistrationGuardsmanTalkPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 공성전 지도에서 경비원과 대화할 때 공성전 상태를 표시하는 공성전 등록 창을 엽니다.</value>
+  </data>
+  <data name="CastleSiegeGuardsmanTalkPlugIn_Name" xml:space="preserve">
+    <value>공성전 경비병</value>
+  </data>
+  <data name="CastleSiegeGuardsmanTalkPlugIn_Description" xml:space="preserve">
+    <value>시험의 땅 이용 가능 여부와 해당 입장료를 보여줍니다.</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishBossKills_Name" xml:space="preserve">
+    <value>보스 킬 게시</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_BossMonsterNumbers_Name" xml:space="preserve">
+    <value>보스 몬스터 수</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishLevelMilestones_Name" xml:space="preserve">
+    <value>게시 레벨 이정표</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_LevelMilestones_Name" xml:space="preserve">
+    <value>레벨 이정표</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_MasterLevelMilestones_Name" xml:space="preserve">
+    <value>마스터 레벨 마일스톤</value>
+  </data>
+  <data name="DiscordChatCommandPlugIn_Name" xml:space="preserve">
+    <value>Discord 명령</value>
+  </data>
+  <data name="DiscordChatCommandPlugIn_Description" xml:space="preserve">
+    <value>계정을 Discord 사용자와 연결합니다. '/discord link'는 Discord에 입력할 코드를 만들고, '/discord unlink'는 연결을 해제합니다. '/discord notify letter'는 편지 개인 알림을 켜거나 끕니다('login'과 'friend'도 사용 가능).</value>
+  </data>
+  <data name="WorldChatChatCommandPlugIn_Name" xml:space="preserve">
+    <value>월드채팅 명령어</value>
+  </data>
+  <data name="WorldChatChatCommandPlugIn_Description" xml:space="preserve">
+    <value>모든 게임 서버의 모든 플레이어가 읽을 수 있는 월드 채팅으로 메시지를 보냅니다(예: '/world Hello!'). Discord와 연결할 수 있습니다.</value>
+  </data>
+  <data name="GameEventPublisherConfiguration_PublishChatMessages_Name" xml:space="preserve">
+    <value>길드, 동맹 및 월드 채팅 게시</value>
+  </data>
+  <data name="GuildChatBridgeNoticePlugIn_Name" xml:space="preserve">
+    <value>채팅 브릿지에 대한 공지</value>
+  </data>
+  <data name="GuildChatBridgeNoticePlugIn_Description" xml:space="preserve">
+    <value>길드나 동맹의 채팅이 Discord에 미러링되면 게임에 들어갈 때 플레이어에게 알려줍니다.</value>
+  </data>
+  <data name="DiscordIntegrationFeaturePlugIn_Name" xml:space="preserve">
+    <value>Discord 클라이언트 통합</value>
+  </data>
+  <data name="DiscordIntegrationFeaturePlugIn_Description" xml:space="preserve">
+    <value>서버가 Discord에 어떻게 연결되어 있는지(초대 링크, Rich Presence 애플리케이션, 계정 링크, 미러링된 채팅) 요청하는 게임 클라이언트에게 알려주고 플레이어가 클라이언트에서 자신의 계정을 연결할 수 있도록 하며 Discord에 작성된 메시지를 보냅니다.</value>
+  </data>
+  <data name="EliteHealingPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>엘리트 치유 물약 소비 핸들러</value>
+  </data>
+  <data name="EliteHealingPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>엘리트 치유 물약 소비를 처리하는 플러그인. 즉시 체력을 회복합니다.</value>
+  </data>
+  <data name="EliteManaPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>엘리트 마나 물약 소비 핸들러</value>
+  </data>
+  <data name="EliteManaPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>엘리트 마나 물약 소비를 처리하는 플러그인. 즉시 마나를 회복합니다.</value>
+  </data>
+  <data name="EliteShieldPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>엘리트 SD 포션 소비 핸들러</value>
+  </data>
+  <data name="EliteShieldPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>엘리트 SD 물약 소비를 처리하는 플러그인. 즉시 쉴드를 회복합니다.</value>
+  </data>
+  <data name="MediumEliteHealingPotionConsumeHandlerPlugIn_Name" xml:space="preserve">
+    <value>중형 엘리트 치유 물약 소비 핸들러</value>
+  </data>
+  <data name="MediumEliteHealingPotionConsumeHandlerPlugIn_Description" xml:space="preserve">
+    <value>중간 엘리트 치유 물약 소비를 처리하는 플러그인. 즉시 체력의 일부를 회복합니다.</value>
+  </data>
+</root>

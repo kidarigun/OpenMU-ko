@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+    <data name="IpResolverType_Auto_Name" xml:space="preserve">
+      <value>자동</value>
+    </data>
+    <data name="IpResolverType_Auto_Description" xml:space="preserve">
+      <value>환경을 고려하여 자동으로 IP를 감지합니다. 매개변수가 필요하지 않습니다.</value>
+    </data>
+    <data name="IpResolverType_Public_Name" xml:space="preserve">
+      <value>공개</value>
+    </data>
+    <data name="IpResolverType_Public_Description" xml:space="preserve">
+      <value>IP는 외부 서비스(https://www.ipify.org/))에 자신의 IP를 요청하여 감지합니다. 매개 변수가 필요하지 않습니다. 서버가 서버에서 실행되고 인터넷에서 연결할 수 있어야 하는 경우 이를 사용합니다. 게임, 연결 및 채팅 서버의 포트에 대해 방화벽이 열려 있어야 합니다.</value>
+    </data>
+    <data name="IpResolverType_Local_Name" xml:space="preserve">
+      <value>로컬</value>
+    </data>
+    <data name="IpResolverType_Local_Description" xml:space="preserve">
+      <value>자기 호스트 이름의 IP를 DNS에 질의해 IP를 찾습니다. 첫 번째 IP를 사용합니다. 매개변수는 필요 없습니다. 집처럼 로컬 LAN 안에서 서버를 사용할 때 선택하세요.</value>
+    </data>
+    <data name="IpResolverType_Loopback_Name" xml:space="preserve">
+      <value>루프백</value>
+    </data>
+    <data name="IpResolverType_Loopback_Description" xml:space="preserve">
+      <value>IP를 '127.127.127.127'로 지정합니다. 매개변수는 필요 없습니다. 개발 중처럼 서버와 클라이언트를 내 컴퓨터 안에서만 사용할 때 선택하세요.</value>
+    </data>
+    <data name="IpResolverType_Custom_Name" xml:space="preserve">
+      <value>맞춤</value>
+    </data>
+    <data name="IpResolverType_Custom_Description" xml:space="preserve">
+      <value>IP 또는 호스트 이름은 수동으로 설정할 수 있습니다. 다른 옵션이 작동하지 않는 경우 이 옵션을 사용하세요.</value>
+    </data>
+</root>

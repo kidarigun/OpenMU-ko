@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Agnis" xml:space="preserve">
+    <value>아그니스</value>
+  </data>
+  <data name="Anonymous" xml:space="preserve">
+    <value>익명</value>
+  </data>
+  <data name="Anubis" xml:space="preserve">
+    <value>아누비스</value>
+  </data>
+  <data name="Apollo" xml:space="preserve">
+    <value>아폴로</value>
+  </data>
+  <data name="Argo" xml:space="preserve">
+    <value>아르고</value>
+  </data>
+  <data name="Aruan" xml:space="preserve">
+    <value>아루안</value>
+  </data>
+  <data name="Barnake" xml:space="preserve">
+    <value>바르네이크</value>
+  </data>
+  <data name="Berserker" xml:space="preserve">
+    <value>버서커</value>
+  </data>
+  <data name="Broy" xml:space="preserve">
+    <value>브로이</value>
+  </data>
+  <data name="Ceto" xml:space="preserve">
+    <value>세토</value>
+  </data>
+  <data name="Chrono" xml:space="preserve">
+    <value>크로노</value>
+  </data>
+  <data name="Cloud" xml:space="preserve">
+    <value>클라우드</value>
+  </data>
+  <data name="Drake" xml:space="preserve">
+    <value>드레이크</value>
+  </data>
+  <data name="Elvian" xml:space="preserve">
+    <value>엘비안</value>
+  </data>
+  <data name="Enis" xml:space="preserve">
+    <value>에니스</value>
+  </data>
+  <data name="Eplete" xml:space="preserve">
+    <value>이플렛</value>
+  </data>
+  <data name="Evis" xml:space="preserve">
+    <value>에비스</value>
+  </data>
+  <data name="Fase" xml:space="preserve">
+    <value>페이즈</value>
+  </data>
+  <data name="Gaia" xml:space="preserve">
+    <value>가이아</value>
+  </data>
+  <data name="Gaion" xml:space="preserve">
+    <value>가이온</value>
+  </data>
+  <data name="Garuda" xml:space="preserve">
+    <value>가루다</value>
+  </data>
+  <data name="Gywen" xml:space="preserve">
+    <value>기웬</value>
+  </data>
+  <data name="Heras" xml:space="preserve">
+    <value>헤라스</value>
+  </data>
+  <data name="Hyon" xml:space="preserve">
+    <value>현</value>
+  </data>
+  <data name="Hyperion" xml:space="preserve">
+    <value>하이페리온</value>
+  </data>
+  <data name="Kantata" xml:space="preserve">
+    <value>칸타타</value>
+  </data>
+  <data name="Karis" xml:space="preserve">
+    <value>카리스</value>
+  </data>
+  <data name="Minet" xml:space="preserve">
+    <value>미네트</value>
+  </data>
+  <data name="Mist" xml:space="preserve">
+    <value>안개</value>
+  </data>
+  <data name="Muren" xml:space="preserve">
+    <value>무렌</value>
+  </data>
+  <data name="Odin" xml:space="preserve">
+    <value>오딘</value>
+  </data>
+  <data name="Rave" xml:space="preserve">
+    <value>레이브</value>
+  </data>
+  <data name="Semeden" xml:space="preserve">
+    <value>세메덴</value>
+  </data>
+  <data name="Sylion" xml:space="preserve">
+    <value>실리온</value>
+  </data>
+  <data name="Vicious" xml:space="preserve">
+    <value>악순환</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>전사</value>
+  </data>
+  <data name="Vega" xml:space="preserve">
+    <value>베가</value>
+  </data>
+  <data name="Chamer" xml:space="preserve">
+    <value>체이머</value>
+  </data>
+</root>

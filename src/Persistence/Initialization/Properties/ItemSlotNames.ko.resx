@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Pet" xml:space="preserve">
+    <value>펫</value>
+  </data>
+  <data name="LeftHand" xml:space="preserve">
+    <value>왼손</value>
+  </data>
+  <data name="RightHand" xml:space="preserve">
+    <value>오른손</value>
+  </data>
+  <data name="Boots" xml:space="preserve">
+    <value>부츠</value>
+  </data>
+  <data name="Gloves" xml:space="preserve">
+    <value>장갑</value>
+  </data>
+  <data name="Pants" xml:space="preserve">
+    <value>바지</value>
+  </data>
+  <data name="Armor" xml:space="preserve">
+    <value>갑옷</value>
+  </data>
+  <data name="Helm" xml:space="preserve">
+    <value>투구</value>
+  </data>
+  <data name="LeftOrRightHand" xml:space="preserve">
+    <value>왼손 또는 오른손</value>
+  </data>
+  <data name="Ring" xml:space="preserve">
+    <value>반지</value>
+  </data>
+  <data name="Pendant" xml:space="preserve">
+    <value>펜던트</value>
+  </data>
+  <data name="Wings" xml:space="preserve">
+    <value>날개</value>
+  </data>
+</root>

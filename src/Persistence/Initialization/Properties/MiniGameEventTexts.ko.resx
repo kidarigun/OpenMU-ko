@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="StageTerrainChangeEvent" xml:space="preserve">
+    <value>스테이지 지형 변경 이벤트</value>
+  </data>
+  <data name="StatueSpawnEvent" xml:space="preserve">
+    <value>동상 생성 이벤트</value>
+  </data>
+  <data name="KundunMinionsHaveBeenSubduedDestroyTheCrystalStatue" xml:space="preserve">
+    <value>쿤둔 하수인이 제압되었습니다! 크리스탈 조각상을 파괴하세요!</value>
+  </data>
+  <data name="GateToggleEvent" xml:space="preserve">
+    <value>게이트 토글 이벤트</value>
+  </data>
+  <data name="Level0HasDemolishedTheCastleGate" xml:space="preserve">
+    <value>{0}이 성문을 철거했습니다!</value>
+  </data>
+  <data name="BridgeToggleEvent" xml:space="preserve">
+    <value>브리지 토글 이벤트</value>
+  </data>
+  <data name="EnoughMonsterKillsNowDestroyTheCastleGate" xml:space="preserve">
+    <value>몬스터를 충분히 처치했다면 이제 성문을 파괴하세요!</value>
+  </data>
+  <data name="EntranceToggleEvent" xml:space="preserve">
+    <value>입장 토글 이벤트</value>
+  </data>
+</root>

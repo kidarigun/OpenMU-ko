@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Sub-Packet Handlers" xml:space="preserve">
+    <value>하위 패킷 처리기</value>
+  </data>
+  <data name="Plugin Container for sub packet handlers which belong to a group." xml:space="preserve">
+    <value>플러그인 그룹에 속하는 하위 패킷 핸들러에 대한 컨테이너입니다.</value>
+  </data>
+  <data name="Packet Handlers" xml:space="preserve">
+    <value>패킷 핸들러</value>
+  </data>
+  <data name="Plugin Container for packet handlers." xml:space="preserve">
+    <value>플러그인 패킷 처리기용 컨테이너입니다.</value>
+  </data>
+  <data name="Network Encryption Factories" xml:space="preserve">
+    <value>네트워크 암호화 팩토리</value>
+  </data>
+  <data name="Plugins which will be executed when a client connects to a server. It provides network packet encryptors and decryptors for a specific game client version." xml:space="preserve">
+    <value>클라이언트가 서버에 접속할 때 실행될 플러그인입니다. 특정 게임 클라이언트 버전에 대한 네트워크 패킷 암호화기 및 해독기를 제공합니다.</value>
+  </data>
+  <data name="Data initialization" xml:space="preserve">
+    <value>데이터 초기화</value>
+  </data>
+  <data name="Provides an initialization for initial data." xml:space="preserve">
+    <value>초기 데이터에 대한 초기화를 제공합니다.</value>
+  </data>
+  <data name="Configuration update" xml:space="preserve">
+    <value>구성 업데이트</value>
+  </data>
+  <data name="Provides updates for initialized data." xml:space="preserve">
+    <value>초기화된 데이터에 대한 업데이트를 제공합니다.</value>
+  </data>
+  <data name="Feature Plugins" xml:space="preserve">
+    <value>기능 플러그인</value>
+  </data>
+  <data name="Feature plugins can group other plugins and provide a configuration." xml:space="preserve">
+    <value>기능 플러그인은 다른 플러그인을 그룹화하고 구성을 제공할 수 있습니다.</value>
+  </data>
+  <data name="Object removed from map" xml:space="preserve">
+    <value>지도에서 개체가 제거되었습니다.</value>
+  </data>
+  <data name="Plugins which will be executed when any object is removed from the game map." xml:space="preserve">
+    <value>게임 맵에서 개체가 제거될 때 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Item moving" xml:space="preserve">
+    <value>아이템 이동</value>
+  </data>
+  <data name="Plugins which are called when an item is about to be moved by the player." xml:space="preserve">
+    <value>플레이어가 아이템을 이동하려고 할 때 호출되는 플러그인입니다.</value>
+  </data>
+  <data name="Targeted skill plugins" xml:space="preserve">
+    <value>타겟 스킬 플러그인</value>
+  </data>
+  <data name="Is called when a target got attacked by a targeted skill." xml:space="preserve">
+    <value>대상이 대상 스킬에 공격을 받았을 때 호출됩니다.</value>
+  </data>
+  <data name="Area skill target filter" xml:space="preserve">
+    <value>지역 스킬 대상 필터</value>
+  </data>
+  <data name="Plugins which will be executed when an area skill is about to hit its targets. It allows to filter out targets which are out of range." xml:space="preserve">
+    <value>광역 스킬이 목표물에 명중하려고 할 때 실행되는 플러그인입니다. 범위를 벗어난 대상을 필터링할 수 있습니다.</value>
+  </data>
+  <data name="Player spawn gate selection" xml:space="preserve">
+    <value>플레이어 스폰 게이트 선택</value>
+  </data>
+  <data name="Plugins which determine the gate at which a player is spawned." xml:space="preserve">
+    <value>플레이어가 생성되는 게이트를 결정하는 플러그인입니다.</value>
+  </data>
+  <data name="Item sold to merchant npc" xml:space="preserve">
+    <value>상인 npc에게 판매된 아이템</value>
+  </data>
+  <data name="Is called when an item got sold to a merchant npc." xml:space="preserve">
+    <value>아이템이 상인 npc에게 팔렸을 때 호출됩니다.</value>
+  </data>
+  <data name="Character deleted" xml:space="preserve">
+    <value>삭제된 캐릭터</value>
+  </data>
+  <data name="Is called when a character got deleted." xml:space="preserve">
+    <value>캐릭터가 삭제되었을 때 호출됩니다.</value>
+  </data>
+  <data name="Player talks to NPC" xml:space="preserve">
+    <value>플레이어가 NPC와 대화합니다.</value>
+  </data>
+  <data name="Plugins which will be executed when a player talks to an npc." xml:space="preserve">
+    <value>플레이어가 npc와 대화할 때 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Object added to map" xml:space="preserve">
+    <value>지도에 개체가 추가되었습니다.</value>
+  </data>
+  <data name="Plugins which will be executed when any object is added to the game map." xml:space="preserve">
+    <value>게임 맵에 개체가 추가될 때 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Chat message received" xml:space="preserve">
+    <value>채팅 메시지 수신됨</value>
+  </data>
+  <data name="Plugins which will be executed when a chat message arrives." xml:space="preserve">
+    <value>채팅 메시지가 도착하면 실행될 플러그인입니다.</value>
+  </data>
+  <data name="Item sold to other player" xml:space="preserve">
+    <value>다른 플레이어에게 판매된 아이템</value>
+  </data>
+  <data name="Is called when an item got sold to another player through the personal store." xml:space="preserve">
+    <value>개인 상점을 통해 아이템이 다른 플레이어에게 판매되었을 때 호출됩니다.</value>
+  </data>
+  <data name="Attackable moved" xml:space="preserve">
+    <value>공격 가능 이동됨</value>
+  </data>
+  <data name="Plugins which are called when an attackable object moved on the game map." xml:space="preserve">
+    <value>게임 맵에서 공격 가능한 개체가 움직일 때 호출되는 플러그인입니다.</value>
+  </data>
+  <data name="Item consumed" xml:space="preserve">
+    <value>소비된 아이템</value>
+  </data>
+  <data name="Plugins which will be executed when an item got consumed." xml:space="preserve">
+    <value>아이템이 소모되었을 때 실행될 플러그인입니다.</value>
+  </data>
+  <data name="Attackable got hit" xml:space="preserve">
+    <value>공격 가능이 맞았습니다</value>
+  </data>
+  <data name="Plugins which will be executed when an attackable object got hit by an attacker." xml:space="preserve">
+    <value>공격 가능한 개체가 공격자에게 맞았을 때 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Player gained master level" xml:space="preserve">
+    <value>플레이어가 마스터 레벨을 얻었습니다.</value>
+  </data>
+  <data name="Plugins which will be executed when a player gained a master level." xml:space="preserve">
+    <value>플레이어가 마스터 레벨을 획득하면 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Attackable got killed" xml:space="preserve">
+    <value>공격 가능자가 사망했습니다.</value>
+  </data>
+  <data name="Plugins which will be executed when an attackable object got killed by an attacker." xml:space="preserve">
+    <value>공격 가능한 개체가 공격자에 의해 죽었을 때 실행될 플러그인입니다.</value>
+  </data>
+  <data name="Area skill plugins" xml:space="preserve">
+    <value>지역 스킬 플러그인</value>
+  </data>
+  <data name="Is called when a target got attacked by an area skill." xml:space="preserve">
+    <value>대상이 광역 스킬에 공격을 받았을 때 호출됩니다.</value>
+  </data>
+  <data name="Player gained experience" xml:space="preserve">
+    <value>플레이어가 경험치를 얻었습니다.</value>
+  </data>
+  <data name="Plugins which are executed after a player gained experience for a kill." xml:space="preserve">
+    <value>플레이어가 킬 경험치를 얻은 후에 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Item dropping" xml:space="preserve">
+    <value>아이템 드랍</value>
+  </data>
+  <data name="Plugins which are called when an item has been dropped to the ground by the player." xml:space="preserve">
+    <value>플레이어가 아이템을 땅에 떨어뜨렸을 때 호출되는 플러그인입니다.</value>
+  </data>
+  <data name="Item destroyed" xml:space="preserve">
+    <value>아이템이 파괴됨</value>
+  </data>
+  <data name="Is called when an item got destroyed, e.g. because it has been consumed or destroyed by the chaos machine or disappeared as item drop." xml:space="preserve">
+    <value>아이템이 파괴되었을 때 호출됩니다(예: 사용되었거나, 카오스 조합에서 파괴되었거나, 드롭된 아이템이 사라진 경우).</value>
+  </data>
+  <data name="Player state changed" xml:space="preserve">
+    <value>플레이어 상태가 변경됨</value>
+  </data>
+  <data name="Is called when a player state got changed." xml:space="preserve">
+    <value>플레이어 상태가 변경되면 호출됩니다.</value>
+  </data>
+  <data name="Item bought from merchant npc" xml:space="preserve">
+    <value>상인 npc에게서 구매한 아이템</value>
+  </data>
+  <data name="Is called when an item got bought from a merchant npc." xml:space="preserve">
+    <value>상인 NPC로부터 아이템을 구매했을 때 호출됩니다.</value>
+  </data>
+  <data name="Whisper chat message received" xml:space="preserve">
+    <value>귓속말 채팅 메시지 수신됨</value>
+  </data>
+  <data name="Plugins which will be executed when a whispered chat message arrives." xml:space="preserve">
+    <value>귓속말 채팅 메시지가 도착하면 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Item stacked" xml:space="preserve">
+    <value>아이템 쌓임</value>
+  </data>
+  <data name="Plugins which are called when an item has been stacked by the player." xml:space="preserve">
+    <value>플레이어가 아이템을 쌓았을 때 호출되는 플러그인입니다.</value>
+  </data>
+  <data name="Item moved" xml:space="preserve">
+    <value>아이템이 이동되었습니다.</value>
+  </data>
+  <data name="Plugins which are called when an item has been moved by the player." xml:space="preserve">
+    <value>플레이어가 아이템을 이동할 때 호출되는 플러그인입니다.</value>
+  </data>
+  <data name="Player leveled up" xml:space="preserve">
+    <value>플레이어 레벨 업</value>
+  </data>
+  <data name="Plugins which will be executed when a player leveled up." xml:space="preserve">
+    <value>플레이어가 레벨업하면 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Character created" xml:space="preserve">
+    <value>생성된 캐릭터</value>
+  </data>
+  <data name="Is called when a character got created." xml:space="preserve">
+    <value>캐릭터가 생성되면 호출됩니다.</value>
+  </data>
+  <data name="Speedhack Cheat Check" xml:space="preserve">
+    <value>Speedhack 치트 체크</value>
+  </data>
+  <data name="Is called for walk/attack speedhack checks and movement state resets." xml:space="preserve">
+    <value>walk/attack speedhack 검사 및 이동 상태 재설정을 위해 호출됩니다.</value>
+  </data>
+  <data name="Item traded" xml:space="preserve">
+    <value>거래되는 아이템</value>
+  </data>
+  <data name="Is called when an item got traded to another player." xml:space="preserve">
+    <value>아이템이 다른 플레이어에게 거래되었을 때 호출됩니다.</value>
+  </data>
+  <data name="Item consuming" xml:space="preserve">
+    <value>아이템 소모</value>
+  </data>
+  <data name="Plugins which will be executed when an item is about to get consumed." xml:space="preserve">
+    <value>아이템이 소모되려고 할 때 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Periodic Tasks" xml:space="preserve">
+    <value>정기적인 작업</value>
+  </data>
+  <data name="Is called in an periodic interval." xml:space="preserve">
+    <value>주기적으로 호출됩니다.</value>
+  </data>
+  <data name="Player state changing" xml:space="preserve">
+    <value>플레이어 상태 변경</value>
+  </data>
+  <data name="Is called when a player state changes." xml:space="preserve">
+    <value>플레이어 상태가 변경되면 호출됩니다.</value>
+  </data>
+  <data name="Experience calculation" xml:space="preserve">
+    <value>경험치 계산</value>
+  </data>
+  <data name="Plugins which modify the amount of experience which a player gains for a kill." xml:space="preserve">
+    <value>플레이어가 킬을 통해 얻는 경험치의 양을 수정하는 플러그인입니다.</value>
+  </data>
+  <data name="Periodic Mini Game Start Plugins" xml:space="preserve">
+    <value>정기적인 미니 게임 시작 플러그인</value>
+  </data>
+  <data name="Plugin Container for mini game start plugins, e.g. for chaos castle." xml:space="preserve">
+    <value>미니 게임 시작 플러그인의 컨테이너입니다(예: 카오스 캐슬).</value>
+  </data>
+  <data name="Chat commands" xml:space="preserve">
+    <value>채팅 명령</value>
+  </data>
+  <data name="Plugins which will be executed when a chat message arrives with a slash prefix." xml:space="preserve">
+    <value>슬래시 접두어가 포함된 채팅 메시지가 도착할 때 실행되는 플러그인입니다.</value>
+  </data>
+  <data name="Item consume handlers" xml:space="preserve">
+    <value>아이템 소비 핸들러</value>
+  </data>
+  <data name="Plugins which will be executed to consume an item." xml:space="preserve">
+    <value>아이템을 소비하기 위해 실행될 플러그인입니다.</value>
+  </data>
+  <data name="Item Registration Strategies" xml:space="preserve">
+    <value>아이템 등록 전략</value>
+  </data>
+  <data name="Plugins which implement item registration for specific NPCs." xml:space="preserve">
+    <value>특정 NPC에 대한 아이템 등록을 구현하는 플러그인입니다.</value>
+  </data>
+  <data name="View PlugIns" xml:space="preserve">
+    <value>PlugIns 보기</value>
+  </data>
+  <data name="This is a custom plugin point which collects all view plugins which are suitable for a specific game client version." xml:space="preserve">
+    <value>이는 특정 게임 클라이언트 버전에 적합한 모든 보기 플러그인을 수집하는 사용자 정의 플러그인 포인트입니다.</value>
+  </data>
+  <data name="Skill animation counter strategies" xml:space="preserve">
+    <value>스킬 애니메이션 카운터 전략</value>
+  </data>
+  <data name="Plugins which describe how the game client counts the animations of specific skills." xml:space="preserve">
+    <value>게임 클라이언트가 특정 스킬의 애니메이션을 계산하는 방법을 설명하는 플러그인입니다.</value>
+  </data>
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <data name="Alex" xml:space="preserve"><value>알렉스</value></data>
+  <data name="ThompsonTheMerchant" xml:space="preserve"><value>상인 톰슨</value></data>
+  <data name="ElfLala" xml:space="preserve"><value>엘프 라라</value></data>
+  <data name="EoTheCraftsman" xml:space="preserve"><value>장인 에오</value></data>
+  <data name="CarenTheBarmaid" xml:space="preserve"><value>바텐더 카렌</value></data>
+  <data name="IzabelTheWizard" xml:space="preserve"><value>이자벨 마법사</value></data>
+  <data name="ZiennaTheWeaponsMerchant" xml:space="preserve"><value>무기 상인 지에나</value></data>
+  <data name="WanderingMerchantMartin" xml:space="preserve"><value>떠돌이 상인 마틴</value></data>
+  <data name="WanderingMerchantHarold" xml:space="preserve"><value>떠돌이 상인 해롤드</value></data>
+  <data name="HanzoTheBlacksmith" xml:space="preserve"><value>대장장이 한조</value></data>
+  <data name="PotionGirlAmy" xml:space="preserve"><value>포션 걸 에이미</value></data>
+  <data name="PasiTheMage" xml:space="preserve"><value>파시 더 메이지</value></data>
+  <data name="LumenTheBarmaid" xml:space="preserve"><value>바텐더 루멘</value></data>
+  <data name="OracleLayla" xml:space="preserve"><value>오라클 레일라</value></data>
+  <data name="Silvia" xml:space="preserve"><value>실비아</value></data>
+  <data name="Rhea" xml:space="preserve"><value>레아</value></data>
+  <data name="Marce" xml:space="preserve"><value>마르스</value></data>
+  <data name="LeinaTheGeneralGoodsMerchant" xml:space="preserve"><value>잡화상인 레이나</value></data>
+  <data name="WeaponsMerchantBolo" xml:space="preserve"><value>무기 상인 볼로</value></data>
+</root>

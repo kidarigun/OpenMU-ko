@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="BoxOfLuckMoney" xml:space="preserve">
+    <value>행운의 상자 - 돈</value>
+  </data>
+  <data name="RingOfWarrior80Money" xml:space="preserve">
+    <value>링 오브 워리어 80 - 돈</value>
+  </data>
+  <data name="RingOfWarrior80" xml:space="preserve">
+    <value>링 오브 워리어 80</value>
+  </data>
+  <data name="RingOfWarrior40Money" xml:space="preserve">
+    <value>링 오브 워리어 40 - 돈</value>
+  </data>
+  <data name="RingOfWarrior40" xml:space="preserve">
+    <value>전사의 반지 40</value>
+  </data>
+  <data name="HeartOfDarkLordMoney" xml:space="preserve">
+    <value>다크로드의 심장 - 돈</value>
+  </data>
+  <data name="HeartOfDarkLord" xml:space="preserve">
+    <value>다크로드의 심장</value>
+  </data>
+  <data name="BoxOfKundunPlus5Money" xml:space="preserve">
+    <value>쿤둔+5 상자 - 돈</value>
+  </data>
+  <data name="BoxOfKundunPlus5" xml:space="preserve">
+    <value>쿤둔+5 상자</value>
+  </data>
+  <data name="BoxOfKundunPlus4Money" xml:space="preserve">
+    <value>쿤둔+4 상자 - 돈</value>
+  </data>
+  <data name="BoxOfKundunPlus4" xml:space="preserve">
+    <value>쿤둔+4 상자</value>
+  </data>
+  <data name="BoxOfKundunPlus3Money" xml:space="preserve">
+    <value>쿤둔+3 상자 - 돈</value>
+  </data>
+  <data name="BoxOfKundunPlus3" xml:space="preserve">
+    <value>쿤둔+3 상자</value>
+  </data>
+  <data name="BoxOfKundunPlus2Money" xml:space="preserve">
+    <value>쿤둔+2 상자 - 돈</value>
+  </data>
+  <data name="BoxOfKundunPlus2" xml:space="preserve">
+    <value>쿤둔+2 상자</value>
+  </data>
+  <data name="BoxOfKundunPlus1Money" xml:space="preserve">
+    <value>쿤둔+1 상자 - 돈</value>
+  </data>
+  <data name="BoxOfKundunPlus1" xml:space="preserve">
+    <value>쿤둔+1 상자</value>
+  </data>
+  <data name="BoxOfHeavenMoney" xml:space="preserve">
+    <value>천국의 상자 - 돈</value>
+  </data>
+  <data name="BoxOfHeaven" xml:space="preserve">
+    <value>천국의 상자</value>
+  </data>
+  <data name="GoldMedalMoney" xml:space="preserve">
+    <value>금메달 - 돈</value>
+  </data>
+  <data name="GoldMedal" xml:space="preserve">
+    <value>금메달</value>
+  </data>
+  <data name="SilverMedalMoney" xml:space="preserve">
+    <value>은메달 - 돈</value>
+  </data>
+  <data name="SilverMedal" xml:space="preserve">
+    <value>은메달</value>
+  </data>
+  <data name="HeartOfLoveItemsPlus7ToPlus9Money" xml:space="preserve">
+    <value>사랑의 마음 (아이템 +7 ~ +9) - 돈</value>
+  </data>
+  <data name="HeartOfLoveItemsPlus7ToPlus9" xml:space="preserve">
+    <value>사랑의 마음 (아이템 +7 ~ +9)</value>
+  </data>
+  <data name="HeartOfLoveJewelsEtc" xml:space="preserve">
+    <value>사랑의 마음(보석 등)</value>
+  </data>
+  <data name="FirecrackerItemsPlus7ToPlus9Money" xml:space="preserve">
+    <value>폭죽(아이템 +7~+9) - 돈</value>
+  </data>
+  <data name="FirecrackerItemsPlus7ToPlus9" xml:space="preserve">
+    <value>폭죽(아이템 +7~+9)</value>
+  </data>
+  <data name="FirecrackerJewelsEtc" xml:space="preserve">
+    <value>폭죽(보석 등)</value>
+  </data>
+  <data name="StarOfTheSacredBirth" xml:space="preserve">
+    <value>신성한 탄생의 별</value>
+  </data>
+  <data name="FirecrackerDropEffect" xml:space="preserve">
+    <value>폭죽 - 드롭 효과</value>
+  </data>
+  <data name="ChristmasFirecrackerDropEffect" xml:space="preserve">
+    <value>크리스마스 폭죽 - 드롭 효과</value>
+  </data>
+  <data name="ChristmasStarDropEffect" xml:space="preserve">
+    <value>크리스마스 스타 - 드롭 효과</value>
+  </data>
+  <data name="BlueRibbonBoxMoney" xml:space="preserve">
+    <value>블루 리본 상자 - 돈</value>
+  </data>
+  <data name="BlueRibbonBoxExcellentItems" xml:space="preserve">
+    <value>파란색 리본 상자 - 엑설런트 아이템</value>
+  </data>
+  <data name="BlueRibbonBoxNormalItems" xml:space="preserve">
+    <value>블루 리본 상자 - 일반 아이템</value>
+  </data>
+  <data name="GreenRibbonBoxMoney" xml:space="preserve">
+    <value>녹색 리본 상자 - 돈</value>
+  </data>
+  <data name="GreenRibbonBoxExcellentItems" xml:space="preserve">
+    <value>녹색 리본 상자 - 엑설런트 아이템</value>
+  </data>
+  <data name="GreenRibbonBoxNormalItems" xml:space="preserve">
+    <value>녹색 리본 상자 - 일반 아이템</value>
+  </data>
+  <data name="RedRibbonBoxMoney" xml:space="preserve">
+    <value>빨간 리본 상자 - 돈</value>
+  </data>
+  <data name="DeepBlueCandyBoxMoney" xml:space="preserve">
+    <value>딥블루 사탕 상자 - 돈</value>
+  </data>
+  <data name="BlueChocolateBoxExcellentItems" xml:space="preserve">
+    <value>블루 초콜릿 상자 - 엑설런트 아이템</value>
+  </data>
+  <data name="BlueChocolateBoxMoney" xml:space="preserve">
+    <value>블루 초콜릿 상자 - 돈</value>
+  </data>
+  <data name="VermilionCandyBoxMoney" xml:space="preserve">
+    <value>주홍색 사탕 상자 - 돈</value>
+  </data>
+  <data name="VermilionCandyBoxExcellentItems" xml:space="preserve">
+    <value>주홍색 사탕 상자 - 엑설런트 아이템</value>
+  </data>
+  <data name="VermilionCandyBoxNormalItems" xml:space="preserve">
+    <value>주홍색 사탕 상자 - 일반 아이템</value>
+  </data>
+  <data name="RedChocolateBoxMoney" xml:space="preserve">
+    <value>레드 초콜릿 상자 - 돈</value>
+  </data>
+  <data name="RedChocolateBoxExcellentItems" xml:space="preserve">
+    <value>레드 초콜릿 상자 - 엑설런트 아이템</value>
+  </data>
+  <data name="RedChocolateBoxNormalItems" xml:space="preserve">
+    <value>레드 초콜릿 상자 - 일반 아이템</value>
+  </data>
+  <data name="LightPurpleCandyBoxMoney" xml:space="preserve">
+    <value>밝은 보라색 사탕 상자 - 돈</value>
+  </data>
+  <data name="LightPurpleCandyBoxExcellentItems" xml:space="preserve">
+    <value>밝은 보라색 사탕 상자 - 엑설런트 아이템</value>
+  </data>
+  <data name="LightPurpleCandyBoxNormalItems" xml:space="preserve">
+    <value>연한 보라색 사탕 상자 - 일반 아이템</value>
+  </data>
+  <data name="PinkChocolateBoxMoney" xml:space="preserve">
+    <value>핑크 초콜릿 상자 - 돈</value>
+  </data>
+  <data name="PinkChocolateBoxExcellentItems" xml:space="preserve">
+    <value>핑크 초콜릿 상자 - 엑설런트 아이템</value>
+  </data>
+  <data name="PinkChocolateBoxNormalItems" xml:space="preserve">
+    <value>핑크 초콜릿 상자 - 일반 아이템</value>
+  </data>
+  <data name="ShiningJewelleryCaseJewels" xml:space="preserve">
+    <value>빛나는 주얼리 케이스 - 보석</value>
+  </data>
+  <data name="ShiningJewelleryCaseMoney" xml:space="preserve">
+    <value>빛나는 주얼리 케이스 - 돈</value>
+  </data>
+  <data name="ElegantJewelleryCaseJewels" xml:space="preserve">
+    <value>우아한 주얼리 케이스 - 보석</value>
+  </data>
+  <data name="ElegantJewelleryCaseMoney" xml:space="preserve">
+    <value>우아한 주얼리 케이스 - 돈</value>
+  </data>
+  <data name="SteelJewelleryCaseJewels" xml:space="preserve">
+    <value>스틸 주얼리 케이스 - 주얼리</value>
+  </data>
+  <data name="SteelJewelleryCaseMoney" xml:space="preserve">
+    <value>스틸 주얼리 케이스 - 돈</value>
+  </data>
+  <data name="OldJewelleryCaseJewels" xml:space="preserve">
+    <value>오래된 보석 케이스 - 보석</value>
+  </data>
+  <data name="OldJewelleryCaseMoney" xml:space="preserve">
+    <value>낡은 보석함 - 돈</value>
+  </data>
+</root>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="TheJewelsDropItemGroup01PercentDropChance" xml:space="preserve">
+    <value>보석 드롭 아이템 그룹(드랍 확률 0.1%)</value>
+  </data>
+  <data name="TheCommonDropItemGroupForRandomItems30PercentDropChance" xml:space="preserve">
+    <value>무작위 아이템의 공통 드롭 아이템 그룹(드랍 확률 30%)</value>
+  </data>
+  <data name="TheCommonMoneyDropItemGroup50PercentDropChance" xml:space="preserve">
+    <value>일반 머니 드롭 아이템 그룹 (드랍 확률 50%)</value>
+  </data>
+  <data name="TheCommonDropItemGroupForRandomExcellentItems001PercentDropChance" xml:space="preserve">
+    <value>무작위 엑설런트 아이템에 대한 공통 드롭 아이템 그룹(드랍 확률 0.01%)</value>
+  </data>
+  <data name="ItemsFromRedDragon" xml:space="preserve">
+    <value>레드 드래곤의 아이템</value>
+  </data>
+  <data name="BoxOfKundunPlus2" xml:space="preserve">
+    <value>쿤둔 상자 +2</value>
+  </data>
+  <data name="BoxOfLuck" xml:space="preserve">
+    <value>행운의 상자</value>
+  </data>
+  <data name="TheDropItemGroupForSymbolOfKundunLevel7" xml:space="preserve">
+    <value>쿤둔 기호에 대한 드롭 아이템 그룹(레벨 7)</value>
+  </data>
+  <data name="TheDropItemGroupForSymbolOfKundunLevel6" xml:space="preserve">
+    <value>쿤둔 기호에 대한 드롭 아이템 그룹(레벨 6)</value>
+  </data>
+  <data name="TheDropItemGroupForSymbolOfKundunLevel5" xml:space="preserve">
+    <value>쿤둔 기호에 대한 드롭 아이템 그룹(레벨 5)</value>
+  </data>
+  <data name="TheDropItemGroupForSymbolOfKundunLevel4" xml:space="preserve">
+    <value>쿤둔 기호에 대한 드롭 아이템 그룹(레벨 4)</value>
+  </data>
+  <data name="TheDropItemGroupForSymbolOfKundunLevel3" xml:space="preserve">
+    <value>쿤둔 기호에 대한 드롭 아이템 그룹(레벨 3)</value>
+  </data>
+  <data name="TheDropItemGroupForSymbolOfKundunLevel2" xml:space="preserve">
+    <value>쿤둔 기호에 대한 드롭 아이템 그룹(레벨 2)</value>
+  </data>
+  <data name="TheDropItemGroupForSymbolOfKundunLevel1" xml:space="preserve">
+    <value>쿤둔 기호에 대한 드롭 아이템 그룹(레벨 1)</value>
+  </data>
+  <data name="DarkRavenSpirit" xml:space="preserve">
+    <value>다크 레이븐 스피릿</value>
+  </data>
+  <data name="DarkHorseSpirit" xml:space="preserve">
+    <value>다크호스 스피릿</value>
+  </data>
+  <data name="SignOfDimensions" xml:space="preserve">
+    <value>차원의 표시</value>
+  </data>
+  <data name="QuestItemBrokenSwordDarkStoneBladeKnight" xml:space="preserve">
+    <value>퀘스트 아이템 '부러진 검;암흑석' (블레이드나이트)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorBloodySummoner" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (블러디서머너)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorMuseElf" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (뮤즈엘프)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorSoulMaster" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (소울마스터)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorBladeKnight" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (블레이드나이트)</value>
+  </data>
+  <data name="CrestOfMonarch" xml:space="preserve">
+    <value>군주의 문장</value>
+  </data>
+  <data name="LochsFeather" xml:space="preserve">
+    <value>호수의 깃털</value>
+  </data>
+  <data name="QuestItemFeatherOfDarkPhoenix" xml:space="preserve">
+    <value>퀘스트 아이템 '다크 피닉스의 깃털' ()</value>
+  </data>
+  <data name="QuestItemHornOfHellMaine" xml:space="preserve">
+    <value>퀘스트 아이템 '지옥의 뿔메인' ()</value>
+  </data>
+  <data name="QuestItemFlameOfDeathBeamKnight" xml:space="preserve">
+    <value>퀘스트 아이템 '플레임 오브 데스빔 나이트' ()</value>
+  </data>
+  <data name="QuestItemEyeOfAbyssalSummoner" xml:space="preserve">
+    <value>퀘스트 아이템 '심연의 눈'(소환술사)</value>
+  </data>
+  <data name="QuestItemSoulShardOfWizardDarkWizard" xml:space="preserve">
+    <value>퀘스트 아이템 '마법사의 영혼 조각'(흑마법사)</value>
+  </data>
+  <data name="QuestItemTearOfElfFairyElf" xml:space="preserve">
+    <value>퀘스트 아이템 '엘프의 눈물'(요정)</value>
+  </data>
+  <data name="QuestItemBrokenSwordDarkStoneDarkKnight" xml:space="preserve">
+    <value>퀘스트 아이템 '부러진 검;암흑석' (흑기사)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorSummoner" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (소환술사)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorDarkWizard" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (흑마법사)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorFairyElf" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (요정)</value>
+  </data>
+  <data name="QuestItemScrollOfEmperorRingOfHonorDarkKnight" xml:space="preserve">
+    <value>퀘스트 아이템 '황제의 두루마리;명예의 반지' (흑기사)</value>
+  </data>
+  <data name="JewelOfGuardian" xml:space="preserve">
+    <value>수호의 보석</value>
+  </data>
+  <data name="RewardedAncientItemsForChaosCastle7" xml:space="preserve">
+    <value>카오스 캐슬에 대해 세트 아이템 보상 7</value>
+  </data>
+  <data name="RewardedJewelsForChaosCastle7" xml:space="preserve">
+    <value>카오스 캐슬에 대한 보상 보석 7</value>
+  </data>
+  <data name="RewardedAncientItemsForChaosCastle6" xml:space="preserve">
+    <value>카오스 캐슬에 대해 세트 아이템 보상 6</value>
+  </data>
+  <data name="RewardedJewelsForChaosCastle6" xml:space="preserve">
+    <value>카오스 캐슬 6에 대한 보상 보석</value>
+  </data>
+  <data name="RewardedAncientItemsForChaosCastle5" xml:space="preserve">
+    <value>카오스 캐슬에 대해 세트 아이템 보상 5</value>
+  </data>
+  <data name="RewardedJewelsForChaosCastle5" xml:space="preserve">
+    <value>카오스 캐슬 5에 대한 보상 보석</value>
+  </data>
+  <data name="RewardedAncientItemsForChaosCastle4" xml:space="preserve">
+    <value>카오스 캐슬에 대해 세트 아이템 보상 4</value>
+  </data>
+  <data name="RewardedJewelsForChaosCastle4" xml:space="preserve">
+    <value>카오스 캐슬 4에 대한 보상 보석</value>
+  </data>
+  <data name="RewardedAncientItemsForChaosCastle3" xml:space="preserve">
+    <value>카오스 캐슬에 대해 세트 아이템 보상 3</value>
+  </data>
+  <data name="RewardedJewelsForChaosCastle3" xml:space="preserve">
+    <value>카오스 캐슬 3에 대한 보상 보석</value>
+  </data>
+  <data name="RewardedAncientItemsForChaosCastle2" xml:space="preserve">
+    <value>카오스 캐슬에 대해 세트 아이템 보상 2</value>
+  </data>
+  <data name="RewardedJewelsForChaosCastle2" xml:space="preserve">
+    <value>카오스 캐슬 2에 대한 보상 보석</value>
+  </data>
+  <data name="RewardedJewelsForChaosCastle1" xml:space="preserve">
+    <value>카오스 캐슬 1에 대한 보상 보석</value>
+  </data>
+  <data name="TheDropItemGroupForRena" xml:space="preserve">
+    <value>레나의 드롭 아이템 그룹</value>
+  </data>
+  <data name="ArchangelWeaponBloodCastle" xml:space="preserve">
+    <value>대천사 무기 (블러드 캐슬)</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle8" xml:space="preserve">
+    <value>블러드 캐슬에 대한 보상 아이템 8</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle7" xml:space="preserve">
+    <value>블러드 캐슬에 대한 보상 아이템 7</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle6" xml:space="preserve">
+    <value>블러드 캐슬에 대한 보상 아이템 6</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle5" xml:space="preserve">
+    <value>블러드 캐슬 5에 대한 보상 아이템</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle4" xml:space="preserve">
+    <value>블러드 캐슬 4에 대한 보상 아이템</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle3" xml:space="preserve">
+    <value>블러드 캐슬 3에 대한 보상 아이템</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle2" xml:space="preserve">
+    <value>블러드 캐슬 2에 대한 보상 아이템</value>
+  </data>
+  <data name="RewardedItemsForBloodCastle1" xml:space="preserve">
+    <value>블러드 캐슬 1에 대한 보상 아이템</value>
+  </data>
+  <data name="WizardsRingFromDestructiveOgreArcher" xml:space="preserve">
+    <value>마법사의 반지 from 파괴적인 오우거 궁수</value>
+  </data>
+  <data name="WizardsRingFromDestructiveOgreSoldier" xml:space="preserve">
+    <value>마법사의 반지 from 파괴적인 오우거 병사</value>
+  </data>
+  <data name="JewelOfBlessFromWhiteWizard" xml:space="preserve">
+    <value>White Wizard의 축복의 보석</value>
+  </data>
+  <data name="BoxOfKundunPlus5" xml:space="preserve">
+    <value>쿤둔 +5 상자</value>
+  </data>
+  <data name="BoxOfKundunPlus4" xml:space="preserve">
+    <value>쿤둔 상자 +4</value>
+  </data>
+  <data name="BoxOfKundunPlus3" xml:space="preserve">
+    <value>쿤둔 +3 상자</value>
+  </data>
+  <data name="BoxOfKundunPlus1" xml:space="preserve">
+    <value>쿤둔 상자 +1</value>
+  </data>
+  <data name="GoldenCompensationBoxCrestOfMonarch" xml:space="preserve">
+    <value>황금 보상 상자 : 군주의 문장</value>
+  </data>
+  <data name="GoldenCompensationBoxLochsFeather" xml:space="preserve">
+    <value>황금 보상 상자 : 호수의 깃털</value>
+  </data>
+  <data name="GoldenCompensationBoxJewel" xml:space="preserve">
+    <value>황금 보상 상자: 보석</value>
+  </data>
+  <data name="CompensationBoxCrestOfMonarch" xml:space="preserve">
+    <value>보상 상자 : 군주의 문장</value>
+  </data>
+  <data name="CompensationBoxLochsFeather" xml:space="preserve">
+    <value>보상 상자 : 호수의 깃털</value>
+  </data>
+  <data name="CompensationBoxJewel" xml:space="preserve">
+    <value>보상 상자 : 보석</value>
+  </data>
+  <data name="FlameOfCondor" xml:space="preserve">
+    <value>콘도르의 불꽃</value>
+  </data>
+</root>

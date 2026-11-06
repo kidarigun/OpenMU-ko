@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="ThisOptionIsAddedByTheChaosMachineWithAJewelOfGuardianOnLevel380Items" xml:space="preserve">
+    <value>이 옵션은 레벨 380 아이템에 수호의 보석이 있는 카오스 머신에 의해 추가됩니다.</value>
+  </data>
+  <data name="BlackFenrirMovementSpeed" xml:space="preserve">
+    <value>블랙 펜리르 옵션: 이동 속도</value>
+  </data>
+  <data name="BlackFenrirUnderwaterMovementSpeed" xml:space="preserve">
+    <value>블랙 펜리르 옵션 : 수중 이동 속도</value>
+  </data>
+  <data name="BlueFenrirMovementSpeed" xml:space="preserve">
+    <value>블루 펜리르 옵션: 이동 속도</value>
+  </data>
+  <data name="BlueFenrirUnderwaterMovementSpeed" xml:space="preserve">
+    <value>블루 펜리르 옵션: 수중 이동 속도</value>
+  </data>
+  <data name="GoldFenrirMovementSpeed" xml:space="preserve">
+    <value>골드 펜리르 옵션: 이동 속도</value>
+  </data>
+  <data name="GoldFenrirUnderwaterMovementSpeed" xml:space="preserve">
+    <value>골드 펜리르 옵션: 수중 이동 속도</value>
+  </data>
+  <data name="SocketPackageDoubleDamageChance" xml:space="preserve">
+    <value>소켓 패키지 옵션: 이중 데미지 확률 3%</value>
+  </data>
+  <data name="SocketPackageIgnoreDefenseChance" xml:space="preserve">
+    <value>소켓 패키지 옵션: 방어 확률 무시 1%</value>
+  </data>
+</root>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="StaffRiseEven" xml:space="preserve">
+    <value>직원 상승 (짝수)</value>
+  </data>
+  <data name="DamageIncreaseWeapons" xml:space="preserve">
+    <value>데미지 증가(무기)</value>
+  </data>
+  <data name="DefenseRateIncreaseShields" xml:space="preserve">
+    <value>방어율 증가(방패)</value>
+  </data>
+  <data name="DefenseIncreaseShields" xml:space="preserve">
+    <value>방어력 증가(방패)</value>
+  </data>
+  <data name="RunningMovementSpeed" xml:space="preserve">
+    <value>달리기 이동 속도</value>
+  </data>
+  <data name="DefenseIncreaseArmors" xml:space="preserve">
+    <value>방어력 증가(방어구)</value>
+  </data>
+  <data name="StaffRiseOdd" xml:space="preserve">
+    <value>스태프 라이즈(홀수)</value>
+  </data>
+  <data name="TransformationRingSkinsTransformationRing" xml:space="preserve">
+    <value>변신 링 스킨 (변신 링)</value>
+  </data>
+  <data name="ElementalResistancesJewelery" xml:space="preserve">
+    <value>원소 저항(보석)</value>
+  </data>
+  <data name="DamageIncrease1stAnd3rdWings" xml:space="preserve">
+    <value>데미지 증가(1차, 3차 날개)</value>
+  </data>
+  <data name="DefenseBonus1stAnd2ndWings" xml:space="preserve">
+    <value>방어 보너스(첫 번째 및 두 번째 날개)</value>
+  </data>
+  <data name="WingAbsorb" xml:space="preserve">
+    <value>날개 흡수</value>
+  </data>
+  <data name="DamageIncreasePercentBoltsArrows" xml:space="preserve">
+    <value>데미지 증가 % (볼트/화살)</value>
+  </data>
+  <data name="ScepterRiseEven" xml:space="preserve">
+    <value>셉터 라이즈(짝수)</value>
+  </data>
+  <data name="ScepterRiseOdd" xml:space="preserve">
+    <value>셉터 라이즈(홀수)</value>
+  </data>
+  <data name="ManaLossAfterHitBoltsArrows" xml:space="preserve">
+    <value>적중 후 마나 손실(볼트/화살)</value>
+  </data>
+  <data name="DefenseBonus3rdWings" xml:space="preserve">
+    <value>방어 보너스(3번째 날개)</value>
+  </data>
+  <data name="DamageIncrease2ndWings" xml:space="preserve">
+    <value>데미지 증가(2차 날개)</value>
+  </data>
+  <data name="TransformationRingSkinsSkeletonTransformationRing" xml:space="preserve">
+    <value>변신반지 스킨 (스켈레톤 변신반지)</value>
+  </data>
+  <data name="TransformationRingSkinsPandaTransformationRing" xml:space="preserve">
+    <value>변신반지 스킨 (팬더 변신반지)</value>
+  </data>
+  <data name="TransformationRingSkinsSnowmanTransformationRing" xml:space="preserve">
+    <value>변신반지 스킨 (눈사람 변신반지)</value>
+  </data>
+  <data name="TransformationRingSkinsGameMasterTransformationRing" xml:space="preserve">
+    <value>변신 링 스킨 (게임 마스터 변신 링)</value>
+  </data>
+  <data name="TransformationRingSkinsChristmasTransformationRing" xml:space="preserve">
+    <value>변신반지 스킨 (크리스마스 변신반지)</value>
+  </data>
+  <data name="TransformationRingSkinsJackOLanternTransformationRing" xml:space="preserve">
+    <value>변신 링 스킨 (잭오랜턴 변신 링)</value>
+  </data>
+  <data name="TransformationRingSkinsEliteSkeletonTransformationRing" xml:space="preserve">
+    <value>변신반지 스킨 (엘리트 해골 변신반지)</value>
+  </data>
+  <data name="DeathCowTransformationRingHealthBonus" xml:space="preserve">
+    <value>변신 링 건강 보너스(죽음의 소)</value>
+  </data>
+</root>

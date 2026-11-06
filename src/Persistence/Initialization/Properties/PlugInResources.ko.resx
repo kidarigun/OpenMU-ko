@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+  <data name="DataInitialization075_Name" xml:space="preserve">
+    <value>버전 0.75 초기화</value>
+  </data>
+  <data name="DataInitialization075_Description" xml:space="preserve">
+    <value>버전 0.75에 대한 초기 데이터 제공</value>
+  </data>
+  <data name="DataInitialization095d_Name" xml:space="preserve">
+    <value>버전 0.95d 초기화</value>
+  </data>
+  <data name="DataInitialization095d_Description" xml:space="preserve">
+    <value>버전 0.95d에 대한 초기 데이터 제공</value>
+  </data>
+  <data name="DataInitialization_Name" xml:space="preserve">
+    <value>시즌 6 에피소드 3 초기화</value>
+  </data>
+  <data name="DataInitialization_Description" xml:space="preserve">
+    <value>시즌 6 에피소드 3의 초기 데이터를 제공합니다.</value>
+  </data>
+  <data name="AddArrowsForFairyElf_Name" xml:space="preserve">
+    <value>AddArrowsForFairyElf</value>
+  </data>
+  <data name="AddArrowsForFairyElf_Description" xml:space="preserve">
+    <value>생성된 요정 캐릭터에 화살표를 추가합니다.</value>
+  </data>
+  <data name="AddChargeForRageFighter_Name" xml:space="preserve">
+    <value>AddChargeForRageFighter</value>
+  </data>
+  <data name="AddChargeForRageFighter_Description" xml:space="preserve">
+    <value>생성된 레이지파이터 캐릭터에 차지 스킬을 추가합니다.</value>
+  </data>
+  <data name="AddEnergyBallForDarkWizard_Name" xml:space="preserve">
+    <value>AddEnergyBallForDarkWizard</value>
+  </data>
+  <data name="AddEnergyBallForDarkWizard_Description" xml:space="preserve">
+    <value>생성된 흑마법사 캐릭터에 에너지 볼 스킬을 추가합니다.</value>
+  </data>
+  <data name="AddForceForDarkLord_Name" xml:space="preserve">
+    <value>AddForceForDarkLord</value>
+  </data>
+  <data name="AddForceForDarkLord_Description" xml:space="preserve">
+    <value>생성된 다크로드 캐릭터에 Force 스킬을 추가합니다.</value>
+  </data>
+  <data name="AddLanceForSummoner_Name" xml:space="preserve">
+    <value>AddLanceForSummoner</value>
+  </data>
+  <data name="AddLanceForSummoner_Description" xml:space="preserve">
+    <value>생성된 소환술사 캐릭터에 랜스 스킬을 추가합니다.</value>
+  </data>
+  <data name="AddRingOfWarriorLevel40ForNewCharacters_Name" xml:space="preserve">
+    <value>AddRingOfWarriorLevel40ForNewCharacters</value>
+  </data>
+  <data name="AddRingOfWarriorLevel40ForNewCharacters_Description" xml:space="preserve">
+    <value>40레벨부터 드랍되는 반지를 추가합니다.</value>
+  </data>
+  <data name="AddRingOfWarriorLevel80ForNewCharacters_Name" xml:space="preserve">
+    <value>AddRingOfWarriorLevel80ForNewCharacters</value>
+  </data>
+  <data name="AddRingOfWarriorLevel80ForNewCharacters_Description" xml:space="preserve">
+    <value>80레벨부터 드랍되는 반지를 추가합니다.</value>
+  </data>
+  <data name="AddShortBowForFairyElf_Name" xml:space="preserve">
+    <value>AddShortBowForFairyElf</value>
+  </data>
+  <data name="AddShortBowForFairyElf_Description" xml:space="preserve">
+    <value>생성된 요정 캐릭터에 짧은 활을 추가합니다.</value>
+  </data>
+  <data name="AddShortSwordForDarkLord_Name" xml:space="preserve">
+    <value>AddShortSwordForDarkLord</value>
+  </data>
+  <data name="AddShortSwordForDarkLord_Description" xml:space="preserve">
+    <value>생성된 다크로드 캐릭터에 단검을 추가합니다.</value>
+  </data>
+  <data name="AddShortSwordForMagicGladiator_Name" xml:space="preserve">
+    <value>AddShortSwordForMagicGladiator</value>
+  </data>
+  <data name="AddShortSwordForMagicGladiator_Description" xml:space="preserve">
+    <value>생성된 마검사 캐릭터에 단검을 추가합니다.</value>
+  </data>
+  <data name="AddSmallAxeForDarkKnight_Name" xml:space="preserve">
+    <value>AddSmallAxeForDarkKnight</value>
+  </data>
+  <data name="AddSmallAxeForDarkKnight_Description" xml:space="preserve">
+    <value>생성된 흑기사 캐릭터에 작은 도끼를 추가합니다.</value>
+  </data>
+  <data name="AddSmallShieldForDarkLord_Name" xml:space="preserve">
+    <value>AddSmallShieldForDarkLord</value>
+  </data>
+  <data name="AddSmallShieldForDarkLord_Description" xml:space="preserve">
+    <value>생성된 다크로드 캐릭터에 작은 방패를 추가합니다.</value>
+  </data>
+  <data name="AddSmallShieldForMagicGladiator_Name" xml:space="preserve">
+    <value>AddSmallShieldForMagicGladiator</value>
+  </data>
+  <data name="AddSmallShieldForMagicGladiator_Description" xml:space="preserve">
+    <value>생성된 마검사 캐릭터에 작은 방패를 추가합니다.</value>
+  </data>
+  <data name="AddCrescentMoonSlashForDarkKnight_Name" xml:space="preserve"><value>AddCrescentMoonSlashForDarkKnight</value></data>
+  <data name="AddCrescentMoonSlashForDarkKnight_Description" xml:space="preserve"><value>생성된 흑기사 캐릭터에 초승달 슬래시 스킬(공성전에서 활성화)을 추가합니다.</value></data>
+  <data name="AddStarfallForFairyElf_Name" xml:space="preserve"><value>AddStarfallForFairyElf</value></data>
+  <data name="AddStarfallForFairyElf_Description" xml:space="preserve"><value>생성된 요정 캐릭터에 Starfall 스킬(공성전에서 활성화)을 추가합니다.</value></data>
+  <data name="AddManaRaysForMagicGladiator_Name" xml:space="preserve"><value>AddManaRaysForMagicGladiator</value></data>
+  <data name="AddManaRaysForMagicGladiator_Description" xml:space="preserve"><value>생성된 마검사 캐릭터에 마나 광선 스킬(공성전에서 활성화)을 추가합니다.</value></data>
+  <data name="AddFireBlastForDarkLord_Name" xml:space="preserve"><value>AddFireBlastForDarkLord</value></data>
+  <data name="AddFireBlastForDarkLord_Description" xml:space="preserve"><value>생성된 다크로드 캐릭터에 Fire Blast 스킬(공성전에서 활성화)을 추가합니다.</value></data>
+  <data name="AddSpiralSlashForMagicGladiator_Name" xml:space="preserve"><value>AddSpiralSlashForMagicGladiator</value></data>
+  <data name="AddSpiralSlashForMagicGladiator_Description" xml:space="preserve"><value>생성된 마검사 캐릭터에 Spiral Slash 스킬(공성전에서 활성화)을 추가합니다.</value></data>
+  <data name="FixWeaponRisePercentagePlugInSeason6_Name" xml:space="preserve"><value>무기 상승 백분율, 소환술사 아이템 마법/저주 옵션 및 여러 3레벨 날개 데미지률 수정</value></data>
+  <data name="FixWeaponRisePercentagePlugInSeason6_Description" xml:space="preserve"><value>이 업데이트는 무기(지팡이, 지팡이, 책, 홀) 상승률을 수정합니다. 소환술사 무기 및 날개 마법/curse 옵션; 그리고 Wing of Dimension(inc/dec), Cape of Overrule(inc/dec), Cape of Emperor(dec) 데미지율. 또한 대천사의 신성한 지팡이와 영원한 날개 지팡이에 대한 수정 사항도 포함되어 있습니다.</value></data>
+  <data name="AddMissingMerchantStoresPlugIn_Name" xml:space="preserve"><value>누락된 판매자 매장 추가</value></data>
+  <data name="AddMissingMerchantStoresPlugIn_Description" xml:space="preserve"><value>잡화 상인 크리스틴(545)에게 잡화 상점을 제공합니다. 이 상점 창은 있지만 아이템은 없으며 상인 톰슨(231)에서 복제되었습니다.</value></data>
+  <data name="FixEventItemsDropFromMonstersUpdatePlugInSeason6_Name" xml:space="preserve"><value>수정 이벤트 아이템 DropsFromMonsters 시즌 6</value></data>
+  <data name="FixEventItemsDropFromMonstersUpdatePlugInSeason6_Description" xml:space="preserve"><value>이 업데이트는 DropsFromMonsters이 true로 설정된 이벤트 아이템을 수정하여 해당 아이템이 전용 DropItemGroups을 사용하는 대신 레벨 0으로 떨어지도록 합니다.</value></data>
+  <data name="InfinityArrowSkillOnQuestCompletionPlugIn_Name" xml:space="preserve"><value>퀘스트에 무한 화살 스킬 추가</value></data>
+  <data name="InfinityArrowSkillOnQuestCompletionPlugIn_Description" xml:space="preserve"><value>이번 업데이트에서는 '영웅 지위 획득(뮤즈엘프)' 퀘스트 보상으로 무한 화살 스킬이 추가됩니다.</value></data>
+  <data name="RegenerationsRefactorPlugInBase_Name" xml:space="preserve"><value>재생 리팩터링</value></data>
+  <data name="RegenerationsRefactorPlugInBase_Description" xml:space="preserve"><value>이 업데이트는 일부 재생 속성(건강, 마나, 능력)을 수정하고 재작업합니다.</value></data>
+  <data name="AddDuelConfigurationPlugIn_Name" xml:space="preserve"><value>결투 구성 추가</value></data>
+  <data name="AddDuelConfigurationPlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 결투 구성에 대한 데이터가 추가되었습니다.</value></data>
+  <data name="FixBloodCastleMonsterAttributesUpdatePlugIn_Name" xml:space="preserve"><value>블러드 캐슬 7/8 몬스터 속성 수정</value></data>
+  <data name="FixBloodCastleMonsterAttributesUpdatePlugIn_Description" xml:space="preserve"><value>BC7(몬스터 138-143)과 BC8(몬스터 428-433) 사이의 속성 값을 교환하여 진행이 정확하도록 합니다: BC6 → BC7 → BC8.</value></data>
+  <data name="AddDoppelgangerDataUpdatePlugIn_Name" xml:space="preserve"><value>도플갱어 데이터 추가</value></data>
+  <data name="AddDoppelgangerDataUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 도플갱어 이벤트 구성을 추가합니다.</value></data>
+  <data name="FinishSummonerMasterTreePlugIn_Name" xml:space="preserve"><value>완료 소환술사 마스터 트리 플러그인</value></data>
+  <data name="FinishSummonerMasterTreePlugIn_Description" xml:space="preserve"><value>이번 업데이트는 소환술사 마스터 트리를 완성하고 해당 스킬 값 중 일부를 수정합니다.</value></data>
+  <data name="AddMaximumAllianceSizeUpdatePlugInSeason6_Name" xml:space="preserve"><value>최대 동맹 규모 속성 추가(시즌 6)</value></data>
+  <data name="AddMaximumAllianceSizeUpdatePlugInSeason6_Description" xml:space="preserve"><value>시즌 6 게임 구성에 기본값이 5인 MaximumAllianceSize 전역 기본 속성을 추가합니다.</value></data>
+  <data name="FixAncientDiscriminatorsUpdatePlugIn_Name" xml:space="preserve"><value>세트 판별기 수정</value></data>
+  <data name="FixAncientDiscriminatorsUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 일부 세트 아이템의 판별자를 수정합니다.</value></data>
+  <data name="FixMurenRingOfFireBonusPlugIn_Name" xml:space="preserve"><value>Muren Ring of Fire 보너스 수정</value></data>
+  <data name="FixMurenRingOfFireBonusPlugIn_Description" xml:space="preserve"><value>무렌의 불의 고리 세트에 체력으로 초기화된 에너지 보너스를 설정합니다.</value></data>
+  <data name="AddSummonerBuffSkillsPlugIn_Name" xml:space="preserve"><value>소환술사 버프 스킬 추가</value></data>
+  <data name="AddSummonerBuffSkillsPlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 수면, 혁신, 데미지 반사 및 약점 소환술사 버프 스킬이 추가됩니다. 또한 세 번째 날개 전체 반사 옵션도 수정되었습니다.</value></data>
+  <data name="WizEnhanceAndRagefighterSkillsUpdatePlugIn_Name" xml:space="preserve"><value>일부 추가된 스킬</value></data>
+  <data name="WizEnhanceAndRagefighterSkillsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 마법 강화, 체력 증가, 블록 증가, 방어력 무시 등의 스킬이 추가되었습니다.</value></data>
+  <data name="FixJeweleryPetsDamageCalcsPlugInBase_Name" xml:space="preserve"><value>보석 저항 계산 수정</value></data>
+  <data name="FixJeweleryPetsDamageCalcsPlugInBase_Description" xml:space="preserve"><value>이 업데이트는 보석 아이템의 저항 값을 수정합니다.</value></data>
+  <data name="FixChaosMixesPlugInBase_Name" xml:space="preserve"><value>카오스 믹스 설정 수정</value></data>
+  <data name="FixChaosMixesPlugInBase_Description" xml:space="preserve"><value>이 업데이트는 카오스 무기 제작 설정을 수정합니다.</value></data>
+  <data name="FixDamageAbsorbItemsUpdatePlugIn_Name" xml:space="preserve"><value>고정 데미지 흡수 아이템/skills</value></data>
+  <data name="FixDamageAbsorbItemsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트는 아이템과 스킬의 데미지 흡수 설정을 수정합니다.</value></data>
+  <data name="AddHarmonyOptionWeightsUpdateSeason6_Name" xml:space="preserve"><value>하모니 옵션 가중치 추가</value></data>
+  <data name="AddHarmonyOptionWeightsUpdateSeason6_Description" xml:space="preserve"><value>이 업데이트는 옵션 할당에 사용되는 조화의 보석 옵션 가중치를 추가하고 일부 옵션을 수정하며 아이템 복원 혼합을 수정합니다.</value></data>
+  <data name="AddQuestItemLimitPlugIn_Name" xml:space="preserve"><value>퀘스트 아이템 제한 추가</value></data>
+  <data name="AddQuestItemLimitPlugIn_Description" xml:space="preserve"><value>이번 업데이트에서는 퀘스트 아이템에 제한이 추가되어 하나의 아이템만 획득할 수 있습니다.</value></data>
+  <data name="FinishDarkKnightMasterTreePlugInSeason6_Name" xml:space="preserve"><value>완료 흑기사 마스터 트리 플러그인</value></data>
+  <data name="FinishDarkKnightMasterTreePlugInSeason6_Description" xml:space="preserve"><value>이번 업데이트로 흑기사 마스터 트리 스킬과 효과가 완성됩니다. 또한 이중 휘두르기 데미지 계산을 수정합니다.</value></data>
+  <data name="AddLorenMarketJuliaWarpPlugIn_Name" xml:space="preserve"><value>로렌 마켓 줄리아 워프 추가</value></data>
+  <data name="AddLorenMarketJuliaWarpPlugIn_Description" xml:space="preserve"><value>Market Union 회원 Julia(547)를 빈 상인 대신 양쪽에서 로랜시아와 Loren Market 사이에서 작동하는 워프 NPC로 만듭니다.</value></data>
+  <data name="LimitWhiteWizardDropsUpdatePlugIn_Name" xml:space="preserve"><value>하얀 마법사 드랍 제한</value></data>
+  <data name="LimitWhiteWizardDropsUpdatePlugIn_Description" xml:space="preserve"><value>마법사의 반지는 캐릭터당 하나로 제한됩니다.</value></data>
+  <data name="ChaosCastleDataUpdatePlugIn_Name" xml:space="preserve"><value>카오스 캐슬 데이터</value></data>
+  <data name="ChaosCastleDataUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 카오스 캐슬 이벤트에 대한 구성 데이터를 생성합니다.</value></data>
+  <data name="FinishDarkLordMasterTreePlugIn_Name" xml:space="preserve"><value>완료 다크로드 마스터 트리 플러그인</value></data>
+  <data name="FinishDarkLordMasterTreePlugIn_Description" xml:space="preserve"><value>이번 업데이트로 다크로드 마스터 트리 스킬과 효과가 완성됩니다.</value></data>
+  <data name="FixWingsAndCapesCraftingsUpdatePlugIn_Name" xml:space="preserve"><value>고정 날개 및 망토 제작</value></data>
+  <data name="FixWingsAndCapesCraftingsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트는 날개와 망토 제작에 적합한 설정을 설정합니다.</value></data>
+  <data name="AddRenaItemUpdatePlugIn_Name" xml:space="preserve"><value>레나 아이템 추가</value></data>
+  <data name="AddRenaItemUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에서는 아이템 등록 기능에 필요한 누락된 레나 아이템이 추가되었습니다.</value></data>
+  <data name="AddCrestOfMonarchDropGroupUpdateSeason6_Name" xml:space="preserve"><value>군주의 문장 드랍 그룹 추가</value></data>
+  <data name="AddCrestOfMonarchDropGroupUpdateSeason6_Description" xml:space="preserve"><value>군주의 문장(호수 깃털 +1) 드롭 아이템 그룹을 이카루스에 추가합니다.</value></data>
+  <data name="FixSummonerCurseSkillsPlugIn_Name" xml:space="preserve"><value>소환술사 저주 스킬 수정</value></data>
+  <data name="FixSummonerCurseSkillsPlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 소환술사 저주(책) 및 번개 충격 스킬에 대한 누락된 영역 스킬 설정이 추가되었습니다.</value></data>
+  <data name="AddAreaSkillSettingsUpdatePlugIn_Name" xml:space="preserve"><value>지역 스킬 설정 추가</value></data>
+  <data name="AddAreaSkillSettingsUpdatePlugIn_Description" xml:space="preserve"><value>악령 등과 같은 스킬에 대한 새로운 영역 스킬 설정을 추가하여 다시 제대로 작동하도록 합니다.</value></data>
+  <data name="FinishDarkWizardMasterTreePlugIn_Name" xml:space="preserve"><value>완료 흑마법사 마스터 트리 플러그인</value></data>
+  <data name="FinishDarkWizardMasterTreePlugIn_Description" xml:space="preserve"><value>이 업데이트는 마법 효과의 흑마법사 마스터 트리 확장을 완료합니다.</value></data>
+  <data name="RemoveJewelDropLevelGapPlugInBase_Name" xml:space="preserve"><value>보석 드롭 레벨 차이 제거</value></data>
+  <data name="RemoveJewelDropLevelGapPlugInBase_Description" xml:space="preserve"><value>이 업데이트는 항상 드롭되어야 하는 보석 및 유사 아이템에 대한 기존 드롭 레벨 간격 조건을 제거합니다.</value></data>
+  <data name="FixSetBonusesPlugIn_Name" xml:space="preserve"><value>아이템 세트 보너스 수정</value></data>
+  <data name="FixSetBonusesPlugIn_Description" xml:space="preserve"><value>이번 업데이트에서는 +10~15 세트의 추가 방어에 대한 세트 보너스와 방어율이 수정되었습니다.</value></data>
+  <data name="AddElfSoldierBuffPlugIn_Name" xml:space="preserve"><value>엘프 병사 버프 추가</value></data>
+  <data name="AddElfSoldierBuffPlugIn_Description" xml:space="preserve"><value>이 업데이트는 엘프 병사 버프(방어력 및 데미지 증가)를 구성 가능한 버프로 추가합니다.</value></data>
+  <data name="FixSocketSeedCraftingUpdatePlugIn_Name" xml:space="preserve"><value>소켓 종자 제작을 수정했습니다.</value></data>
+  <data name="FixSocketSeedCraftingUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 소켓 시드 제작에 대한 올바른 설정을 설정합니다.</value></data>
+  <data name="FixWarriorMorningStarPlugIn_Name" xml:space="preserve"><value>워리어 모닝스타 수정</value></data>
+  <data name="FixWarriorMorningStarPlugIn_Description" xml:space="preserve"><value>이 업데이트는 전사 세트의 무기를 수정합니다. 손도끼는 모닝스타로 대체됩니다.</value></data>
+  <data name="SpawnFixesUpdatePlugIn_Name" xml:space="preserve"><value>생성 지점 수정</value></data>
+  <data name="SpawnFixesUpdatePlugIn_Description" xml:space="preserve"><value>NPC의 스폰 지점이 업데이트됩니다. 1) 크라이울프-상태가 수정되었습니다. 2) 떠돌이 상인과 말론. 3) 카오스 캐슬 1의 생성 트리거</value></data>
+  <data name="FixJeweleryPetsDamageCalcsPlugInSeason6_Name" xml:space="preserve"><value>보석 및 펫 데미지 계산 수정</value></data>
+  <data name="FixJeweleryPetsDamageCalcsPlugInSeason6_Description" xml:space="preserve"><value>이번 업데이트에서는 데미지와 관련된 장신구 아이템 및 펫 옵션, 장신구 저항값이 수정되었습니다.</value></data>
+  <data name="RemoveDuplicateStatAttributesPlugInBase_Name" xml:space="preserve"><value>중복 통계 속성 제거</value></data>
+  <data name="RemoveDuplicateStatAttributesPlugInBase_Description" xml:space="preserve"><value>이 업데이트는 캐릭터 클래스에 대해 두 번 이상 정의된 통계 속성을 제거합니다.</value></data>
+  <data name="FixWeaponRisePercentagePlugInBase_Name" xml:space="preserve"><value>무기 상승 비율 수정</value></data>
+  <data name="FixWeaponRisePercentagePlugInBase_Description" xml:space="preserve"><value>이번 업데이트로 무기(스태프) 상승률이 수정되었습니다.</value></data>
+  <data name="FixItemRequirementsPlugIn_Name" xml:space="preserve"><value>아이템 요구 사항 수정(엘프 활)</value></data>
+  <data name="FixItemRequirementsPlugIn_Description" xml:space="preserve"><value>잘못 초기화된 엘프 활의 일부 아이템 요구 사항을 업데이트합니다.</value></data>
+  <data name="AddCastleSiegeDataUpdatePlugIn_Name" xml:space="preserve"><value>공성전 데이터 추가</value></data>
+  <data name="AddCastleSiegeDataUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 공성전 구성 및 영구 상태를 추가합니다.</value></data>
+  <data name="AddCashShopUpdatePlugIn_Name" xml:space="preserve"><value>캐시샵 추가</value></data>
+  <data name="AddCashShopUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 게임 클라이언트의 캐시샵 스크립트 512.2012.084 패키지와 캐시샵 보관소에서 사용 시 적용되는 아이템(캐릭터 카드, 금고, 인벤토리 확장)을 포함한 캐시샵 구성이 추가되었습니다.</value></data>
+  <data name="FixAttackSpeedCalculationUpdate_Name" xml:space="preserve"><value>공격 속도 계산 수정</value></data>
+  <data name="FixAttackSpeedCalculationUpdate_Description" xml:space="preserve"><value>공격 속도에 대한 특성 및 관계를 추가합니다. 에일(Ale)과 영혼의 물약(Potion of Soul)에 효과를 추가합니다.</value></data>
+  <data name="FixItemOptionsAndAttackSpeedPlugInBase_Name" xml:space="preserve"><value>아이템 옵션 및 공격 속도 수정</value></data>
+  <data name="FixItemOptionsAndAttackSpeedPlugInBase_Description" xml:space="preserve"><value>이번 업데이트에서는 일부 아이템 옵션(데미지, 방어율) 및 무기 공격 속도가 수정되었습니다.</value></data>
+  <data name="FinishDarkKnightMasterTreePlugInBase_Name" xml:space="preserve"><value>완료 흑기사 마스터 트리 플러그인</value></data>
+  <data name="FinishDarkKnightMasterTreePlugInBase_Description" xml:space="preserve"><value>이번 업데이트로 흑기사 마스터 트리 스킬과 효과가 완성됩니다. 또한 이중 휘두르기 데미지 계산을 수정합니다.</value></data>
+  <data name="AddGlobalMoneyAmountRateAttributePlugInBase_Name" xml:space="preserve"><value>글로벌 금액 비율 속성 추가</value></data>
+  <data name="AddGlobalMoneyAmountRateAttributePlugInBase_Description" xml:space="preserve"><value>MoneyAmountRate 속성을 캐릭터 클래스 기본 속성에서 전역 기본 속성으로 이동합니다.</value></data>
+  <data name="FixDamageCalcsPlugInBase_Name" xml:space="preserve"><value>데미지 계산 수정</value></data>
+  <data name="FixDamageCalcsPlugInBase_Description" xml:space="preserve"><value>이번 업데이트는 캐릭터 능력치, 마법 효과, 아이템, 데미지 관련 옵션 등을 수정합니다.</value></data>
+  <data name="FixEventItemsDropFromMonstersUpdatePlugIn095d_Name" xml:space="preserve"><value>수정 이벤트 아이템 DropsFromMonsters 0.95d</value></data>
+  <data name="FixEventItemsDropFromMonstersUpdatePlugIn095d_Description" xml:space="preserve"><value>이 업데이트는 DropsFromMonsters이 true로 설정된 이벤트 아이템을 수정하여 해당 아이템이 전용 DropItemGroups을 사용하는 대신 레벨 0으로 떨어지도록 합니다.</value></data>
+  <data name="AddItemDropGroupForJewelsUpdate075_Name" xml:space="preserve"><value>보석 아이템 드롭 그룹 생성</value></data>
+  <data name="AddItemDropGroupForJewelsUpdate075_Description" xml:space="preserve"><value>이 업데이트는 기본 확률 5%로 보석에 대한 특정 아이템 드롭 그룹을 생성합니다.</value></data>
+  <data name="FixCharStatsForceWavePlugInBase_Name" xml:space="preserve"><value>DW 방어 승수 수정</value></data>
+  <data name="FixCharStatsForceWavePlugInBase_Description" xml:space="preserve"><value>이 업데이트는 방어 승수 통계에 대한 DW 민첩성을 수정합니다.</value></data>
+  <data name="FixOrbRequirementsPlugInBase_Name" xml:space="preserve"><value>구체 요구사항 수정</value></data>
+  <data name="FixOrbRequirementsPlugInBase_Description" xml:space="preserve"><value>스킬을 배우는 데 사용되는 구체, 수정, 두루마리의 에너지, 힘 및 민첩성 요구 사항을 수정합니다. E.g. 치유의 오브인 방어력 향상 및 공격력 향상에는 52, 72, 92 대신 100 에너지가 필요합니다.</value></data>
+  <data name="FinishElfMasterTreePlugIn_Name" xml:space="preserve"><value>엘프 마스터 트리 완료 플러그인</value></data>
+  <data name="FinishElfMasterTreePlugIn_Description" xml:space="preserve"><value>이번 업데이트로 엘프 마스터 트리가 완성되고 일부 스킬 값이 수정됩니다. 또한 일부 더 높은 레벨의 (십자)활에 누락된 추가 발사체(4번째)를 추가합니다.</value></data>
+  <data name="ScopeExtraProjectilesPlugIn_Name" xml:space="preserve"><value>스킬당 추가 발사체 범위 지정</value></data>
+  <data name="ScopeExtraProjectilesPlugIn_Description" xml:space="preserve"><value>다발 마스터리의 추가 발사체가 다발 스킬에만 적용되도록 하며, 특정 (석)활을 장착하면 모든 다중 발사체 스킬이 계속 강화됩니다.</value></data>
+  <data name="AddItemRegistrationAttributesUpdatePlugIn_Name" xml:space="preserve"><value>아이템 등록 속성 추가</value></data>
+  <data name="AddItemRegistrationAttributesUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 아이템 등록 속성에 대한 데이터를 추가합니다.</value></data>
+  <data name="FixWingsDmgRatesUpdatePlugInBase_Name" xml:space="preserve"><value>날개 데미지률 수정</value></data>
+  <data name="FixWingsDmgRatesUpdatePlugInBase_Description" xml:space="preserve"><value>이 업데이트는 날개 데미지 흡수 문제를 수정하고 보너스 레벨 테이블 값을 늘립니다.</value></data>
+  <data name="FixLifeSwellEffectUpdatePlugIn_Name" xml:space="preserve"><value>생명력 팽창 효과 수정</value></data>
+  <data name="FixLifeSwellEffectUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에서는 생명 팽창 효과에 대한 올바른 설정이 설정되었습니다.</value></data>
+  <data name="AddPointsPerResetAttributePlugIn_Name" xml:space="preserve"><value>PointsPerReset 속성을 추가합니다.</value></data>
+  <data name="AddPointsPerResetAttributePlugIn_Description" xml:space="preserve"><value>이 업데이트는 PointsPerReset 속성을 추가합니다.</value></data>
+  <data name="ChainLightningUpdatePlugIn_Name" xml:space="preserve"><value>체인 라이트닝 스킬</value></data>
+  <data name="ChainLightningUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트를 통해 체인 라이트닝 스킬에 대한 올바른 설정이 설정되었습니다.</value></data>
+  <data name="FixDefenseCalcsPlugInBase_Name" xml:space="preserve"><value>방어 계산 수정</value></data>
+  <data name="FixDefenseCalcsPlugInBase_Description" xml:space="preserve"><value>이번 업데이트는 캐릭터 능력치, 마법 효과, 방어 관련 옵션 등을 수정합니다.</value></data>
+  <data name="FixDuelArenaSafezoneMapUpdate_Name" xml:space="preserve"><value>결투 경기장 Safezone 지도 수정</value></data>
+  <data name="FixDuelArenaSafezoneMapUpdate_Description" xml:space="preserve"><value>결투장 안전지대를 로랜시아로 설정합니다.</value></data>
+  <data name="AddMovementSpeedAttributesPlugInBase_Name" xml:space="preserve"><value>이동 속도 속성 추가</value></data>
+  <data name="AddMovementSpeedAttributesPlugInBase_Description" xml:space="preserve"><value>플레이어, 몬스터, 아이템, 효과 및 수중 지도에 대한 속성 기반 이동 속도 구성을 추가합니다.</value></data>
+  <data name="SystemConfigurationAddedPlugInBase_Name" xml:space="preserve"><value>시스템 구성 추가</value></data>
+  <data name="SystemConfigurationAddedPlugInBase_Description" xml:space="preserve"><value>이번 업데이트에는 새로운 시스템 구성이 추가되었습니다.</value></data>
+  <data name="AddKanturuDataUpdatePlugIn_Name" xml:space="preserve"><value>칸투르 데이터 추가</value></data>
+  <data name="AddKanturuDataUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 칸투르 Refinery Tower 이벤트 구성을 추가합니다.</value></data>
+  <data name="StandardizeEventEnterDurationPlugInBase_Name" xml:space="preserve"><value>행사 입장 시간 표준화</value></data>
+  <data name="StandardizeEventEnterDurationPlugInBase_Description" xml:space="preserve"><value>이번 업데이트에서는 블러드 캐슬, 데빌 스퀘어 및 칸투르와 같은 공유 입장을 사용하는 이벤트의 입장 시간을 모든 이벤트 입장이 발표되는 5분으로 늘립니다.</value></data>
+  <data name="FixDrainLifeSkillUpdate_Name" xml:space="preserve"><value>드레인 라이프 스킬 수정</value></data>
+  <data name="FixDrainLifeSkillUpdate_Description" xml:space="preserve"><value>소환술사의 생명력 흡수 스킬 속성을 업데이트하여 제대로 작동하도록 합니다.</value></data>
+  <data name="FinishRageFighterMasterTreePlugIn_Name" xml:space="preserve"><value>완료 레이지파이터 마스터 트리 플러그인</value></data>
+  <data name="FinishRageFighterMasterTreePlugIn_Description" xml:space="preserve"><value>이번 업데이트는 레이지파이터 마스터 트리를 완성하고 해당 스킬 값 중 일부를 수정합니다.</value></data>
+  <data name="FixIgnoreDefenseSkillUpdatePlugIn_Name" xml:space="preserve"><value>방어 스킬 무시 수정</value></data>
+  <data name="FixIgnoreDefenseSkillUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 방어 무시 스킬에 마법 효과 정의가 추가되었습니다.</value></data>
+  <data name="FixMaxManaAndAbilityJewelryOptionsUpdateSeason6_Name" xml:space="preserve"><value>최대 마나/AG % 증가 보석 옵션 수정</value></data>
+  <data name="FixMaxManaAndAbilityJewelryOptionsUpdateSeason6_Description" xml:space="preserve"><value>이 업데이트는 Ring of Magic/Pendant of Ability 옵션이 제공하는 최대 마나/AG % 증가 계산을 수정합니다.</value></data>
+  <data name="AddRandomExperienceConfigAttributesPlugInBase_Name" xml:space="preserve"><value>무작위 경험 구성 속성 추가</value></data>
+  <data name="AddRandomExperienceConfigAttributesPlugInBase_Description" xml:space="preserve"><value>게임 구성에 새로운 무작위 경험 구성 속성을 추가합니다.</value></data>
+  <data name="FixCharStatsForceWavePlugInSeason6_Name" xml:space="preserve"><value>Char Stats 및 DL Force Wave Str 스킬 수정</value></data>
+  <data name="FixCharStatsForceWavePlugInSeason6_Description" xml:space="preserve"><value>이 업데이트는 여러 캐릭터 통계 값과 DL Force Wave Strengthener 마스터 스킬을 수정합니다.</value></data>
+  <data name="FixWarpLevelUpdatePlugIn_Name" xml:space="preserve"><value>워프 레벨 감소 수정</value></data>
+  <data name="FixWarpLevelUpdatePlugIn_Description" xml:space="preserve"><value>이 플러그인은 MG, DL 및 RF에 대한 LevelWarpRequirementReductionPercent을 업데이트합니다.</value></data>
+  <data name="FixSkillMultipliersPlugIn_Name" xml:space="preserve"><value>스킬 승수 수정</value></data>
+  <data name="FixSkillMultipliersPlugIn_Description" xml:space="preserve"><value>이 업데이트는 RF 스킬 승수를 수정하고 여러 스킬별 승수를 추가합니다.</value></data>
+  <data name="AddWhiteWizardInvasionMobsUpdatePlugIn_Name" xml:space="preserve"><value>백마법사 침략 몬스터 추가</value></data>
+  <data name="AddWhiteWizardInvasionMobsUpdatePlugIn_Description" xml:space="preserve"><value>White Wizard(135), Destructive Ogre Soldier(136), Destructive Ogre Archer(137)를 추가하고 기존 데이터베이스에 대한 드롭 그룹을 추가합니다.</value></data>
+  <data name="AddKalimaPlugIn_Name" xml:space="preserve"><value>칼리마 추가</value></data>
+  <data name="AddKalimaPlugIn_Description" xml:space="preserve"><value>칼리마 지도에 입장하는 데 필요한 아이템이 추가됩니다.</value></data>
+  <data name="FixEventItemsDropFromMonstersUpdatePlugInBase_Name" xml:space="preserve"><value>수정 이벤트 아이템 DropsFromMonsters</value></data>
+  <data name="FixEventItemsDropFromMonstersUpdatePlugInBase_Description" xml:space="preserve"><value>이 업데이트는 DropsFromMonsters이 true로 설정된 이벤트 아이템을 수정하여 해당 아이템이 전용 DropItemGroups을 사용하는 대신 레벨 0으로 떨어지도록 합니다.</value></data>
+  <data name="FixCharStatsForceWavePlugIn095d_Name" xml:space="preserve"><value>DW 및 MG Char 통계 수정</value></data>
+  <data name="FixCharStatsForceWavePlugIn095d_Description" xml:space="preserve"><value>이 업데이트는 방어 승수(DW) 및 기본 에너지(MG) 통계에 대한 민첩성을 수정합니다.</value></data>
+  <data name="FixHorseFenrirOptionsSoulBarrierPlugIn_Name" xml:space="preserve"><value>Dark Horse 및 Gold Fenrir 옵션과 소울 바리어 효과 수정</value></data>
+  <data name="FixHorseFenrirOptionsSoulBarrierPlugIn_Description" xml:space="preserve"><value>이 업데이트는 Dark Horse 옵션을 추가하고 Gold Fenrir 옵션 및 소울 바리어 효과를 수정합니다.</value></data>
+  <data name="FixLevelDiv20ExcOptionUpdatePlugIn_Name" xml:space="preserve"><value>엑설런트 옵션 레벨/20 데미지 수정</value></data>
+  <data name="FixLevelDiv20ExcOptionUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 마법 데미지로 레벨/20을 추가하는 엑설런트 옵션을 수정합니다.</value></data>
+  <data name="AddGuardsDataPlugIn_Name" xml:space="preserve"><value>경비 npc 데이터 추가</value></data>
+  <data name="AddGuardsDataPlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 경비 npcs에 대한 데이터가 추가되어 공격하고 이동할 수 있습니다.</value></data>
+  <data name="FixRageFighterMultipleHitSkillsPlugIn_Name" xml:space="preserve"><value>레이지파이터 다중 히트 스킬 수정</value></data>
+  <data name="FixRageFighterMultipleHitSkillsPlugIn_Description" xml:space="preserve"><value>이 업데이트는 Killing Blow, Beast Uppercut, Chain Drive, Dragon Roar 및 Phoenix Shot 레이지파이터 스킬과 해당 마법 효과에 누락된 다중 히트를 추가합니다.</value></data>
+  <data name="FixChaosMixesPlugInSeason6_Name" xml:space="preserve"><value>카오스 믹스 설정 및 여러 옵션 수정</value></data>
+  <data name="FixChaosMixesPlugInSeason6_Description" xml:space="preserve"><value>이 업데이트는 카오스 무기, 첫 번째 날개, Dinorant, 아이템 레벨 업그레이드, 두 번째 날개, 세 번째 날개, 망토, SD 물약, Guardian 옵션 및 Secromicon 제작 설정을 수정합니다. 블루 펜리르(보호) 데미지 감소 옵션값; 마법사의 반지 마법 옵션; 소환술사 및 레이지파이터에 대한 레벨 380 아이템 가디언 옵션.</value></data>
+  <data name="AddFenrirMaterialDropGroupsUpdateSeason6_Name" xml:space="preserve"><value>펜리르 재료 드롭 그룹 추가</value></data>
+  <data name="AddFenrirMaterialDropGroupsUpdateSeason6_Description" xml:space="preserve"><value>크라이울프의 모든 몬스터에게 Splinter of Armor(5%), Bless of Guardian(2%) 및 Claw of Beast(0.5%) 드롭을 추가합니다. 다른 그룹이 이미 크라이울프에 떨어뜨린 재료는 건너뜁니다.</value></data>
+  <data name="AddGensRewardItemsUpdatePlugIn_Name" xml:space="preserve"><value>젠 보상 아이템 추가</value></data>
+  <data name="AddGensRewardItemsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 젠 멤버들이 월간 보상으로 받을 수 있는 주얼리 케이스(14/141~14/144)가 추가됩니다.</value></data>
+  <data name="FixVulcanusWarpIndexUpdatePlugIn_Name" xml:space="preserve"><value>Vulcanus 워프 지수 수정</value></data>
+  <data name="FixVulcanusWarpIndexUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트로 불카누스의 워프 진입 지수가 시즌 6 게임 클라이언트에서 요구하는 42로 수정되었습니다.</value></data>
+  <data name="FixFireScreamRequirementsUpdatePlugIn_Name" xml:space="preserve"><value>Fire Scream 요구 사항 수정</value></data>
+  <data name="FixFireScreamRequirementsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트는 파이어 스크림 스킬의 에너지 및 통솔 요구 사항을 150과 70으로 수정합니다. 두 가지가 서로 바뀌었기 때문에 통솔이 150 미만인 다크로드는 스킬을 배울 수는 있지만 사용할 수는 없었습니다.</value></data>
+  <data name="AddCrywolfEventUpdatePlugIn_Name" xml:space="preserve"><value>크라이울프 이벤트 추가</value></data>
+  <data name="AddCrywolfEventUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 크라이울프 이벤트의 몬스터와 그 스폰이 추가되고, 요새의 동상과 제단이 항상 지도에 표시되고, 요새의 워프 진입과 점령 상태의 지형이 추가됩니다.</value></data>
+  <data name="AddSantaVillageInvitationUpdatePlugIn_Name" xml:space="preserve"><value>산타마을 초대장 추가</value></data>
+  <data name="AddSantaVillageInvitationUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 플레이어를 산타 마을로 워프시키는 산타 마을 초대 기능과 산타 마을의 스폰 게이트가 추가되었습니다.</value></data>
+  <data name="AddSmallWingsUpdatePlugIn_Name" xml:space="preserve"><value>작은 날개와 망토 추가</value></data>
+  <data name="AddSmallWingsUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 게임 내 상점에서 누락된 작은 날개와 망토를 추가합니다: 군주의 작은 망토, 저주의 작은 날개, 엘프의 작은 날개, 천국의 작은 날개, 사탄의 작은 날개, 작은 전사의 망토. 동일한 번호를 가진 기존 아이템은 변경되지 않은 상태로 유지됩니다.</value></data>
+  <data name="SetIntroducedGameVersionsPlugInBase_Name" xml:space="preserve"><value>콘텐츠의 게임 버전 설정</value></data>
+  <data name="SetIntroducedGameVersionsPlugInBase_Description" xml:space="preserve"><value>이번 업데이트에는 지도, 캐릭터 클래스, 몬스터, 아이템, 미니 게임이 포함된 원본 게임 버전이 설정되어 있습니다. 특정 게임 버전의 콘텐츠를 일괄적으로 활성화하거나 비활성화할 수 있습니다. 이미 설정된 버전은 유지됩니다.</value></data>
+  <data name="FixDinorantOptionNumbersPlugIn_Name" xml:space="preserve"><value>Dinorant 옵션 번호 수정</value></data>
+  <data name="FixDinorantOptionNumbersPlugIn_Description" xml:space="preserve"><value>이 업데이트는 각 Dinorant 옵션에 클라이언트가 기대하는 옵션 필드의 비트인 고유한 번호를 제공합니다.</value></data>
+  <data name="ConfigureNpcTalkPlugInsPlugIn_Name" xml:space="preserve"><value>토크 플러그인의 NPC 구성</value></data>
+  <data name="ConfigureNpcTalkPlugInsPlugIn_Description" xml:space="preserve"><value>이 업데이트는 NPC와의 대화를 처리하는 플러그인(예: 리셋 NPC, 블러드 캐슬 대천사)의 NPC를 설정합니다.</value></data>
+  <data name="AddIronKnightStabUpdatePlugIn_Name" xml:space="preserve"><value>아이언 나이트가 찌르기를 사용하게 해주세요</value></data>
+  <data name="AddIronKnightStabUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트를 통해 라클리온의 Iron Knight는 찌르기로 공격할 수 있으며, 클라이언트는 이를 콤보 효과로 보여줍니다.</value></data>
+  <data name="AddLorenMarketRaulJewelBundlePlugIn_Name" xml:space="preserve"><value>Loren Market Jeweler Raul 보석 번들 추가</value></data>
+  <data name="AddLorenMarketRaulJewelBundlePlugIn_Description" xml:space="preserve"><value>이번 업데이트를 통해 로렌 마켓의 보석상 라울(546)이 보석 꾸러미 창을 열어 라합처럼 보석을 묶음으로 묶고 해체할 수 있게 되었습니다.</value></data>
+  <data name="MoveServerPortsOutOfDynamicRangePlugInBase_Name" xml:space="preserve"><value>서버 포트를 동적 포트 범위 밖으로 이동</value></data>
+  <data name="MoveServerPortsOutOfDynamicRangePlugInBase_Description" xml:space="preserve"><value>이 업데이트는 게임 서버와 채팅 서버의 포트를 55900 – 55999에서 45900 – 45999로 옮깁니다(예: 55901 → 45901, 55980 → 45980). 이전 포트는 운영 체제의 동적 포트 범위에 속해 이미 사용 중일 수 있기 때문입니다. 방화벽, 포트 포워딩, docker compose 파일을 그에 맞게 수정하세요.</value></data>
+  <data name="FixTransformationRingRulesUpdatePlugIn_Name" xml:space="preserve"><value>변신 링 규칙 수정</value></data>
+  <data name="FixTransformationRingRulesUpdatePlugIn_Description" xml:space="preserve"><value>변신 링 레벨 3~5에는 캐릭터 레벨 50이 필요하며 데스 카우 링의 최대 체력 보너스 20%를 추가합니다.</value></data>
+  <data name="AddRageFighterAncientSetsUpdatePlugIn_Name" xml:space="preserve"><value>레이지파이터 세트 추가</value></data>
+  <data name="AddRageFighterAncientSetsUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 세트 신성한 아이템의 베가 및 차머 세트를 추가합니다.</value></data>
+  <data name="ConfigureCastleSiegeGuardTalkPlugInsUpdatePlugIn_Name" xml:space="preserve"><value>공성전 가드 구성</value></data>
+  <data name="ConfigureCastleSiegeGuardTalkPlugInsUpdatePlugIn_Description" xml:space="preserve"><value>공성전 맵의 다리에 있는 경비병은 등록 창을 열고, 시험의 땅 입구에 있는 경비병은 시험의 땅 대화 상자를 여는 수동 NPC가 됩니다.</value></data>
+  <data name="AddItemStatProfilesUpdatePlugIn_Name" xml:space="preserve">
+    <value>아이템 통계 프로필 추가</value>
+  </data>
+  <data name="AddItemStatProfilesUpdatePlugIn_Description" xml:space="preserve">
+    <value>아이템 공식(요구사항 증가 방식, 엑설런트 및 세트 아이템이 더 많이 얻는 아이템)을 데이터로 보유하는 아이템 통계 프로필을 추가하고 각 아이템에 해당 종류의 프로필을 제공합니다. 게임이 계산하는 값은 동일하게 유지됩니다. 존재하는 프로필과 프로필이 있는 아이템이 유지됩니다.</value>
+  </data>
+  <data name="AddCraftingBonusPercentageAttributePlugInBase_Name" xml:space="preserve"><value>제작 보너스 비율 속성 추가</value></data>
+  <data name="AddCraftingBonusPercentageAttributePlugInBase_Description" xml:space="preserve"><value>아이템 제작 성공률에 추가되는 백분율을 정의하는 속성을 추가합니다.</value></data>
+  <data name="FixSeedSphereMaximumItemLevelUpdatePlugIn_Name" xml:space="preserve"><value>시드 구체의 최대 아이템 레벨 수정</value></data>
+  <data name="FixSeedSphereMaximumItemLevelUpdatePlugIn_Description" xml:space="preserve"><value>이 업데이트는 시드 스피어의 최대 아이템 레벨을 해당 속성의 가장 높은 옵션 번호로 설정합니다. 시드 스피어의 아이템 레벨이 옵션을 정하므로, 그동안 첫 번째 옵션이 아닌 시드 스피어는 만들 수 없었습니다(예: 아이템 채팅 명령으로).</value></data>
+  <data name="AddItemPriceDefinitionsPlugIn_Name" xml:space="preserve"><value>아이템 가격 정의 추가</value></data>
+  <data name="AddItemPriceDefinitionsPlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 이전에 하드 코딩되었던 보석, 물약, 이벤트 티켓과 같은 특별 아이템의 가격 정의가 추가되었습니다. 그것이 없으면 이러한 아이템의 가격은 일반 장비와 같습니다.</value></data>
+  <data name="AddCrystalSwordIceChanceUpdatePlugIn_Name" xml:space="preserve"><value>크리스탈 소드 아이스 찬스 추가</value></data>
+  <data name="AddCrystalSwordIceChanceUpdatePlugIn_Description" xml:space="preserve"><value>대신 공격을 아이스 스킬로 바꾸는 크리스탈 소드 아이스 찬스가 추가됩니다.</value></data>
+  <data name="AddResetFruitsUpdatePlugIn_Name" xml:space="preserve"><value>재설정 과일 추가</value></data>
+  <data name="AddResetFruitsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 힘, 민첩성, 체력, 에너지 및 명령의 재설정 결과가 추가되어 스텟에 투자한 포인트를 되찾고 레벨 업 포인트로 반환합니다. 이를 포함하는 게임 내 상점의 패키지가 판매됩니다.</value></data>
+  <data name="AddFreeTicketItemsUpdatePlugIn_Name" xml:space="preserve"><value>무료 이벤트 티켓 추가</value></data>
+  <data name="AddFreeTicketItemsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 모든 레벨의 이벤트에 입장할 수 있는 데빌 스퀘어, 블러드 캐슬, 환영의 사원 및 카오스 캐슬의 무료 티켓이 추가되었습니다. 이를 포함하는 게임 내 상점의 패키지가 판매됩니다.</value></data>
+  <data name="AddKalimaTicketUpdatePlugIn_Name" xml:space="preserve"><value>칼리마 티켓 추가</value></data>
+  <data name="AddKalimaTicketUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 캐릭터의 레벨에 맞는 칼리마 레벨의 문을 여는 칼리마 티켓이 추가되었습니다. 이를 포함하는 게임 내 상점의 패키지가 판매됩니다.</value></data>
+  <data name="AddCashShopJeweleryUpdatePlugIn_Name" xml:space="preserve">
+    <value>현금 상점 반지와 목걸이 추가</value>
+  </data>
+  <data name="AddCashShopJeweleryUpdatePlugIn_Description" xml:space="preserve">
+    <value>이번 업데이트에는 치명적인 마법사의 반지, 사파이어, 루비, 토파즈, 자수정 반지, 게임 내 상점의 루비, 에메랄드, 사파이어 목걸이가 고정 보너스와 함께 추가됩니다. 해당 패키지는 아직 지원되지 않는 제한된 기간 동안 상점에서 판매하기 때문에 판매용이 아닙니다.</value>
+  </data>
+  <data name="AddLuckyItemsUpdatePlugIn_Name" xml:space="preserve"><value>행운의 아이템 추가</value></data>
+  <data name="AddLuckyItemsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 행운의 방어구 세트, 행운의 아이템 티켓, 확장 및 승격의 보석이 추가됩니다. 엘브랜드의 데이빗은 캐릭터 클래스에 맞는 행운의 갑옷 티켓을 교환합니다. 티켓이 포함된 게임 내 상점 패키지가 판매됩니다.</value></data>
+  <data name="AddBuffItemsUpdatePlugIn_Name" xml:space="preserve"><value>버프 아이템 추가</value></data>
+  <data name="AddBuffItemsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 게임 내 상점에 인장, 두루마리, 엘릭서, 오라가 추가되어, 사용 시 시간 제한 효과가 적용됩니다. 동일한 번호를 가진 기존 아이템은 변경되지 않은 상태로 유지됩니다.</value></data>
+  <data name="AddElitePotionsUpdatePlugIn_Name" xml:space="preserve"><value>엘리트 물약 추가</value></data>
+  <data name="AddElitePotionsUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 체력, 마나 또는 보호막을 즉시 회복하는 게임 내 상점의 엘리트 치유, 마나 및 SD 물약이 추가되었습니다. 이를 포함하는 게임 내 상점의 패키지가 판매됩니다.</value></data>
+  <data name="AddCraftingTalismansUpdatePlugIn_Name" xml:space="preserve"><value>부적 제작 추가</value></data>
+  <data name="AddCraftingTalismansUpdatePlugIn_Description" xml:space="preserve"><value>이번 업데이트에는 내구성(%)으로 제작 성공률을 높이는 행운의 부적과 실패한 +10~+15 아이템 업그레이드 아이템을 유지하는 혼돈의 부적 조립이 추가됩니다. 이를 허용하는 제작품에 추가되며, 이를 포함하는 게임 내 상점의 패키지가 판매됩니다.</value></data>
+  <data name="AddHitShockSettingsPlugIn_Name" xml:space="preserve"><value>충격파 설정 추가</value></data>
+  <data name="AddHitShockSettingsPlugIn_Description" xml:space="preserve"><value>전역 적중 충격 확률 및 데미지 임계값 설정과 Uniria 마커를 추가하여 Uniria 장착 플레이어가 적중 충격에서 제외됩니다.</value></data>
+  <data name="FixKanturuRuins3LandingUpdatePlugIn_Name" xml:space="preserve"><value>칸투르 유적 3개 착륙 지역 수정</value></data>
+  <data name="FixKanturuRuins3LandingUpdatePlugIn_Description" xml:space="preserve"><value>원래 칸투르 유적 3 워프 착륙 지역을 걷기 가능한 지형으로 좁힙니다. 사용자 정의된 대상 및 관련 없는 설정은 유지됩니다.</value></data>
+</root>

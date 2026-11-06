@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="SystemConfiguration_IpResolver_Description" xml:space="preserve">
+		<value>자신의 IP 주소가 결정되는 방법을 정의합니다. 선택한 게임 서버(서버 선택
+화면) 또는 채팅 서버(게임 내 메신저로 채팅을 시작할 때)에 연결을 요청하는 경우 게임
+클라이언트로 다시 보고됩니다.
+이는 외부에서 공용
+IP에 연결할 수 없는 환경에서 서버를 시작한 경우 도움이 될 수 있습니다. (예: IPv4 주소
+또는 방화벽 뒤에서 공유하기 때문에) 컴퓨터나 개인 네트워크 내에서 이를 사용하려고 합니다.</value>
+	</data>
+	<data name="SystemConfiguration_IpResolver_Name" xml:space="preserve">
+		<value>IP 해결</value>
+	</data>
+	<data name="SystemConfiguration_IpResolverParameter_Description" xml:space="preserve">
+		<value>'Custom'으로 설정된 경우 IP 확인을 위한 매개변수를 정의합니다.</value>
+	</data>
+	<data name="SystemConfiguration_IpResolverParameter_Name" xml:space="preserve">
+		<value>맞춤 IP/호스트 이름</value>
+	</data>
+	<data name="SystemConfiguration_AutoStart_Name" xml:space="preserve">
+		<value>자동 시작</value>
+	</data>
+	<data name="SystemConfiguration_AutoStart_Description" xml:space="preserve">
+		<value>(하위)서버가 자동으로 시작되어야 하는지 여부와 서버 프로세스가 시작되는 시기를 정의합니다. 이 설정은 일체형 서버(MUnique.OpenMU.Startup)에만 적용됩니다.</value>
+	</data>
+	<data name="SystemConfiguration_ReadConsoleInput_Description" xml:space="preserve">
+		<value>사용자가 서버 프로세스의 콘솔에 명령을 입력할 수 있는지 정의합니다. 이 설정은 일체형 서버(MUnique.OpenMU.Startup)에만 적용됩니다. 이는 '-deamon' 시작 매개변수를 대체합니다.</value>
+	</data>
+	<data name="SystemConfiguration_ReadConsoleInput_Name" xml:space="preserve">
+		<value>콘솔 입력 읽기</value>
+	</data>
+	<data name="SystemConfiguration_TimeZoneId_Name" xml:space="preserve">
+		<value>서버 시간대</value>
+	</data>
+	<data name="SystemConfiguration_TimeZoneId_Description" xml:space="preserve">
+		<value>정기 이벤트 일정(예: 침공, 블러드 캐슬, 데빌 스퀘어)과 공성전 일정의 시간을 해석할 때 쓰는 시간대 ID입니다. IANA ID를 권장합니다(예: 'Europe/Warsaw'). 비어 있으면 UTC를 사용합니다.</value>
+	</data>
+	<data name="SystemConfiguration_Name" xml:space="preserve">
+		<value>시스템 구성</value>
+	</data>
+	<data name="SystemConfiguration_Description" xml:space="preserve">
+		<value>이러한 설정은 시스템 전체에 적용됩니다. 시작 매개변수와 환경 변수로 덮어쓸 수 있다는 점을 명심하세요. 이에 대해 더 알고 싶다면 Startup-Readme를 살펴보십시오.</value>
+	</data>
+	<data name="SystemConfiguration_AutoUpdateSchema_Name" xml:space="preserve">
+		<value>자동 업데이트 데이터베이스 스키마</value>
+	</data>
+	<data name="SystemConfiguration_AutoUpdateSchema_Description" xml:space="preserve">
+		<value>서버 프로세스가 시작될 때 일체형 서버(MUnique.OpenMU.Startup)가 데이터베이스 스키마를 자동으로 업데이트하고 필수 구성 업데이트를 적용하는지 정의합니다. 분산 배포에서는 사용자가 관리 패널을 통해 수동으로 업데이트를 시작해야 합니다.</value>
+	</data>
+    <data name="Slot" xml:space="preserve">
+      <value>슬롯</value>
+    </data>
+    <data name="Excellent" xml:space="preserve">
+      <value>엑설런트</value>
+    </data>
+    <data name="Skill" xml:space="preserve">
+      <value>스킬</value>
+    </data>
+    <data name="Luck" xml:space="preserve">
+      <value>행운</value>
+    </data>
+    <data name="SocketAbbreviation" xml:space="preserve">
+      <value>S</value>
+    </data>
+	<data name="SystemConfiguration_NetworkAnalyzer_Name" xml:space="preserve">
+		<value>네트워크 분석기</value>
+	</data>
+	<data name="SystemConfiguration_NetworkAnalyzerLiveBufferSize_Name" xml:space="preserve">
+		<value>라이브 버퍼 크기</value>
+	</data>
+	<data name="SystemConfiguration_NetworkAnalyzerLiveBufferSize_Description" xml:space="preserve">
+		<value>네트워크 분석기 페이지에서 관찰되는 연결당 메모리에 보관되는 데이터 패킷 수입니다. 더 많은 패킷이 도착하면 가장 오래된 패킷이 삭제됩니다.</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationArchivePath_Name" xml:space="preserve">
+		<value>관찰 아카이브 경로</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationArchivePath_Description" xml:space="preserve">
+		<value>관찰된 계정의 트래픽이 보관되는 경로입니다. 상대 경로는 애플리케이션 디렉터리에 대해 확인됩니다. 웹 서버에서 제공하는 폴더를 가리켜서는 안 됩니다. 보관된 세션에는 플레이어의 로그인 패킷이 일반 텍스트로 포함되어 있습니다.</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationMaxSessionSizeMb_Name" xml:space="preserve">
+		<value>최대 세션 크기(MB)</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationMaxSessionSizeMb_Description" xml:space="preserve">
+		<value>보관된 세션 파일 하나의 최대 크기(MB)입니다. 점점 커지는 세션은 다른 파일에서 계속됩니다.</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationMaxTotalSizeMb_Name" xml:space="preserve">
+		<value>최대 아카이브 크기(MB)</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationMaxTotalSizeMb_Description" xml:space="preserve">
+		<value>전체 관찰 아카이브의 최대 크기(MB)입니다. 초과되면 가장 오래된 세션이 제거됩니다. 값이 0이면 크기가 무제한이라는 의미입니다.</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationRetentionDays_Name" xml:space="preserve">
+		<value>아카이브 보존(일)</value>
+	</data>
+	<data name="SystemConfiguration_NetworkObservationRetentionDays_Description" xml:space="preserve">
+		<value>보관된 세션이 제거된 후의 일 수입니다. 값이 0이면 세션이 영원히 유지된다는 의미입니다.</value>
+	</data>
+  <data name="CastleSiegeScheduleSummary" xml:space="preserve">
+    <value>{1} {2:D2}:{3:D2}의 {0}</value>
+  </data>
+  <data name="CastleSiegeUpgradeSummary" xml:space="preserve">
+    <value>레벨 {0}: 값={1}, 보석={2}, 젠={3}</value>
+  </data>
+  <data name="CastleSiegeZoneSummary" xml:space="preserve">
+    <value>{0} / {1} ~ {2} / {3}</value>
+  </data>
+  <data name="ItemStorageSummary" xml:space="preserve">
+    <value>{0} 아이템, {1} 돈</value>
+  </data>
+  <data name="DayOfWeek_Sunday" xml:space="preserve">
+    <value>일요일</value>
+  </data>
+  <data name="DayOfWeek_Monday" xml:space="preserve">
+    <value>월요일</value>
+  </data>
+  <data name="DayOfWeek_Tuesday" xml:space="preserve">
+    <value>화요일</value>
+  </data>
+  <data name="DayOfWeek_Wednesday" xml:space="preserve">
+    <value>수요일</value>
+  </data>
+  <data name="DayOfWeek_Thursday" xml:space="preserve">
+    <value>목요일</value>
+  </data>
+  <data name="DayOfWeek_Friday" xml:space="preserve">
+    <value>금요일</value>
+  </data>
+  <data name="DayOfWeek_Saturday" xml:space="preserve">
+    <value>토요일</value>
+  </data>
+  <data name="SpawnPointSummary" xml:space="preserve"><value>{0} - 수량: {1} @ {2}/{3}</value></data>
+  <data name="SpawnAreaSummary" xml:space="preserve"><value>{0} - 수량: {1} @ {2}/{3} ~ {4}/{5}</value></data>
+  <data name="SpawnWaveSummary" xml:space="preserve"><value> - 웨이브: {0}</value></data>
+  <data name="EnterGateSummary" xml:space="preserve"><value>{0} ({1}) (레벨 {2}) ~ {3}</value></data>
+  <data name="WaveSummary" xml:space="preserve"><value>웨이브 {0}: {1}</value></data>
+  <data name="LevelValueSummary" xml:space="preserve"><value>레벨 {0}: {1}</value></data>
+  <data name="RectangleSummary" xml:space="preserve"><value>{0} / {1} ~ {2} / {3}</value></data>
+  <data name="BattleZoneSummary" xml:space="preserve"><value>전투 지역({0})</value></data>
+  <data name="CastleNpcSummary" xml:space="preserve"><value>({2},{3}) 위치의 {0} #{1}</value></data>
+  <data name="DuelConfigSummary" xml:space="preserve"><value>결투 구성 {0} 경기장, 출구: {1}</value></data>
+  <data name="GameServerConfigSummary" xml:space="preserve"><value>기본({0} 플레이어)</value></data>
+  <data name="RandomItemSummary" xml:space="preserve"><value>무작위 아이템</value></data>
+  <data name="OptionRequirementSummary" xml:space="preserve"><value>{0}: SubOption 유형 {1}, 최소 {2} 개수</value></data>
+  <data name="SkillRewardSummary" xml:space="preserve"><value>스킬: {0}</value></data>
+  <data name="AttributeRewardSummary" xml:space="preserve"><value>속성: {0} x {1}</value></data>
+  <data name="TerrainChangeSummary" xml:space="preserve"><value>{0} 속성 '{1}'({2}, {3})에서 ({4}, {5})로; {6}</value></data>
+  <data name="TerrainSet" xml:space="preserve"><value>세트</value></data>
+  <data name="TerrainRemove" xml:space="preserve"><value>제거</value></data>
+  <data name="TerrainWithClientUpdate" xml:space="preserve"><value>클라이언트 업데이트로</value></data>
+  <data name="TerrainWithoutClientUpdate" xml:space="preserve"><value>클라이언트 업데이트 없이</value></data>
+  <data name="ChatServerSummary" xml:space="preserve"><value>[ChatServerDefinition ServerID={0}, 설명={1}]</value></data>
+  <data name="ServerEndpointSummary" xml:space="preserve"><value>클라이언트: {0}; 포트: {1}</value></data>
+  <data name="ItemRequirementFormulaSummary" xml:space="preserve"><value>{0}: {1} + 기본 × (드롭 레벨 + 레벨 × {2}) × {3} / 100</value></data>
+  <data name="ItemRequirementFormulaKeptBaseSummary" xml:space="preserve"><value>{0}: 기본 값</value></data>
+  <data name="ItemRequirementFormulaLevelBasisSummary" xml:space="preserve"><value>{0}: {1} + 기본 × (레벨 요구 사항, 그렇지 않으면 드롭 레벨 + 레벨 × {2}) × {3} / 100</value></data>
+</root>

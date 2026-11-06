@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="AlcoholEffect" xml:space="preserve">
+    <value>알코올 효과</value>
+  </data>
+  <data name="HealEffect" xml:space="preserve">
+    <value>치유 효과</value>
+  </data>
+  <data name="GreaterDefenseBuffSkillEffect" xml:space="preserve">
+    <value>방어력 향상 버프 스킬 효과</value>
+  </data>
+  <data name="GreaterDamageBuffSkillEffect" xml:space="preserve">
+    <value>공격력 향상 버프 스킬 효과</value>
+  </data>
+  <data name="ShieldDefenseSkillEffect" xml:space="preserve">
+    <value>방패 방어 스킬 효과</value>
+  </data>
+  <data name="Iced" xml:space="preserve">
+    <value>아이스</value>
+  </data>
+  <data name="Poisoned" xml:space="preserve">
+    <value>중독됨</value>
+  </data>
+  <data name="Cold" xml:space="preserve">
+    <value>감기</value>
+  </data>
+  <data name="InfinityArrowSkillEffect" xml:space="preserve">
+    <value>인피니티 애로우 스킬 효과</value>
+  </data>
+  <data name="ElfSoldierBuff" xml:space="preserve">
+    <value>엘프 병사 버프</value>
+  </data>
+  <data name="CastleSiegeAttack3" xml:space="preserve">
+    <value>공성전 공격3</value>
+  </data>
+  <data name="CastleSiegeAttack2" xml:space="preserve">
+    <value>공성전 공격2</value>
+  </data>
+  <data name="CastleSiegeAttack1" xml:space="preserve">
+    <value>공성전 공격1</value>
+  </data>
+  <data name="CastleSiegeDefense" xml:space="preserve">
+    <value>공성전 방어</value>
+  </data>
+  <data name="IncreaseBlockMasterySkillEffect" xml:space="preserve">
+    <value>블록 마스터리 스킬 효과 증가</value>
+  </data>
+  <data name="IncreaseBlockPowerUpSkillEffect" xml:space="preserve">
+    <value>블록 파워업 스킬 효과 증가</value>
+  </data>
+  <data name="IncreaseHealthStrengthenerSkillEffect" xml:space="preserve">
+    <value>체력 강화 스킬 효과 증가</value>
+  </data>
+  <data name="WizardryEnhanceMasterySkillEffect" xml:space="preserve">
+    <value>마력 강화 마스터리 스킬 효과</value>
+  </data>
+  <data name="WizardryEnhanceStrengthenerSkillEffect" xml:space="preserve">
+    <value>마력강화 강화 스킬 효과</value>
+  </data>
+  <data name="LifeSwellProficiencySkillEffect" xml:space="preserve">
+    <value>라이프 스웰 숙련 스킬 효과</value>
+  </data>
+  <data name="CriticalDamageIncreaseMasterySkillEffect" xml:space="preserve">
+    <value>크리티컬 데미지 증가 마스터리 스킬 효과</value>
+  </data>
+  <data name="StunEffect" xml:space="preserve">
+    <value>기절 효과</value>
+  </data>
+  <data name="RequiemEffect" xml:space="preserve">
+    <value>레퀴엠 효과</value>
+  </data>
+  <data name="ExplosionEffect" xml:space="preserve">
+    <value>폭발 효과</value>
+  </data>
+  <data name="DecreaseBlockEffectPhoenixShot" xml:space="preserve">
+    <value>블록 효과 감소(피닉스 샷)</value>
+  </data>
+  <data name="DefenseReductionEffectBeastUppercut" xml:space="preserve">
+    <value>방어력 감소 효과(비스트 어퍼컷)</value>
+  </data>
+  <data name="ReflectionEffect" xml:space="preserve">
+    <value>반사 효과</value>
+  </data>
+  <data name="InnovationEffect" xml:space="preserve">
+    <value>혁신효과</value>
+  </data>
+  <data name="WeaknessEffectSummoner" xml:space="preserve">
+    <value>약점 효과(소환술사)</value>
+  </data>
+  <data name="SleepEffect" xml:space="preserve">
+    <value>수면 효과</value>
+  </data>
+  <data name="WeaknessEffectKillingBlow" xml:space="preserve">
+    <value>약점 효과(필살타)</value>
+  </data>
+  <data name="BerserkerBuffSkillEffect" xml:space="preserve">
+    <value>버서커 버프 스킬 효과</value>
+  </data>
+  <data name="PotionOfBlessEffect" xml:space="preserve">
+    <value>축복 효과의 물약</value>
+  </data>
+  <data name="PotionOfSoulEffect" xml:space="preserve">
+    <value>영혼 효과의 물약</value>
+  </data>
+  <data name="WizEnhanceSkillEffect" xml:space="preserve">
+    <value>위즈 강화 스킬 효과</value>
+  </data>
+  <data name="IncreaseBlockSkillEffect" xml:space="preserve">
+    <value>블록 스킬 효과 증가</value>
+  </data>
+  <data name="IncreaseHealthSkillEffect" xml:space="preserve">
+    <value>체력 스킬 효과 증가</value>
+  </data>
+  <data name="IgnoreDefenseSkillEffect" xml:space="preserve">
+    <value>방어 스킬 효과 무시</value>
+  </data>
+  <data name="Invisible" xml:space="preserve">
+    <value>투명</value>
+  </data>
+  <data name="DefenseReductionEffectFireSlash" xml:space="preserve">
+    <value>방어력 감소 효과(파이어 슬래시)</value>
+  </data>
+  <data name="ShieldRecoverEffect" xml:space="preserve">
+    <value>실드 회복 효과</value>
+  </data>
+  <data name="CriticalDamageIncreaseSkillEffect" xml:space="preserve">
+    <value>크리티컬 데미지 증가 스킬 효과</value>
+  </data>
+  <data name="LifeSwellSkillEffect" xml:space="preserve">
+    <value>라이프 스웰 스킬 효과</value>
+  </data>
+  <data name="SoulBarrier" xml:space="preserve">
+    <value>소울 바리어</value>
+  </data>
+  <data name="Freeze" xml:space="preserve">
+    <value>동결</value>
+  </data>
+  <data name="IllusionTempleOrderOfProtection" xml:space="preserve">
+    <value>환영의 사원 - 보호 명령</value>
+  </data>
+  <data name="IllusionTempleRestraint" xml:space="preserve">
+    <value>환영의 사원 - 제한</value>
+  </data>
+</root>

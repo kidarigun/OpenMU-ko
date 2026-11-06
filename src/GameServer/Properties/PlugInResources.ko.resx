@@ -1,0 +1,2774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AnimationHandlerPlugIn_Name" xml:space="preserve">
+    <value>애니메이션 핸들러</value>
+  </data>
+  <data name="AnimationHandlerPlugIn_Description" xml:space="preserve">
+    <value>애니메이션 패킷 처리기입니다.</value>
+  </data>
+  <data name="AreaSkillAttackHandlerPlugIn_Name" xml:space="preserve">
+    <value>광역 스킬 공격 핸들러</value>
+  </data>
+  <data name="AreaSkillAttackHandlerPlugIn_Description" xml:space="preserve">
+    <value>영역 스킬 공격 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="AreaSkillAttackHandlerPlugIn075_Name" xml:space="preserve">
+    <value>광역 스킬 공격 핸들러 (075)</value>
+  </data>
+  <data name="AreaSkillAttackHandlerPlugIn075_Description" xml:space="preserve">
+    <value>버전 0.75의 영역 스킬 공격 패킷 처리기</value>
+  </data>
+  <data name="AreaSkillAttackHandlerPlugIn095_Name" xml:space="preserve">
+    <value>광역 스킬 공격 핸들러 (095)</value>
+  </data>
+  <data name="AreaSkillAttackHandlerPlugIn095_Description" xml:space="preserve">
+    <value>버전 0.95의 영역 스킬 공격 패킷 처리기</value>
+  </data>
+  <data name="AreaSkillHitHandlerPlugIn_Name" xml:space="preserve">
+    <value>광역 스킬 히트 핸들러</value>
+  </data>
+  <data name="AreaSkillHitHandlerPlugIn_Description" xml:space="preserve">
+    <value>영역 스킬 히트 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="AreaSkillHitHandlerPlugIn075_Name" xml:space="preserve">
+    <value>광역 스킬 히트 핸들러 (075)</value>
+  </data>
+  <data name="AreaSkillHitHandlerPlugIn075_Description" xml:space="preserve">
+    <value>영역 스킬 히트 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="AreaSkillHitHandlerPlugIn095_Name" xml:space="preserve">
+    <value>광역 스킬 히트 핸들러 (095)</value>
+  </data>
+  <data name="AreaSkillHitHandlerPlugIn095_Description" xml:space="preserve">
+    <value>영역 스킬 히트 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="CharacterMoveHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 이동 핸들러 (ENG)</value>
+  </data>
+  <data name="CharacterMoveHandlerPlugIn_Description" xml:space="preserve">
+    <value>워크 패킷용 패킷 핸들러입니다.</value>
+  </data>
+  <data name="CharacterMoveHandlerPlugIn075_Name" xml:space="preserve">
+    <value>캐릭터 이동 핸들러(0.75)</value>
+  </data>
+  <data name="CharacterMoveHandlerPlugIn075_Description" xml:space="preserve">
+    <value>이동 패킷용 패킷 처리기 버전 0.75.</value>
+  </data>
+  <data name="CharacterWalkHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 걷기 핸들러</value>
+  </data>
+  <data name="CharacterWalkHandlerPlugIn_Description" xml:space="preserve">
+    <value>워크 패킷용 패킷 핸들러입니다.</value>
+  </data>
+  <data name="CharacterWalkHandlerPlugIn075_Name" xml:space="preserve">
+    <value>캐릭터 걷기 핸들러</value>
+  </data>
+  <data name="CharacterWalkHandlerPlugIn075_Description" xml:space="preserve">
+    <value>워크 패킷용 패킷 핸들러입니다.</value>
+  </data>
+  <data name="ChatMessageHandlerPlugIn_Name" xml:space="preserve">
+    <value>채팅 메시지 핸들러</value>
+  </data>
+  <data name="ChatMessageHandlerPlugIn_Description" xml:space="preserve">
+    <value>채팅 메시지용 패킷 핸들러입니다.</value>
+  </data>
+  <data name="CloseNpcDialogHandlerPlugIn_Name" xml:space="preserve">
+    <value>NPC 대화창 닫기 핸들러</value>
+  </data>
+  <data name="CloseNpcDialogHandlerPlugIn_Description" xml:space="preserve">
+    <value>NPC 대화창 닫기 패킷 처리기입니다.</value>
+  </data>
+  <data name="EnterOnGatekeeperHandlerPlugIn_Name" xml:space="preserve">
+    <value>문지기를 통한 입장 핸들러</value>
+  </data>
+  <data name="EnterOnGatekeeperHandlerPlugIn_Description" xml:space="preserve">
+    <value>EnterOnGatekeeperRequest 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="EnterOnWerewolfHandlerPlugIn_Name" xml:space="preserve">
+    <value>늑대인간을 통한 입장 핸들러</value>
+  </data>
+  <data name="EnterOnWerewolfHandlerPlugIn_Description" xml:space="preserve">
+    <value>EnterOnWerewolfRequest 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="HitHandlerPlugIn_Name" xml:space="preserve">
+    <value>히트 핸들러</value>
+  </data>
+  <data name="HitHandlerPlugIn_Description" xml:space="preserve">
+    <value>적중 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="HitHandlerPlugIn075_Name" xml:space="preserve">
+    <value>HitHandlerPlugIn 0.75</value>
+  </data>
+  <data name="HitHandlerPlugIn075_Description" xml:space="preserve">
+    <value>적중 패킷에 대한 핸들러입니다.</value>
+  </data>
+    <data name="MagicEffectCancelHandlerPlugIn_Name" xml:space="preserve">
+    <value>마법 효과 취소 핸들러</value>
+  </data>
+    <data name="MagicEffectCancelHandlerPlugIn_Description" xml:space="preserve">
+    <value>마법 효과 취소 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="TalkNpcHandlerPlugIn_Name" xml:space="preserve">
+    <value>Talk NPC 핸들러</value>
+  </data>
+  <data name="TalkNpcHandlerPlugIn_Description" xml:space="preserve">
+    <value>대화 npc 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="TalkNpcHandlerPlugIn075_Name" xml:space="preserve">
+    <value>Talk NPC 핸들러 (075)</value>
+  </data>
+  <data name="TalkNpcHandlerPlugIn075_Description" xml:space="preserve">
+    <value>대화 npc 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="TargetedSkillHandlerPlugIn_Name" xml:space="preserve">
+    <value>타겟 스킬 핸들러</value>
+  </data>
+  <data name="TargetedSkillHandlerPlugIn_Description" xml:space="preserve">
+    <value>대상 스킬 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="TargetedSkillHandlerPlugIn075_Name" xml:space="preserve">
+    <value>타겟 스킬 핸들러 (075)</value>
+  </data>
+  <data name="TargetedSkillHandlerPlugIn075_Description" xml:space="preserve">
+    <value>버전 0.75의 타겟 스킬 패킷 핸들러</value>
+  </data>
+  <data name="TargetedSkillHandlerPlugIn095_Name" xml:space="preserve">
+    <value>타겟 스킬 핸들러 (095)</value>
+  </data>
+  <data name="TargetedSkillHandlerPlugIn095_Description" xml:space="preserve">
+    <value>버전 0.95의 대상 스킬 패킷 처리기입니다.</value>
+  </data>
+  <data name="TeleportTargetHandlerPlugIn_Name" xml:space="preserve">
+    <value>텔레포트 타겟 핸들러</value>
+  </data>
+  <data name="TeleportTargetHandlerPlugIn_Description" xml:space="preserve">
+    <value>텔레포트 아군 스킬의 대상 텔레포트 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="WarpGateHandler075PlugIn_Name" xml:space="preserve">
+    <value>워프 게이트 핸들러075</value>
+  </data>
+  <data name="WarpGateHandler075PlugIn_Description" xml:space="preserve">
+    <value>워프 게이트 패킷 처리기입니다.</value>
+  </data>
+  <data name="WarpGateHandlerPlugIn_Name" xml:space="preserve">
+    <value>워프 게이트 핸들러</value>
+  </data>
+  <data name="WarpGateHandlerPlugIn_Description" xml:space="preserve">
+    <value>워프 게이트 패킷 처리기입니다.</value>
+  </data>
+  <data name="WarpHandlerPlugIn_Name" xml:space="preserve">
+    <value>워프 핸들러</value>
+  </data>
+  <data name="WarpHandlerPlugIn_Description" xml:space="preserve">
+    <value>워프 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="WhisperedChatMessageHandlerPlugIn_Name" xml:space="preserve">
+    <value>속삭임 메시지 핸들러</value>
+  </data>
+  <data name="WhisperedChatMessageHandlerPlugIn_Description" xml:space="preserve">
+    <value>속삭이는 채팅 메시지에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="AppearanceSerializer_Name" xml:space="preserve">
+    <value>기본 모양 직렬 변환기</value>
+  </data>
+  <data name="AppearanceSerializer_Description" xml:space="preserve">
+    <value>플레이어 모양에 대한 기본 직렬 변환기입니다. 아마도 시즌 6에서만 제대로 작동할 것입니다.</value>
+  </data>
+  <data name="AppearanceSerializer075_Name" xml:space="preserve">
+    <value>모양 직렬 변환기 0.75</value>
+  </data>
+  <data name="AppearanceSerializer075_Description" xml:space="preserve">
+    <value>버전 0.75 클라이언트와 호환되는 플레이어 모양을 위한 직렬 변환기입니다.</value>
+  </data>
+  <data name="AppearanceSerializer095_Name" xml:space="preserve">
+    <value>AppearanceSerializer095</value>
+  </data>
+  <data name="AppearanceSerializer095_Description" xml:space="preserve">
+    <value>버전 0.95 클라이언트와 호환되는 플레이어 모양을 위한 직렬 변환기</value>
+  </data>
+  <data name="AppearanceSerializerExtended_Name" xml:space="preserve">
+    <value>확장된 모양 직렬 변환기</value>
+  </data>
+  <data name="AppearanceSerializerExtended_Description" xml:space="preserve">
+    <value>플레이어 모양을 위한 확장된 직렬 변환기입니다.</value>
+  </data>
+  <data name="ChatViewPlugIn_Name" xml:space="preserve">
+    <value>채팅 보기 플러그인</value>
+  </data>
+  <data name="ChatViewPlugIn_Description" xml:space="preserve">
+    <value>플레이어에게 채팅 메시지를 보내려면 플러그인을 확인하세요.</value>
+  </data>
+  <data name="ConsumeSpecialItemPlugIn_Name" xml:space="preserve">
+    <value>스페셜 아이템을 소비하세요</value>
+  </data>
+  <data name="ConsumeSpecialItemPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IConsumeSpecialItemPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemSerializer_Name" xml:space="preserve">
+    <value>아이템 직렬 변환기</value>
+  </data>
+  <data name="ItemSerializer_Description" xml:space="preserve">
+    <value>기본 아이템 직렬 변환기입니다. 아마도 시즌 6에서만 정확할 것입니다.</value>
+  </data>
+  <data name="ItemSerializer075_Name" xml:space="preserve">
+    <value>아이템 직렬 변환기 0.75</value>
+  </data>
+  <data name="ItemSerializer075_Description" xml:space="preserve">
+    <value>게임 클라이언트 버전 0.75용 아이템 시리얼라이저</value>
+  </data>
+  <data name="ItemSerializer095_Name" xml:space="preserve">
+    <value>ItemSerializer095</value>
+  </data>
+  <data name="ItemSerializer095_Description" xml:space="preserve">
+    <value>게임 클라이언트 버전 0.95용 아이템 시리얼라이저</value>
+  </data>
+  <data name="ItemSerializerExtended_Name" xml:space="preserve">
+    <value>아이템 직렬 변환기</value>
+  </data>
+  <data name="ItemSerializerExtended_Description" xml:space="preserve">
+    <value>확장된 아이템 직렬 변환기입니다. 아마도 시즌 6에서만 정확할 것입니다.</value>
+  </data>
+  <data name="ShowMessagePlugIn_Name" xml:space="preserve">
+    <value>메시지 표시</value>
+  </data>
+  <data name="ShowMessagePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMessagePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="CancelGuildCreationHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 생성 핸들러 취소</value>
+  </data>
+  <data name="CancelGuildCreationHandlerPlugIn_Description" xml:space="preserve">
+    <value>CancelGuildCreation 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="GuildCreateHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 생성 핸들러</value>
+  </data>
+  <data name="GuildCreateHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 생성 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="GuildCreateHandlerPlugIn075_Name" xml:space="preserve">
+    <value>길드 생성 핸들러 (075)</value>
+  </data>
+  <data name="GuildCreateHandlerPlugIn075_Description" xml:space="preserve">
+    <value>길드 생성 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="GuildInfoRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 정보 요청 핸들러</value>
+  </data>
+  <data name="GuildInfoRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 정보 요청 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="GuildKickPlayerHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 킥 플레이어 핸들러</value>
+  </data>
+  <data name="GuildKickPlayerHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 플레이어 킥 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="GuildListRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 목록 요청 핸들러</value>
+  </data>
+  <data name="GuildListRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 목록 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="GuildMasterAnswerHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 마스터 응답 핸들러</value>
+  </data>
+  <data name="GuildMasterAnswerHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 마스터 응답 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="GuildRequestAnswerHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 요청 답변 핸들러</value>
+  </data>
+  <data name="GuildRequestAnswerHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 요청 응답 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="GuildRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 요청 처리기</value>
+  </data>
+  <data name="GuildRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 요청 처리기입니다.</value>
+  </data>
+  <data name="GuildWarResponseHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 전쟁 대응 핸들러</value>
+  </data>
+  <data name="GuildWarResponseHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 전쟁 응답 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="GuildRelationshipChangeHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 관계 변경 핸들러</value>
+  </data>
+  <data name="GuildRelationshipChangeHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 관계 변경 요청 패킷(alliance/hostility 요청)에 대한 핸들러입니다.</value>
+  </data>
+  <data name="GuildRelationshipChangeResponseHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 관계 변경 응답 핸들러</value>
+  </data>
+  <data name="GuildRelationshipChangeResponseHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 관계 변경 응답 패킷(대상 길드 마스터의 답변)을 처리합니다.</value>
+  </data>
+  <data name="AllianceListRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>동맹 목록 요청 처리기</value>
+  </data>
+  <data name="AllianceListRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>동맹 목록 요청 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="AllianceGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>동맹 그룹 핸들러</value>
+  </data>
+  <data name="AllianceGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>Alliance 패킷에 대한 패킷 처리기 그룹(0xEB 식별자).</value>
+  </data>
+  <data name="RemoveAllianceGuildHandlerPlugIn_Name" xml:space="preserve">
+    <value>동맹 길드 핸들러 제거</value>
+  </data>
+  <data name="RemoveAllianceGuildHandlerPlugIn_Description" xml:space="preserve">
+    <value>동맹 길드 요청 패킷 제거를 위한 핸들러입니다.</value>
+  </data>
+  <data name="BuyNpcItemHandlerPlugIn_Name" xml:space="preserve">
+    <value>NPC 아이템 핸들러 구매</value>
+  </data>
+  <data name="BuyNpcItemHandlerPlugIn_Description" xml:space="preserve">
+    <value>NPC 아이템 구매 요청을 처리합니다.</value>
+  </data>
+  <data name="ChaosMixHandlerPlugIn_Name" xml:space="preserve">
+    <value>카오스 믹스 핸들러</value>
+  </data>
+  <data name="ChaosMixHandlerPlugIn_Description" xml:space="preserve">
+    <value>카오스 믹스 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="ConsumeItemHandlerPlugIn_Name" xml:space="preserve">
+    <value>소비 아이템 핸들러</value>
+  </data>
+  <data name="ConsumeItemHandlerPlugIn_Description" xml:space="preserve">
+    <value>아이템 처리기는 패킷을 소비합니다.</value>
+  </data>
+  <data name="ConsumeItemHandlerPlugIn075_Name" xml:space="preserve">
+    <value>소비 아이템 핸들러 (075)</value>
+  </data>
+  <data name="ConsumeItemHandlerPlugIn075_Description" xml:space="preserve">
+    <value>아이템 처리기는 버전 0.75의 패킷을 사용합니다.</value>
+  </data>
+  <data name="DropItemHandlerPlugIn_Name" xml:space="preserve">
+    <value>드롭 아이템 핸들러</value>
+  </data>
+  <data name="DropItemHandlerPlugIn_Description" xml:space="preserve">
+    <value>드롭 아이템 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="ItemMoveExtendedHandlerPlugIn_Name" xml:space="preserve">
+    <value>아이템 이동 확장 처리기</value>
+  </data>
+  <data name="ItemMoveExtendedHandlerPlugIn_Description" xml:space="preserve">
+    <value>확장 아이템 이동 패킷에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="ItemMoveHandlerPlugIn_Name" xml:space="preserve">
+    <value>아이템 이동 핸들러</value>
+  </data>
+  <data name="ItemMoveHandlerPlugIn_Description" xml:space="preserve">
+    <value>아이템 이동 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="ItemRepairHandlerPlugIn_Name" xml:space="preserve">
+    <value>아이템 수리 핸들러</value>
+  </data>
+  <data name="ItemRepairHandlerPlugIn_Description" xml:space="preserve">
+    <value>아이템 수리 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="JewelMixHandlerPlugIn_Name" xml:space="preserve">
+    <value>보석 믹스 핸들러</value>
+  </data>
+  <data name="JewelMixHandlerPlugIn_Description" xml:space="preserve">
+    <value>보석 믹스 패킷 처리기입니다.</value>
+  </data>
+  <data name="KanturuEnterRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>칸투르 요청 처리기 입력</value>
+  </data>
+  <data name="KanturuEnterRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>0xD1/0x01(KanturuEnterRequest)을 처리하고 플레이어를 이벤트로 순간 이동합니다.</value>
+  </data>
+  <data name="KanturuGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>칸투르 그룹 처리기</value>
+  </data>
+  <data name="KanturuGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>0xD1 칸투르 클라이언트 패킷을 하위 처리기로 라우팅합니다.</value>
+  </data>
+  <data name="KanturuInfoRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>칸투르 정보 요청 핸들러</value>
+  </data>
+  <data name="KanturuInfoRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>새로운 이벤트 상태 정보로 0xD1/0x00(KanturuInfoRequest)에 응답합니다.</value>
+  </data>
+  <data name="PickupItemHandlerPlugIn_Name" xml:space="preserve">
+    <value>픽업 아이템 핸들러</value>
+  </data>
+  <data name="PickupItemHandlerPlugIn_Description" xml:space="preserve">
+    <value>아이템 픽업 패킷 핸들러.</value>
+  </data>
+  <data name="PickupItemHandlerPlugIn075_Name" xml:space="preserve">
+    <value>PickupItemHandlerPlugIn 0.75</value>
+  </data>
+  <data name="PickupItemHandlerPlugIn075_Description" xml:space="preserve">
+    <value>버전 0.75의 아이템 픽업 패킷 핸들러입니다.</value>
+  </data>
+  <data name="SellItemToNpcHandlerPlugIn_Name" xml:space="preserve">
+    <value>NPC 핸들러에게 아이템 판매</value>
+  </data>
+  <data name="SellItemToNpcHandlerPlugIn_Description" xml:space="preserve">
+    <value>NPC 패킷에 대한 아이템 판매 핸들러입니다.</value>
+  </data>
+  <data name="LogInHandlerPlugIn_Name" xml:space="preserve">
+    <value>로그인</value>
+  </data>
+  <data name="LogInHandlerPlugIn_Description" xml:space="preserve">
+    <value>로그인 패킷에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="LogOutHandlerPlugIn_Name" xml:space="preserve">
+    <value>로그아웃 핸들러</value>
+  </data>
+  <data name="LogOutHandlerPlugIn_Description" xml:space="preserve">
+    <value>로그아웃 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="AddFriendHandlerPlugIn_Name" xml:space="preserve">
+    <value>친구 핸들러 추가</value>
+  </data>
+  <data name="AddFriendHandlerPlugIn_Description" xml:space="preserve">
+    <value>친구 추가 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="ChangeOnlineStateHandlerPlugIn_Name" xml:space="preserve">
+    <value>온라인 상태 처리기 변경</value>
+  </data>
+  <data name="ChangeOnlineStateHandlerPlugIn_Description" xml:space="preserve">
+    <value>온라인 상태 변경 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="ChatRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>채팅 요청 처리기</value>
+  </data>
+  <data name="ChatRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>채팅 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="ChatRoomInvitationRequestPlugIn_Name" xml:space="preserve">
+    <value>채팅방 초대 요청</value>
+  </data>
+  <data name="ChatRoomInvitationRequestPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 기존 채팅방에 추가 플레이어를 초대하는 채팅방 초대 요청을 처리하는 패킷 처리기입니다.</value>
+  </data>
+  <data name="DeleteFriendHandlerPlugIn_Name" xml:space="preserve">
+    <value>친구 삭제 핸들러</value>
+  </data>
+  <data name="DeleteFriendHandlerPlugIn_Description" xml:space="preserve">
+    <value>친구 패킷 삭제를 위한 핸들러입니다.</value>
+  </data>
+  <data name="FriendAddResponseHandlerPlugIn_Name" xml:space="preserve">
+    <value>친구 추가 응답 핸들러</value>
+  </data>
+  <data name="FriendAddResponseHandlerPlugIn_Description" xml:space="preserve">
+    <value>친구 추가 응답 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="LetterDeleteHandlerPlugIn_Name" xml:space="preserve">
+    <value>편지 삭제 처리기</value>
+  </data>
+  <data name="LetterDeleteHandlerPlugIn_Description" xml:space="preserve">
+    <value>편지 삭제 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="LetterReadRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>편지 읽기 요청 처리기</value>
+  </data>
+  <data name="LetterReadRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>편지 읽기 요청 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="LetterSendHandlerPlugIn_Name" xml:space="preserve">
+    <value>편지 전송 처리기</value>
+  </data>
+  <data name="LetterSendHandlerPlugIn_Description" xml:space="preserve">
+    <value>편지 전송 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="BloodCastleEnterHandlerPlugIn_Name" xml:space="preserve">
+    <value>블러드 캐슬 처리기 입력</value>
+  </data>
+  <data name="BloodCastleEnterHandlerPlugIn_Description" xml:space="preserve">
+    <value>블러드 캐슬에 대한 처리기는 요청 패킷을 입력합니다.</value>
+  </data>
+  <data name="ChaosCastleEnterHandlerPlugIn_Name" xml:space="preserve">
+    <value>카오스 캐슬 처리기 입력</value>
+  </data>
+  <data name="ChaosCastleEnterHandlerPlugIn_Description" xml:space="preserve">
+    <value>카오스 캐슬에 대한 처리기는 요청 패킷을 입력합니다.</value>
+  </data>
+  <data name="IllusionTempleEnterHandlerPlugIn_Name" xml:space="preserve">
+    <value>IllusionTemple 핸들러 입력</value>
+  </data>
+  <data name="IllusionTempleEnterHandlerPlugIn_Description" xml:space="preserve">
+    <value>환영의 사원에 대한 처리기는 요청 패킷을 입력합니다.</value>
+  </data>
+  <data name="IllusionTempleRewardRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>IllusionTemple 보상 요청 핸들러</value>
+  </data>
+  <data name="IllusionTempleRewardRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 결과 대화 상자를 닫을 때 전송되는 환영의 사원 보상 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="IllusionTempleSkillRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>IllusionTemple 스킬 요청 처리기</value>
+  </data>
+  <data name="IllusionTempleSkillRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>환영의 사원 특수 스킬 요청 패킷에 대한 처리기입니다.</value>
+  </data>
+  <data name="DevilSquareEnterHandlerPlugIn_Name" xml:space="preserve">
+    <value>데빌 스퀘어 핸들러 입력</value>
+  </data>
+  <data name="DevilSquareEnterHandlerPlugIn_Description" xml:space="preserve">
+    <value>데빌 스퀘어에 대한 처리기가 패킷을 입력합니다.</value>
+  </data>
+  <data name="MiniGameOpeningStateRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>미니 게임 시작 상태 요청 핸들러</value>
+  </data>
+  <data name="MiniGameOpeningStateRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>미니 게임 시작 상태 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="MuHelperSaveDataRequestHandlerPlugin_Name" xml:space="preserve">
+    <value>MuHelperSaveDataRequestHandlerPlugin</value>
+  </data>
+  <data name="MuHelperSaveDataRequestHandlerPlugin_Description" xml:space="preserve">
+    <value>뮤봇 데이터 저장 요청 핸들러입니다.</value>
+  </data>
+  <data name="MuHelperStatusChangeRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Mu 도우미 상태 변경 요청 처리기</value>
+  </data>
+  <data name="MuHelperStatusChangeRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>MU 도우미 상태 변경 요청에 대한 처리기입니다.</value>
+  </data>
+  <data name="PartyKickHandlerPlugIn_Name" xml:space="preserve">
+    <value>파티 킥 핸들러</value>
+  </data>
+  <data name="PartyKickHandlerPlugIn_Description" xml:space="preserve">
+    <value>파티 킥 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="PartyListRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>파티 목록 요청 처리기</value>
+  </data>
+  <data name="PartyListRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>파티 목록 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="PartyRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>파티 요청 처리기</value>
+  </data>
+  <data name="PartyRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>파티 요청 패킷 처리기입니다.</value>
+  </data>
+  <data name="PartyResponseHandlerPlugIn_Name" xml:space="preserve">
+    <value>파티 응답 핸들러</value>
+  </data>
+  <data name="PartyResponseHandlerPlugIn_Description" xml:space="preserve">
+    <value>파티 응답 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="PetCommandRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>펫 명령 요청 처리기</value>
+  </data>
+  <data name="PetCommandRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>펫 명령 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="PetInfoRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>펫 정보 요청 핸들러</value>
+  </data>
+  <data name="PetInfoRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>펫 정보 요청 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="StoreHandlerGroupPlugIn_Name" xml:space="preserve">
+    <value>매장 핸들러 그룹</value>
+  </data>
+  <data name="StoreHandlerGroupPlugIn_Description" xml:space="preserve">
+    <value>플레이어 스토어 관련 패킷에 대한 핸들러입니다.</value>
+  </data>
+  <data name="TradeAcceptHandlerPlugIn_Name" xml:space="preserve">
+    <value>무역 승인 핸들러</value>
+  </data>
+  <data name="TradeAcceptHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 거래 요청에 응답할 때 호출되는 패킷 핸들러입니다.</value>
+  </data>
+  <data name="TradeButtonHandlerPlugIn_Name" xml:space="preserve">
+    <value>거래 버튼 핸들러</value>
+  </data>
+  <data name="TradeButtonHandlerPlugIn_Description" xml:space="preserve">
+    <value>거래 버튼 패킷을 처리합니다.</value>
+  </data>
+  <data name="TradeCancelHandlerPlugIn_Name" xml:space="preserve">
+    <value>거래 취소 핸들러</value>
+  </data>
+  <data name="TradeCancelHandlerPlugIn_Description" xml:space="preserve">
+    <value>거래 취소 패킷을 처리합니다.</value>
+  </data>
+  <data name="TradeMoneyHandlerPlugIn_Name" xml:space="preserve">
+    <value>트레이드 머니 핸들러</value>
+  </data>
+  <data name="TradeMoneyHandlerPlugIn_Description" xml:space="preserve">
+    <value>거래 자금 패킷을 처리합니다.</value>
+  </data>
+  <data name="TradeRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>거래 요청 핸들러</value>
+  </data>
+  <data name="TradeRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>거래 요청 패킷을 처리합니다.</value>
+  </data>
+  <data name="VaultCloseHandlerPlugIn_Name" xml:space="preserve">
+    <value>Vault 닫기 핸들러</value>
+  </data>
+  <data name="VaultCloseHandlerPlugIn_Description" xml:space="preserve">
+    <value>창고 닫기 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="VaultMoneyHandlerPlugIn_Name" xml:space="preserve">
+    <value>금고 자금 처리자</value>
+  </data>
+  <data name="VaultMoneyHandlerPlugIn_Description" xml:space="preserve">
+    <value>창고 돈 패킷 처리기.</value>
+  </data>
+  <data name="AddExperienceExtendedPlugIn_Name" xml:space="preserve">
+    <value>경험 확장 추가</value>
+  </data>
+  <data name="AddExperienceExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IAddExperiencePlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="AddExperiencePlugIn_Name" xml:space="preserve">
+    <value>경험 추가</value>
+  </data>
+  <data name="AddExperiencePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IAddExperiencePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ApplyKeyConfigurationPlugIn_Name" xml:space="preserve">
+    <value>키 구성 적용</value>
+  </data>
+  <data name="ApplyKeyConfigurationPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateVaultMoneyPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="CharacterFocusedPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 중심</value>
+  </data>
+  <data name="CharacterFocusedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ICharacterFocusedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="FruitConsumptionResultPlugIn_Name" xml:space="preserve">
+    <value>CharacterFocusedPlugIn</value>
+  </data>
+  <data name="FruitConsumptionResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IFruitConsumptionResponsePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="MasterSkillLevelChangedPlugIn_Name" xml:space="preserve">
+    <value>마스터 스킬 레벨이 변경되었습니다.</value>
+  </data>
+  <data name="MasterSkillLevelChangedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IMasterSkillLevelChangedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowCharacterCreationFailedPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 생성 실패 표시</value>
+  </data>
+  <data name="ShowCharacterCreationFailedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowCharacterCreationFailedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowCharacterDeleteResponsePlugIn_Name" xml:space="preserve">
+    <value>캐릭터 삭제 응답 표시</value>
+  </data>
+  <data name="ShowCharacterDeleteResponsePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowCharacterDeleteResponsePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowCharacterListExtendedPlugIn_Name" xml:space="preserve">
+    <value>확장된 캐릭터 목록 표시</value>
+  </data>
+  <data name="ShowCharacterListExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowCharacterListPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="ShowCharacterListPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 목록 표시</value>
+  </data>
+  <data name="ShowCharacterListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowCharacterListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowCharacterListPlugIn075_Name" xml:space="preserve">
+    <value>ShowCharacterListPlugIn v0.75</value>
+  </data>
+  <data name="ShowCharacterListPlugIn075_Description" xml:space="preserve">
+    <value>버전 0.75의 특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowCharacterListPlugIn 구현입니다.</value>
+  </data>
+  <data name="ShowCharacterListPlugIn095_Name" xml:space="preserve">
+    <value>캐릭터 목록 표시 (095)</value>
+  </data>
+  <data name="ShowCharacterListPlugIn095_Description" xml:space="preserve">
+    <value>버전 0.75의 특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowCharacterListPlugIn 구현입니다.</value>
+  </data>
+  <data name="ShowCreatedCharacterPlugIn_Name" xml:space="preserve">
+    <value>생성된 캐릭터 표시</value>
+  </data>
+  <data name="ShowCreatedCharacterPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowCreatedCharacterPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowDialogPlugIn_Name" xml:space="preserve">
+    <value>대화상자 표시</value>
+  </data>
+  <data name="ShowDialogPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowDialogPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowEffectPlugIn_Name" xml:space="preserve">
+    <value>효과 표시</value>
+  </data>
+  <data name="ShowEffectPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowEffectPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowItemDropEffectPlugIn_Name" xml:space="preserve">
+    <value>아이템 드롭 효과 표시</value>
+  </data>
+  <data name="ShowItemDropEffectPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ShowItemDropEffectPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="SkillListViewPlugIn_Name" xml:space="preserve">
+    <value>스킬 목록 보기</value>
+  </data>
+  <data name="SkillListViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ISkillListViewPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="SkillListViewPlugIn075_Name" xml:space="preserve">
+    <value>스킬 목록 보기 (075)</value>
+  </data>
+  <data name="SkillListViewPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 버전 0.75용 ISkillListViewPlugIn 구현입니다.</value>
+  </data>
+  <data name="SkillListViewPlugIn095_Name" xml:space="preserve">
+    <value>스킬 목록 보기 (095)</value>
+  </data>
+  <data name="SkillListViewPlugIn095_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 버전 0.95용 ISkillListViewPlugIn 구현입니다.</value>
+  </data>
+  <data name="StatIncreaseResultExtendedPlugIn_Name" xml:space="preserve">
+    <value>StatIncreaseResultPlugIn</value>
+  </data>
+  <data name="StatIncreaseResultExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IStatIncreaseResultPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="StatIncreaseResultPlugIn_Name" xml:space="preserve">
+    <value>스텟 증가 결과</value>
+  </data>
+  <data name="StatIncreaseResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IStatIncreaseResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateCharacterBaseStatsExtendedPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 기본 통계 업데이트 확장</value>
+  </data>
+  <data name="UpdateCharacterBaseStatsExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateCharacterBaseStatsPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="UpdateCharacterHeroStatePlugIn_Name" xml:space="preserve">
+    <value>캐릭터 영웅 상태 업데이트</value>
+  </data>
+  <data name="UpdateCharacterHeroStatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateCharacterHeroStatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateCharacterStatsExtendedPlugIn_Name" xml:space="preserve">
+    <value>업데이트 캐릭터 통계 확장</value>
+  </data>
+  <data name="UpdateCharacterStatsExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateCharacterStatsPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="UpdateCharacterStatsPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 통계 업데이트</value>
+  </data>
+  <data name="UpdateCharacterStatsPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateCharacterStatsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateCharacterStatsPlugIn075_Name" xml:space="preserve">
+    <value>UpdateCharacterStatsPlugIn 0.75</value>
+  </data>
+  <data name="UpdateCharacterStatsPlugIn075_Description" xml:space="preserve">
+    <value>버전 0.75의 특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateCharacterStatsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateCharacterStatsPlugIn097_Name" xml:space="preserve">
+    <value>캐릭터 통계 업데이트 (097)</value>
+  </data>
+  <data name="UpdateCharacterStatsPlugIn097_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateCharacterStatsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateLevelExtendedPlugIn_Name" xml:space="preserve">
+    <value>업데이트 레벨 확장</value>
+  </data>
+  <data name="UpdateLevelExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateLevelPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="UpdateLevelPlugIn_Name" xml:space="preserve">
+    <value>업데이트 레벨</value>
+  </data>
+  <data name="UpdateLevelPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateLevelPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateMasterSkillsPlugIn_Name" xml:space="preserve">
+    <value>마스터 스킬 업데이트</value>
+  </data>
+  <data name="UpdateMasterSkillsPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateMasterSkillsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateMasterStatsExtendedPlugIn_Name" xml:space="preserve">
+    <value>마스터 통계 업데이트 확장</value>
+  </data>
+  <data name="UpdateMasterStatsExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateMasterStatsPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="UpdateMasterStatsPlugIn_Name" xml:space="preserve">
+    <value>마스터 통계 업데이트</value>
+  </data>
+  <data name="UpdateMasterStatsPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateMasterStatsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateStatsExtendedPlugIn_Name" xml:space="preserve">
+    <value>업데이트 통계 확장</value>
+  </data>
+  <data name="UpdateStatsExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateStatsPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="UpdateStatsPlugIn_Name" xml:space="preserve">
+    <value>통계 업데이트</value>
+  </data>
+  <data name="UpdateStatsPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateStatsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DuelEndedPlugIn_Name" xml:space="preserve">
+    <value>결투 종료</value>
+  </data>
+  <data name="DuelEndedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDuelEndedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DuelFinishedPlugIn_Name" xml:space="preserve">
+    <value>결투 완료</value>
+  </data>
+  <data name="DuelFinishedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDuelFinishedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DuelHealthUpdatePlugIn_Name" xml:space="preserve">
+    <value>결투 건강 업데이트</value>
+  </data>
+  <data name="DuelHealthUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDuelHealthUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DuelSpectatorAddedPlugIn_Name" xml:space="preserve">
+    <value>결투 관전자가 추가되었습니다.</value>
+  </data>
+  <data name="DuelSpectatorAddedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDuelSpectatorAddedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DuelSpectatorListUpdatePlugIn_Name" xml:space="preserve">
+    <value>결투 관중 목록 업데이트</value>
+  </data>
+  <data name="DuelSpectatorListUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDuelSpectatorListUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DuelSpectatorRemovedPlugIn_Name" xml:space="preserve">
+    <value>결투 관전자 삭제됨</value>
+  </data>
+  <data name="DuelSpectatorRemovedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDuelSpectatorRemovedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DuelStatusUpdatePlugIn_Name" xml:space="preserve">
+    <value>결투 현황 업데이트</value>
+  </data>
+  <data name="DuelStatusUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDuelStatusUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="InitializeDuelPlugIn_Name" xml:space="preserve">
+    <value>결투 초기화</value>
+  </data>
+  <data name="InitializeDuelPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IInitializeDuelPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowDuelRequestPlugIn_Name" xml:space="preserve">
+    <value>결투 요청 표시</value>
+  </data>
+  <data name="ShowDuelRequestPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowDuelRequestPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowDuelRequestResultPlugIn_Name" xml:space="preserve">
+    <value>결투 요청 결과 표시</value>
+  </data>
+  <data name="ShowDuelRequestResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowDuelRequestResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowDuelScoreUpdatePlugIn_Name" xml:space="preserve">
+    <value>결투 점수 업데이트 표시</value>
+  </data>
+  <data name="ShowDuelScoreUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowDuelScoreUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="AssignPlayersToGuildPlugIn_Name" xml:space="preserve">
+    <value>플레이어를 길드에 할당</value>
+  </data>
+  <data name="AssignPlayersToGuildPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IAssignPlayersToGuildPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="AssignPlayersToGuildPlugIn075_Name" xml:space="preserve">
+    <value>길드에 플레이어 할당 (075)</value>
+  </data>
+  <data name="AssignPlayersToGuildPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IAssignPlayersToGuildPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="GuildJoinResponsePlugIn_Name" xml:space="preserve">
+    <value>길드 가입 응답</value>
+  </data>
+  <data name="GuildJoinResponsePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IGuildJoinResponsePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="GuildKickResultPlugIn_Name" xml:space="preserve">
+    <value>길드 킥 결과</value>
+  </data>
+  <data name="GuildKickResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IGuildKickResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="GuildWarScoreUpdatePlugIn_Name" xml:space="preserve">
+    <value>길드전 점수 업데이트</value>
+  </data>
+  <data name="GuildWarScoreUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IGuildWarScoreUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="PlayerLeftGuildPlugIn_Name" xml:space="preserve">
+    <value>플레이어 왼쪽 길드</value>
+  </data>
+  <data name="PlayerLeftGuildPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IPlayerLeftGuildPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildCreateResultPlugIn_Name" xml:space="preserve">
+    <value>길드 생성 결과 표시</value>
+  </data>
+  <data name="ShowGuildCreateResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildCreateResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildCreationDialogPlugIn_Name" xml:space="preserve">
+    <value>길드 생성 대화상자 표시</value>
+  </data>
+  <data name="ShowGuildCreationDialogPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildCreationDialogPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildInfoPlugIn_Name" xml:space="preserve">
+    <value>길드 정보 표시</value>
+  </data>
+  <data name="ShowGuildInfoPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildInfoPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildJoinRequestPlugIn_Name" xml:space="preserve">
+    <value>길드 가입 요청 표시</value>
+  </data>
+  <data name="ShowGuildJoinRequestPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildJoinRequestPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildListPlugIn_Name" xml:space="preserve">
+    <value>길드 목록 표시</value>
+  </data>
+  <data name="ShowGuildListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildListPlugIn075_Name" xml:space="preserve">
+    <value>길드 목록 표시 (075)</value>
+  </data>
+  <data name="ShowGuildListPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildMasterDialogPlugIn_Name" xml:space="preserve">
+    <value>길드마스터 대화상자 표시</value>
+  </data>
+  <data name="ShowGuildMasterDialogPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildMasterDialogPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildWarDeclaredPlugIn_Name" xml:space="preserve">
+    <value>길드 전쟁 선포 표시</value>
+  </data>
+  <data name="ShowGuildWarDeclaredPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildWarDeclaredPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildWarRequestPlugIn_Name" xml:space="preserve">
+    <value>길드전 요청 표시</value>
+  </data>
+  <data name="ShowGuildWarRequestPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildWarRequestPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildWarResultPlugIn_Name" xml:space="preserve">
+    <value>길드전 결과 표시</value>
+  </data>
+  <data name="ShowGuildWarResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildWarResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildRelationshipChangeResultPlugIn_Name" xml:space="preserve">
+    <value>길드 관계 변경 결과 표시</value>
+  </data>
+  <data name="ShowGuildRelationshipChangeResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IGuildRelationshipChangeResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowGuildRelationshipRequestPlugIn_Name" xml:space="preserve">
+    <value>길드 관계 요청 표시</value>
+  </data>
+  <data name="ShowGuildRelationshipRequestPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowGuildRelationshipRequestPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowAllianceListPlugIn_Name" xml:space="preserve">
+    <value>동맹 목록 표시</value>
+  </data>
+  <data name="ShowAllianceListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowAllianceListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowShowGuildWarRequestResultPlugIn_Name" xml:space="preserve">
+    <value>길드전 요청 결과 표시</value>
+  </data>
+  <data name="ShowShowGuildWarRequestResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowShowGuildWarRequestResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="BuyNpcItemFailedPlugIn_Name" xml:space="preserve">
+    <value>NPC 아이템 구매 실패</value>
+  </data>
+  <data name="BuyNpcItemFailedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IBuyNpcItemFailedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemAppearPlugIn_Name" xml:space="preserve">
+    <value>아이템 등장</value>
+  </data>
+  <data name="ItemAppearPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemAppearPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemDropResultPlugIn_Name" xml:space="preserve">
+    <value>아이템 드랍 결과</value>
+  </data>
+  <data name="ItemDropResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemDropResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemDurabilityChangedPlugIn_Name" xml:space="preserve">
+    <value>아이템 내구도 변경</value>
+  </data>
+  <data name="ItemDurabilityChangedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemDurabilityChangedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemMovedPlugIn_Name" xml:space="preserve">
+    <value>아이템이 이동됨</value>
+  </data>
+  <data name="ItemMovedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemMovedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemMoveFailedPlugIn_Name" xml:space="preserve">
+    <value>아이템 이동 실패</value>
+  </data>
+  <data name="ItemMoveFailedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemMoveFailedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemPickUpFailedPlugIn_Name" xml:space="preserve">
+    <value>아이템 픽업 실패</value>
+  </data>
+  <data name="ItemPickUpFailedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemPickUpFailedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemPriceSetResponsePlugIn_Name" xml:space="preserve">
+    <value>아이템 가격 설정 응답</value>
+  </data>
+  <data name="ItemPriceSetResponsePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemPriceSetResponsePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemRemovedPlugIn_Name" xml:space="preserve">
+    <value>삭제된 아이템</value>
+  </data>
+  <data name="ItemRemovedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemRemovedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemSoldByPlayerShopPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점에서 판매하는 아이템</value>
+  </data>
+  <data name="ItemSoldByPlayerShopPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemSoldByPlayerShopPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemSoldToNpcPlugIn_Name" xml:space="preserve">
+    <value>NPC에게 판매된 아이템</value>
+  </data>
+  <data name="ItemSoldToNpcPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemSoldToNpcPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ItemUpgradedPlugIn_Name" xml:space="preserve">
+    <value>아이템 업그레이드</value>
+  </data>
+  <data name="ItemUpgradedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IItemUpgradedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="NpcItemBoughtPlugIn_Name" xml:space="preserve">
+    <value>구매한 NPC 아이템</value>
+  </data>
+  <data name="NpcItemBoughtPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INpcItemBoughtPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="PlayerShopBuyRequestResultExtendedPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 구매 요청 결과 확장</value>
+  </data>
+  <data name="PlayerShopBuyRequestResultExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IPlayerShopBuyRequestResultPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="PlayerShopBuyRequestResultPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 구매 요청 결과</value>
+  </data>
+  <data name="PlayerShopBuyRequestResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IPlayerShopBuyRequestResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="RequestedItemConsumptionFailedExtendedPlugIn_Name" xml:space="preserve">
+    <value>요청한 아이템 소비 실패 확장</value>
+  </data>
+  <data name="RequestedItemConsumptionFailedExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IRequestedItemConsumptionFailedPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="RequestedItemConsumptionFailedPlugIn_Name" xml:space="preserve">
+    <value>요청한 아이템 소비 실패</value>
+  </data>
+  <data name="RequestedItemConsumptionFailedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IRequestedItemConsumptionFailedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateInventoryListPlugIn_Name" xml:space="preserve">
+    <value>인벤토리 목록 업데이트</value>
+  </data>
+  <data name="UpdateInventoryListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateInventoryListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateMoneyPlugIn_Name" xml:space="preserve">
+    <value>돈 업데이트</value>
+  </data>
+  <data name="UpdateMoneyPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateMoneyPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="LogoutPlugIn_Name" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="LogoutPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ILogoutPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowLoginResultPlugIn_Name" xml:space="preserve">
+    <value>로그인 결과 표시</value>
+  </data>
+  <data name="ShowLoginResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowLoginResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowLoginWindowPlugIn_Name" xml:space="preserve">
+    <value>로그인 창 표시</value>
+  </data>
+  <data name="ShowLoginWindowPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowLoginWindowPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="AddToLetterListPlugIn_Name" xml:space="preserve">
+    <value>편지 목록에 추가</value>
+  </data>
+  <data name="AddToLetterListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IAddToLetterListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ChatRoomCreatedPlugIn_Name" xml:space="preserve">
+    <value>채팅방이 생성되었습니다</value>
+  </data>
+  <data name="ChatRoomCreatedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IChatRoomCreatedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="FriendAddedPlugIn_Name" xml:space="preserve">
+    <value>친구가 추가되었습니다</value>
+  </data>
+  <data name="FriendAddedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IFriendAddedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="FriendDeletedPlugIn_Name" xml:space="preserve">
+    <value>친구가 삭제되었습니다</value>
+  </data>
+  <data name="FriendDeletedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IFriendDeletedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="FriendStateUpdatePlugIn_Name" xml:space="preserve">
+    <value>친구 상태 업데이트</value>
+  </data>
+  <data name="FriendStateUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IFriendStateUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="InitializeMessengerPlugIn_Name" xml:space="preserve">
+    <value>메신저 초기화</value>
+  </data>
+  <data name="InitializeMessengerPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IInitializeMessengerPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="LetterDeletedPlugIn_Name" xml:space="preserve">
+    <value>편지가 삭제되었습니다</value>
+  </data>
+  <data name="LetterDeletedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ILetterDeletedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="LetterSendResultPlugIn_Name" xml:space="preserve">
+    <value>편지 발송 결과</value>
+  </data>
+  <data name="LetterSendResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ILetterSendResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowFriendInvitationResultPlugIn_Name" xml:space="preserve">
+    <value>친구 초대 결과 표시</value>
+  </data>
+  <data name="ShowFriendInvitationResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowFriendInvitationResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowFriendRequestPlugIn_Name" xml:space="preserve">
+    <value>친구 요청 표시</value>
+  </data>
+  <data name="ShowFriendRequestPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowFriendRequestPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowLetterExtendedPlugIn_Name" xml:space="preserve">
+    <value>편지 표시(확장)</value>
+  </data>
+  <data name="ShowLetterExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowLetterPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="ShowLetterPlugIn_Name" xml:space="preserve">
+    <value>편지 표시</value>
+  </data>
+  <data name="ShowLetterPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowLetterPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="BloodCastleScoreTableViewPlugin_Name" xml:space="preserve">
+    <value>BloodCastleScoreTableViewPlugin</value>
+  </data>
+  <data name="BloodCastleScoreTableViewPlugin_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IBloodCastleScoreTableViewPlugin의 기본 구현입니다.</value>
+  </data>
+  <data name="BloodCastleStateViewPlugIn_Name" xml:space="preserve">
+    <value>블러드 캐슬 상태 보기</value>
+  </data>
+  <data name="BloodCastleStateViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IBloodCastleStateViewPlugin의 기본 구현입니다.</value>
+  </data>
+  <data name="ChangeTerrainAttributesViewPlugIn_Name" xml:space="preserve">
+    <value>지형 속성 보기 변경</value>
+  </data>
+  <data name="ChangeTerrainAttributesViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IChangeTerrainAttributesViewPlugin의 기본 구현입니다.</value>
+  </data>
+  <data name="ChaosCastleScoreTableViewPlugin_Name" xml:space="preserve">
+    <value>카오스 캐슬 점수표 보기</value>
+  </data>
+  <data name="ChaosCastleScoreTableViewPlugin_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IChaosCastleScoreTableViewPlugin의 기본 구현입니다.</value>
+  </data>
+  <data name="ChaosCastleStateViewPlugIn_Name" xml:space="preserve">
+    <value>카오스 캐슬 상태 보기</value>
+  </data>
+  <data name="ChaosCastleStateViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IChaosCastleStateViewPlugin의 기본 구현입니다.</value>
+  </data>
+  <data name="DoppelgangerEnterRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>도플갱어 요청 처리기 입력</value>
+  </data>
+  <data name="DoppelgangerEnterRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>NPC 루가드를 통해 도플갱어 이벤트 입력 요청에 대한 핸들러입니다.</value>
+  </data>
+  <data name="DoppelgangerEventViewPlugIn_Name" xml:space="preserve">
+    <value>도플갱어 이벤트 보기</value>
+  </data>
+  <data name="DoppelgangerEventViewPlugIn_Description" xml:space="preserve">
+    <value>도플갱어 이벤트 패킷(0xBF 0x0F - 0x14)을 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="KanturuEventViewPlugIn_Name" xml:space="preserve">
+    <value>칸투르 이벤트 보기</value>
+  </data>
+  <data name="KanturuEventViewPlugIn_Description" xml:space="preserve">
+    <value>칸투르 이벤트 상태/result/HUD 패킷(0xD1 그룹)을 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="MiniGameScoreTableViewPlugin_Name" xml:space="preserve">
+    <value>MiniGameScoreTableViewPlugin</value>
+  </data>
+  <data name="MiniGameScoreTableViewPlugin_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IMiniGameScoreTableViewPlugin의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowMiniGameEnterResultViewPlugIn_Name" xml:space="preserve">
+    <value>미니게임 보기 결과 보기 입력</value>
+  </data>
+  <data name="ShowMiniGameEnterResultViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMiniGameEnterResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowMiniGameOpeningStateViewPlugIn_Name" xml:space="preserve">
+    <value>미니 게임 시작 상태 보기 표시</value>
+  </data>
+  <data name="ShowMiniGameOpeningStateViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMiniGameOpeningStatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateMiniGameStateViewViewPlugIn_Name" xml:space="preserve">
+    <value>미니 게임 상태 보기 업데이트</value>
+  </data>
+  <data name="UpdateMiniGameStateViewViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateMiniGameStateViewPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="MuHelperConfigurationUpdatePlugIn_Name" xml:space="preserve">
+    <value>Mu 도우미 구성 업데이트</value>
+  </data>
+  <data name="MuHelperConfigurationUpdatePlugIn_Description" xml:space="preserve">
+    <value>새로운 MU Helper 상태를 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="MuHelperStatusUpdatePlugIn_Name" xml:space="preserve">
+    <value>뮤 헬퍼 상태 업데이트</value>
+  </data>
+  <data name="MuHelperStatusUpdatePlugIn_Description" xml:space="preserve">
+    <value>MU 도우미 상태 업데이트를 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="NpcDialogClosedPlugIn075_Name" xml:space="preserve">
+    <value>NPC 대화창 닫힘 (075)</value>
+  </data>
+  <data name="NpcDialogClosedPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INpcDialogClosedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="OpenNpcWindowPlugIn_Name" xml:space="preserve">
+    <value>NPC 창 열기</value>
+  </data>
+  <data name="OpenNpcWindowPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IOpenNpcWindowPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowItemCraftingResultPlugIn_Name" xml:space="preserve">
+    <value>아이템 제작 결과 표시</value>
+  </data>
+  <data name="ShowItemCraftingResultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowItemCraftingResultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowMerchantStoreItemListPlugIn_Name" xml:space="preserve">
+    <value>판매자 상점 아이템 목록 표시</value>
+  </data>
+  <data name="ShowMerchantStoreItemListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMerchantStoreItemListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowMessageOfObjectPlugIn_Name" xml:space="preserve">
+    <value>개체의 메시지 표시</value>
+  </data>
+  <data name="ShowMessageOfObjectPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMessageOfObjectPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="PartyHealthViewPlugIn_Name" xml:space="preserve">
+    <value>파티뷰</value>
+  </data>
+  <data name="PartyHealthViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷이 있는 게임 클라이언트에 모든 것을 전달하는 파티 보기의 기본 구현입니다.</value>
+  </data>
+  <data name="PartyMemberRemovedPlugIn_Name" xml:space="preserve">
+    <value>파티원이 제거되었습니다.</value>
+  </data>
+  <data name="PartyMemberRemovedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IPartyMemberRemovedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowPartyRequestPlugIn_Name" xml:space="preserve">
+    <value>파티 요청 표시</value>
+  </data>
+  <data name="ShowPartyRequestPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowPartyRequestPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdatePartyListPlugIn_Name" xml:space="preserve">
+    <value>파티 목록 업데이트</value>
+  </data>
+  <data name="UpdatePartyListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdatePartyListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdatePartyListPlugIn075_Name" xml:space="preserve">
+    <value>파티 목록 업데이트 (075)</value>
+  </data>
+  <data name="UpdatePartyListPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdatePartyListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="PetAttackViewPlugIn_Name" xml:space="preserve">
+    <value>펫 공격 보기</value>
+  </data>
+  <data name="PetAttackViewPlugIn_Description" xml:space="preserve">
+    <value>펫 공격을 표시하려면 플러그인을 확인하세요.</value>
+  </data>
+  <data name="PetBehaviourChangedViewPlugIn_Name" xml:space="preserve">
+    <value>펫 행동 변경 보기</value>
+  </data>
+  <data name="PetBehaviourChangedViewPlugIn_Description" xml:space="preserve">
+    <value>변경된 펫 행동을 알리려면 플러그인을 확인하세요.</value>
+  </data>
+  <data name="PetInfoViewPlugIn_Name" xml:space="preserve">
+    <value>펫 정보 보기</value>
+  </data>
+  <data name="PetInfoViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IPetInfoViewPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="PlayerShopClosedPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 폐쇄</value>
+  </data>
+  <data name="PlayerShopClosedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IPlayerShopClosedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="PlayerShopOpenedPlugIn_Name" xml:space="preserve">
+    <value>플레이어 샵 오픈</value>
+  </data>
+  <data name="PlayerShopOpenedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IPlayerShopOpenedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowShopItemListExtendedPlugIn_Name" xml:space="preserve">
+    <value>상점 아이템 목록 표시 확장</value>
+  </data>
+  <data name="ShowShopItemListExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowShopItemListPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="ShowShopItemListPlugIn_Name" xml:space="preserve">
+    <value>상점 아이템 목록 보기</value>
+  </data>
+  <data name="ShowShopItemListPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowShopItemListPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowShopsOfPlayersPlugIn_Name" xml:space="preserve">
+    <value>플레이어의 상점 쇼</value>
+  </data>
+  <data name="ShowShopsOfPlayersPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowShopsOfPlayersPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="CurrentlyActiveQuestsPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 현재 활성화된 퀘스트</value>
+  </data>
+  <data name="CurrentlyActiveQuestsPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ICurrentlyActiveQuestsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="LegacyQuestRewardPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 보상</value>
+  </data>
+  <data name="LegacyQuestRewardPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ILegacyQuestRewardPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="LegacyQuestStateDialogPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 상태 대화상자</value>
+  </data>
+  <data name="LegacyQuestStateDialogPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ILegacyQuestStateDialogPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="QuestCancelledPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 취소됨</value>
+  </data>
+  <data name="QuestCancelledPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestCancelledPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="QuestCompletionResponsePlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 완료 응답</value>
+  </data>
+  <data name="QuestCompletionResponsePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestCompletionResponsePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="QuestEventResponsePlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 이벤트 퀘스트 응답</value>
+  </data>
+  <data name="QuestEventResponsePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestEventResponsePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="QuestProgressExtendedPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 진행 확장</value>
+  </data>
+  <data name="QuestProgressExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestProgressPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="QuestProgressPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 진행</value>
+  </data>
+  <data name="QuestProgressPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestProgressPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="QuestStartedPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 시작됨</value>
+  </data>
+  <data name="QuestStartedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestStartedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="QuestStateResponseExtendedPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 상태 응답 확장</value>
+  </data>
+  <data name="QuestStateResponseExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestStateResponsePlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="QuestStateResponsePlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 상태 응답</value>
+  </data>
+  <data name="QuestStateResponsePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestStateResponsePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="QuestStepInfoPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 단계 정보</value>
+  </data>
+  <data name="QuestStepInfoPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IQuestStepInfoPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowAvailableQuestsPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 사용 가능한 퀘스트 표시</value>
+  </data>
+  <data name="ShowAvailableQuestsPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowAvailableQuestsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ChangeTradeButtonStatePlugIn_Name" xml:space="preserve">
+    <value>거래 버튼 상태 변경</value>
+  </data>
+  <data name="ChangeTradeButtonStatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IChangeTradeButtonStatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="RequestedTradeMoneyHasBeenSetPlugIn_Name" xml:space="preserve">
+    <value>요청한 거래 자금이 설정되었습니다</value>
+  </data>
+  <data name="RequestedTradeMoneyHasBeenSetPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IRequestedTradeMoneyHasBeenSetPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="SetTradeMoneyPlugIn_Name" xml:space="preserve">
+    <value>거래 자금 설정</value>
+  </data>
+  <data name="SetTradeMoneyPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ISetTradeMoneyPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowTradeRequestAnswerPlugIn_Name" xml:space="preserve">
+    <value>거래 요청 답변 표시</value>
+  </data>
+  <data name="ShowTradeRequestAnswerPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowTradeRequestAnswerPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowTradeRequestPlugIn_Name" xml:space="preserve">
+    <value>거래 요청 표시</value>
+  </data>
+  <data name="ShowTradeRequestPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowTradeRequestPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="TradeFinishedPlugIn_Name" xml:space="preserve">
+    <value>거래 완료</value>
+  </data>
+  <data name="TradeFinishedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ITradeFinishedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="TradeItemAppearPlugIn_Name" xml:space="preserve">
+    <value>무역아이템 등장</value>
+  </data>
+  <data name="TradeItemAppearPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ITradeItemAppearPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="TradeItemDisappearPlugIn_Name" xml:space="preserve">
+    <value>무역품이 사라짐</value>
+  </data>
+  <data name="TradeItemDisappearPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ITradeItemDisappearPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="CloseVaultPlugIn_Name" xml:space="preserve">
+    <value>금고 닫기</value>
+  </data>
+  <data name="CloseVaultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ICloseVaultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowVaultLockChangeResponsePlugIn_Name" xml:space="preserve">
+    <value>저장소 잠금 변경 응답 표시</value>
+  </data>
+  <data name="ShowVaultLockChangeResponsePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowVaultLockChangeResponse의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowVaultPlugIn_Name" xml:space="preserve">
+    <value>금고 표시</value>
+  </data>
+  <data name="ShowVaultPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowVaultPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateVaultMoneyPlugIn_Name" xml:space="preserve">
+    <value>볼트머니 업데이트</value>
+  </data>
+  <data name="UpdateVaultMoneyPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateVaultMoneyPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateVaultStatePlugIn_Name" xml:space="preserve">
+    <value>Vault 상태 업데이트</value>
+  </data>
+  <data name="UpdateVaultStatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateVaultStatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="AppearanceChangedPlugIn_Name" xml:space="preserve">
+    <value>외형이 변경됨</value>
+  </data>
+  <data name="AppearanceChangedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 다른 플레이어의 모양 변경 사항을 게임 클라이언트에 전달하는 IAppearanceChangedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DeActivateMagicEffectPlugIn_Name" xml:space="preserve">
+    <value>드 &amp; ActivateMagicEffectPlugIn</value>
+  </data>
+  <data name="DeActivateMagicEffectPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IActivateMagicEffectPlugIn 및 IDeactivateMagicEffectPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DeActivateMagicEffectPlugIn075_Name" xml:space="preserve">
+    <value>마법 효과 활성화 해제 (075)</value>
+  </data>
+  <data name="DeActivateMagicEffectPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IActivateMagicEffectPlugIn 및 IDeactivateMagicEffectPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="DroppedItemsDisappearedPlugIn_Name" xml:space="preserve">
+    <value>떨어뜨린 아이템이 사라졌습니다</value>
+  </data>
+  <data name="DroppedItemsDisappearedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IDroppedItemsDisappearedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="MapChangeExtendedPlugIn_Name" xml:space="preserve">
+    <value>지도 변경 연장</value>
+  </data>
+  <data name="MapChangeExtendedPlugIn_Description" xml:space="preserve">
+    <value>맵의 구분값(예: 데빌 스퀘어의 단계)도 게임 클라이언트로 보내는 IMapChangePlugIn의 확장 구현입니다.</value>
+  </data>
+  <data name="TeleportExtendedPlugIn_Name" xml:space="preserve">
+    <value>텔레포트 확장</value>
+  </data>
+  <data name="TeleportExtendedPlugIn_Description" xml:space="preserve">
+    <value>맵의 구분값(예: 데빌 스퀘어의 단계)도 게임 클라이언트로 보내는 ITeleportPlugIn의 확장 구현입니다.</value>
+  </data>
+  <data name="MapChangePlugIn_Name" xml:space="preserve">
+    <value>지도 변경</value>
+  </data>
+  <data name="MapChangePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IMapChangePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="MapChangePlugIn075_Name" xml:space="preserve">
+    <value>맵 체인지 (075)</value>
+  </data>
+  <data name="MapChangePlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IMapChangePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="MapEventStateUpdatePlugIn_Name" xml:space="preserve">
+    <value>지도 이벤트 상태 업데이트</value>
+  </data>
+  <data name="MapEventStateUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IMapEventStateUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="NewNpcsInScopePlugIn_Name" xml:space="preserve">
+    <value>플러그인 범위의 NPC</value>
+  </data>
+  <data name="NewNpcsInScopePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INewNpcsInScopePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="NewNpcsInScopePlugIn075_Name" xml:space="preserve">
+    <value>플러그인 범위의 NPC 0.75</value>
+  </data>
+  <data name="NewNpcsInScopePlugIn075_Description" xml:space="preserve">
+    <value>버전 0.75의 특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INewNpcsInScopePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="NewNpcsInScopePlugIn095_Name" xml:space="preserve">
+    <value>범위 내 새로운 Npcs (095)</value>
+  </data>
+  <data name="NewNpcsInScopePlugIn095_Description" xml:space="preserve">
+    <value>버전 0.75의 특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INewNpcsInScopePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="NewPlayersInScopeExtendedPlugIn_Name" xml:space="preserve">
+    <value>범위가 확장된 새로운 플레이어</value>
+  </data>
+  <data name="NewPlayersInScopeExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INewPlayersInScopePlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="NewPlayersInScopePlugIn_Name" xml:space="preserve">
+    <value>범위 내 새로운 플레이어</value>
+  </data>
+  <data name="NewPlayersInScopePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INewPlayersInScopePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="NewPlayersInScopePlugIn075_Name" xml:space="preserve">
+    <value>범위 내 새로운 플레이어 (075)</value>
+  </data>
+  <data name="NewPlayersInScopePlugIn075_Description" xml:space="preserve">
+    <value>버전 0.75의 특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INewPlayersInScopePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="NewPlayersInScopePlugIn095_Name" xml:space="preserve">
+    <value>범위의 새로운 플레이어 (095)</value>
+  </data>
+  <data name="NewPlayersInScopePlugIn095_Description" xml:space="preserve">
+    <value>버전 0.75의 특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 INewPlayersInScopePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ObjectGotKilledPlugIn_Name" xml:space="preserve">
+    <value>개체가 죽었습니다</value>
+  </data>
+  <data name="ObjectGotKilledPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IObjectGotKilledPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ObjectMovedPlugIn_Name" xml:space="preserve">
+    <value>개체가 이동되었습니다.</value>
+  </data>
+  <data name="ObjectMovedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IObjectMovedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ObjectMovedPlugIn075_Name" xml:space="preserve">
+    <value>ObjectMovedPlugIn 0.75</value>
+  </data>
+  <data name="ObjectMovedPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IObjectMovedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ObjectMovedPlugInExtended_Name" xml:space="preserve">
+    <value>ObjectMovedPlugInExtended</value>
+  </data>
+  <data name="ObjectMovedPlugInExtended_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IObjectMovedPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ObjectsOutOfScopePlugIn_Name" xml:space="preserve">
+    <value>범위를 벗어난 개체</value>
+  </data>
+  <data name="ObjectsOutOfScopePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IObjectsOutOfScopePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="RespawnAfterDeathExtendedPlugIn_Name" xml:space="preserve">
+    <value>사망 후 부활 연장</value>
+  </data>
+  <data name="RespawnAfterDeathExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IRespawnAfterDeathPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="RespawnAfterDeathPlugIn_Name" xml:space="preserve">
+    <value>사망 후 부활</value>
+  </data>
+  <data name="RespawnAfterDeathPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IRespawnAfterDeathPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="RespawnAfterDeathPlugIn075_Name" xml:space="preserve">
+    <value>사망 후 부활 (075)</value>
+  </data>
+  <data name="RespawnAfterDeathPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IRespawnAfterDeathPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="RespawnAfterDeathPlugIn095_Name" xml:space="preserve">
+    <value>죽음 이후 부활 (095)</value>
+  </data>
+  <data name="RespawnAfterDeathPlugIn095_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IRespawnAfterDeathPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowAnimationPlugIn_Name" xml:space="preserve">
+    <value>애니메이션 표시</value>
+  </data>
+  <data name="ShowAnimationPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowAnimationPlugIn075_Name" xml:space="preserve">
+    <value>쇼 애니메이션 (075)</value>
+  </data>
+  <data name="ShowAnimationPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowAreaSkillAnimationPlugIn_Name" xml:space="preserve">
+    <value>영역 스킬 애니메이션 표시</value>
+  </data>
+  <data name="ShowAreaSkillAnimationPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowAreaSkillAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowAreaSkillAnimationPlugIn075_Name" xml:space="preserve">
+    <value>영역 스킬 애니메이션 표시(075)</value>
+  </data>
+  <data name="ShowAreaSkillAnimationPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowAreaSkillAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowAreaSkillAnimationPlugIn095_Name" xml:space="preserve">
+    <value>영역 스킬 애니메이션 표시(095)</value>
+  </data>
+  <data name="ShowAreaSkillAnimationPlugIn095_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowAreaSkillAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowChainLightningPlugIn_Name" xml:space="preserve">
+    <value>연쇄 번개 표시</value>
+  </data>
+  <data name="ShowChainLightningPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowChainLightningPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowDroppedItemsPlugIn_Name" xml:space="preserve">
+    <value>떨어뜨린 아이템 표시</value>
+  </data>
+  <data name="ShowDroppedItemsPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowDroppedItemsPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowHitExtendedPlugIn_Name" xml:space="preserve">
+    <value>조회수 확장 표시</value>
+  </data>
+  <data name="ShowHitExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowHitPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="ShowHitPlugIn_Name" xml:space="preserve">
+    <value>쇼 히트</value>
+  </data>
+  <data name="ShowHitPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowHitPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowMoneyDrop075_Name" xml:space="preserve">
+    <value>ShowMoneyDrop 0.75</value>
+  </data>
+  <data name="ShowMoneyDrop075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMoneyDropPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowMoneyDropExtendedPlugIn_Name" xml:space="preserve">
+    <value>쇼 머니 드롭 연장</value>
+  </data>
+  <data name="ShowMoneyDropExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMoneyDropPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="ShowMoneyDropPlugIn_Name" xml:space="preserve">
+    <value>쇼 머니 드롭</value>
+  </data>
+  <data name="ShowMoneyDropPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowMoneyDropPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowRageAttackPlugIn_Name" xml:space="preserve">
+    <value>분노 공격 표시</value>
+  </data>
+  <data name="ShowRageAttackPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowRageAttackPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowRageAttackRangePlugIn_Name" xml:space="preserve">
+    <value>분노 공격 범위 표시</value>
+  </data>
+  <data name="ShowRageAttackRangePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowRageAttackRangePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowSkillAnimationPlugIn_Name" xml:space="preserve">
+    <value>스킬 애니메이션 표시</value>
+  </data>
+  <data name="ShowSkillAnimationPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowSkillAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowSkillAnimationPlugIn075_Name" xml:space="preserve">
+    <value>스킬 애니메이션 표시 (075)</value>
+  </data>
+  <data name="ShowSkillAnimationPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowSkillAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="ShowSkillAnimationPlugIn095_Name" xml:space="preserve">
+    <value>스킬 애니메이션 표시 (095)</value>
+  </data>
+  <data name="ShowSkillAnimationPlugIn095_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowSkillAnimationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="SkillStageUpdatePlugInPlugIn_Name" xml:space="preserve">
+    <value>스킬 스테이지 업데이트 플러그인</value>
+  </data>
+  <data name="SkillStageUpdatePlugInPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowSkillStageUpdate의 기본 구현입니다.</value>
+  </data>
+  <data name="TeleportPlugIn_Name" xml:space="preserve">
+    <value>텔레포트</value>
+  </data>
+  <data name="TeleportPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ITeleportPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="TeleportPlugIn075_Name" xml:space="preserve">
+    <value>텔레포트 (075)</value>
+  </data>
+  <data name="TeleportPlugIn075_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ITeleportPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="UpdateRotationPlugIn_Name" xml:space="preserve">
+    <value>순환 업데이트</value>
+  </data>
+  <data name="UpdateRotationPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IUpdateRotationPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="WeatherStatusUpdatePlugIn_Name" xml:space="preserve">
+    <value>날씨 상태 업데이트</value>
+  </data>
+  <data name="WeatherStatusUpdatePlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IWeatherStatusUpdatePlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="CraftingDialogCloseRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>제작 대화상자 닫기 요청 핸들러</value>
+  </data>
+  <data name="CraftingDialogCloseRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>제작 대화 상자를 닫아야 하는 패킷 처리기(Chaos Machine).</value>
+  </data>
+  <data name="NpcActionGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>NPC 액션 패킷 핸들러</value>
+  </data>
+  <data name="NpcActionGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>npc 액션 패킷에 대한 패킷 핸들러(0xD0 식별자).</value>
+  </data>
+  <data name="RageSkillAttackHandlerPlugIn_Name" xml:space="preserve">
+    <value>분노 스킬 공격 핸들러</value>
+  </data>
+  <data name="RageSkillAttackHandlerPlugIn_Description" xml:space="preserve">
+    <value>레이지파이터 지역 스킬 공격 패킷에 대한 처리기(다크 사이드).</value>
+  </data>
+  <data name="RageSkillAttackRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>분노 스킬 공격 요청 핸들러</value>
+  </data>
+  <data name="RageSkillAttackRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>레이지파이터 지역 스킬 공격 패킷에 대한 처리기(다크 사이드).</value>
+  </data>
+  <data name="CharacterAddMasterPointPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 마스터 스킬 포인트 추가</value>
+  </data>
+  <data name="CharacterAddMasterPointPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터의 마스터 스킬 포인트 추가 패킷(0xF3, 0x52 식별자) 처리기입니다.</value>
+  </data>
+  <data name="CharacterClientReadyPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 클라이언트 준비</value>
+  </data>
+  <data name="CharacterClientReadyPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>맵 변경 후 전송되는 '클라이언트 준비' 패킷(0xF3, 0x12 식별자)에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="CharacterCreatePacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 생성</value>
+  </data>
+  <data name="CharacterCreatePacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 생성 패킷을 위한 패킷 핸들러(0xF3, 0x01 식별자).</value>
+  </data>
+  <data name="CharacterDeletePacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 삭제</value>
+  </data>
+  <data name="CharacterDeletePacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 삭제 패킷에 대한 패킷 처리기(0xF3, 0x02 식별자).</value>
+  </data>
+  <data name="CharacterFocusPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 집중</value>
+  </data>
+  <data name="CharacterFocusPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 포커스 패킷에 대한 패킷 처리기(0xF3, 0x15 식별자).</value>
+  </data>
+  <data name="CharacterGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 패킷 처리기</value>
+  </data>
+  <data name="CharacterGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 패킷용 패킷 처리기(0xF3 식별자).</value>
+  </data>
+  <data name="CastleSiegeGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 패킷 그룹 처리기</value>
+  </data>
+  <data name="CastleSiegeGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 패킷 하위 코드를 라우팅합니다.</value>
+  </data>
+  <data name="CastleSiegeHuntZoneGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 헌팅 존 패킷 그룹</value>
+  </data>
+  <data name="CastleSiegeHuntZoneGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>그룹화된 공성전 헌팅 존 패킷을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeMachineGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 전쟁 기계 패킷 그룹</value>
+  </data>
+  <data name="CastleSiegeMachineGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 전쟁 기계 패킷 하위 코드를 라우팅합니다.</value>
+  </data>
+  <data name="CastleSiegeMachineUseHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 전쟁 기계 화재 처리기</value>
+  </data>
+  <data name="CastleSiegeMachineUseHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 전쟁 기계 화재 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeMachineInterfacePlugIn_Name" xml:space="preserve">
+    <value>공성전 전쟁-기계 인터페이스 보기</value>
+  </data>
+  <data name="CastleSiegeMachineInterfacePlugIn_Description" xml:space="preserve">
+    <value>공성전 전쟁 기계 인터페이스 패킷을 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeMachineRegionNotifyPlugIn_Name" xml:space="preserve">
+    <value>공성전 전쟁 기계 지역 보기</value>
+  </data>
+  <data name="CastleSiegeMachineRegionNotifyPlugIn_Description" xml:space="preserve">
+    <value>공성전 전쟁 기계 영향 지역 알림을 게임 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeMachineUseResultPlugIn_Name" xml:space="preserve">
+    <value>공성전 전쟁-기계 사용 결과 보기</value>
+  </data>
+  <data name="CastleSiegeMachineUseResultPlugIn_Description" xml:space="preserve">
+    <value>공성전 전쟁 기계 화재 결과를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeDefenseBuyHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 국방 구매 핸들러</value>
+  </data>
+  <data name="CastleSiegeDefenseBuyHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 방어 구조물 구매 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeDefenseRepairHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 방어 수리 핸들러</value>
+  </data>
+  <data name="CastleSiegeDefenseRepairHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 방어 구조물 수리 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeDefenseUpgradeHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 방어 업그레이드 핸들러</value>
+  </data>
+  <data name="CastleSiegeDefenseUpgradeHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 방어 구조 업그레이드 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeGateListHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 게이트 목록 처리기</value>
+  </data>
+  <data name="CastleSiegeGateListHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 게이트 목록에 대한 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeGateOperateHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 게이트 작동 핸들러</value>
+  </data>
+  <data name="CastleSiegeGateOperateHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 게이트 열기 및 닫기 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeNpcGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 NPC 패킷 그룹 처리기</value>
+  </data>
+  <data name="CastleSiegeNpcGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 NPC 목록 패킷 하위 코드를 라우팅합니다.</value>
+  </data>
+  <data name="CastleSiegeStatueListHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 가디언 조각상 목록 핸들러</value>
+  </data>
+  <data name="CastleSiegeStatueListHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 가디언 조각상 목록에 대한 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeNpcListPlugIn_Name" xml:space="preserve">
+    <value>공성전 NPC 목록 보기</value>
+  </data>
+  <data name="CastleSiegeNpcListPlugIn_Description" xml:space="preserve">
+    <value>공성전 방어 구조 목록을 게임 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeNpcOperationResultPlugIn_Name" xml:space="preserve">
+    <value>공성전 NPC 작업 결과 보기</value>
+  </data>
+  <data name="CastleSiegeNpcOperationResultPlugIn_Description" xml:space="preserve">
+    <value>공성전 방어 구조 작업 결과를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeRegistrationHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 등록 처리기</value>
+  </data>
+  <data name="CastleSiegeRegistrationHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 길드 등록 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeUnregisterHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 처리기 등록 취소</value>
+  </data>
+  <data name="CastleSiegeUnregisterHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 길드 등록 취소 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeRegistrationStateHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 등록 상태 처리기</value>
+  </data>
+  <data name="CastleSiegeRegistrationStateHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 등록 상태 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeMarkRegistrationHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 마크 등록 처리기</value>
+  </data>
+  <data name="CastleSiegeMarkRegistrationHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 영주 등록 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeMarkRegistrationResultPlugIn_Name" xml:space="preserve">
+    <value>공성전 마크 등록 보기</value>
+  </data>
+  <data name="CastleSiegeMarkRegistrationResultPlugIn_Description" xml:space="preserve">
+    <value>Sign of Lord 등록 결과를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeRegistrationResultPlugIn_Name" xml:space="preserve">
+    <value>공성전 등록 결과 보기</value>
+  </data>
+  <data name="CastleSiegeRegistrationResultPlugIn_Description" xml:space="preserve">
+    <value>공성전 등록 결과를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeRegistrationStatePlugIn_Name" xml:space="preserve">
+    <value>공성전 등록 상태 보기</value>
+  </data>
+  <data name="CastleSiegeRegistrationStatePlugIn_Description" xml:space="preserve">
+    <value>공성전 등록 상태를 게임 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeGuildListHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 길드 목록 핸들러</value>
+  </data>
+  <data name="CastleSiegeGuildListHandlerPlugIn_Description" xml:space="preserve">
+    <value>선택한 공성전 길드 목록에 대한 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeRegisteredGuildListHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 등록된 길드 목록 처리자</value>
+  </data>
+  <data name="CastleSiegeRegisteredGuildListHandlerPlugIn_Description" xml:space="preserve">
+    <value>현재 공성전 길드 등록에 대한 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeGuildListPlugIn_Name" xml:space="preserve">
+    <value>공성전 길드 목록 보기</value>
+  </data>
+  <data name="CastleSiegeGuildListPlugIn_Description" xml:space="preserve">
+    <value>선택한 공성전 길드 목록을 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeRegisteredGuildListPlugIn_Name" xml:space="preserve">
+    <value>공성전 등록된 길드 목록 보기</value>
+  </data>
+  <data name="CastleSiegeRegisteredGuildListPlugIn_Description" xml:space="preserve">
+    <value>현재 공성전 길드 등록을 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeJoinSidePlugIn_Name" xml:space="preserve">
+    <value>공성전 조인 측면 보기</value>
+  </data>
+  <data name="CastleSiegeJoinSidePlugIn_Description" xml:space="preserve">
+    <value>플레이어에게 할당된 공성전 쪽을 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CharacterKeyConfigurationPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 키 구성</value>
+  </data>
+  <data name="CharacterKeyConfigurationPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 키 구성 패킷(0xF3, 0x30 식별자)에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="CharacterListRequestPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 요청 목록</value>
+  </data>
+  <data name="CharacterListRequestPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 목록 요청 패킷(0xF3, 0x00 식별자)에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="CharacterSelectPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 선택</value>
+  </data>
+  <data name="CharacterSelectPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 선택 패킷(0xF3, 0x03 식별자)에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="CharacterStatIncreasePacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐릭터 - 능력치 증가 </value>
+  </data>
+  <data name="CharacterStatIncreasePacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 능력치 증가 패킷을 위한 패킷 핸들러(0xF3, 0x06 식별자).</value>
+  </data>
+  <data name="DuelChannelJoinRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>결투 채널 가입 요청 처리기</value>
+  </data>
+  <data name="DuelChannelJoinRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>관전자가 전송하는 결투 채널 참여 요청 패킷(새로운 결투 시스템)에 대한 핸들러입니다.</value>
+  </data>
+  <data name="DuelChannelQuitRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>결투 채널 종료 요청 처리기</value>
+  </data>
+  <data name="DuelChannelQuitRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>관전자가 보내는 결투 채널 종료 요청 패킷(새 결투 시스템)에 대한 핸들러입니다.</value>
+  </data>
+  <data name="DuelGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>결투 그룹 핸들러</value>
+  </data>
+  <data name="DuelGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>듀얼 패킷용 패킷 핸들러(새 시스템)</value>
+  </data>
+  <data name="DuelStartRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>결투 시작 요청 핸들러</value>
+  </data>
+  <data name="DuelStartRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>결투 시작 요청 패킷 처리기(새로운 결투 시스템)</value>
+  </data>
+  <data name="DuelStartResponseHandlerPlugIn_Name" xml:space="preserve">
+    <value>결투 시작 응답 핸들러</value>
+  </data>
+  <data name="DuelStartResponseHandlerPlugIn_Description" xml:space="preserve">
+    <value>결투 시작 응답 패킷 처리기(새로운 결투 시스템)</value>
+  </data>
+  <data name="DuelStopResponseHandlerPlugIn_Name" xml:space="preserve">
+    <value>결투 중지 응답 핸들러</value>
+  </data>
+  <data name="DuelStopResponseHandlerPlugIn_Description" xml:space="preserve">
+    <value>결투 중지 요청 패킷 처리기(새로운 결투 시스템)</value>
+  </data>
+  <data name="LogInOutGroup_Name" xml:space="preserve">
+    <value>로그인 및 로그아웃 그룹</value>
+  </data>
+  <data name="LogInOutGroup_Description" xml:space="preserve">
+    <value>로그인 및 로그아웃 패킷에 대한 패킷 그룹 처리기(0xF1)입니다.</value>
+  </data>
+  <data name="LogOutByCheatDetectionHandlerPlugIn_Name" xml:space="preserve">
+    <value>치트 처리기로 로그아웃</value>
+  </data>
+  <data name="LogOutByCheatDetectionHandlerPlugIn_Description" xml:space="preserve">
+    <value>로그아웃(치트에 의한) 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="MuHelperGroupHandler_Name" xml:space="preserve">
+    <value>MuHelperGroupHandler</value>
+  </data>
+  <data name="MuHelperGroupHandler_Description" xml:space="preserve">
+    <value>mu 도우미 패킷(0xBF 식별자)에 대한 그룹 패킷 처리기입니다.</value>
+  </data>
+  <data name="PlayerShopBuyRequestPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 - 구매 요청</value>
+  </data>
+  <data name="PlayerShopBuyRequestPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어 상점에 대한 구매 요청을 처리하는 패킷 핸들러(3F 06)</value>
+  </data>
+  <data name="PlayerShopClosePacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 - 닫기</value>
+  </data>
+  <data name="PlayerShopClosePacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어 상점(3F 03)을 여는 패킷 핸들러입니다.</value>
+  </data>
+  <data name="PlayerShopOpenPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 - 오픈</value>
+  </data>
+  <data name="PlayerShopOpenPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어 상점(3F 02)을 여는 패킷 핸들러입니다.</value>
+  </data>
+  <data name="PlayerShopRequestItemListPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 - 요청 아이템 목록</value>
+  </data>
+  <data name="PlayerShopRequestItemListPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>다른 플레이어의 아이템 목록 요청을 처리하는 패킷 핸들러(3F 05)</value>
+  </data>
+  <data name="PlayerShopSetItemPricePacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 - 가격 설정</value>
+  </data>
+  <data name="PlayerShopSetItemPricePacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어 상점(3F 01)에서 아이템 가격을 설정하는 패킷 핸들러입니다.</value>
+  </data>
+  <data name="ActiveQuestListRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 활성 퀘스트 목록 요청</value>
+  </data>
+  <data name="ActiveQuestListRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐릭터 포커스 패킷에 대한 패킷 처리기(0xF3, 0x15 식별자).</value>
+  </data>
+  <data name="AvailableQuestsRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 사용 가능한 퀘스트 요청</value>
+  </data>
+  <data name="AvailableQuestsRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>사용 가능한 퀘스트 요청 패킷에 대한 패킷 핸들러(0xF6, 0x30 식별자)</value>
+  </data>
+  <data name="BuffRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 사용 가능한 퀘스트 요청</value>
+  </data>
+  <data name="BuffRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>(엘프 병사) 버프 요청 패킷에 대한 패킷 핸들러(0xF6, 0x31 식별자)</value>
+  </data>
+  <data name="EventQuestStateRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 이벤트 퀘스트 상태 요청</value>
+  </data>
+  <data name="EventQuestStateRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>이벤트 퀘스트 상태 요청 패킷에 대한 패킷 핸들러(0xF6, 0x21 식별자)</value>
+  </data>
+  <data name="QuestCancelRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 요청 취소</value>
+  </data>
+  <data name="QuestCancelRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>퀘스트 취소 요청 패킷에 대한 패킷 핸들러(0xF6, 0x0F 식별자)</value>
+  </data>
+  <data name="QuestClientActionHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 클라이언트 작업</value>
+  </data>
+  <data name="QuestClientActionHandlerPlugIn_Description" xml:space="preserve">
+    <value>퀘스트 클라이언트 작업 패킷에 대한 패킷 처리기(0xF6, 0x10 식별자)</value>
+  </data>
+  <data name="QuestCompletionRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 완료 요청</value>
+  </data>
+  <data name="QuestCompletionRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>퀘스트 완료 요청 패킷에 대한 패킷 핸들러(0xF6, 0x0D 식별자)</value>
+  </data>
+  <data name="QuestGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 패킷 핸들러</value>
+  </data>
+  <data name="QuestGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>퀘스트 패킷용 패킷 핸들러(0xF6 식별자).</value>
+  </data>
+  <data name="QuestProceedRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 진행 요청</value>
+  </data>
+  <data name="QuestProceedRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>퀘스트 진행 요청 패킷에 대한 패킷 핸들러 (0xF6, 0x0B 식별자)</value>
+  </data>
+  <data name="QuestSelectRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 요청 선택</value>
+  </data>
+  <data name="QuestSelectRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>퀘스트 선택 요청 패킷에 대한 패킷 핸들러(0xF6, 0x0A 식별자)</value>
+  </data>
+  <data name="QuestStateListLegacyRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 상태 목록 요청(레거시)</value>
+  </data>
+  <data name="QuestStateListLegacyRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>레거시 퀘스트 시스템에 대한 퀘스트 상태 목록 요청을 위한 패킷 핸들러(0xA0 식별자)</value>
+  </data>
+  <data name="QuestStateRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 - 퀘스트 상태 요청</value>
+  </data>
+  <data name="QuestStateRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>퀘스트 상태 요청 패킷에 대한 패킷 처리기(0xF6, 0x1B 식별자)</value>
+  </data>
+  <data name="QuestStateSetLegacyRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>퀘스트 상태 설정 요청(레거시)</value>
+  </data>
+  <data name="QuestStateSetLegacyRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>레거시 퀘스트 시스템에 대한 퀘스트 상태 설정 요청에 대한 패킷 처리기(0xA2 식별자)입니다.</value>
+  </data>
+  <data name="RemoveVaultPinPlugIn_Name" xml:space="preserve">
+    <value>금고 잠금 - 핀 제거</value>
+  </data>
+  <data name="RemoveVaultPinPlugIn_Description" xml:space="preserve">
+    <value>볼트 핀 제거 패킷(0x83, 0x02 식별자)을 위한 패킷 처리기입니다.</value>
+  </data>
+  <data name="SetVaultPinPlugIn_Name" xml:space="preserve">
+    <value>금고 잠금 - 핀 설정</value>
+  </data>
+  <data name="SetVaultPinPlugIn_Description" xml:space="preserve">
+    <value>볼트 핀 세트 패킷(0x83, 0x01 식별자)에 대한 패킷 처리기입니다.</value>
+  </data>
+  <data name="UnlockVaultPlugIn_Name" xml:space="preserve">
+    <value>금고 잠금 - 잠금 해제</value>
+  </data>
+  <data name="UnlockVaultPlugIn_Description" xml:space="preserve">
+    <value>저장소 잠금 해제 패킷용 패킷 처리기(0x83, 0x00 식별자).</value>
+  </data>
+  <data name="VaultLockGroupPlugIn_Name" xml:space="preserve">
+    <value>저장소 잠금 패킷 처리기</value>
+  </data>
+  <data name="VaultLockGroupPlugIn_Description" xml:space="preserve">
+    <value>저장소 잠금 패킷용 패킷 처리기(0x83 식별자).</value>
+  </data>
+  <data name="AppearanceChangedExtendedPlugIn_Name" xml:space="preserve">
+    <value>외형 변경 확장</value>
+  </data>
+  <data name="AppearanceChangedExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 다른 플레이어의 모양 변경 사항을 게임 클라이언트에 전달하는 IAppearanceChangedPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="MuHelperSettingsInitializationPlugIn_Name" xml:space="preserve">
+    <value>MU 도우미 설정 초기화</value>
+  </data>
+  <data name="MuHelperSettingsInitializationPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 세계에 들어갈 때 MU 도우미 설정을 초기화합니다.</value>
+  </data>
+  <data name="ChatCommandListViewPlugIn_Name" xml:space="preserve">
+    <value>채팅 명령어 목록 보기</value>
+  </data>
+  <data name="ChatCommandListViewPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 사용할 수 있는 채팅 명령을 전송하여 클라이언트가 사용자 인터페이스에서 명령을 제공할 수 있도록 합니다.</value>
+  </data>
+  <data name="ChatCommandGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>채팅 명령 패킷 그룹 처리기</value>
+  </data>
+  <data name="ChatCommandGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>채팅 명령(0xF5)에 대한 패킷을 처리합니다.</value>
+  </data>
+  <data name="ChatCommandListRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>채팅 명령 목록 요청 핸들러</value>
+  </data>
+  <data name="ChatCommandListRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어가 사용할 수 있는 채팅 명령 목록에 대한 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeCrownStatePlugIn_Name" xml:space="preserve">
+    <value>공성전 크라운 상태 보기</value>
+  </data>
+  <data name="CastleSiegeCrownStatePlugIn_Description" xml:space="preserve">
+    <value>현재 공성전 크라운 잠금 상태를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeCrownAccessStatePlugIn_Name" xml:space="preserve">
+    <value>공성전 크라운 액세스 상태 보기</value>
+  </data>
+  <data name="CastleSiegeCrownAccessStatePlugIn_Description" xml:space="preserve">
+    <value>공성전 왕관 캡처 진행 상황을 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeSwitchInfoPlugIn_Name" xml:space="preserve">
+    <value>공성전 스위치 정보 보기</value>
+  </data>
+  <data name="CastleSiegeSwitchInfoPlugIn_Description" xml:space="preserve">
+    <value>공성전 크라운 스위치 점유 정보를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeOwnershipChangePlugIn_Name" xml:space="preserve">
+    <value>공성전 소유권 변경 보기</value>
+  </data>
+  <data name="CastleSiegeOwnershipChangePlugIn_Description" xml:space="preserve">
+    <value>공성전 소유권 변경 사항을 게임 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeTaxInfoHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 세금 정보 요청 핸들러</value>
+  </data>
+  <data name="CastleSiegeTaxInfoHandlerPlugIn_Description" xml:space="preserve">
+    <value>현재 공성전 세금 및 재무 정보에 대한 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeTaxChangeHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 세금 변경 요청 핸들러</value>
+  </data>
+  <data name="CastleSiegeTaxChangeHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 세율 변경 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeTributeWithdrawHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 공물 철회 요청 핸들러</value>
+  </data>
+  <data name="CastleSiegeTributeWithdrawHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 재무부에서 자금 인출 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeHuntZoneToggleHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 헌팅존 접근 요청 핸들러</value>
+  </data>
+  <data name="CastleSiegeHuntZoneToggleHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 헌팅 존에 대한 공개 액세스를 변경하는 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeHuntZoneEnterHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 헌팅존 진입 요청 핸들러</value>
+  </data>
+  <data name="CastleSiegeHuntZoneEnterHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 헌팅 존에 입장하기 위한 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeTaxInfoPlugIn_Name" xml:space="preserve">
+    <value>공성전 세금 정보 보기</value>
+  </data>
+  <data name="CastleSiegeTaxInfoPlugIn_Description" xml:space="preserve">
+    <value>현재 공성전 세금 및 재무 정보를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeTaxChangeResultPlugIn_Name" xml:space="preserve">
+    <value>공성전 세금 변경 결과 보기</value>
+  </data>
+  <data name="CastleSiegeTaxChangeResultPlugIn_Description" xml:space="preserve">
+    <value>공성전 세금 변경 사항과 그 결과를 게임 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeTributeWithdrawResultPlugIn_Name" xml:space="preserve">
+    <value>공성전 공물철회 결과 보기</value>
+  </data>
+  <data name="CastleSiegeTributeWithdrawResultPlugIn_Description" xml:space="preserve">
+    <value>공성전 국고 인출 결과를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeHuntZoneGuardInfoPlugIn_Name" xml:space="preserve">
+    <value>공성전 사냥터 경비병 모습</value>
+  </data>
+  <data name="CastleSiegeHuntZoneGuardInfoPlugIn_Description" xml:space="preserve">
+    <value>공성전 사냥터 접근 정보를 게임 클라이언트로 전송합니다.</value>
+  </data>
+  <data name="CastleSiegeHuntZoneResultPlugIn_Name" xml:space="preserve">
+    <value>공성전 헌팅존 결과 보기</value>
+  </data>
+  <data name="CastleSiegeHuntZoneResultPlugIn_Description" xml:space="preserve">
+    <value>공성전 사냥터 요청 결과를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeCommandHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 길드 명령 처리기</value>
+  </data>
+  <data name="CastleSiegeCommandHandlerPlugIn_Description" xml:space="preserve">
+    <value>공성전 연맹 마스터가 발행한 방향성 길드 명령을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeCommandPlugIn_Name" xml:space="preserve">
+    <value>공성전 길드 명령 보기</value>
+  </data>
+  <data name="CastleSiegeCommandPlugIn_Description" xml:space="preserve">
+    <value>연맹 마스터의 방향성 길드 명령을 같은 편 플레이어에게 전달합니다.</value>
+  </data>
+  <data name="CastleSiegeMiniMapPlugIn_Name" xml:space="preserve">
+    <value>공성전 미니맵 보기</value>
+  </data>
+  <data name="CastleSiegeMiniMapPlugIn_Description" xml:space="preserve">
+    <value>공성전 플레이어 및 NPC 미니맵 위치를 동맹 마스터에게 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeLifeStoneStatePlugIn_Name" xml:space="preserve">
+    <value>공성전 생명석 상태 보기</value>
+  </data>
+  <data name="CastleSiegeLifeStoneStatePlugIn_Description" xml:space="preserve">
+    <value>공성전 생명석 생성 진행 상황을 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="EnterMarketPlace_Name" xml:space="preserve"><value>시장 입장 핸들러</value></data>
+  <data name="EnterMarketPlace_Description" xml:space="preserve"><value>Market Union 회원 Julia의 'Warp' 버튼을 사용할 때 로랜시아와 Loren Market 사이에서 플레이어를 워프시키는 핸들러입니다.</value></data>
+  <data name="GuildRoleAssignHandlerPlugIn_Name" xml:space="preserve">
+    <value>길드 역할 할당 핸들러</value>
+  </data>
+  <data name="GuildRoleAssignHandlerPlugIn_Description" xml:space="preserve">
+    <value>길드 역할 할당 패킷을 위한 핸들러입니다.</value>
+  </data>
+  <data name="RaklionEventViewPlugIn_Name" xml:space="preserve">
+    <value>라클리온 이벤트 보기</value>
+  </data>
+  <data name="RaklionEventViewPlugIn_Description" xml:space="preserve">
+    <value>라클리온 이벤트의 상태와 Selupan의 스킬을 클라이언트에게 보냅니다.</value>
+  </data>
+  <data name="RaklionStateInfoRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>라클리온 상태 정보 요청 핸들러</value>
+  </data>
+  <data name="RaklionStateInfoRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>라클리온 이벤트 상태에 대한 클라이언트의 요청을 처리합니다.</value>
+  </data>
+  <data name="CrywolfEventViewPlugIn_Name" xml:space="preserve">
+    <value>크라이울프 이벤트 보기</value>
+  </data>
+  <data name="CrywolfEventViewPlugIn_Description" xml:space="preserve">
+    <value>크라이울프 이벤트 상태, 해당 제단 및 결과를 클라이언트에게 보냅니다.</value>
+  </data>
+  <data name="CrywolfGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>크라이울프 그룹 처리기</value>
+  </data>
+  <data name="CrywolfGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>크라이울프 이벤트의 패킷을 처리합니다.</value>
+  </data>
+  <data name="CrywolfInfoRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>크라이울프 정보 요청 핸들러</value>
+  </data>
+  <data name="CrywolfInfoRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>크라이울프 이벤트 상태에 대한 클라이언트의 요청을 처리합니다.</value>
+  </data>
+  <data name="CrywolfContractRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>크라이울프 계약 요청 처리기</value>
+  </data>
+  <data name="CrywolfContractRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>크라이울프 이벤트의 제단 계약을 위한 엘프의 요청을 처리합니다.</value>
+  </data>
+  <data name="CrywolfChaosRateBenefitRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>크라이울프 혼돈률 혜택 요청 처리기</value>
+  </data>
+  <data name="CrywolfChaosRateBenefitRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>카오스머신의 추가 성공률에 대한 클라이언트의 요청을 처리합니다.</value>
+  </data>
+  <data name="ImperialGuardianGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>제국 수호군 그룹 처리기</value>
+  </data>
+  <data name="ImperialGuardianGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>제국 수호군 이벤트(0xF7)의 패킷을 처리합니다.</value>
+  </data>
+  <data name="ImperialGuardianEnterRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>제국 수호군 요청 처리기 입력</value>
+  </data>
+  <data name="ImperialGuardianEnterRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>Jerint 창에서 보낸 제국 수호군 이벤트 입력 요청을 처리합니다.</value>
+  </data>
+  <data name="ImperialGuardianViewPlugIn_Name" xml:space="preserve">
+    <value>제국 수호군 보기</value>
+  </data>
+  <data name="ImperialGuardianViewPlugIn_Description" xml:space="preserve">
+    <value>입력 결과, 타이머 및 제국 수호군 이벤트 결과를 클라이언트에 보냅니다.</value>
+  </data>
+  <data name="GensGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>Gens 그룹 핸들러</value>
+  </data>
+  <data name="GensGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>gens 시스템(0xF8)의 패킷을 처리합니다.</value>
+  </data>
+  <data name="GensJoinRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Gens 가입 요청 핸들러</value>
+  </data>
+  <data name="GensJoinRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 젠 가입 요청을 처리합니다.</value>
+  </data>
+  <data name="GensLeaveRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Gens 휴가 요청 핸들러</value>
+  </data>
+  <data name="GensLeaveRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어의 젠 탈퇴 요청을 처리합니다.</value>
+  </data>
+  <data name="GensRankingRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Gens 순위 요청 핸들러</value>
+  </data>
+  <data name="GensRankingRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>클라이언트가 젠 정보 창을 열 때 보내는 젠 순위 요청을 처리합니다.</value>
+  </data>
+  <data name="GensViewPlugIn_Name" xml:space="preserve">
+    <value>세대보기</value>
+  </data>
+  <data name="GensViewPlugIn_Description" xml:space="preserve">
+    <value>젠 요청의 결과와 자신의 플레이어의 젠 정보를 표시합니다.</value>
+  </data>
+  <data name="AssignPlayersToGensPlugIn_Name" xml:space="preserve">
+    <value>플레이어를 젠에 할당</value>
+  </data>
+  <data name="AssignPlayersToGensPlugIn_Description" xml:space="preserve">
+    <value>뷰에 있는 플레이어의 겐 마크와 순위를 표시합니다.</value>
+  </data>
+  <data name="GensRewardRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Gens 보상 요청 핸들러</value>
+  </data>
+  <data name="GensRewardRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>Gens 순위 보상에 대한 플레이어의 요청을 처리합니다.</value>
+  </data>
+  <data name="PingHandlerPlugIn_Name" xml:space="preserve">
+    <value>핑 핸들러</value>
+  </data>
+  <data name="PingHandlerPlugIn_Description" xml:space="preserve">
+    <value>클라이언트가 주기적으로 보내는 ping을 처리하여 클라이언트가 살아 있음을 보고합니다.</value>
+  </data>
+  <data name="CashShopGroupHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 그룹 핸들러</value>
+  </data>
+  <data name="CashShopGroupHandlerPlugIn_Description" xml:space="preserve">
+    <value>현금 상점 패킷용 패킷 처리기(0xD2 식별자).</value>
+  </data>
+  <data name="CashShopOpenStateHandlerPlugIn_Name" xml:space="preserve">
+    <value>Cash Shop 오픈 상태 핸들러</value>
+  </data>
+  <data name="CashShopOpenStateHandlerPlugIn_Description" xml:space="preserve">
+    <value>현금 상점을 열고 닫는 패킷 처리기(0xD2, 0x02 식별자).</value>
+  </data>
+  <data name="CashShopPointInfoRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 포인트 정보 요청 핸들러</value>
+  </data>
+  <data name="CashShopPointInfoRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐시샵 포인트 정보 요청을 위한 패킷 핸들러(0xD2, 0x01 식별자).</value>
+  </data>
+  <data name="CashShopStorageListRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 저장 목록 요청 핸들러</value>
+  </data>
+  <data name="CashShopStorageListRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>현금 상점 저장소 목록 요청을 위한 패킷 처리기(0xD2, 0x05 식별자).</value>
+  </data>
+  <data name="CashShopViewPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 전경</value>
+  </data>
+  <data name="CashShopViewPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 ICashShopViewPlugIn의 기본 구현입니다.</value>
+  </data>
+  <data name="CashShopItemBuyRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 구매 요청 핸들러</value>
+  </data>
+  <data name="CashShopItemBuyRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>현금 상점 구매 요청을 위한 패킷 핸들러(0xD2, 0x03 식별자).</value>
+  </data>
+  <data name="CashShopStorageItemConsumeRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 보관 아이템 사용 요청 핸들러</value>
+  </data>
+  <data name="CashShopStorageItemConsumeRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐시샵 스토리지의 아이템 사용 요청을 위한 패킷 핸들러(0xD2, 0x0B 식별자).</value>
+  </data>
+  <data name="CashShopItemGiftRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>캐시샵 선물요청 핸들러</value>
+  </data>
+  <data name="CashShopItemGiftRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>캐시샵 선물 요청을 위한 패킷 핸들러(0xD2, 0x04 식별자).</value>
+  </data>
+  <data name="PlayerShopSetItemPriceExtendedPacketHandlerPlugIn_Name" xml:space="preserve">
+    <value>플레이어 상점 - 가격 설정(통화 포함)</value>
+  </data>
+  <data name="PlayerShopSetItemPriceExtendedPacketHandlerPlugIn_Description" xml:space="preserve">
+    <value>플레이어 상점에서 아이템 가격을 통화로 설정하는 패킷 핸들러(3F 09).</value>
+  </data>
+  <data name="ShowShopCurrenciesExtendedPlugIn_Name" xml:space="preserve">
+    <value>상점 통화 확장 표시</value>
+  </data>
+  <data name="ShowShopCurrenciesExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowShopCurritiesPlugIn의 확장된 구현입니다.</value>
+  </data>
+  <data name="DiscordIntegrationInfoRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Discord 통합 정보 요청 핸들러</value>
+  </data>
+  <data name="DiscordIntegrationInfoRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>Discord 통합 정보 요청을 처리합니다(F5 02).</value>
+  </data>
+  <data name="DiscordLinkCodeRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Discord 링크 코드 요청 핸들러</value>
+  </data>
+  <data name="DiscordLinkCodeRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>계정을 Discord 사용자에게 연결하는 코드 요청을 처리합니다(F5 04).</value>
+  </data>
+  <data name="DiscordUnlinkRequestHandlerPlugIn_Name" xml:space="preserve">
+    <value>Discord 연결 해제 요청 핸들러</value>
+  </data>
+  <data name="DiscordUnlinkRequestHandlerPlugIn_Description" xml:space="preserve">
+    <value>Discord 사용자에 대한 계정 링크를 제거하라는 요청을 처리합니다(F5 06).</value>
+  </data>
+  <data name="DiscordIntegrationViewPlugIn_Name" xml:space="preserve">
+    <value>Discord 통합 보기</value>
+  </data>
+  <data name="DiscordIntegrationViewPlugIn_Description" xml:space="preserve">
+    <value>Discord 통합 정보, 링크 코드, Discord에 작성된 메시지를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeOwnerLogoHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 소유자 로고 요청 처리기</value>
+  </data>
+  <data name="CastleSiegeOwnerLogoHandlerPlugIn_Description" xml:space="preserve">
+    <value>클라이언트가 공성전 맵에 입장할 때 보내는 성 소유자의 길드 로고 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeOwnerLogoPlugIn_Name" xml:space="preserve">
+    <value>공성전 소유자 로고 보기</value>
+  </data>
+  <data name="CastleSiegeOwnerLogoPlugIn_Description" xml:space="preserve">
+    <value>성 소유자의 길드 로고를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="CastleSiegeWeaponExplosionHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 무기 폭발 처리기</value>
+  </data>
+  <data name="CastleSiegeWeaponExplosionHandlerPlugIn_Description" xml:space="preserve">
+    <value>클라이언트의 무기 폭발 요청을 수락합니다. 전쟁 기계의 충격 데미지는 발사체가 착지할 때 서버에 의해 적용되므로 요청이 효과가 없습니다.</value>
+  </data>
+  <data name="CastleSiegeStatusHandlerPlugIn_Name" xml:space="preserve">
+    <value>공성전 상태 요청 처리기</value>
+  </data>
+  <data name="CastleSiegeStatusHandlerPlugIn_Description" xml:space="preserve">
+    <value>Guardsman 창이 열릴 때 클라이언트가 보내는 공성전 상태 요청을 처리합니다.</value>
+  </data>
+  <data name="CastleSiegeStatusPlugIn_Name" xml:space="preserve">
+    <value>공성전 상태 보기</value>
+  </data>
+  <data name="CastleSiegeStatusPlugIn_Description" xml:space="preserve">
+    <value>공성전 상태, 일정 및 성 소유자를 게임 클라이언트로 보냅니다.</value>
+  </data>
+  <data name="ShowItemCraftingPreviewExtendedPlugIn_Name" xml:space="preserve">
+    <value>아이템 제작 미리보기 표시 확장</value>
+  </data>
+  <data name="ShowItemCraftingPreviewExtendedPlugIn_Description" xml:space="preserve">
+    <value>특정 데이터 패킷을 사용하여 모든 것을 게임 클라이언트에 전달하는 IShowItemCraftingPreviewPlugIn의 확장된 구현입니다.</value>
+  </data>
+</root>

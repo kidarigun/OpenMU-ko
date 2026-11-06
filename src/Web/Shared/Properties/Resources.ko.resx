@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Loading" xml:space="preserve">
+    <value>로드 중...</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>전체</value>
+  </data>
+  <data name="TargetMap" xml:space="preserve">
+    <value>타겟 맵</value>
+  </data>
+  <data name="Target" xml:space="preserve">
+    <value>대상</value>
+  </data>
+  <data name="SelectedMap" xml:space="preserve">
+    <value>선택한 지도</value>
+  </data>
+  <data name="Map" xml:space="preserve">
+    <value>지도</value>
+  </data>
+  <data name="Toolbar" xml:space="preserve">
+    <value>툴바</value>
+  </data>
+  <data name="CreationGroup" xml:space="preserve">
+    <value>창작그룹</value>
+  </data>
+  <data name="ControlGroup" xml:space="preserve">
+    <value>컨트롤 그룹</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>제거</value>
+  </data>
+  <data name="TerrainOf" xml:space="preserve">
+    <value>{0}의 지형</value>
+  </data>
+  <data name="SelectedObject" xml:space="preserve">
+    <value>선택한 개체</value>
+  </data>
+  <data name="AncientOptionLevel" xml:space="preserve">
+    <value>세트 옵션 레벨</value>
+  </data>
+  <data name="Bonus" xml:space="preserve">
+    <value>보너스</value>
+  </data>
+  <data name="OptionLevel" xml:space="preserve">
+    <value>옵션 레벨</value>
+  </data>
+  <data name="HasGuardianOption" xml:space="preserve">
+    <value>보호자 옵션 있음(레벨 380 PvP)</value>
+  </data>
+  <data name="SocketNumber" xml:space="preserve">
+    <value>소켓 {0}</value>
+  </data>
+  <data name="AccountCreationParameters_LoginName_Name" xml:space="preserve">
+    <value>로그인 이름</value>
+  </data>
+  <data name="AccountCreationParameters_Password_Name" xml:space="preserve">
+    <value>비밀번호</value>
+  </data>
+  <data name="AccountCreationParameters_SecurityCode_Name" xml:space="preserve">
+    <value>보안 코드</value>
+  </data>
+  <data name="AccountCreationParameters_EMail_Name" xml:space="preserve">
+    <value>이메일</value>
+  </data>
+  <data name="AccountCreationParameters_State_Name" xml:space="preserve">
+    <value>상태</value>
+  </data>
+  <data name="UserCreationParameters_LoginName_Name" xml:space="preserve">
+    <value>사용자 이름</value>
+  </data>
+  <data name="UserCreationParameters_Password_Name" xml:space="preserve">
+    <value>비밀번호</value>
+  </data>
+  <data name="TheValueMustNotContain" xml:space="preserve">
+    <value>{0}: 값에는 "{1}"이 포함되어서는 안 됩니다.</value>
+  </data>
+  <data name="PleaseSelectItemDefinition" xml:space="preserve">
+    <value>&lt;정의를 선택해주세요&gt;</value>
+  </data>
+  <data name="Duplicate" xml:space="preserve">
+    <value>중복</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>필터</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="NoResultsFound" xml:space="preserve">
+    <value>검색결과가 없습니다</value>
+  </data>
+  <data name="Monster" xml:space="preserve">
+    <value>몬스터</value>
+  </data>
+  <data name="TargetMaps" xml:space="preserve">
+    <value>대상 지도</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>수량</value>
+  </data>
+  <data name="SpawnRules" xml:space="preserve">
+    <value>스폰 규칙</value>
+  </data>
+  <data name="SpawnOnAllSelectedMaps" xml:space="preserve">
+    <value>선택한 모든 지도에서 생성</value>
+  </data>
+  <data name="SpawnOnAllSelectedMapsTooltip" xml:space="preserve">
+    <value>선택한 모든 맵에서 몬스터 생성을 활성화하면 비활성화하면 무작위 맵이 선택됩니다.</value>
+  </data>
+  <data name="AnnounceDeath" xml:space="preserve">
+    <value>죽음을 알리다</value>
+  </data>
+  <data name="AnnounceDeathTooltip" xml:space="preserve">
+    <value>이 몬스터 유형이 패배하면 전역 메시지를 방송합니다.</value>
+  </data>
+  <data name="AddValue" xml:space="preserve">
+    <value>가치를 더하다</value>
+  </data>
+  <data name="ResetZoom" xml:space="preserve">
+    <value>확대/축소 재설정(100%)</value>
+  </data>
+  <data name="ToggleGrid" xml:space="preserve">
+    <value>그리드 전환</value>
+  </data>
+  <data name="NoSelection" xml:space="preserve">
+    <value>선택사항 없음</value>
+  </data>
+  <data name="Undo" xml:space="preserve">
+    <value>실행 취소</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="TypeFilter" xml:space="preserve">
+    <value>유형 필터</value>
+  </data>
+  <data name="Monsters" xml:space="preserve">
+    <value>몬스터</value>
+  </data>
+  <data name="Npcs" xml:space="preserve">
+    <value>NPC</value>
+  </data>
+  <data name="Gates" xml:space="preserve">
+    <value>게이츠</value>
+  </data>
+  <data name="Others" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>제출</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="DiscardEntryTitle" xml:space="preserve">
+    <value>현재 항목을 삭제하시겠습니까?</value>
+  </data>
+  <data name="DiscardEntryQuestion" xml:space="preserve">
+    <value>현재 '{0}'을(를) 생성 중입니다. 그것을 버리고 새로운 것을 시작하시겠습니까?</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>새로 고침</value>
+  </data>
+  <data name="ToggleTheme" xml:space="preserve">
+    <value>테마 전환</value>
+  </data>
+  <data name="SwitchToDarkMode" xml:space="preserve">
+    <value>어두운 모드로 전환</value>
+  </data>
+  <data name="SwitchToLightMode" xml:space="preserve">
+    <value>조명 모드로 전환</value>
+  </data>
+  <data name="MapEditorShortcutPan" xml:space="preserve">
+    <value>빈 공간을 클릭하고 드래그하여 지도를 이동하세요.</value>
+  </data>
+  <data name="MapEditorShortcutDrag" xml:space="preserve">
+    <value>Ctrl 키를 누른 채 개체를 클릭하여 드래그하세요.</value>
+  </data>
+  <data name="MapEditorShortcutCycle" xml:space="preserve">
+    <value>SHIFT + 클릭하여 겹치는 아이템 순환</value>
+  </data>
+  <data name="MapEditorShortcutDelete" xml:space="preserve">
+    <value>선택한 개체를 제거하려면 DELETE</value>
+  </data>
+  <data name="ExportMap" xml:space="preserve">
+    <value>지도 내보내기</value>
+  </data>
+  <data name="ImportMap" xml:space="preserve">
+    <value>지도 가져오기</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>예</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>아니요</value>
+  </data>
+  <data name="UnknownSkill" xml:space="preserve">
+    <value>알 수 없는 스킬</value>
+  </data>
+  <data name="AddSkill" xml:space="preserve">
+    <value>스킬 추가</value>
+  </data>
+  <data name="MasterSkillTree" xml:space="preserve">
+    <value>마스터 스킬 트리</value>
+  </data>
+  <data name="SpentMasterPoints" xml:space="preserve">
+    <value>사용한 포인트: {0}</value>
+  </data>
+  <data name="ResetMasterSkillTree" xml:space="preserve">
+    <value>마스터 스킬 트리 재설정</value>
+  </data>
+  <data name="ResetMasterSkillTreeQuestion" xml:space="preserve">
+    <value>정말로 캐릭터의 마스터 스킬을 모두 제거하시겠습니까?</value>
+  </data>
+  <data name="ResetMasterSkillTreeAndRefundQuestion" xml:space="preserve">
+    <value>정말로 캐릭터의 마스터 스킬을 모두 제거하시겠습니까? {0} 소비 포인트는 마스터 레벨 업 포인트에 추가됩니다.</value>
+  </data>
+  <data name="MasterSkillTooltip" xml:space="preserve">
+    <value>{0} (#{1})
+레벨: {2} - {3}</value>
+  </data>
+  <data name="MasterSkillRequirementsNotFulfilled" xml:space="preserve">
+    <value>경고: 이 스킬을 배우기 위한 요구 사항이 충족되지 않았습니다. 필요한 스킬과 이전 랭크의 스킬은 최소 {0} 레벨이 필요합니다.</value>
+  </data>
+  <data name="MasterSkillRequirementsNotYetFulfilled" xml:space="preserve">
+    <value>필요한 스킬과 최소 {0} 레벨의 이전 등급의 스킬이 필요합니다.</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>만들기</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>편집</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>추가</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>삭제</value>
+  </data>
+  <data name="Change" xml:space="preserve">
+    <value>변경</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="Collapse" xml:space="preserve">
+    <value>접기</value>
+  </data>
+  <data name="ExpandItems" xml:space="preserve">
+    <value>확장({0} 아이템)</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>이전</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="Navigation" xml:space="preserve">
+    <value>네비게이션</value>
+  </data>
+  <data name="Breadcrumb" xml:space="preserve">
+    <value>탐색경로</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>홈</value>
+  </data>
+  <data name="PageNumber" xml:space="preserve">
+    <value>페이지 {0}</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="LoadFile" xml:space="preserve">
+    <value>파일 로드</value>
+  </data>
+  <data name="CurrentByteSize" xml:space="preserve">
+    <value>현재 크기: {0}바이트</value>
+  </data>
+  <data name="EmptyBinaryValue" xml:space="preserve">
+    <value>현재는 비어 있습니다. 값을 16진수 문자열로 입력하거나 파일을 업로드하세요.</value>
+  </data>
+  <data name="NewPasswordPlaceholder" xml:space="preserve">
+    <value>새 비밀번호 ...</value>
+  </data>
+  <data name="RepeatPasswordPlaceholder" xml:space="preserve">
+    <value>비밀번호를 반복하세요...</value>
+  </data>
+  <data name="PasswordMinimumLength" xml:space="preserve">
+    <value>3자 이상 입력하세요.</value>
+  </data>
+  <data name="PasswordsDoNotMatch" xml:space="preserve">
+    <value>비밀번호가 일치하지 않습니다.</value>
+  </data>
+  <data name="ExtensionNumber" xml:space="preserve">
+    <value>확장자 {0}</value>
+  </data>
+  <data name="PersonalStore" xml:space="preserve">
+    <value>개인 상점</value>
+  </data>
+  <data name="SelectType" xml:space="preserve">
+    <value>{0} 선택</value>
+  </data>
+  <data name="CreateType" xml:space="preserve">
+    <value>{0} 생성</value>
+  </data>
+  <data name="NoMoreAvailable" xml:space="preserve">
+    <value>더 이상 사용할 수 없습니다.</value>
+  </data>
+  <data name="AddPlaceholder" xml:space="preserve">
+    <value>추가 ...</value>
+  </data>
+  <data name="Object" xml:space="preserve">
+    <value>객체</value>
+  </data>
+  <data name="ExitGateSelector" xml:space="preserve">
+    <value>출구 게이트 선택기</value>
+  </data>
+  <data name="NumberRangeError" xml:space="preserve">
+    <value>{0} 필드는 {1}에서 {2} 사이의 숫자여야 합니다.</value>
+  </data>
+  <data name="InvalidField" xml:space="preserve">
+    <value>{0} 필드가 유효하지 않습니다.</value>
+  </data>
+  <data name="ItemBonusAtLevel" xml:space="preserve">
+    <value>+{0} {1} (레벨 {2})</value>
+  </data>
+  <data name="ItemEdit_ItemSlot" xml:space="preserve">
+    <value>아이템 슬롯</value>
+  </data>
+  <data name="ItemEdit_Definition" xml:space="preserve">
+    <value>정의</value>
+  </data>
+  <data name="ItemEdit_Level" xml:space="preserve">
+    <value>레벨</value>
+  </data>
+  <data name="ItemEdit_Durability" xml:space="preserve">
+    <value>내구성</value>
+  </data>
+  <data name="ItemEdit_Amount" xml:space="preserve">
+    <value>금액</value>
+  </data>
+  <data name="ItemEdit_PetExperience" xml:space="preserve">
+    <value>펫 체험</value>
+  </data>
+  <data name="ItemEdit_HasSkill" xml:space="preserve">
+    <value>스킬 있음</value>
+  </data>
+  <data name="ItemEdit_HasLuck" xml:space="preserve">
+    <value>행운을 빌어요</value>
+  </data>
+  <data name="ItemEdit_AncientSet" xml:space="preserve">
+    <value>세트 설정</value>
+  </data>
+  <data name="ItemEdit_ExcellentOptions" xml:space="preserve">
+    <value>엑설런트 옵션</value>
+  </data>
+  <data name="ItemEdit_WingOptions" xml:space="preserve">
+    <value>날개 옵션</value>
+  </data>
+  <data name="ItemEdit_NormalOption" xml:space="preserve">
+    <value>추가옵션</value>
+  </data>
+  <data name="ItemEdit_HasOption" xml:space="preserve">
+    <value>추가 옵션 있음</value>
+  </data>
+  <data name="ItemEdit_HarmonyOption" xml:space="preserve">
+    <value>하모니 옵션</value>
+  </data>
+  <data name="ItemEdit_SocketCount" xml:space="preserve">
+    <value>소켓 개수</value>
+  </data>
+  <data name="ItemEdit_SocketBonusOption" xml:space="preserve">
+    <value>소켓 보너스 옵션</value>
+  </data>
+  <data name="ItemEdit_FenrirOption" xml:space="preserve">
+    <value>펜리르 옵션</value>
+  </data>
+  <data name="ItemEdit_HasGuardianOption" xml:space="preserve">
+    <value>보호자 옵션 있음</value>
+  </data>
+  <data name="WrongFormat" xml:space="preserve">
+    <value>형식이 잘못되었습니다.</value>
+  </data>
+  <data name="HexFormatError" xml:space="preserve">
+    <value>형식이 잘못되었습니다. 예상 예: AB 03 DC</value>
+  </data>
+  <data name="IntegerListFormatError" xml:space="preserve">
+    <value>형식이 잘못되었습니다. 예상되는 예: 1;2;3</value>
+  </data>
+  <data name="UnknownTimeZone" xml:space="preserve">
+    <value>알 수 없는 시간대 ID '{0}'입니다. UTC를 쓰려면 비워 두거나 제안 항목을 선택하세요(예: Europe/Warsaw).</value>
+  </data>
+  <data name="MillisecondsHint" xml:space="preserve">
+    <value>{0}(밀리초)</value>
+  </data>
+  <data name="FileLoaded" xml:space="preserve">
+    <value>{1}바이트로 {0}을 로드했습니다.</value>
+  </data>
+  <data name="PaginationItems" xml:space="preserve"><value>{0} 아이템</value></data>
+  <data name="PaginationPage" xml:space="preserve"><value>{1} 중 {0} 페이지</value></data>
+  <data name="FirstPage" xml:space="preserve"><value>첫 페이지</value></data>
+  <data name="LastPage" xml:space="preserve"><value>마지막 페이지</value></data>
+  <data name="InvalidNumber" xml:space="preserve"><value>{0} 필드는 숫자여야 합니다.</value></data>
+  <data name="MonsterLabel" xml:space="preserve"><value>몬스터</value></data>
+  <data name="MapsLabel" xml:space="preserve"><value>지도</value></data>
+  <data name="CharacterCreationHint" xml:space="preserve">
+    <value>캐릭터는 클래스의 스탯 속성을 시작 값으로 받고, 클래스의 시작 맵에서 시작하며, 빈 인벤토리와 기본 키 설정을 받습니다. 그다음 활성화된 "캐릭터 생성" 플러그인이 실행되어 게임에서와 같이 초기 아이템과 스킬 등을 지급합니다.</value>
+  </data>
+  <data name="CharacterNameRequired" xml:space="preserve">
+    <value>이름을 입력하세요.</value>
+  </data>
+  <data name="CharacterNameInvalid" xml:space="preserve">
+    <value>이름이 구성된 패턴과 일치하지 않습니다: {0}</value>
+  </data>
+  <data name="CharacterClassRequired" xml:space="preserve">
+    <value>캐릭터 클래스를 선택해주세요.</value>
+  </data>
+  <data name="CharacterClassWithoutHomeMap" xml:space="preserve">
+    <value>캐릭터 클래스에는 홈 맵이 없으므로 캐릭터에는 시작 위치가 없습니다.</value>
+  </data>
+  <data name="NoFreeCharacterSlot" xml:space="preserve">
+    <value>해당 계정에는 무료 캐릭터 슬롯이 없습니다. 계정은 최대 {0}자까지 가능합니다.</value>
+  </data>
+  <data name="CharacterCreatedPlugInsFailed" xml:space="preserve">
+    <value>캐릭터가 생성되었지만 "캐릭터 생성" 플러그인이 실패하여 초기 아이템이나 스킬이 누락되었을 수 있습니다: {0}</value>
+  </data>
+  <data name="GameServerSelection_AllServersHint" xml:space="preserve">
+    <value>선택하지 않으면 이벤트가 나중에 추가된 서버를 포함하여 모든 게임 서버에서 실행된다는 의미입니다. 대신 모두 선택을 사용하여 현재 서버를 고정합니다.</value>
+  </data>
+  <data name="GameServerSelection_SelectAll" xml:space="preserve">
+    <value>모두 선택</value>
+  </data>
+  <data name="GameServerSelection_Clear" xml:space="preserve">
+    <value>지우기</value>
+  </data>
+  <data name="GameServerSelection_NoServers" xml:space="preserve">
+    <value>게임 서버를 찾을 수 없습니다.</value>
+  </data>
+  <data name="GameServerSelection_PvpBadge" xml:space="preserve">
+    <value>PvP</value>
+  </data>
+  <data name="GameServerSelection_PveBadge" xml:space="preserve">
+    <value>PvE</value>
+  </data>
+  <data name="GameServerSelection_UnknownServer" xml:space="preserve">
+    <value>서버 {0}(더 이상 사용할 수 없음)</value>
+  </data>
+  <data name="GameServerSelection_LoadFailed" xml:space="preserve">
+    <value>게임 서버를 로드할 수 없습니다. 대화 상자를 닫고 다시 시도하십시오.</value>
+  </data>
+  <data name="TerrainEditorTerrain" xml:space="preserve">
+    <value>지형</value>
+  </data>
+  <data name="DefaultTerrain" xml:space="preserve">
+    <value>기본 지형</value>
+  </data>
+  <data name="TerrainTool" xml:space="preserve">
+    <value>도구</value>
+  </data>
+  <data name="TerrainToolBrush" xml:space="preserve">
+    <value>브러쉬</value>
+  </data>
+  <data name="TerrainToolRectangle" xml:space="preserve">
+    <value>직사각형</value>
+  </data>
+  <data name="TerrainToolFill" xml:space="preserve">
+    <value>채우기</value>
+  </data>
+  <data name="TerrainBrushSize" xml:space="preserve">
+    <value>브러시 크기</value>
+  </data>
+  <data name="TerrainEditMode" xml:space="preserve">
+    <value>모드</value>
+  </data>
+  <data name="TerrainEditModeAdd" xml:space="preserve">
+    <value>속성 추가</value>
+  </data>
+  <data name="TerrainEditModeRemove" xml:space="preserve">
+    <value>속성 제거</value>
+  </data>
+  <data name="TerrainEditModeReplace" xml:space="preserve">
+    <value>모든 속성 바꾸기</value>
+  </data>
+  <data name="TerrainAttributes" xml:space="preserve">
+    <value>속성</value>
+  </data>
+  <data name="TerrainWalkable" xml:space="preserve">
+    <value>걸어갈 수 있는</value>
+  </data>
+  <data name="TerrainOtherAttributes" xml:space="preserve">
+    <value>기타 속성</value>
+  </data>
+  <data name="TerrainLegend" xml:space="preserve">
+    <value>범례</value>
+  </data>
+  <data name="Redo" xml:space="preserve">
+    <value>다시 실행</value>
+  </data>
+  <data name="ImportTerrain" xml:space="preserve">
+    <value>지형 파일 가져오기</value>
+  </data>
+  <data name="ImportTerrainHint" xml:space="preserve">
+    <value>서버의 *.att 파일과 클라이언트의 EncTerrain*.att 파일을 허용합니다.</value>
+  </data>
+  <data name="DownloadServerTerrain" xml:space="preserve">
+    <value>서버 지형 파일</value>
+  </data>
+  <data name="DownloadServerTerrainHint" xml:space="preserve">
+    <value>원본 서버의 *.att 형식으로 지형을 다운로드합니다.</value>
+  </data>
+  <data name="DownloadClientTerrain" xml:space="preserve">
+    <value>클라이언트 지형 파일</value>
+  </data>
+  <data name="DownloadClientTerrainHint" xml:space="preserve">
+    <value>게임 클라이언트의 암호화된 지형 파일을 다운로드합니다. 클라이언트에 Data\World{0}\EncTerrain{0}.att로 배치합니다.</value>
+  </data>
+  <data name="InvalidTerrainFile" xml:space="preserve">
+    <value>파일은 서버나 클라이언트의 지형 파일이 아닙니다.</value>
+  </data>
+  <data name="TerrainImported" xml:space="preserve">
+    <value>지형 파일을 가져왔습니다. 적용하려면 저장하세요.</value>
+  </data>
+  <data name="TerrainEditorShortcutPaint" xml:space="preserve">
+    <value>선택한 도구로 타일을 편집하려면 마우스 왼쪽 버튼을 클릭하세요.</value>
+  </data>
+  <data name="TerrainEditorShortcutPan" xml:space="preserve">
+    <value>지형을 이동하려면 마우스 오른쪽 버튼을 클릭하고 드래그하세요.</value>
+  </data>
+  <data name="TerrainEditorShortcutZoom" xml:space="preserve">
+    <value>확대/축소하려면 마우스 휠</value>
+  </data>
+  <data name="TerrainEditorRestartHint" xml:space="preserve">
+    <value>변경된 지형은 게임 서버를 다시 시작한 후 게임에 적용됩니다. 플레이어가 변경 사항을 확인하려면 클라이언트 지형 파일도 필요합니다.</value>
+  </data>
+  <data name="TerrainTransferFailed" xml:space="preserve">
+    <value>편집된 지형을 전송할 수 없습니다: {0}</value>
+  </data>
+  <data name="ZoomIn" xml:space="preserve">
+    <value>확대</value>
+  </data>
+  <data name="ZoomOut" xml:space="preserve">
+    <value>축소</value>
+  </data>
+</root>

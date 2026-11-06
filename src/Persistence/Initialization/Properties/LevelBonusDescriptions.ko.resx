@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="StaffRiseEven" xml:space="preserve">
+    <value>마력 지팡이라도 아이템 레벨당 지팡이 상승 보너스가 적용됩니다.</value>
+  </data>
+  <data name="WeaponDamageIncrease" xml:space="preserve">
+    <value>무기 레벨에 따라 데미지가 증가합니다. 레벨당 3씩 증가하고, 10레벨 이후에는 1씩 더 증가합니다.</value>
+  </data>
+  <data name="ShieldDefenseRateIncrease" xml:space="preserve">
+    <value>방패의 아이템 레벨당 방어 성공률 증가량입니다. 9레벨까지는 레벨당 3씩, 이후에는 레벨당 1씩 추가로 증가합니다.</value>
+  </data>
+  <data name="ShieldDefenseIncrease" xml:space="preserve">
+    <value>방패의 아이템 레벨당 방어력 증가량입니다. 항상 레벨당 1씩 증가합니다.</value>
+  </data>
+  <data name="RunningMovementSpeed" xml:space="preserve">
+    <value>아이템 레벨 5부터 부츠와 수중 장갑의 달리기 이동 속도를 정의합니다.</value>
+  </data>
+  <data name="ArmorDefenseIncrease" xml:space="preserve">
+    <value>방어구의 아이템 레벨당 방어력 증가량입니다. 9레벨까지는 레벨당 3씩, 이후에는 레벨당 1씩 추가로 증가합니다.</value>
+  </data>
+  <data name="StaffRiseOdd" xml:space="preserve">
+    <value>홀수 마력 지팡이의 아이템 레벨당 지팡이 상승 보너스.</value>
+  </data>
+  <data name="TransformationRingSkinsTransformationRing" xml:space="preserve">
+    <value>변신반지(Transformation Ring)의 레벨별 스킨번호가 들어있습니다.</value>
+  </data>
+  <data name="JeweleryElementalResistances" xml:space="preserve">
+    <value>보석의 원소 저항을 정의합니다. 아이템 레벨당 1개 입니다.</value>
+  </data>
+  <data name="FirstAndThirdWingsDamageIncrease" xml:space="preserve">
+    <value>1차 및 3차 날개의 데미지 증가 배율입니다. 날개 레벨당 2% 증가합니다.</value>
+  </data>
+  <data name="FirstAndSecondWingsDefenseBonus" xml:space="preserve">
+    <value>1차 및 2차 날개의 레벨당 방어력 보너스입니다.</value>
+  </data>
+  <data name="WingDamageAbsorb" xml:space="preserve">
+    <value>날개의 아이템 레벨당 데미지 흡수량입니다. 레벨당 받는 데미지가 2% 감소합니다.</value>
+  </data>
+  <data name="AmmunitionDamageIncrease" xml:space="preserve">
+    <value>탄약 아이템 레벨에 따라 데미지가 증가합니다.</value>
+  </data>
+  <data name="ScepterRiseEven" xml:space="preserve">
+    <value>마력 셉터라도 아이템 레벨당 셉터 상승 보너스가 적용됩니다.</value>
+  </data>
+  <data name="ScepterRiseOdd" xml:space="preserve">
+    <value>홀수 마법 파워 홀에 대한 아이템 레벨당 홀 상승 보너스입니다.</value>
+  </data>
+  <data name="AmmunitionManaLoss" xml:space="preserve">
+    <value>무한 화살 효과로 인해 탄약 아이템 레벨에 따른 스킬 적중당 마나 손실이 발생합니다.</value>
+  </data>
+  <data name="AmmunitionDamageIncreasePerLevel" xml:space="preserve">
+    <value>탄약 아이템 레벨당 데미지 증가 %.</value>
+  </data>
+  <data name="ThirdWingsDefenseBonus" xml:space="preserve">
+    <value>3차 날개의 레벨당 방어력 보너스입니다.</value>
+  </data>
+  <data name="SecondWingsDamageIncrease" xml:space="preserve">
+    <value>2차 날개의 데미지 증가 배율입니다. 날개 레벨당 1% 증가합니다.</value>
+  </data>
+  <data name="TransformationRingSkinsSkeletonTransformationRing" xml:space="preserve">
+    <value>변신반지(스켈레톤 변신반지)의 레벨별 스킨번호가 들어있습니다.</value>
+  </data>
+  <data name="TransformationRingSkinsPandaTransformationRing" xml:space="preserve">
+    <value>변신반지(판다 변신반지)의 레벨별 스킨번호가 들어있습니다.</value>
+  </data>
+  <data name="TransformationRingSkinsSnowmanTransformationRing" xml:space="preserve">
+    <value>변신반지(눈사람 변신반지)의 레벨별 스킨번호가 들어있습니다.</value>
+  </data>
+  <data name="TransformationRingSkinsGameMasterTransformationRing" xml:space="preserve">
+    <value>변신 링(게임 마스터 변신 링)의 다양한 레벨에 대한 스킨 번호가 포함되어 있습니다.</value>
+  </data>
+  <data name="TransformationRingSkinsChristmasTransformationRing" xml:space="preserve">
+    <value>변신반지(크리스마스 변신반지)의 레벨별 스킨번호가 들어있습니다.</value>
+  </data>
+  <data name="TransformationRingSkinsJackOLanternTransformationRing" xml:space="preserve">
+    <value>다양한 레벨의 변신반지(잭오랜턴 변신반지)에 대한 스킨번호가 들어있습니다.</value>
+  </data>
+  <data name="TransformationRingSkinsEliteSkeletonTransformationRing" xml:space="preserve">
+    <value>변신반지(엘리트 스켈레톤 변신반지)의 레벨별 스킨번호가 들어있습니다.</value>
+  </data>
+  <data name="DeathCowTransformationRingHealthBonus" xml:space="preserve">
+    <value>아이템 레벨 5에서 최대 체력이 20% 증가합니다.</value>
+  </data>
+</root>

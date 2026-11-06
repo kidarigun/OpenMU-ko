@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Arrows" xml:space="preserve">
+    <value>화살</value>
+  </data>
+  <data name="Bolts" xml:space="preserve">
+    <value>볼트</value>
+  </data>
+  <data name="JewelOfBless" xml:space="preserve">
+    <value>축복의 보석</value>
+  </data>
+  <data name="JewelOfSoul" xml:space="preserve">
+    <value>영혼의 보석</value>
+  </data>
+  <data name="JewelOfChaos" xml:space="preserve">
+    <value>혼돈의 보석</value>
+  </data>
+  <data name="JewelOfLife" xml:space="preserve">
+    <value>생명의 보석</value>
+  </data>
+  <data name="JewelOfCreation" xml:space="preserve">
+    <value>창조의 보석</value>
+  </data>
+  <data name="JewelOfGuardian" xml:space="preserve">
+    <value>수호의 보석</value>
+  </data>
+  <data name="GemstoneHarmonyAndRefineStones" xml:space="preserve">
+    <value>보석, 조화의 보석 및 정제석</value>
+  </data>
+  <data name="PackedJewelOfBless" xml:space="preserve">
+    <value>축복의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfSoul" xml:space="preserve">
+    <value>영혼의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfChaos" xml:space="preserve">
+    <value>혼돈의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfLife" xml:space="preserve">
+    <value>생명의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfCreation" xml:space="preserve">
+    <value>창조의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfGuardian" xml:space="preserve">
+    <value>수호의 보석 포장됨</value>
+  </data>
+  <data name="PackedGemstoneHarmonyAndRefineStones" xml:space="preserve">
+    <value>포장된 보석, 조화의 보석 및 정제석</value>
+  </data>
+  <data name="Fruits" xml:space="preserve">
+    <value>과일</value>
+  </data>
+  <data name="LochsFeather" xml:space="preserve">
+    <value>호수의 깃털</value>
+  </data>
+  <data name="LargeHealingAndManaPotion" xml:space="preserve">
+    <value>대형 치유 및 마나 물약</value>
+  </data>
+  <data name="SiegePotion" xml:space="preserve">
+    <value>공성 물약</value>
+  </data>
+  <data name="OrderGuardianLifeStone" xml:space="preserve">
+    <value>오더(가디언/생명석)</value>
+  </data>
+  <data name="ContractSummon" xml:space="preserve">
+    <value>계약(소환)</value>
+  </data>
+  <data name="SplinterOfArmor" xml:space="preserve">
+    <value>갑옷의 파편</value>
+  </data>
+  <data name="BlessOfGuardian" xml:space="preserve">
+    <value>수호자의 축복</value>
+  </data>
+  <data name="ClawOfBeast" xml:space="preserve">
+    <value>짐승의 발톱</value>
+  </data>
+  <data name="FragmentOfHorn" xml:space="preserve">
+    <value>뿔 조각</value>
+  </data>
+  <data name="BrokenHorn" xml:space="preserve">
+    <value>부러진 뿔</value>
+  </data>
+  <data name="HornOfFenrir" xml:space="preserve">
+    <value>펜리르의 뿔</value>
+  </data>
+  <data name="SmallShieldPotion" xml:space="preserve">
+    <value>소형 방패 물약</value>
+  </data>
+  <data name="ShieldPotion" xml:space="preserve">
+    <value>방패 물약</value>
+  </data>
+  <data name="LargeShieldPotion" xml:space="preserve">
+    <value>대형 방패 물약</value>
+  </data>
+  <data name="SmallComplexPotion" xml:space="preserve">
+    <value>소형 복합 물약</value>
+  </data>
+  <data name="ComplexPotion" xml:space="preserve">
+    <value>복합 물약</value>
+  </data>
+  <data name="LargeComplexPotion" xml:space="preserve">
+    <value>대형 복합 물약</value>
+  </data>
+  <data name="HornOfDinorant" xml:space="preserve">
+    <value>디노란트의 뿔</value>
+  </data>
+  <data name="DevilsEye" xml:space="preserve">
+    <value>악마의 눈</value>
+  </data>
+  <data name="DevilsKey" xml:space="preserve">
+    <value>악마의 열쇠</value>
+  </data>
+  <data name="DevilsInvitation" xml:space="preserve">
+    <value>악마의 초대</value>
+  </data>
+  <data name="RemedyOfLove" xml:space="preserve">
+    <value>사랑의 치료제</value>
+  </data>
+  <data name="Rena" xml:space="preserve">
+    <value>레나</value>
+  </data>
+  <data name="Ale" xml:space="preserve">
+    <value>에일</value>
+  </data>
+  <data name="InvisibilityCloak" xml:space="preserve">
+    <value>투명 망토</value>
+  </data>
+  <data name="ScrollOfArchangel" xml:space="preserve">
+    <value>대천사의 두루마리</value>
+  </data>
+  <data name="BloodBone" xml:space="preserve">
+    <value>블러드본</value>
+  </data>
+  <data name="IllusionTempleTickets" xml:space="preserve">
+    <value>환영의 사원 티켓</value>
+  </data>
+  <data name="FlameAndFeatherOfCondor" xml:space="preserve">
+    <value>콘도르의 불꽃과 깃털</value>
+  </data>
+  <data name="ArmorOfGuardsman" xml:space="preserve">
+    <value>경비병의 갑옷</value>
+  </data>
+  <data name="WizardsRing" xml:space="preserve">
+    <value>마법사의 반지</value>
+  </data>
+  <data name="Spirit" xml:space="preserve">
+    <value>정신</value>
+  </data>
+  <data name="LostMap" xml:space="preserve">
+    <value>잃어버린 지도</value>
+  </data>
+  <data name="SymbolOfKundun" xml:space="preserve">
+    <value>쿤둔의 상징</value>
+  </data>
+  <data name="HalloweenItems" xml:space="preserve">
+    <value>할로윈 아이템</value>
+  </data>
+  <data name="GemOfSecret" xml:space="preserve">
+    <value>비밀의 보석</value>
+  </data>
+  <data name="ImperialGuardianItems" xml:space="preserve">
+    <value>제국 수호군 아이템</value>
+  </data>
+  <data name="ChristmasStarAndFirecracker" xml:space="preserve">
+    <value>크리스마스 별과 폭죽</value>
+  </data>
+  <data name="CherryBlossomItems" xml:space="preserve">
+    <value>벚꽃 아이템</value>
+  </data>
+  <data name="FixedValue" xml:space="preserve">
+    <value>고정값</value>
+  </data>
+  <data name="Potions" xml:space="preserve">
+    <value>물약</value>
+  </data>
+  <data name="ValueBased" xml:space="preserve">
+    <value>가치 기반</value>
+  </data>
+  <data name="Accessories" xml:space="preserve">
+    <value>액세서리</value>
+  </data>
+  <data name="DarkRaven" xml:space="preserve">
+    <value>다크 레이븐</value>
+  </data>
+  <data name="DarkHorse" xml:space="preserve">
+    <value>다크호스</value>
+  </data>
+  <data name="OneHandedWeaponsAndShields" xml:space="preserve">
+    <value>한손 무기와 방패</value>
+  </data>
+  <data name="OneHandedWeaponsWithSkillWithoutValue" xml:space="preserve">
+    <value>가치가 없는 스킬을 지닌 한손무기</value>
+  </data>
+  <data name="EquipmentWithSkillWithoutValue" xml:space="preserve">
+    <value>가치가 없는 스킬을 갖춘 장비</value>
+  </data>
+</root>

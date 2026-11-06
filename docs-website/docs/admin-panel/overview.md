@@ -77,8 +77,16 @@ example the [server-side AI bots](../server-features/bots.md).
   name and jumps directly to their edit page.
 * **Theme selector** — light and dark theme.
 * **Language selector** — the panel's texts come from resource files. English is
-  included; further languages can be added as satellite resource files and appear
-  in this selector automatically.
+  included, and Korean can be selected as **한국어** (`ko`). Languages
+  supplied as satellite resource files appear in this selector automatically.
+  If a Korean satellite or an individual translation is unavailable, the resource
+  manager falls back to the neutral English text.
+
+The language selected here controls the admin panel. Player messages use the
+individual player's culture, which can differ from the admin UI culture; changing
+the panel's language does not change every player's message language. A player
+switches their messages to Korean in the game with `/language ko`. Server logs
+remain in English.
 
 ## Dashboard
 

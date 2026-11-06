@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="TheBossWaveOfDevilSquare4" xml:space="preserve">
+    <value>데빌 스퀘어 4의 보스 웨이브</value>
+  </data>
+  <data name="BewareOfTheBossesYouHave5MinutesLeft" xml:space="preserve">
+    <value>상사를 조심하세요! 5분 남았습니다.</value>
+  </data>
+  <data name="TheThirdWaveOfDevilSquare4" xml:space="preserve">
+    <value>데빌 스퀘어 4의 세 번째 물결</value>
+  </data>
+  <data name="StillAliveIHaveMoreForYou" xml:space="preserve">
+    <value>아직 살아 있나요? 나는 당신을 위해 더 많은 것을 가지고 있습니다.</value>
+  </data>
+  <data name="TheSecondWaveOfDevilSquare4" xml:space="preserve">
+    <value>데빌 스퀘어 4의 두 번째 물결</value>
+  </data>
+  <data name="LetsContinueWithSomeStrongerEnemies" xml:space="preserve">
+    <value>계속해서 더 강한 적들을 만나자...</value>
+  </data>
+  <data name="TheFirstWaveOfDevilSquare4" xml:space="preserve">
+    <value>데빌 스퀘어 4의 첫 번째 물결</value>
+  </data>
+  <data name="TheBossWaveOfDevilSquare3" xml:space="preserve">
+    <value>데빌 스퀘어 3의 보스 웨이브</value>
+  </data>
+  <data name="TheThirdWaveOfDevilSquare3" xml:space="preserve">
+    <value>데빌 스퀘어 3의 세 번째 물결</value>
+  </data>
+  <data name="TheSecondWaveOfDevilSquare3" xml:space="preserve">
+    <value>데빌 스퀘어 3의 두 번째 물결</value>
+  </data>
+  <data name="TheFirstWaveOfDevilSquare3" xml:space="preserve">
+    <value>데빌 스퀘어 3의 첫 번째 웨이브</value>
+  </data>
+  <data name="TheBossWaveOfDevilSquare2" xml:space="preserve">
+    <value>데빌 스퀘어 2의 보스 웨이브</value>
+  </data>
+  <data name="TheThirdWaveOfDevilSquare2" xml:space="preserve">
+    <value>데빌 스퀘어 2의 세 번째 물결</value>
+  </data>
+  <data name="TheSecondWaveOfDevilSquare2" xml:space="preserve">
+    <value>데빌 스퀘어 2의 두 번째 물결</value>
+  </data>
+  <data name="TheFirstWaveOfDevilSquare2" xml:space="preserve">
+    <value>데빌 스퀘어 2의 첫 번째 물결</value>
+  </data>
+  <data name="TheBossWaveOfDevilSquare1" xml:space="preserve">
+    <value>데빌 스퀘어 1의 보스 웨이브</value>
+  </data>
+  <data name="TheThirdWaveOfDevilSquare1" xml:space="preserve">
+    <value>데빌 스퀘어 1의 세 번째 물결</value>
+  </data>
+  <data name="TheSecondWaveOfDevilSquare1" xml:space="preserve">
+    <value>데빌 스퀘어 1의 두 번째 물결</value>
+  </data>
+  <data name="TheFirstWaveOfDevilSquare1" xml:space="preserve">
+    <value>데빌 스퀘어 1의 첫 번째 웨이브</value>
+  </data>
+  <data name="TheBossWaveOfDevilSquare7" xml:space="preserve">
+    <value>데빌 스퀘어 7의 보스 웨이브</value>
+  </data>
+  <data name="TheThirdWaveOfDevilSquare7" xml:space="preserve">
+    <value>데빌 스퀘어의 세 번째 물결 7</value>
+  </data>
+  <data name="TheSecondWaveOfDevilSquare7" xml:space="preserve">
+    <value>데빌 스퀘어 7의 두 번째 물결</value>
+  </data>
+  <data name="TheFirstWaveOfDevilSquare7" xml:space="preserve">
+    <value>데빌 스퀘어의 첫 번째 물결 7</value>
+  </data>
+  <data name="TheBossWaveOfDevilSquare6" xml:space="preserve">
+    <value>데빌 스퀘어 6의 보스 웨이브</value>
+  </data>
+  <data name="TheThirdWaveOfDevilSquare6" xml:space="preserve">
+    <value>데빌 스퀘어 6의 세 번째 물결</value>
+  </data>
+  <data name="TheSecondWaveOfDevilSquare6" xml:space="preserve">
+    <value>데빌 스퀘어 6의 두 번째 물결</value>
+  </data>
+  <data name="TheFirstWaveOfDevilSquare6" xml:space="preserve">
+    <value>데빌 스퀘어 6의 첫 번째 물결</value>
+  </data>
+  <data name="TheBossWaveOfDevilSquare5" xml:space="preserve">
+    <value>데빌 스퀘어 5의 보스 웨이브</value>
+  </data>
+  <data name="TheThirdWaveOfDevilSquare5" xml:space="preserve">
+    <value>데빌 스퀘어 5의 세 번째 물결</value>
+  </data>
+  <data name="TheSecondWaveOfDevilSquare5" xml:space="preserve">
+    <value>데빌 스퀘어 5의 두 번째 물결</value>
+  </data>
+  <data name="TheFirstWaveOfDevilSquare5" xml:space="preserve">
+    <value>데빌 스퀘어 5의 첫 번째 물결</value>
+  </data>
+</root>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="ImperialGuardianMonday" xml:space="preserve">
+    <value>월요일에 69번 맵에서 발생하는 제국 수호군 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="ImperialGuardianTuesday" xml:space="preserve">
+    <value>맵 70에서 발생하는 화요일 제국 수호군 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="ImperialGuardianWednesday" xml:space="preserve">
+    <value>수요일에 71번 맵에서 발생하는 제국 수호군 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="ImperialGuardianThursday" xml:space="preserve">
+    <value>목요일에 69번 맵에서 발생하는 제국 수호군 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="ImperialGuardianFriday" xml:space="preserve">
+    <value>맵 70에서 발생하는 금요일 제국 수호군 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="ImperialGuardianSaturday" xml:space="preserve">
+    <value>지도 71에서 발생하는 토요일의 제국 수호군 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="ImperialGuardianSunday" xml:space="preserve">
+    <value>맵 72에서 발생하는 일요일의 제국 수호군 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForDevilSquareEventLevel4" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트에 대한 이벤트 정의, 레벨 4.</value>
+  </data>
+  <data name="EventDefinitionForDevilSquareEventLevel3" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트에 대한 이벤트 정의, 레벨 3.</value>
+  </data>
+  <data name="EventDefinitionForDevilSquareEventLevel2" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트에 대한 이벤트 정의, 레벨 2.</value>
+  </data>
+  <data name="EventDefinitionForDevilSquareEventLevel1" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트에 대한 이벤트 정의, 레벨 1.</value>
+  </data>
+  <data name="EventDefinitionForTheDoppelgangerEventOnMap68" xml:space="preserve">
+    <value>맵 68의 도플갱어 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForTheDoppelgangerEventOnMap67" xml:space="preserve">
+    <value>맵 67의 도플갱어 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForTheDoppelgangerEventOnMap66" xml:space="preserve">
+    <value>맵 66의 도플갱어 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForTheDoppelgangerEventOnMap65" xml:space="preserve">
+    <value>맵 65의 도플갱어 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForTheKanturuRefineryTowerEvent" xml:space="preserve">
+    <value>칸투르 리파이너리 타워 이벤트에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForChaosCastleEventLevel7" xml:space="preserve">
+    <value>카오스 캐슬 이벤트에 대한 이벤트 정의, 레벨 7.</value>
+  </data>
+  <data name="EventDefinitionForChaosCastleEventLevel6" xml:space="preserve">
+    <value>카오스 캐슬 이벤트에 대한 이벤트 정의, 레벨 6.</value>
+  </data>
+  <data name="EventDefinitionForChaosCastleEventLevel5" xml:space="preserve">
+    <value>카오스 캐슬 이벤트에 대한 이벤트 정의, 레벨 5.</value>
+  </data>
+  <data name="EventDefinitionForChaosCastleEventLevel4" xml:space="preserve">
+    <value>카오스 캐슬 이벤트에 대한 이벤트 정의, 레벨 4.</value>
+  </data>
+  <data name="EventDefinitionForChaosCastleEventLevel3" xml:space="preserve">
+    <value>카오스 캐슬 이벤트에 대한 이벤트 정의, 레벨 3.</value>
+  </data>
+  <data name="EventDefinitionForChaosCastleEventLevel2" xml:space="preserve">
+    <value>카오스 캐슬 이벤트에 대한 이벤트 정의, 레벨 2.</value>
+  </data>
+  <data name="EventDefinitionForChaosCastleEventLevel1" xml:space="preserve">
+    <value>카오스 캐슬 이벤트에 대한 이벤트 정의, 레벨 1.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel8" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 8.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel7" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 7.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel6" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 6.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel5" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 5.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel4" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 4.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel3" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 3.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel2" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 2.</value>
+  </data>
+  <data name="EventDefinitionForBloodCastleEventLevel1" xml:space="preserve">
+    <value>블러드 캐슬 이벤트에 대한 이벤트 정의, 레벨 1.</value>
+  </data>
+  <data name="EventDefinitionForDevilSquareEventLevel7" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트에 대한 이벤트 정의, 레벨 7.</value>
+  </data>
+  <data name="EventDefinitionForDevilSquareEventLevel6" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트에 대한 이벤트 정의, 레벨 6.</value>
+  </data>
+  <data name="EventDefinitionForDevilSquareEventLevel5" xml:space="preserve">
+    <value>데빌 스퀘어 이벤트에 대한 이벤트 정의, 레벨 5.</value>
+  </data>
+  <data name="EventDefinitionForIllusionTempleEventLevel1" xml:space="preserve">
+    <value>환영의 사원, 레벨 1에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForIllusionTempleEventLevel2" xml:space="preserve">
+    <value>환영의 사원, 레벨 2에 대한 이벤트 정의입니다.</value>
+  </data>
+  <data name="EventDefinitionForIllusionTempleEventLevel3" xml:space="preserve">
+    <value>환영의 사원, 레벨 3에 대한 이벤트 정의.</value>
+  </data>
+  <data name="EventDefinitionForIllusionTempleEventLevel4" xml:space="preserve">
+    <value>환영의 사원에 대한 이벤트 정의, 레벨 4.</value>
+  </data>
+  <data name="EventDefinitionForIllusionTempleEventLevel5" xml:space="preserve">
+    <value>환영의 사원, 레벨 5에 대한 이벤트 정의.</value>
+  </data>
+  <data name="EventDefinitionForIllusionTempleEventLevel6" xml:space="preserve">
+    <value>환영의 사원, 레벨 6에 대한 이벤트 정의.</value>
+  </data>
+</root>

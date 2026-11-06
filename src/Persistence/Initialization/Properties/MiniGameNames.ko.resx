@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="ImperialGuardianMonday" xml:space="preserve">
+    <value>제국 수호군 월요일</value>
+  </data>
+  <data name="ImperialGuardianTuesday" xml:space="preserve">
+    <value>제국 수호군 화요일</value>
+  </data>
+  <data name="ImperialGuardianWednesday" xml:space="preserve">
+    <value>제국 수호군 수요일</value>
+  </data>
+  <data name="ImperialGuardianThursday" xml:space="preserve">
+    <value>제국 수호군 목요일</value>
+  </data>
+  <data name="ImperialGuardianFriday" xml:space="preserve">
+    <value>제국 수호군 금요일</value>
+  </data>
+  <data name="ImperialGuardianSaturday" xml:space="preserve">
+    <value>제국 수호군 토요일</value>
+  </data>
+  <data name="ImperialGuardianSunday" xml:space="preserve">
+    <value>제국 수호군 일요일</value>
+  </data>
+  <data name="DevilSquare4" xml:space="preserve">
+    <value>데빌 스퀘어 4</value>
+  </data>
+  <data name="DevilSquare3" xml:space="preserve">
+    <value>데빌 스퀘어 3</value>
+  </data>
+  <data name="DevilSquare2" xml:space="preserve">
+    <value>데빌 스퀘어 2</value>
+  </data>
+  <data name="DevilSquare1" xml:space="preserve">
+    <value>데빌 스퀘어 1</value>
+  </data>
+  <data name="Doppelganger4" xml:space="preserve">
+    <value>도플갱어 4</value>
+  </data>
+  <data name="Doppelganger3" xml:space="preserve">
+    <value>도플갱어 3</value>
+  </data>
+  <data name="Doppelganger2" xml:space="preserve">
+    <value>도플갱어 2</value>
+  </data>
+  <data name="Doppelganger1" xml:space="preserve">
+    <value>도플갱어 1</value>
+  </data>
+  <data name="KanturuRefineryTower" xml:space="preserve">
+    <value>칸투르 리파이너리 타워</value>
+  </data>
+  <data name="ChaosCastle7" xml:space="preserve">
+    <value>카오스 캐슬 7</value>
+  </data>
+  <data name="ChaosCastle6" xml:space="preserve">
+    <value>카오스 캐슬 6</value>
+  </data>
+  <data name="ChaosCastle5" xml:space="preserve">
+    <value>카오스 캐슬 5</value>
+  </data>
+  <data name="ChaosCastle4" xml:space="preserve">
+    <value>카오스 캐슬 4</value>
+  </data>
+  <data name="ChaosCastle3" xml:space="preserve">
+    <value>카오스 캐슬 3</value>
+  </data>
+  <data name="ChaosCastle2" xml:space="preserve">
+    <value>카오스 캐슬 2</value>
+  </data>
+  <data name="ChaosCastle1" xml:space="preserve">
+    <value>카오스 캐슬 1</value>
+  </data>
+  <data name="BloodCastle8" xml:space="preserve">
+    <value>블러드 캐슬 8</value>
+  </data>
+  <data name="BloodCastle7" xml:space="preserve">
+    <value>블러드 캐슬 7</value>
+  </data>
+  <data name="BloodCastle6" xml:space="preserve">
+    <value>블러드 캐슬 6</value>
+  </data>
+  <data name="BloodCastle5" xml:space="preserve">
+    <value>블러드 캐슬 5</value>
+  </data>
+  <data name="BloodCastle4" xml:space="preserve">
+    <value>블러드 캐슬 4</value>
+  </data>
+  <data name="BloodCastle3" xml:space="preserve">
+    <value>블러드 캐슬 3</value>
+  </data>
+  <data name="BloodCastle2" xml:space="preserve">
+    <value>블러드 캐슬 2</value>
+  </data>
+  <data name="BloodCastle1" xml:space="preserve">
+    <value>블러드 캐슬 1</value>
+  </data>
+  <data name="DevilSquare7" xml:space="preserve">
+    <value>데빌 스퀘어 7</value>
+  </data>
+  <data name="DevilSquare6" xml:space="preserve">
+    <value>데빌 스퀘어 6</value>
+  </data>
+  <data name="DevilSquare5" xml:space="preserve">
+    <value>데빌 스퀘어 5</value>
+  </data>
+  <data name="IllusionTemple1" xml:space="preserve">
+    <value>환영의 사원 1</value>
+  </data>
+  <data name="IllusionTemple2" xml:space="preserve">
+    <value>환영의 사원 2</value>
+  </data>
+  <data name="IllusionTemple3" xml:space="preserve">
+    <value>환영의 사원 3</value>
+  </data>
+  <data name="IllusionTemple4" xml:space="preserve">
+    <value>환영의 사원 4</value>
+  </data>
+  <data name="IllusionTemple5" xml:space="preserve">
+    <value>환영의 사원 5</value>
+  </data>
+  <data name="IllusionTemple6" xml:space="preserve">
+    <value>환영의 사원 6</value>
+  </data>
+</root>

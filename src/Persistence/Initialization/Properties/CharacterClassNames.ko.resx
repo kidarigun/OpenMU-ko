@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <data name="DarkWizard" xml:space="preserve"><value>흑마법사</value></data>
+  <data name="SoulMaster" xml:space="preserve"><value>소울마스터</value></data>
+  <data name="GrandMaster" xml:space="preserve"><value>그랜드마스터</value></data>
+  <data name="DarkKnight" xml:space="preserve"><value>흑기사</value></data>
+  <data name="BladeKnight" xml:space="preserve"><value>블레이드나이트</value></data>
+  <data name="BladeMaster" xml:space="preserve"><value>블레이드마스터</value></data>
+  <data name="FairyElf" xml:space="preserve"><value>요정</value></data>
+  <data name="MuseElf" xml:space="preserve"><value>뮤즈엘프</value></data>
+  <data name="HighElf" xml:space="preserve"><value>하이엘프</value></data>
+  <data name="MagicGladiator" xml:space="preserve"><value>마검사</value></data>
+  <data name="DuelMaster" xml:space="preserve"><value>듀얼마스터</value></data>
+  <data name="DarkLord" xml:space="preserve"><value>다크로드</value></data>
+  <data name="LordEmperor" xml:space="preserve"><value>로드엠퍼러</value></data>
+  <data name="Summoner" xml:space="preserve"><value>소환술사</value></data>
+  <data name="BloodySummoner" xml:space="preserve"><value>블러디서머너</value></data>
+  <data name="DimensionMaster" xml:space="preserve"><value>디멘션마스터</value></data>
+  <data name="RageFighter" xml:space="preserve"><value>레이지파이터</value></data>
+  <data name="FistMaster" xml:space="preserve"><value>피스트마스터</value></data>
+</root>

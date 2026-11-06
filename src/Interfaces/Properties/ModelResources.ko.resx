@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+
+  <data name="LetterHeader_TypeCaption" xml:space="preserve">
+    <value>편지 헤더</value>
+  </data>
+  <data name="LetterHeader_TypeCaptionPlural" xml:space="preserve">
+    <value>편지 헤더</value>
+  </data>
+  <data name="LetterHeader_TypeDescription" xml:space="preserve">
+    <value>편지 헤더에 대한 설정입니다.</value>
+  </data>
+  <data name="LetterHeader_Id_Caption" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="LetterHeader_Id_Description" xml:space="preserve">
+    <value>편지 헤더: 이드 설정입니다.</value>
+  </data>
+  <data name="LetterHeader_SenderName_Caption" xml:space="preserve">
+    <value>보낸 사람 이름</value>
+  </data>
+  <data name="LetterHeader_SenderName_Description" xml:space="preserve">
+    <value>편지 헤더: 보낸 사람 이름 설정입니다.</value>
+  </data>
+  <data name="LetterHeader_ReceiverName_Caption" xml:space="preserve">
+    <value>수신자 이름</value>
+  </data>
+  <data name="LetterHeader_ReceiverName_Description" xml:space="preserve">
+    <value>편지 헤더: 수신자 이름 설정입니다.</value>
+  </data>
+  <data name="LetterHeader_Subject_Caption" xml:space="preserve">
+    <value>주제</value>
+  </data>
+  <data name="LetterHeader_Subject_Description" xml:space="preserve">
+    <value>편지 헤더: 주제 설정입니다.</value>
+  </data>
+  <data name="LetterHeader_LetterDate_Caption" xml:space="preserve">
+    <value>편지 날짜</value>
+  </data>
+  <data name="LetterHeader_LetterDate_Description" xml:space="preserve">
+    <value>편지 헤더: 편지 날짜 설정입니다.</value>
+  </data>
+  <data name="LetterHeader_ReadFlag_Caption" xml:space="preserve">
+    <value>플래그 읽기</value>
+  </data>
+  <data name="LetterHeader_ReadFlag_Description" xml:space="preserve">
+    <value>편지 헤더: 플래그 읽기 설정입니다.</value>
+  </data>
+  <data name="GuildListEntry_TypeCaption" xml:space="preserve">
+    <value>길드 목록 입력</value>
+  </data>
+  <data name="GuildListEntry_TypeCaptionPlural" xml:space="preserve">
+    <value>길드 목록 항목</value>
+  </data>
+  <data name="GuildListEntry_TypeDescription" xml:space="preserve">
+    <value>길드 목록 입력에 대한 설정입니다.</value>
+  </data>
+  <data name="GuildListEntry_PlayerName_Caption" xml:space="preserve">
+    <value>플레이어 이름</value>
+  </data>
+  <data name="GuildListEntry_PlayerName_Description" xml:space="preserve">
+    <value>길드 목록 입력: 플레이어 이름 설정입니다.</value>
+  </data>
+  <data name="GuildListEntry_ServerId_Caption" xml:space="preserve">
+    <value>서버 ID</value>
+  </data>
+  <data name="GuildListEntry_ServerId_Description" xml:space="preserve">
+    <value>길드 목록 입력: 서버 ID 설정입니다.</value>
+  </data>
+  <data name="GuildListEntry_PlayerPosition_Caption" xml:space="preserve">
+    <value>플레이어 위치</value>
+  </data>
+  <data name="GuildListEntry_PlayerPosition_Description" xml:space="preserve">
+    <value>길드 목록 입력: 플레이어 위치 설정입니다.</value>
+  </data>
+  <data name="Guild_TypeCaption" xml:space="preserve">
+    <value>길드</value>
+  </data>
+  <data name="Guild_TypeCaptionPlural" xml:space="preserve">
+    <value>길드</value>
+  </data>
+  <data name="Guild_TypeDescription" xml:space="preserve">
+    <value>길드에 대한 설정입니다.</value>
+  </data>
+  <data name="Guild_Name_Caption" xml:space="preserve">
+    <value>이름</value>
+  </data>
+  <data name="Guild_Name_Description" xml:space="preserve">
+    <value>길드: 이름 설정입니다.</value>
+  </data>
+  <data name="Guild_Logo_Caption" xml:space="preserve">
+    <value>로고</value>
+  </data>
+  <data name="Guild_Logo_Description" xml:space="preserve">
+    <value>길드: 로고 설정입니다.</value>
+  </data>
+  <data name="Guild_Score_Caption" xml:space="preserve">
+    <value>점수</value>
+  </data>
+  <data name="Guild_Score_Description" xml:space="preserve">
+    <value>길드: 점수 설정입니다.</value>
+  </data>
+  <data name="Guild_Notice_Caption" xml:space="preserve">
+    <value>공지사항</value>
+  </data>
+  <data name="Guild_Notice_Description" xml:space="preserve">
+    <value>길드: 공지사항 설정입니다.</value>
+  </data>
+  <data name="Guild_Hostility_Caption" xml:space="preserve">
+    <value>적대감</value>
+  </data>
+  <data name="Guild_Hostility_Description" xml:space="preserve">
+    <value>길드: 적대감 설정입니다.</value>
+  </data>
+  <data name="Guild_AllianceGuild_Caption" xml:space="preserve">
+    <value>동맹 길드</value>
+  </data>
+  <data name="Guild_AllianceGuild_Description" xml:space="preserve">
+    <value>길드: 동맹 길드 설정입니다.</value>
+  </data>
+  <data name="Friend_TypeCaption" xml:space="preserve">
+    <value>친구</value>
+  </data>
+  <data name="Friend_TypeCaptionPlural" xml:space="preserve">
+    <value>친구</value>
+  </data>
+  <data name="Friend_TypeDescription" xml:space="preserve">
+    <value>친구에 대한 설정입니다.</value>
+  </data>
+  <data name="Friend_Id_Caption" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Friend_Id_Description" xml:space="preserve">
+    <value>친구: 이드 설정입니다.</value>
+  </data>
+  <data name="Friend_CharacterId_Caption" xml:space="preserve">
+    <value>캐릭터 ID</value>
+  </data>
+  <data name="Friend_CharacterId_Description" xml:space="preserve">
+    <value>친구: 캐릭터 ID 설정입니다.</value>
+  </data>
+  <data name="Friend_FriendId_Caption" xml:space="preserve">
+    <value>친구 아이디</value>
+  </data>
+  <data name="Friend_FriendId_Description" xml:space="preserve">
+    <value>친구: 친구 아이디 설정입니다.</value>
+  </data>
+  <data name="Friend_Accepted_Caption" xml:space="preserve">
+    <value>수락됨</value>
+  </data>
+  <data name="Friend_Accepted_Description" xml:space="preserve">
+    <value>친구: 수락됨 설정입니다.</value>
+  </data>
+  <data name="Friend_RequestOpen_Caption" xml:space="preserve">
+    <value>요청 열기</value>
+  </data>
+  <data name="Friend_RequestOpen_Description" xml:space="preserve">
+    <value>친구: 요청 열기 설정입니다.</value>
+  </data>
+  <data name="GuildMemberStatus_TypeCaption" xml:space="preserve">
+    <value>길드원 현황</value>
+  </data>
+  <data name="GuildMemberStatus_TypeCaptionPlural" xml:space="preserve">
+    <value>길드원 현황</value>
+  </data>
+  <data name="GuildMemberStatus_TypeDescription" xml:space="preserve">
+    <value>길드원 현황에 대한 설정입니다.</value>
+  </data>
+  <data name="GuildMemberStatus_GuildId_Caption" xml:space="preserve">
+    <value>길드 아이디</value>
+  </data>
+  <data name="GuildMemberStatus_GuildId_Description" xml:space="preserve">
+    <value>길드원 현황: 길드 아이디 설정입니다.</value>
+  </data>
+  <data name="GuildMemberStatus_Position_Caption" xml:space="preserve">
+    <value>위치</value>
+  </data>
+  <data name="GuildMemberStatus_Position_Description" xml:space="preserve">
+    <value>길드원 현황: 위치 설정입니다.</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_TypeCaption" xml:space="preserve">
+    <value>채팅 서버 인증 정보</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_TypeCaptionPlural" xml:space="preserve">
+    <value>채팅 서버 인증 정보</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_TypeDescription" xml:space="preserve">
+    <value>채팅 서버 인증 정보에 대한 설정입니다.</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_Index_Caption" xml:space="preserve">
+    <value>색인</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_Index_Description" xml:space="preserve">
+    <value>채팅 서버 인증 정보: 색인 설정입니다.</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_RoomId_Caption" xml:space="preserve">
+    <value>방 ID</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_RoomId_Description" xml:space="preserve">
+    <value>채팅 서버 인증 정보: 방 ID 설정입니다.</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_ClientName_Caption" xml:space="preserve">
+    <value>클라이언트 이름</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_ClientName_Description" xml:space="preserve">
+    <value>채팅 서버 인증 정보: 클라이언트 이름 설정입니다.</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_AuthenticationToken_Caption" xml:space="preserve">
+    <value>인증 토큰</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_AuthenticationToken_Description" xml:space="preserve">
+    <value>채팅 서버 인증 정보: 인증 토큰 설정입니다.</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_HostAddress_Caption" xml:space="preserve">
+    <value>호스트 주소</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_HostAddress_Description" xml:space="preserve">
+    <value>채팅 서버 인증 정보: 호스트 주소 설정입니다.</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_AuthenticationRequiredUntil_Caption" xml:space="preserve">
+    <value>인증 필요 기간:</value>
+  </data>
+  <data name="ChatServerAuthenticationInfo_AuthenticationRequiredUntil_Description" xml:space="preserve">
+    <value>채팅 서버 인증 정보: 인증 필요 기간: 설정입니다.</value>
+  </data>
+  <data name="FriendViewItem_TypeCaption" xml:space="preserve">
+    <value>친구 보기 아이템</value>
+  </data>
+  <data name="FriendViewItem_TypeCaptionPlural" xml:space="preserve">
+    <value>친구 보기 아이템</value>
+  </data>
+  <data name="FriendViewItem_TypeDescription" xml:space="preserve">
+    <value>친구 보기 아이템에 대한 설정입니다.</value>
+  </data>
+  <data name="FriendViewItem_CharacterName_Caption" xml:space="preserve">
+    <value>캐릭터 이름</value>
+  </data>
+  <data name="FriendViewItem_CharacterName_Description" xml:space="preserve">
+    <value>친구 보기 아이템: 캐릭터 이름 설정입니다.</value>
+  </data>
+  <data name="FriendViewItem_FriendName_Caption" xml:space="preserve">
+    <value>친구 이름</value>
+  </data>
+  <data name="FriendViewItem_FriendName_Description" xml:space="preserve">
+    <value>친구 보기 아이템: 친구 이름 설정입니다.</value>
+  </data>
+  <data name="LocalizableException_TypeCaption" xml:space="preserve">
+    <value>지역화 가능한 예외</value>
+  </data>
+  <data name="LocalizableException_TypeCaptionPlural" xml:space="preserve">
+    <value>지역화 가능한 예외</value>
+  </data>
+  <data name="LocalizableException_TypeDescription" xml:space="preserve">
+    <value>지역화 가능한 예외에 대한 설정입니다.</value>
+  </data>
+  <data name="LocalizableException_InnerException_Caption" xml:space="preserve">
+    <value>내부 예외</value>
+  </data>
+  <data name="LocalizableException_InnerException_Description" xml:space="preserve">
+    <value>지역화 가능한 예외: 내부 예외 설정입니다.</value>
+  </data>
+  <data name="SpecialServerId_TypeCaption" xml:space="preserve">
+    <value>특수 서버 ID</value>
+  </data>
+  <data name="SpecialServerId_TypeDescription" xml:space="preserve">
+    <value>특수 서버 ID에 대한 설정입니다.</value>
+  </data>
+  <data name="SpecialServerId_Offline_Caption" xml:space="preserve">
+    <value>오프라인</value>
+  </data>
+  <data name="SpecialServerId_Offline_Description" xml:space="preserve">
+    <value>특수 서버 ID: 오프라인 설정입니다.</value>
+  </data>
+  <data name="SpecialServerId_Invisible_Caption" xml:space="preserve">
+    <value>투명</value>
+  </data>
+  <data name="SpecialServerId_Invisible_Description" xml:space="preserve">
+    <value>특수 서버 ID: 보이지 않는 설정입니다.</value>
+  </data>
+  <data name="NoneConfigurationChangePublisher_TypeCaption" xml:space="preserve">
+    <value>없음 구성 변경 게시자</value>
+  </data>
+  <data name="NoneConfigurationChangePublisher_TypeCaptionPlural" xml:space="preserve">
+    <value>없음 구성 변경 게시자</value>
+  </data>
+  <data name="NoneConfigurationChangePublisher_TypeDescription" xml:space="preserve">
+    <value>없음 구성 변경 게시자에 대한 설정입니다.</value>
+  </data>
+  <data name="GuildPosition_TypeCaption" xml:space="preserve">
+    <value>길드 포지션</value>
+  </data>
+  <data name="GuildPosition_TypeDescription" xml:space="preserve">
+    <value>길드 포지션에 대한 설정입니다.</value>
+  </data>
+  <data name="GuildPosition_Undefined_Caption" xml:space="preserve">
+    <value>정의되지 않음</value>
+  </data>
+  <data name="GuildPosition_Undefined_Description" xml:space="preserve">
+    <value>길드 포지션: 정의되지 않음 설정입니다.</value>
+  </data>
+  <data name="GuildPosition_NormalMember_Caption" xml:space="preserve">
+    <value>일반 회원</value>
+  </data>
+  <data name="GuildPosition_NormalMember_Description" xml:space="preserve">
+    <value>길드 포지션: 일반 회원 설정입니다.</value>
+  </data>
+  <data name="GuildPosition_GuildMaster_Caption" xml:space="preserve">
+    <value>길드 마스터</value>
+  </data>
+  <data name="GuildPosition_GuildMaster_Description" xml:space="preserve">
+    <value>길드 포지션: 길드 마스터 설정입니다.</value>
+  </data>
+  <data name="GuildPosition_BattleMaster_Caption" xml:space="preserve">
+    <value>배틀마스터</value>
+  </data>
+  <data name="GuildPosition_BattleMaster_Description" xml:space="preserve">
+    <value>길드 포지션: 배틀마스터 설정입니다.</value>
+  </data>
+  <data name="GuildPosition_AssistantMaster_Caption" xml:space="preserve">
+    <value>보조 마스터</value>
+  </data>
+  <data name="GuildPosition_AssistantMaster_Description" xml:space="preserve">
+    <value>길드 포지션: 보조 마스터 설정입니다.</value>
+  </data>
+  <data name="LocalizableExceptionBase_TypeCaption" xml:space="preserve">
+    <value>지역화 가능한 예외 기반</value>
+  </data>
+  <data name="LocalizableExceptionBase_TypeCaptionPlural" xml:space="preserve">
+    <value>지역화 가능한 예외 기반</value>
+  </data>
+  <data name="LocalizableExceptionBase_TypeDescription" xml:space="preserve">
+    <value>지역화 가능한 예외 기반에 대한 설정입니다.</value>
+  </data>
+  <data name="LocalizableExceptionBase_FormatArguments_Caption" xml:space="preserve">
+    <value>형식 인수</value>
+  </data>
+  <data name="LocalizableExceptionBase_FormatArguments_Description" xml:space="preserve">
+    <value>지역화 가능한 예외 기반: 형식 인수 설정입니다.</value>
+  </data>
+  <data name="LocalizableExceptionBase_ResourceKey_Caption" xml:space="preserve">
+    <value>리소스 키</value>
+  </data>
+  <data name="LocalizableExceptionBase_ResourceKey_Description" xml:space="preserve">
+    <value>지역화 가능한 예외 기반: 리소스 키 설정입니다.</value>
+  </data>
+  <data name="SpecialServerIds_TypeCaption" xml:space="preserve">
+    <value>특수 서버 ID</value>
+  </data>
+  <data name="SpecialServerIds_TypeCaptionPlural" xml:space="preserve">
+    <value>특수 서버 ID</value>
+  </data>
+  <data name="SpecialServerIds_TypeDescription" xml:space="preserve">
+    <value>특수 서버 ID에 대한 설정입니다.</value>
+  </data>
+  <data name="ServerType_TypeCaption" xml:space="preserve">
+    <value>서버 유형</value>
+  </data>
+  <data name="ServerType_TypeDescription" xml:space="preserve">
+    <value>서버 유형에 대한 설정입니다.</value>
+  </data>
+  <data name="ServerType_Undefined_Caption" xml:space="preserve">
+    <value>정의되지 않음</value>
+  </data>
+  <data name="ServerType_Undefined_Description" xml:space="preserve">
+    <value>서버 유형: 정의되지 않음 설정입니다.</value>
+  </data>
+  <data name="ServerType_GameServer_Caption" xml:space="preserve">
+    <value>게임 서버</value>
+  </data>
+  <data name="ServerType_GameServer_Description" xml:space="preserve">
+    <value>서버 유형: 게임 서버 설정입니다.</value>
+  </data>
+  <data name="ServerType_ConnectServer_Caption" xml:space="preserve">
+    <value>접속 서버</value>
+  </data>
+  <data name="ServerType_ConnectServer_Description" xml:space="preserve">
+    <value>서버 유형: 접속 서버 설정입니다.</value>
+  </data>
+  <data name="ServerType_ChatServer_Caption" xml:space="preserve">
+    <value>채팅 서버</value>
+  </data>
+  <data name="ServerType_ChatServer_Description" xml:space="preserve">
+    <value>서버 유형: 채팅 서버 설정입니다.</value>
+  </data>
+  <data name="ServerState_TypeCaption" xml:space="preserve">
+    <value>서버 상태</value>
+  </data>
+  <data name="ServerState_TypeDescription" xml:space="preserve">
+    <value>서버 상태에 대한 설정입니다.</value>
+  </data>
+  <data name="ServerState_Stopped_Caption" xml:space="preserve">
+    <value>중지됨</value>
+  </data>
+  <data name="ServerState_Stopped_Description" xml:space="preserve">
+    <value>서버 상태: 중지됨 설정입니다.</value>
+  </data>
+  <data name="ServerState_Starting_Caption" xml:space="preserve">
+    <value>시작</value>
+  </data>
+  <data name="ServerState_Starting_Description" xml:space="preserve">
+    <value>서버 상태: 시작 설정입니다.</value>
+  </data>
+  <data name="ServerState_Started_Caption" xml:space="preserve">
+    <value>시작됨</value>
+  </data>
+  <data name="ServerState_Started_Description" xml:space="preserve">
+    <value>서버 상태: 시작됨 설정입니다.</value>
+  </data>
+  <data name="ServerState_Stopping_Caption" xml:space="preserve">
+    <value>정지</value>
+  </data>
+  <data name="ServerState_Stopping_Description" xml:space="preserve">
+    <value>서버 상태: 정지 설정입니다.</value>
+  </data>
+  <data name="ServerState_Timeout_Caption" xml:space="preserve">
+    <value>시간 초과</value>
+  </data>
+  <data name="ServerState_Timeout_Description" xml:space="preserve">
+    <value>서버 상태: 시간 초과 설정입니다.</value>
+  </data>
+  <data name="MessageType_TypeCaption" xml:space="preserve">
+    <value>메시지 유형</value>
+  </data>
+  <data name="MessageType_TypeDescription" xml:space="preserve">
+    <value>메시지 유형에 대한 설정입니다.</value>
+  </data>
+  <data name="MessageType_GoldenCenter_Caption" xml:space="preserve">
+    <value>골든센터</value>
+  </data>
+  <data name="MessageType_GoldenCenter_Description" xml:space="preserve">
+    <value>메시지 유형: 골든센터 설정입니다.</value>
+  </data>
+  <data name="MessageType_BlueNormal_Caption" xml:space="preserve">
+    <value>블루 노멀</value>
+  </data>
+  <data name="MessageType_BlueNormal_Description" xml:space="preserve">
+    <value>메시지 유형: 블루 노멀 설정입니다.</value>
+  </data>
+  <data name="MessageType_GuildNotice_Caption" xml:space="preserve">
+    <value>길드 공지</value>
+  </data>
+  <data name="MessageType_GuildNotice_Description" xml:space="preserve">
+    <value>메시지 유형: 길드 공지 설정입니다.</value>
+  </data>
+</root>

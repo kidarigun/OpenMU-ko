@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="SelupanPoison" xml:space="preserve">
+    <value>셀루판 독</value>
+  </data>
+  <data name="SelupanIceStorm" xml:space="preserve">
+    <value>셀루판 아이스 스톰</value>
+  </data>
+  <data name="SelupanIceStrike" xml:space="preserve">
+    <value>셀루판 아이스 스트라이크</value>
+  </data>
+  <data name="SelupanFall" xml:space="preserve">
+    <value>셀루판 가을</value>
+  </data>
+  <data name="Ice" xml:space="preserve">
+    <value>얼음</value>
+  </data>
+  <data name="Lightning" xml:space="preserve">
+    <value>번개</value>
+  </data>
+  <data name="EnergyBall" xml:space="preserve">
+    <value>에너지볼</value>
+  </data>
+  <data name="TripleShot" xml:space="preserve">
+    <value>다발</value>
+  </data>
+  <data name="Slash" xml:space="preserve">
+    <value>슬래시</value>
+  </data>
+  <data name="SummonGoblin" xml:space="preserve">
+    <value>고블린 소환</value>
+  </data>
+  <data name="GreaterDamage" xml:space="preserve">
+    <value>공격력 향상</value>
+  </data>
+  <data name="GreaterDefense" xml:space="preserve">
+    <value>방어력 향상</value>
+  </data>
+  <data name="Heal" xml:space="preserve">
+    <value>힐</value>
+  </data>
+  <data name="FlameOfEvilMonster" xml:space="preserve">
+    <value>악의 불꽃(몬스터)</value>
+  </data>
+  <data name="Poison" xml:space="preserve">
+    <value>독</value>
+  </data>
+  <data name="Meteorite" xml:space="preserve">
+    <value>운석</value>
+  </data>
+  <data name="PowerWave" xml:space="preserve">
+    <value>파워 웨이브</value>
+  </data>
+  <data name="Cyclone" xml:space="preserve">
+    <value>사이클론</value>
+  </data>
+  <data name="FallingSlash" xml:space="preserve">
+    <value>내려 베기</value>
+  </data>
+  <data name="Lunge" xml:space="preserve">
+    <value>런지</value>
+  </data>
+  <data name="Twister" xml:space="preserve">
+    <value>트위스터</value>
+  </data>
+  <data name="Flame" xml:space="preserve">
+    <value>불꽃</value>
+  </data>
+  <data name="Teleport" xml:space="preserve">
+    <value>텔레포트</value>
+  </data>
+  <data name="FireBall" xml:space="preserve">
+    <value>파이어볼</value>
+  </data>
+  <data name="Uppercut" xml:space="preserve">
+    <value>어퍼컷</value>
+  </data>
+  <data name="Defense" xml:space="preserve">
+    <value>방어력</value>
+  </data>
+  <data name="AquaBeam" xml:space="preserve">
+    <value>아쿠아빔</value>
+  </data>
+  <data name="Hellfire" xml:space="preserve">
+    <value>헬파이어</value>
+  </data>
+  <data name="EvilSpirit" xml:space="preserve">
+    <value>악령</value>
+  </data>
+  <data name="SummonBali" xml:space="preserve">
+    <value>발리 소환</value>
+  </data>
+  <data name="SummonDarkKnight" xml:space="preserve">
+    <value>흑기사 소환</value>
+  </data>
+  <data name="SummonEliteYeti" xml:space="preserve">
+    <value>엘리트 예티 소환</value>
+  </data>
+  <data name="SummonAssassin" xml:space="preserve">
+    <value>암살자 소환</value>
+  </data>
+  <data name="SummonStoneGolem" xml:space="preserve">
+    <value>스톤 골렘 소환</value>
+  </data>
+  <data name="FireBreath" xml:space="preserve">
+    <value>화염 숨결</value>
+  </data>
+  <data name="Inferno" xml:space="preserve">
+    <value>인페르노</value>
+  </data>
+  <data name="Cometfall" xml:space="preserve">
+    <value>코멧 폴</value>
+  </data>
+  <data name="TwistingSlash" xml:space="preserve">
+    <value>회오리 베기</value>
+  </data>
+  <data name="Impale" xml:space="preserve">
+    <value>임페일</value>
+  </data>
+  <data name="GenericMonsterSkill" xml:space="preserve">
+    <value>일반 몬스터 스킬</value>
+  </data>
+  <data name="ForceWave" xml:space="preserve">
+    <value>포스 웨이브</value>
+  </data>
+  <data name="DeathStab" xml:space="preserve">
+    <value>찌르기</value>
+  </data>
+  <data name="RagefulBlow" xml:space="preserve">
+    <value>분노의 일격</value>
+  </data>
+  <data name="StrikeOfDestruction" xml:space="preserve">
+    <value>파괴의 일격</value>
+  </data>
+  <data name="InfinityArrow" xml:space="preserve">
+    <value>무한 화살</value>
+  </data>
+  <data name="PlasmaStorm" xml:space="preserve">
+    <value>플라즈마 스톰</value>
+  </data>
+  <data name="PowerSlash" xml:space="preserve">
+    <value>파워 슬래시</value>
+  </data>
+  <data name="DrainLife" xml:space="preserve">
+    <value>생명력 흡수</value>
+  </data>
+  <data name="Earthshake" xml:space="preserve">
+    <value>지진</value>
+  </data>
+  <data name="Decay" xml:space="preserve">
+    <value>부패</value>
+  </data>
+  <data name="IceStorm" xml:space="preserve">
+    <value>아이스 스톰</value>
+  </data>
+  <data name="LightningShock" xml:space="preserve">
+    <value>라이트닝 쇼크</value>
+  </data>
+  <data name="MultiShot" xml:space="preserve">
+    <value>멀티샷</value>
+  </data>
+  <data name="DoppelgangerSelfExplosion" xml:space="preserve">
+    <value>도플갱어 자체 폭발</value>
+  </data>
+  <data name="KillingBlow" xml:space="preserve">
+    <value>킬링 블로우</value>
+  </data>
+  <data name="BeastUppercut" xml:space="preserve">
+    <value>비스트 어퍼컷</value>
+  </data>
+  <data name="Pollution" xml:space="preserve">
+    <value>오염</value>
+  </data>
+  <data name="Requiem" xml:space="preserve">
+    <value>레퀴엠</value>
+  </data>
+  <data name="Explosion" xml:space="preserve">
+    <value>폭발</value>
+  </data>
+  <data name="PhoenixShot" xml:space="preserve">
+    <value>피닉스 샷</value>
+  </data>
+  <data name="IncreaseBlock" xml:space="preserve">
+    <value>블록 증가</value>
+  </data>
+  <data name="IncreaseHealth" xml:space="preserve">
+    <value>건강 증진</value>
+  </data>
+  <data name="IgnoreDefense" xml:space="preserve">
+    <value>방어 무시</value>
+  </data>
+  <data name="DragonSlasher" xml:space="preserve">
+    <value>드래곤 슬래셔</value>
+  </data>
+  <data name="DragonRoar" xml:space="preserve">
+    <value>드래곤 포효</value>
+  </data>
+  <data name="DarkSide" xml:space="preserve">
+    <value>다크사이드</value>
+  </data>
+  <data name="ChainDrive" xml:space="preserve">
+    <value>체인 드라이브</value>
+  </data>
+  <data name="GiganticStorm" xml:space="preserve">
+    <value>기간틱 스톰</value>
+  </data>
+  <data name="ExpansionOfWizardry" xml:space="preserve">
+    <value>마법의 확장</value>
+  </data>
+  <data name="Innovation" xml:space="preserve">
+    <value>이노베이션</value>
+  </data>
+  <data name="Weakness" xml:space="preserve">
+    <value>약화</value>
+  </data>
+  <data name="Sleep" xml:space="preserve">
+    <value>수면</value>
+  </data>
+  <data name="Berserker" xml:space="preserve">
+    <value>버서커</value>
+  </data>
+  <data name="DamageReflection" xml:space="preserve">
+    <value>데미지 반사</value>
+  </data>
+  <data name="ChainLightning" xml:space="preserve">
+    <value>체인 라이트닝</value>
+  </data>
+  <data name="Nova" xml:space="preserve">
+    <value>노바</value>
+  </data>
+  <data name="SoulBarrier" xml:space="preserve">
+    <value>소울 바리어</value>
+  </data>
+  <data name="TeleportAlly" xml:space="preserve">
+    <value>순간이동 동맹</value>
+  </data>
+  <data name="ChaoticDiseier" xml:space="preserve">
+    <value>혼돈의 디세이어</value>
+  </data>
+  <data name="FireScream" xml:space="preserve">
+    <value>파이어 스크림</value>
+  </data>
+  <data name="ElectricSpike" xml:space="preserve">
+    <value>전기 스파이크</value>
+  </data>
+  <data name="IncreaseCriticalDamage" xml:space="preserve">
+    <value>크리티컬 데미지 증가</value>
+  </data>
+  <data name="Summon" xml:space="preserve">
+    <value>소환</value>
+  </data>
+  <data name="FireBurst" xml:space="preserve">
+    <value>파이어 버스트</value>
+  </data>
+  <data name="FlameStrike" xml:space="preserve">
+    <value>화염 타격</value>
+  </data>
+  <data name="Recovery" xml:space="preserve">
+    <value>회복</value>
+  </data>
+  <data name="IceArrow" xml:space="preserve">
+    <value>얼음 화살</value>
+  </data>
+  <data name="Penetration" xml:space="preserve">
+    <value>침투</value>
+  </data>
+  <data name="FireSlash" xml:space="preserve">
+    <value>파이어 슬래시</value>
+  </data>
+  <data name="SwellLife" xml:space="preserve">
+    <value>스웰 라이프</value>
+  </data>
+  <data name="RecoverManaMonsterKills" xml:space="preserve">
+    <value>마나 몬스터 처치 복구</value>
+  </data>
+  <data name="RecoverHPFromMonsterKills" xml:space="preserve">
+    <value>몬스터 처치 시 HP 회복</value>
+  </data>
+  <data name="IncreaseMinimumAttackPower" xml:space="preserve">
+    <value>최소 공격력 증가</value>
+  </data>
+  <data name="RecoverSDFromMonsterKills" xml:space="preserve">
+    <value>몬스터 처치 시 SD 복구</value>
+  </data>
+  <data name="DecreaseMana" xml:space="preserve">
+    <value>마나 감소</value>
+  </data>
+  <data name="IncreasePvPAttackRate" xml:space="preserve">
+    <value>PvP 공격 성공률 증가</value>
+  </data>
+  <data name="IncreaseMaximumMana" xml:space="preserve">
+    <value>최대 마나 증가</value>
+  </data>
+  <data name="IncreaseMaximumHP" xml:space="preserve">
+    <value>최대 HP 증가</value>
+  </data>
+  <data name="IncreaseAttackSuccessRate" xml:space="preserve">
+    <value>공격 성공률 증가</value>
+  </data>
+  <data name="IncreaseDefenseSuccessRate" xml:space="preserve">
+    <value>방어 성공률 증가</value>
+  </data>
+  <data name="IncreasesDefense" xml:space="preserve">
+    <value>방어력 증가</value>
+  </data>
+  <data name="DurabilityReduction3" xml:space="preserve">
+    <value>내구성 감소(3)</value>
+  </data>
+  <data name="DurabilityReduction2" xml:space="preserve">
+    <value>내구도 감소(2)</value>
+  </data>
+  <data name="DurabilityReduction1" xml:space="preserve">
+    <value>내구도 감소 (1)</value>
+  </data>
+  <data name="IncreaseIceResistance" xml:space="preserve">
+    <value>얼음 저항 증가</value>
+  </data>
+  <data name="IncreaseLightningResistance" xml:space="preserve">
+    <value>번개 저항 증가</value>
+  </data>
+  <data name="IncreasePoisonResistance" xml:space="preserve">
+    <value>독 저항력 증가</value>
+  </data>
+  <data name="IncreasesAGRecoveryRate" xml:space="preserve">
+    <value>AG 회복률 증가</value>
+  </data>
+  <data name="IncreaseHPRecoveryRate" xml:space="preserve">
+    <value>HP 회복률 증가</value>
+  </data>
+  <data name="IncreaseManaRecoveryRate" xml:space="preserve">
+    <value>마나 회복률 증가</value>
+  </data>
+  <data name="IncreaseSDRecoveryRate" xml:space="preserve">
+    <value>SD 복구율 증가</value>
+  </data>
+  <data name="IncreaseMaximumSD" xml:space="preserve">
+    <value>최대 SD 증가</value>
+  </data>
+  <data name="IncreasePvPDefenseRate" xml:space="preserve">
+    <value>PvP 방어율 증가</value>
+  </data>
+  <data name="StaminaIncreaseStrengthener" xml:space="preserve">
+    <value>체력 증가 강화</value>
+  </data>
+  <data name="DefSuccessRateIncMastery" xml:space="preserve">
+    <value>방어 성공률 증가 마스터리</value>
+  </data>
+  <data name="DefSuccessRateIncPowUp" xml:space="preserve">
+    <value>데프 SuccessRate IncPowUp</value>
+  </data>
+  <data name="EquippedWeaponMastery" xml:space="preserve">
+    <value>장착된 무기 마스터리</value>
+  </data>
+  <data name="EquippedWeaponStrengthener" xml:space="preserve">
+    <value>장착된 무기 강화 장치</value>
+  </data>
+  <data name="DragonRoarStrengthener" xml:space="preserve">
+    <value>드래곤 포효 강화</value>
+  </data>
+  <data name="DarkSideStrengthener" xml:space="preserve">
+    <value>다크사이드 강화</value>
+  </data>
+  <data name="ChainDriveStrengthener" xml:space="preserve">
+    <value>체인 구동 강화제</value>
+  </data>
+  <data name="WeaponMastery" xml:space="preserve">
+    <value>무기 마스터리</value>
+  </data>
+  <data name="BeastUppercutMastery" xml:space="preserve">
+    <value>비스트 어퍼컷 마스터리</value>
+  </data>
+  <data name="BeastUppercutStrengthener" xml:space="preserve">
+    <value>비스트 어퍼컷 강화</value>
+  </data>
+  <data name="KillingBlowMastery" xml:space="preserve">
+    <value>킬링 블로우 마스터리</value>
+  </data>
+  <data name="KillingBlowStrengthener" xml:space="preserve">
+    <value>필살타 강화</value>
+  </data>
+  <data name="PetDurabilityStr" xml:space="preserve">
+    <value>펫 내구성 Str</value>
+  </data>
+  <data name="DarkSpiritStr3" xml:space="preserve">
+    <value>암흑정령 Str (3)</value>
+  </data>
+  <data name="DarkSpiritStr2" xml:space="preserve">
+    <value>다크 스피릿 Str (2)</value>
+  </data>
+  <data name="DarkSpiritStr" xml:space="preserve">
+    <value>다크 스피릿 Str</value>
+  </data>
+  <data name="CommandAttackInc" xml:space="preserve">
+    <value>커맨드 어택 Inc</value>
+  </data>
+  <data name="ShieldMastery" xml:space="preserve">
+    <value>방패 마스터리</value>
+  </data>
+  <data name="ShieldStrengthener" xml:space="preserve">
+    <value>실드 강화</value>
+  </data>
+  <data name="ScepterMastery" xml:space="preserve">
+    <value>홀 마스터리</value>
+  </data>
+  <data name="ScepterStrengthener" xml:space="preserve">
+    <value>홀 강화제</value>
+  </data>
+  <data name="UseScepterPetStr" xml:space="preserve">
+    <value>사용 셉터 : Pet Str</value>
+  </data>
+  <data name="FireScreamStren" xml:space="preserve">
+    <value>파이어 스크림 스트렌</value>
+  </data>
+  <data name="CritDMGIncPowUp3" xml:space="preserve">
+    <value>크리티컬 DMG Inc PowUp (3)</value>
+  </data>
+  <data name="CritDMGIncPowUp2" xml:space="preserve">
+    <value>크리티컬 DMG Inc PowUp (2)</value>
+  </data>
+  <data name="CriticalDMGIncPowUp" xml:space="preserve">
+    <value>중요한 DMG Inc PowUp</value>
+  </data>
+  <data name="EarthshakeMastery" xml:space="preserve">
+    <value>지진 마스터리</value>
+  </data>
+  <data name="EarthshakeStreng" xml:space="preserve">
+    <value>지진 강도</value>
+  </data>
+  <data name="DarkHorseStreng1" xml:space="preserve">
+    <value>다크호스 스트렝스 (1)</value>
+  </data>
+  <data name="FireBurstMastery" xml:space="preserve">
+    <value>파이어 버스트 마스터리</value>
+  </data>
+  <data name="FireBurstStreng" xml:space="preserve">
+    <value>파이어 버스트 강도</value>
+  </data>
+  <data name="ForceWaveStreng" xml:space="preserve">
+    <value>포스 웨이브 강도</value>
+  </data>
+  <data name="Force" xml:space="preserve">
+    <value>힘</value>
+  </data>
+  <data name="BloodAttackStrengthen" xml:space="preserve">
+    <value>혈액 공격 강화</value>
+  </data>
+  <data name="IceStrengthener" xml:space="preserve">
+    <value>얼음강화제</value>
+  </data>
+  <data name="MagicMastery" xml:space="preserve">
+    <value>매직 마스터리</value>
+  </data>
+  <data name="EvilSpiritStrengthen" xml:space="preserve">
+    <value>악령 강화</value>
+  </data>
+  <data name="InfernoStrengthener" xml:space="preserve">
+    <value>인페르노 강화</value>
+  </data>
+  <data name="FlameStrengthener" xml:space="preserve">
+    <value>화염 강화제</value>
+  </data>
+  <data name="PowerSlashStreng" xml:space="preserve">
+    <value>파워 슬래시 강도</value>
+  </data>
+  <data name="TwistingSlashStren" xml:space="preserve">
+    <value>회오리 베기 스트렌</value>
+  </data>
+  <data name="BlastStrengthener" xml:space="preserve">
+    <value>폭발 강화제</value>
+  </data>
+  <data name="LightningStrengthener" xml:space="preserve">
+    <value>번개강화</value>
+  </data>
+  <data name="CycloneStrengthener" xml:space="preserve">
+    <value>사이클론 강화제</value>
+  </data>
+  <data name="MinimumWizCurseInc" xml:space="preserve">
+    <value>최소 마법사/저주 Inc</value>
+  </data>
+  <data name="BerserkerProficiency" xml:space="preserve">
+    <value>버서커 숙련도</value>
+  </data>
+  <data name="BerserkerStrengthener" xml:space="preserve">
+    <value>버서커 강화</value>
+  </data>
+  <data name="OtherWorldTomeMastery" xml:space="preserve">
+    <value>이세계 고서 마스터리</value>
+  </data>
+  <data name="OtherWorldTomeStreng" xml:space="preserve">
+    <value>다른 세계의 책 강도</value>
+  </data>
+  <data name="StickMastery" xml:space="preserve">
+    <value>스틱 마스터리</value>
+  </data>
+  <data name="StickStrengthener" xml:space="preserve">
+    <value>스틱 강화제</value>
+  </data>
+  <data name="DrainLifeStrengthener" xml:space="preserve">
+    <value>드레인 라이프 강화제</value>
+  </data>
+  <data name="LightningShockStr" xml:space="preserve">
+    <value>번개 충격 강도</value>
+  </data>
+  <data name="ChainLightningStr" xml:space="preserve">
+    <value>체인 라이트닝 Str</value>
+  </data>
+  <data name="SleepStrengthener" xml:space="preserve">
+    <value>수면강화제</value>
+  </data>
+  <data name="LightningTomeMastery" xml:space="preserve">
+    <value>번개의 책 마스터리</value>
+  </data>
+  <data name="LightningTomeStren" xml:space="preserve">
+    <value>번개서 스트렌</value>
+  </data>
+  <data name="WindTomeMastery" xml:space="preserve">
+    <value>바람의 책 마스터리</value>
+  </data>
+  <data name="WindTomeStrengthener" xml:space="preserve">
+    <value>바람의 서 강화</value>
+  </data>
+  <data name="FireTomeMastery" xml:space="preserve">
+    <value>불의 책 마스터리</value>
+  </data>
+  <data name="FireTomeStrengthener" xml:space="preserve">
+    <value>화염서 강화</value>
+  </data>
+  <data name="MinimumAttPowerInc" xml:space="preserve">
+    <value>최소 Att 전력 Inc</value>
+  </data>
+  <data name="InfinityArrowStr" xml:space="preserve">
+    <value>인피니티 애로우 Str</value>
+  </data>
+  <data name="CrossbowMastery" xml:space="preserve">
+    <value>석궁 마스터리</value>
+  </data>
+  <data name="CrossbowStrengthener" xml:space="preserve">
+    <value>석궁강화</value>
+  </data>
+  <data name="BowMastery" xml:space="preserve">
+    <value>활 마스터리</value>
+  </data>
+  <data name="BowStrengthener" xml:space="preserve">
+    <value>활 강화제</value>
+  </data>
+  <data name="IceArrowStrengthener" xml:space="preserve">
+    <value>아이스 애로우 강화</value>
+  </data>
+  <data name="DefenseIncreaseMastery" xml:space="preserve">
+    <value>방어력 증가 마스터리</value>
+  </data>
+  <data name="DefenseIncreaseStr" xml:space="preserve">
+    <value>방어력 증가 Str</value>
+  </data>
+  <data name="AttackIncreaseMastery" xml:space="preserve">
+    <value>공격력 증가 마스터리</value>
+  </data>
+  <data name="AttackIncreaseStr" xml:space="preserve">
+    <value>공격력 증가 Str</value>
+  </data>
+  <data name="SummonedMonsterStr2" xml:space="preserve">
+    <value>소환몬스터 스트(2)</value>
+  </data>
+  <data name="TripleShotMastery" xml:space="preserve">
+    <value>다발 마스터리</value>
+  </data>
+  <data name="TripleShotStrengthener" xml:space="preserve">
+    <value>다발 강화제</value>
+  </data>
+  <data name="PenetrationStrengthener" xml:space="preserve">
+    <value>침투 강화제</value>
+  </data>
+  <data name="SummonedMonsterStr1" xml:space="preserve">
+    <value>소환몬스터 Str (1)</value>
+  </data>
+  <data name="HealStrengthener" xml:space="preserve">
+    <value>힐강화</value>
+  </data>
+  <data name="MinimumWizardryInc" xml:space="preserve">
+    <value>최소 마법사 Inc</value>
+  </data>
+  <data name="SoulBarrierProficie" xml:space="preserve">
+    <value>소울 바리어 전문가</value>
+  </data>
+  <data name="SoulBarrierStrength" xml:space="preserve">
+    <value>소울 바리어 힘</value>
+  </data>
+  <data name="TwoHandedStaffMast" xml:space="preserve">
+    <value>양손 지팡이 돛대</value>
+  </data>
+  <data name="TwoHandedStaffStren" xml:space="preserve">
+    <value>양손 지팡이 스트렌</value>
+  </data>
+  <data name="OneHandedStaffMast" xml:space="preserve">
+    <value>한손 지팡이 돛대</value>
+  </data>
+  <data name="OneHandedStaffStren" xml:space="preserve">
+    <value>한손 지팡이 스트렌</value>
+  </data>
+  <data name="HellfireStrengthener" xml:space="preserve">
+    <value>지옥불 강화자</value>
+  </data>
+  <data name="DecayStrengthener" xml:space="preserve">
+    <value>부패강화제</value>
+  </data>
+  <data name="PoisonStrengthener" xml:space="preserve">
+    <value>독강화제</value>
+  </data>
+  <data name="EvilSpiritStreng" xml:space="preserve">
+    <value>악령 강도</value>
+  </data>
+  <data name="ExpansionOfWizMas" xml:space="preserve">
+    <value>위즈마스의 확장</value>
+  </data>
+  <data name="ExpansionOfWizStreng" xml:space="preserve">
+    <value>위즈스트렝의 확장</value>
+  </data>
+  <data name="SwellLifeStrengt" xml:space="preserve">
+    <value>스웰 라이프 스트렝트</value>
+  </data>
+  <data name="SpearMastery" xml:space="preserve">
+    <value>스피어 마스터리</value>
+  </data>
+  <data name="SpearStrengthener" xml:space="preserve">
+    <value>창 강화</value>
+  </data>
+  <data name="MaceMastery" xml:space="preserve">
+    <value>메이스 마스터리</value>
+  </data>
+  <data name="MaceStrengthener" xml:space="preserve">
+    <value>메이스강화</value>
+  </data>
+  <data name="OneHandedSwordMast" xml:space="preserve">
+    <value>한손검 돛대</value>
+  </data>
+  <data name="OneHandedSwordStren" xml:space="preserve">
+    <value>한손검 스트렌</value>
+  </data>
+  <data name="TwoHandedSwordMast" xml:space="preserve">
+    <value>양손검 돛대</value>
+  </data>
+  <data name="TwoHandedSwordStren" xml:space="preserve">
+    <value>양손검 스트렌</value>
+  </data>
+  <data name="MaximumManaIncrease" xml:space="preserve">
+    <value>최대 마나 증가</value>
+  </data>
+  <data name="MaximumLifeIncrease" xml:space="preserve">
+    <value>최대 생명력 증가</value>
+  </data>
+  <data name="StrikeOfDestrStr" xml:space="preserve">
+    <value>Destr Str의 일격</value>
+  </data>
+  <data name="DeathStabStrengthener" xml:space="preserve">
+    <value>찌르기 강화제</value>
+  </data>
+  <data name="RagefulBlowMastery" xml:space="preserve">
+    <value>분노의 일격 마스터리</value>
+  </data>
+  <data name="RagefulBlowStreng" xml:space="preserve">
+    <value>분노의 일격 강도</value>
+  </data>
+  <data name="TwistingSlashMastery" xml:space="preserve">
+    <value>회오리 베기 마스터리</value>
+  </data>
+  <data name="TwistingSlashStreng" xml:space="preserve">
+    <value>회오리 베기 강도</value>
+  </data>
+  <data name="LungeStrengthener" xml:space="preserve">
+    <value>런지 강화</value>
+  </data>
+  <data name="FallingSlashStreng" xml:space="preserve">
+    <value>떨어지는 슬래시 강도</value>
+  </data>
+  <data name="SlashStrengthener" xml:space="preserve">
+    <value>슬래시 강화</value>
+  </data>
+  <data name="AttackSuccRateInc" xml:space="preserve">
+    <value>공격 성공률 Inc</value>
+  </data>
+  <data name="PvPAttackRate" xml:space="preserve">
+    <value>PvP 공격률</value>
+  </data>
+  <data name="MonsterAttackManaInc" xml:space="preserve">
+    <value>몬스터 어택 마나 주식회사</value>
+  </data>
+  <data name="MonsterAttackLifeInc" xml:space="preserve">
+    <value>몬스터 어택 라이프 Inc</value>
+  </data>
+  <data name="MinimumAttackPowerInc" xml:space="preserve">
+    <value>최소 공격력 Inc</value>
+  </data>
+  <data name="SwellLifeProficiency" xml:space="preserve">
+    <value>스웰 라이프 숙련도</value>
+  </data>
+  <data name="MonsterAttackSDInc" xml:space="preserve">
+    <value>몬스터 어택 SD Inc</value>
+  </data>
+  <data name="ManaReduction" xml:space="preserve">
+    <value>마나 감소</value>
+  </data>
+  <data name="DefenseSuccessRateInc" xml:space="preserve">
+    <value>방어 성공률 Inc</value>
+  </data>
+  <data name="DefenseIncrease" xml:space="preserve">
+    <value>방어력 증가</value>
+  </data>
+  <data name="DurabilityReduction3Name" xml:space="preserve">
+    <value>내구도 감소 (3)</value>
+  </data>
+  <data name="IceResistanceIncrease" xml:space="preserve">
+    <value>얼음 저항력 증가</value>
+  </data>
+  <data name="LightningResistanceInc" xml:space="preserve">
+    <value>라이트닝 레지스탕스 Inc</value>
+  </data>
+  <data name="PoisonResistanceInc" xml:space="preserve">
+    <value>포이즌 레지스탕스 Inc</value>
+  </data>
+  <data name="AutomaticAGRecInc" xml:space="preserve">
+    <value>자동 AG Rec Inc</value>
+  </data>
+  <data name="AutomaticHPRecInc" xml:space="preserve">
+    <value>자동 HP Rec Inc</value>
+  </data>
+  <data name="AutomaticManaRecInc" xml:space="preserve">
+    <value>자동 Mana Rec Inc</value>
+  </data>
+  <data name="SDRecoverySpeedInc" xml:space="preserve">
+    <value>SD 복구 속도 Inc</value>
+  </data>
+  <data name="MaximumSDIncrease" xml:space="preserve">
+    <value>최대 SD 증가</value>
+  </data>
+  <data name="PvPDefenceRateInc" xml:space="preserve">
+    <value>PvP 방어율 Inc</value>
+  </data>
+  <data name="Charge" xml:space="preserve">
+    <value>요금</value>
+  </data>
+  <data name="ShieldBurn" xml:space="preserve">
+    <value>쉴드번</value>
+  </data>
+  <data name="SpellOfPursuit" xml:space="preserve">
+    <value>추적의 주문</value>
+  </data>
+  <data name="SpellOfRestriction" xml:space="preserve">
+    <value>제한의 주문</value>
+  </data>
+  <data name="SpellOfProtection" xml:space="preserve">
+    <value>보호의 주문</value>
+  </data>
+  <data name="PotionOfSoul" xml:space="preserve">
+    <value>영혼의 물약</value>
+  </data>
+  <data name="PotionOfBless" xml:space="preserve">
+    <value>축복의 물약</value>
+  </data>
+  <data name="PhysicalAttackImmunity" xml:space="preserve">
+    <value>물리 공격 면역</value>
+  </data>
+  <data name="MagicAttackImmunity" xml:space="preserve">
+    <value>마법 공격 면역</value>
+  </data>
+  <data name="SummonMonster" xml:space="preserve">
+    <value>몬스터 소환</value>
+  </data>
+  <data name="FireBlast" xml:space="preserve">
+    <value>화염 폭발</value>
+  </data>
+  <data name="ManaRays" xml:space="preserve">
+    <value>마나 광선</value>
+  </data>
+  <data name="AbolishMagic" xml:space="preserve">
+    <value>마법 해제</value>
+  </data>
+  <data name="CancelInvisibility" xml:space="preserve">
+    <value>투명화 취소</value>
+  </data>
+  <data name="Invisibility" xml:space="preserve">
+    <value>투명화</value>
+  </data>
+  <data name="SwellMana" xml:space="preserve">
+    <value>스웰 마나</value>
+  </data>
+  <data name="CancelStun" xml:space="preserve">
+    <value>기절 취소</value>
+  </data>
+  <data name="Stun" xml:space="preserve">
+    <value>기절</value>
+  </data>
+  <data name="SpiralSlash" xml:space="preserve">
+    <value>스파이럴 슬래시</value>
+  </data>
+  <data name="Starfall" xml:space="preserve">
+    <value>별똥별</value>
+  </data>
+  <data name="Lance" xml:space="preserve">
+    <value>랜스</value>
+  </data>
+  <data name="CrescentMoonSlash" xml:space="preserve">
+    <value>초승달 슬래시</value>
+  </data>
+  <data name="NovaStart" xml:space="preserve">
+    <value>노바(시작)</value>
+  </data>
+  <data name="SummonSoldier" xml:space="preserve">
+    <value>병사 소환</value>
+  </data>
+</root>

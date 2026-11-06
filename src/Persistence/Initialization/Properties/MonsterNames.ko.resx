@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <data name="BullFighter" xml:space="preserve"><value>불 파이터</value></data>
+  <data name="Hound" xml:space="preserve"><value>하운드</value></data>
+  <data name="BudgeDragon" xml:space="preserve"><value>버지 드래곤</value></data>
+  <data name="Spider" xml:space="preserve"><value>거미</value></data>
+  <data name="EliteBullFighter" xml:space="preserve"><value>엘리트 불 파이터</value></data>
+  <data name="HellHound" xml:space="preserve"><value>헬하운드</value></data>
+  <data name="Lich" xml:space="preserve"><value>리치</value></data>
+  <data name="Giant" xml:space="preserve"><value>거인</value></data>
+  <data name="PoisonBull" xml:space="preserve"><value>포이즌불</value></data>
+  <data name="ThunderLich" xml:space="preserve"><value>썬더 리치</value></data>
+  <data name="DarkKnight" xml:space="preserve"><value>흑기사</value></data>
+  <data name="Ghost" xml:space="preserve"><value>유령</value></data>
+  <data name="Larva" xml:space="preserve"><value>라바</value></data>
+  <data name="HellSpider" xml:space="preserve"><value>지옥 거미</value></data>
+  <data name="SkeletonWarrior" xml:space="preserve"><value>해골 전사</value></data>
+  <data name="SkeletonArcher" xml:space="preserve"><value>해골 궁수</value></data>
+  <data name="EliteSkeleton" xml:space="preserve"><value>엘리트 스켈레톤</value></data>
+  <data name="Cyclops" xml:space="preserve"><value>사이클롭스</value></data>
+  <data name="Gorgon" xml:space="preserve"><value>고르곤</value></data>
+  <data name="Yeti" xml:space="preserve"><value>예티</value></data>
+  <data name="EliteYeti" xml:space="preserve"><value>엘리트 예티</value></data>
+  <data name="Assassin" xml:space="preserve"><value>암살자</value></data>
+  <data name="IceMonster" xml:space="preserve"><value>아이스 몬스터</value></data>
+  <data name="Hommerd" xml:space="preserve"><value>호머드</value></data>
+  <data name="Worm" xml:space="preserve"><value>웜</value></data>
+  <data name="IceQueen" xml:space="preserve"><value>얼음 여왕</value></data>
+  <data name="Goblin" xml:space="preserve"><value>고블린</value></data>
+  <data name="ChainScorpion" xml:space="preserve"><value>사슬 전갈</value></data>
+  <data name="BeetleMonster" xml:space="preserve"><value>딱정벌레 몬스터</value></data>
+  <data name="Hunter" xml:space="preserve"><value>헌터</value></data>
+  <data name="ForestMonster" xml:space="preserve"><value>숲의 몬스터</value></data>
+  <data name="Agon" xml:space="preserve"><value>아곤</value></data>
+  <data name="StoneGolem" xml:space="preserve"><value>스톤 골렘</value></data>
+  <data name="EliteGoblin" xml:space="preserve"><value>엘리트 고블린</value></data>
+  <data name="CursedWizard" xml:space="preserve"><value>저주받은 마법사</value></data>
+  <data name="DeathGorgon" xml:space="preserve"><value>죽음 고르곤</value></data>
+  <data name="Shadow" xml:space="preserve"><value>쉐도우</value></data>
+  <data name="Devil" xml:space="preserve"><value>악마</value></data>
+  <data name="Balrog" xml:space="preserve"><value>발록</value></data>
+  <data name="PoisonShadow" xml:space="preserve"><value>포이즌 섀도우</value></data>
+  <data name="DeathKnight" xml:space="preserve"><value>데스 나이트</value></data>
+  <data name="DeathCow" xml:space="preserve"><value>죽음의 소</value></data>
+  <data name="Bahamut" xml:space="preserve"><value>바하무트</value></data>
+  <data name="Vepar" xml:space="preserve"><value>베파르</value></data>
+  <data name="Valkyrie" xml:space="preserve"><value>발키리</value></data>
+  <data name="LizardKing" xml:space="preserve"><value>도마뱀 왕</value></data>
+  <data name="Hydra" xml:space="preserve"><value>히드라</value></data>
+  <data name="GreatBahamut" xml:space="preserve"><value>그레이트 바하무트</value></data>
+  <data name="SilverValkyrie" xml:space="preserve"><value>실버 발키리</value></data>
+  <data name="IronWheel" xml:space="preserve"><value>아이언 휠</value></data>
+  <data name="Tantallos" xml:space="preserve"><value>탄탈로스</value></data>
+  <data name="Zaikan" xml:space="preserve"><value>자이칸</value></data>
+  <data name="BloodyWolf" xml:space="preserve"><value>블러디 울프</value></data>
+  <data name="BeamKnight" xml:space="preserve"><value>빔 나이트</value></data>
+  <data name="Mutant" xml:space="preserve"><value>돌연변이</value></data>
+  <data name="DeathBeamKnight" xml:space="preserve"><value>데스빔 나이트</value></data>
+  <data name="Alquamos" xml:space="preserve"><value>알파모스</value></data>
+  <data name="QueenRainer" xml:space="preserve"><value>퀸 라이너</value></data>
+  <data name="MegaCrust" xml:space="preserve"><value>메가 크러스트</value></data>
+  <data name="PhantomKnight" xml:space="preserve"><value>팬텀 나이트</value></data>
+  <data name="Drakan" xml:space="preserve"><value>드라칸</value></data>
+  <data name="AlphaCrust" xml:space="preserve"><value>알파 크러스트</value></data>
+  <data name="GreatDrakan" xml:space="preserve"><value>그레이트 드라칸</value></data>
+  <data name="DarkPhoenixShield" xml:space="preserve"><value>다크 피닉스 쉴드</value></data>
+  <data name="DarkPhoenix" xml:space="preserve"><value>다크 피닉스</value></data>
+  <data name="DeathAngel1" xml:space="preserve"><value>데스 엔젤 1</value></data>
+  <data name="DeathCenturion1" xml:space="preserve"><value>데스 센츄리온 1</value></data>
+  <data name="BloodSoldier1" xml:space="preserve"><value>혈병 1</value></data>
+  <data name="Aegis1" xml:space="preserve"><value>이지스 1</value></data>
+  <data name="RogueCenturion1" xml:space="preserve"><value>불량 백부장 1</value></data>
+  <data name="Necron1" xml:space="preserve"><value>네크론 1</value></data>
+  <data name="GateToKalima1OfPlayer" xml:space="preserve"><value>{0}의 칼리마 1 게이트</value></data>
+  <data name="GateToKalima2OfPlayer" xml:space="preserve"><value>{0}의 칼리마 2 게이트</value></data>
+  <data name="GateToKalima3OfPlayer" xml:space="preserve"><value>{0}의 칼리마 3 게이트</value></data>
+  <data name="GateToKalima4OfPlayer" xml:space="preserve"><value>{0}의 칼리마 4 게이트</value></data>
+  <data name="GateToKalima5OfPlayer" xml:space="preserve"><value>{0}의 칼리마 5 게이트</value></data>
+  <data name="GateToKalima6OfPlayer" xml:space="preserve"><value>{0}의 칼리마 6 게이트</value></data>
+  <data name="GateToKalima7OfPlayer" xml:space="preserve"><value>{0}의 칼리마 7 게이트</value></data>
+  <data name="Schriker1" xml:space="preserve"><value>슈라이커 1</value></data>
+  <data name="IllusionOfKundun1" xml:space="preserve"><value>쿤둔 1의 환상</value></data>
+  <data name="DeathAngel2" xml:space="preserve"><value>데스 엔젤 2</value></data>
+  <data name="DeathCenturion2" xml:space="preserve"><value>데스 센츄리온 2</value></data>
+  <data name="BloodSoldier2" xml:space="preserve"><value>혈병 2</value></data>
+  <data name="Aegis2" xml:space="preserve"><value>이지스 2</value></data>
+  <data name="RogueCenturion2" xml:space="preserve"><value>불량 센츄리온 2</value></data>
+  <data name="Necron2" xml:space="preserve"><value>네크론 2</value></data>
+  <data name="Schriker2" xml:space="preserve"><value>슈라이커 2</value></data>
+  <data name="IllusionOfKundun2" xml:space="preserve"><value>쿤둔 2의 환상</value></data>
+  <data name="DeathAngel3" xml:space="preserve"><value>데스 엔젤 3</value></data>
+  <data name="DeathCenturion3" xml:space="preserve"><value>데스 센츄리온 3</value></data>
+  <data name="BloodSoldier3" xml:space="preserve"><value>피의 병사 3</value></data>
+  <data name="Aegis3" xml:space="preserve"><value>이지스 3</value></data>
+  <data name="RogueCenturion3" xml:space="preserve"><value>불량 센츄리온 3</value></data>
+  <data name="Necron3" xml:space="preserve"><value>네크론 3</value></data>
+  <data name="Schriker3" xml:space="preserve"><value>슈라이커 3</value></data>
+  <data name="IllusionOfKundun3" xml:space="preserve"><value>쿤둔 3의 환상</value></data>
+  <data name="DeathAngel4" xml:space="preserve"><value>데스 엔젤 4</value></data>
+  <data name="DeathCenturion4" xml:space="preserve"><value>데스 센츄리온 4</value></data>
+  <data name="BloodSoldier4" xml:space="preserve"><value>혈병 4</value></data>
+  <data name="Aegis4" xml:space="preserve"><value>이지스 4</value></data>
+  <data name="RogueCenturion4" xml:space="preserve"><value>불량 센츄리온 4</value></data>
+  <data name="Necron4" xml:space="preserve"><value>네크론 4</value></data>
+  <data name="Schriker4" xml:space="preserve"><value>슈라이커 4</value></data>
+  <data name="IllusionOfKundun4" xml:space="preserve"><value>쿤둔의 환상 4</value></data>
+  <data name="WolfStatus" xml:space="preserve"><value>늑대 상태</value></data>
+  <data name="WolfAltar1" xml:space="preserve"><value>늑대 제단1</value></data>
+  <data name="WolfAltar2" xml:space="preserve"><value>늑대 제단2</value></data>
+  <data name="WolfAltar3" xml:space="preserve"><value>늑대 제단3</value></data>
+  <data name="WolfAltar4" xml:space="preserve"><value>늑대 제단4</value></data>
+  <data name="WolfAltar5" xml:space="preserve"><value>늑대 제단5</value></data>
+  <data name="Senior" xml:space="preserve"><value>시니어</value></data>
+  <data name="Guardsman" xml:space="preserve"><value>근위병</value></data>
+  <data name="PetTrainer" xml:space="preserve"><value>펫 조련사</value></data>
+  <data name="Marlon" xml:space="preserve"><value>말론</value></data>
+  <data name="MessengerOfArch" xml:space="preserve"><value>아치의 메신저.</value></data>
+  <data name="SevinaThePriestess" xml:space="preserve"><value>여사제 세비나</value></data>
+  <data name="Charon" xml:space="preserve"><value>카론</value></data>
+  <data name="ChaosGoblin" xml:space="preserve"><value>카오스 고블린</value></data>
+  <data name="BazTheVaultKeeper" xml:space="preserve"><value>바즈 금고지기</value></data>
+  <data name="GuildMaster" xml:space="preserve"><value>길드 마스터</value></data>
+  <data name="Lahap" xml:space="preserve"><value>라합</value></data>
+  <data name="ElfSoldier" xml:space="preserve"><value>엘프 병사</value></data>
+  <data name="DeathAngel5" xml:space="preserve"><value>데스 엔젤 5</value></data>
+  <data name="DeathCenturion5" xml:space="preserve"><value>데스 센츄리온 5</value></data>
+  <data name="BloodSoldier5" xml:space="preserve"><value>혈병 5</value></data>
+  <data name="Aegis5" xml:space="preserve"><value>이지스 5</value></data>
+  <data name="RogueCenturion5" xml:space="preserve"><value>불량 센츄리온 5</value></data>
+  <data name="Necron5" xml:space="preserve"><value>네크론 5</value></data>
+  <data name="Schriker5" xml:space="preserve"><value>슈라이커 5</value></data>
+  <data name="IllusionOfKundun5" xml:space="preserve"><value>쿤둔 5의 환상</value></data>
+  <data name="DeathAngel6" xml:space="preserve"><value>데스 엔젤 6</value></data>
+  <data name="DeathCenturion6" xml:space="preserve"><value>데스 센츄리온 6</value></data>
+  <data name="BloodSoldier6" xml:space="preserve"><value>혈병 6</value></data>
+  <data name="Aegis6" xml:space="preserve"><value>이지스 6</value></data>
+  <data name="RogueCenturion6" xml:space="preserve"><value>불량 센츄리온 6</value></data>
+  <data name="Necron6" xml:space="preserve"><value>네크론 6</value></data>
+  <data name="Schriker6" xml:space="preserve"><value>슈라이커 6</value></data>
+  <data name="IllusionOfKundun7" xml:space="preserve"><value>쿤둔의 환상 7</value></data>
+  <data name="CastleGate1" xml:space="preserve"><value>캐슬 게이트1</value></data>
+  <data name="LifeStone" xml:space="preserve"><value>생명의 돌</value></data>
+  <data name="GuardianStatue" xml:space="preserve"><value>수호 조각상</value></data>
+  <data name="CanonTower" xml:space="preserve"><value>캐논 타워</value></data>
+  <data name="LizardWarrior" xml:space="preserve"><value>도마뱀 전사</value></data>
+  <data name="FireGolem" xml:space="preserve"><value>불 골렘</value></data>
+  <data name="QueenBee" xml:space="preserve"><value>여왕벌</value></data>
+  <data name="PoisonGolem" xml:space="preserve"><value>포이즌 골렘</value></data>
+  <data name="AxeWarrior" xml:space="preserve"><value>도끼전사</value></data>
+  <data name="Erohim" xml:space="preserve"><value>에로힘</value></data>
+  <data name="WitchQueen" xml:space="preserve"><value>마녀 여왕</value></data>
+  <data name="BlueGolem" xml:space="preserve"><value>블루 골렘</value></data>
+  <data name="DeathRider" xml:space="preserve"><value>데스 라이더</value></data>
+  <data name="ForestOrc" xml:space="preserve"><value>포레스트 오크</value></data>
+  <data name="DeathTree" xml:space="preserve"><value>죽음의 나무</value></data>
+  <data name="HellMaine" xml:space="preserve"><value>헬 메인</value></data>
+  <data name="HammerScout" xml:space="preserve"><value>해머 스카우트</value></data>
+  <data name="LanceScout" xml:space="preserve"><value>랜스 스카우트</value></data>
+  <data name="BowScout" xml:space="preserve"><value>활 스카우트</value></data>
+  <data name="Werewolf" xml:space="preserve"><value>늑대인간</value></data>
+  <data name="ScoutHero" xml:space="preserve"><value>스카우트(영웅)</value></data>
+  <data name="WerewolfHero" xml:space="preserve"><value>늑대인간(영웅)</value></data>
+  <data name="Balram" xml:space="preserve"><value>발람</value></data>
+  <data name="Soram" xml:space="preserve"><value>소람</value></data>
+  <data name="Aegis7" xml:space="preserve"><value>이지스 7</value></data>
+  <data name="RogueCenturion7" xml:space="preserve"><value>로그 센츄리온 7</value></data>
+  <data name="BloodSoldier7" xml:space="preserve"><value>혈병 7</value></data>
+  <data name="DeathAngel7" xml:space="preserve"><value>데스 엔젤 7</value></data>
+  <data name="Necron7" xml:space="preserve"><value>네크론 7</value></data>
+  <data name="DeathCenturion7" xml:space="preserve"><value>데스 센츄리온 7</value></data>
+  <data name="Schriker7" xml:space="preserve"><value>슈라이커 7</value></data>
+  <data name="IllusionOfKundun6" xml:space="preserve"><value>쿤둔의 환상 6</value></data>
+  <data name="Berserker" xml:space="preserve"><value>버서커</value></data>
+  <data name="SplinterWolf" xml:space="preserve"><value>스플린터 울프</value></data>
+  <data name="IronRider" xml:space="preserve"><value>아이언 라이더</value></data>
+  <data name="Satyros" xml:space="preserve"><value>사티로스</value></data>
+  <data name="BladeHunter" xml:space="preserve"><value>블레이드 헌터</value></data>
+  <data name="Kentauros" xml:space="preserve"><value>켄타우로스</value></data>
+  <data name="Gigantis" xml:space="preserve"><value>기간티스</value></data>
+  <data name="Genocider" xml:space="preserve"><value>대량 학살자</value></data>
+  <data name="Persona" xml:space="preserve"><value>페르소나</value></data>
+  <data name="TwinTale" xml:space="preserve"><value>트윈 테일</value></data>
+  <data name="Dreadfear" xml:space="preserve"><value>공포의 공포</value></data>
+  <data name="Nightmare" xml:space="preserve"><value>악몽</value></data>
+  <data name="MayaHandLeft" xml:space="preserve"><value>마야(왼쪽 손)</value></data>
+  <data name="MayaHandRight" xml:space="preserve"><value>마야(오른쪽 손)</value></data>
+  <data name="Maya" xml:space="preserve"><value>마야</value></data>
+  <data name="GatewayMachine" xml:space="preserve"><value>게이트웨이 머신</value></data>
+  <data name="Elphis" xml:space="preserve"><value>엘피스</value></data>
+  <data name="Osbourne" xml:space="preserve"><value>오스본</value></data>
+  <data name="Jerridon" xml:space="preserve"><value>제리돈</value></data>
+  <data name="ChaosCardMaster" xml:space="preserve"><value>카오스 카드 마스터</value></data>
+  <data name="Mirage" xml:space="preserve"><value>신기루</value></data>
+  <data name="PriestDevin" xml:space="preserve"><value>사제 데빈</value></data>
+  <data name="WerewolfQuarrel" xml:space="preserve"><value>늑대인간 싸움</value></data>
+  <data name="BalramTraineeSoldier" xml:space="preserve"><value>발람(훈련병)</value></data>
+  <data name="DeathSpiritTraineeSoldier" xml:space="preserve"><value>죽음의 정령(훈련병)</value></data>
+  <data name="SoramTraineeSoldier" xml:space="preserve"><value>소람(훈련병)</value></data>
+  <data name="DarkElfTraineeSoldier" xml:space="preserve"><value>다크엘프(수련병)</value></data>
+  <data name="StrangeRabbit" xml:space="preserve"><value>이상한 토끼</value></data>
+  <data name="PollutedButterfly" xml:space="preserve"><value>오염된 나비</value></data>
+  <data name="HideousRabbit" xml:space="preserve"><value>흉측한 토끼</value></data>
+  <data name="Werewolf421" xml:space="preserve"><value>늑대인간</value></data>
+  <data name="CursedLich" xml:space="preserve"><value>저주받은 리치</value></data>
+  <data name="TotemGolem" xml:space="preserve"><value>토템 골렘</value></data>
+  <data name="Grizzly" xml:space="preserve"><value>그리즐리</value></data>
+  <data name="CaptainGrizzly" xml:space="preserve"><value>그리즐리 선장</value></data>
+  <data name="Gigantis434" xml:space="preserve"><value>기간티스</value></data>
+  <data name="Berserk" xml:space="preserve"><value>베르세르크</value></data>
+  <data name="BalramTrainee" xml:space="preserve"><value>발람 (연습생)</value></data>
+  <data name="SoramTrainee" xml:space="preserve"><value>소람 (연습생)</value></data>
+  <data name="Persona438" xml:space="preserve"><value>페르소나</value></data>
+  <data name="Dreadfear439" xml:space="preserve"><value>공포의 공포</value></data>
+  <data name="DarkElf" xml:space="preserve"><value>다크 엘프</value></data>
+  <data name="SapiUnus" xml:space="preserve"><value>사피우누스</value></data>
+  <data name="SapiDuo" xml:space="preserve"><value>사피듀오</value></data>
+  <data name="SapiTres" xml:space="preserve"><value>사피트레</value></data>
+  <data name="ShadowPawn" xml:space="preserve"><value>섀도우 폰</value></data>
+  <data name="ShadowKnight" xml:space="preserve"><value>그림자 기사</value></data>
+  <data name="ShadowLook" xml:space="preserve"><value>섀도우 룩</value></data>
+  <data name="ThunderNapin" xml:space="preserve"><value>썬더 네이핀</value></data>
+  <data name="GhostNapin" xml:space="preserve"><value>고스트 네이핀</value></data>
+  <data name="BlazeNapin" xml:space="preserve"><value>블레이즈 네이핀</value></data>
+  <data name="SeedMaster" xml:space="preserve"><value>시드마스터</value></data>
+  <data name="SeedResearcher" xml:space="preserve"><value>종자연구원</value></data>
+  <data name="IceWalker" xml:space="preserve"><value>아이스워커</value></data>
+  <data name="GiantMammoth" xml:space="preserve"><value>거대 매머드</value></data>
+  <data name="IceGiant" xml:space="preserve"><value>얼음 거인</value></data>
+  <data name="Coolutin" xml:space="preserve"><value>쿨루틴</value></data>
+  <data name="IronKnight" xml:space="preserve"><value>아이언 나이트</value></data>
+  <data name="Selupan" xml:space="preserve"><value>셀루판</value></data>
+  <data name="ZombieFighter" xml:space="preserve"><value>좀비 파이터</value></data>
+  <data name="ZombieFighter481" xml:space="preserve"><value>좀비 파이터</value></data>
+  <data name="ResurrectedGladiator" xml:space="preserve"><value>부활한 검투사</value></data>
+  <data name="ResurrectedGladiator483" xml:space="preserve"><value>부활한 검투사</value></data>
+  <data name="AshSlaughterer" xml:space="preserve"><value>재 학살자</value></data>
+  <data name="AshSlaughterer485" xml:space="preserve"><value>재 학살자</value></data>
+  <data name="BloodAssassin" xml:space="preserve"><value>피의 암살자</value></data>
+  <data name="CruelBloodAssassin" xml:space="preserve"><value>잔혹한 피의 암살자</value></data>
+  <data name="CruelBloodAssassin488" xml:space="preserve"><value>잔혹한 피의 암살자</value></data>
+  <data name="BurningLavaGiant" xml:space="preserve"><value>불타는 용암 거인</value></data>
+  <data name="RuthlessLavaGiant" xml:space="preserve"><value>무자비한 용암 거인</value></data>
+  <data name="RuthlessLavaGiant491" xml:space="preserve"><value>무자비한 용암 거인</value></data>
+  <data name="MossTheMerchant" xml:space="preserve"><value>상인 이끼</value></data>
+  <data name="AdviserJerinteu" xml:space="preserve"><value>고문 제린트</value></data>
+  <data name="TerribleButcher" xml:space="preserve"><value>끔찍한 정육점</value></data>
+  <data name="MadButcher" xml:space="preserve"><value>미친 정육점</value></data>
+  <data name="IceWalker531" xml:space="preserve"><value>아이스워커</value></data>
+  <data name="Larva532" xml:space="preserve"><value>라바</value></data>
+  <data name="DoppelgangerElf" xml:space="preserve"><value>도플갱어 엘프</value></data>
+  <data name="DoppelgangerKnight" xml:space="preserve"><value>도플갱어 기사</value></data>
+  <data name="DoppelgangerWizard" xml:space="preserve"><value>도플갱어 마법사</value></data>
+  <data name="DoppelgangerMagicGladiator" xml:space="preserve"><value>도플갱어 마검사</value></data>
+  <data name="DoppelgangerDarkLord" xml:space="preserve"><value>도플갱어 다크로드</value></data>
+  <data name="DoppelgangerSummoner" xml:space="preserve"><value>도플갱어 소환술사</value></data>
+  <data name="Lugard" xml:space="preserve"><value>루가드</value></data>
+  <data name="BloodyOrc" xml:space="preserve"><value>블러디 오크</value></data>
+  <data name="BloodyDeathRider" xml:space="preserve"><value>블러디 데스 라이더</value></data>
+  <data name="BloodyGolem" xml:space="preserve"><value>블러디 골렘</value></data>
+  <data name="BloodyWitchQueen" xml:space="preserve"><value>블러디 위치 퀸</value></data>
+  <data name="BerserkerWarrior" xml:space="preserve"><value>버서커 워리어</value></data>
+  <data name="KentaurosWarrior" xml:space="preserve"><value>켄타우로스 전사</value></data>
+  <data name="GigantisWarrior" xml:space="preserve"><value>기간티스 전사</value></data>
+  <data name="GenociderWarrior" xml:space="preserve"><value>학살 전사</value></data>
+  <data name="SapiQueen" xml:space="preserve"><value>사피 퀸</value></data>
+  <data name="DarkMammoth" xml:space="preserve"><value>다크 매머드</value></data>
+  <data name="DarkGiant" xml:space="preserve"><value>암흑거인</value></data>
+  <data name="DarkCoolutin" xml:space="preserve"><value>다크쿨루틴</value></data>
+  <data name="DarkIronKnight" xml:space="preserve"><value>검은무쇠기사</value></data>
+  <data name="VenomousChainScorpion" xml:space="preserve"><value>맹독 사슬 전갈</value></data>
+  <data name="BoneScorpion" xml:space="preserve"><value>뼈 전갈</value></data>
+  <data name="Orcus" xml:space="preserve"><value>오르쿠스</value></data>
+  <data name="Gollock" xml:space="preserve"><value>골록</value></data>
+  <data name="Crypta" xml:space="preserve"><value>크립타</value></data>
+  <data name="Crypos" xml:space="preserve"><value>크리포스</value></data>
+  <data name="Condra" xml:space="preserve"><value>콘드라</value></data>
+  <data name="Narcondra" xml:space="preserve"><value>나콘드라</value></data>
+  <data name="David" xml:space="preserve"><value>데이비드</value></data>
+  <data name="MeteoriteTrap" xml:space="preserve">
+    <value>운석 함정</value>
+  </data>
+  <data name="CrossbowGuard" xml:space="preserve">
+    <value>석궁 가드</value>
+  </data>
+  <data name="LanceTrap" xml:space="preserve">
+    <value>랜스 트랩</value>
+  </data>
+  <data name="FireTrap" xml:space="preserve">
+    <value>화재 트랩</value>
+  </data>
+  <data name="IronStickTrap" xml:space="preserve">
+    <value>철제 함정</value>
+  </data>
+  <data name="BerdyshGuard" xml:space="preserve">
+    <value>베르디시 경비대</value>
+  </data>
+  <data name="SeaWorm" xml:space="preserve">
+    <value>바다벌레</value>
+  </data>
+  <data name="Soccerball" xml:space="preserve">
+    <value>축구공</value>
+  </data>
+  <data name="ArenaGuard" xml:space="preserve">
+    <value>투기장 경비대</value>
+  </data>
+  <data name="Bali" xml:space="preserve">
+    <value>발리</value>
+  </data>
+  <data name="GoldenArcher" xml:space="preserve">
+    <value>황금 궁수</value>
+  </data>
+  <data name="CursedKing" xml:space="preserve">
+    <value>저주받은 왕</value>
+  </data>
+  <data name="EliteOrc" xml:space="preserve">
+    <value>엘리트 오크</value>
+  </data>
+  <data name="OrcArcher" xml:space="preserve">
+    <value>오크 궁수</value>
+  </data>
+  <data name="MetalBalrog" xml:space="preserve">
+    <value>메탈 발로그</value>
+  </data>
+  <data name="RedDragon" xml:space="preserve">
+    <value>레드 드래곤</value>
+  </data>
+  <data name="GoldenTitan" xml:space="preserve">
+    <value>골든 타이탄</value>
+  </data>
+  <data name="GoldenSoldier" xml:space="preserve">
+    <value>황금병사</value>
+  </data>
+  <data name="GoldenBudgeDragon" xml:space="preserve">
+    <value>골든 버지 드래곤</value>
+  </data>
+  <data name="LaserTrap" xml:space="preserve">
+    <value>레이저 트랩</value>
+  </data>
+  <data name="CanonTrap" xml:space="preserve">
+    <value>캐논 트랩</value>
+  </data>
+  <data name="CherryBlossomTree" xml:space="preserve">
+    <value>벚꽃나무</value>
+  </data>
+  <data name="CherryBlossomSpirit" xml:space="preserve">
+    <value>벚꽃 정신</value>
+  </data>
+  <data name="GensVanert" xml:space="preserve">
+    <value>젠스 바네르트</value>
+  </data>
+  <data name="SpiderEggs2" xml:space="preserve">
+    <value>거미 알 2</value>
+  </data>
+  <data name="SpiderEggs1" xml:space="preserve">
+    <value>거미 알 1</value>
+  </data>
+  <data name="SpiderEggs3" xml:space="preserve">
+    <value>거미 알 3</value>
+  </data>
+  <data name="WanderingMerchantZyro" xml:space="preserve">
+    <value>떠돌이 상인 자이로</value>
+  </data>
+  <data name="FireworksGirl" xml:space="preserve">
+    <value>불꽃놀이 소녀</value>
+  </data>
+  <data name="MercenaryGuildFelicia" xml:space="preserve">
+    <value>용병 길드 펠리시아</value>
+  </data>
+  <data name="DelgadoLuckyCoins" xml:space="preserve">
+    <value>델가도 - 행운의 동전</value>
+  </data>
+  <data name="AngelaTheSupplier" xml:space="preserve">
+    <value>공급자 안젤라</value>
+  </data>
+  <data name="PamelaTheSupplier" xml:space="preserve">
+    <value>공급업체 파멜라</value>
+  </data>
+  <data name="Guard" xml:space="preserve">
+    <value>가드</value>
+  </data>
+  <data name="CrownSwitch2" xml:space="preserve">
+    <value>크라운 스위치2</value>
+  </data>
+  <data name="CrownSwitch1" xml:space="preserve">
+    <value>크라운 스위치1</value>
+  </data>
+  <data name="Crown" xml:space="preserve">
+    <value>크라운</value>
+  </data>
+  <data name="MarketUnionMemberJulia" xml:space="preserve">
+    <value>시장연합 회원 줄리아</value>
+  </data>
+  <data name="LeoTheHelper" xml:space="preserve">
+    <value>도우미 레오</value>
+  </data>
+  <data name="GensDuprian" xml:space="preserve">
+    <value>젠스 듀프리안</value>
+  </data>
+  <data name="SlingshotDefense" xml:space="preserve">
+    <value>새총 방어</value>
+  </data>
+  <data name="SlingshotAttack" xml:space="preserve">
+    <value>새총 공격</value>
+  </data>
+  <data name="CastleGateSwitch" xml:space="preserve">
+    <value>캐슬 게이트 스위치</value>
+  </data>
+  <data name="GatekeeperTitus" xml:space="preserve">
+    <value>문지기 티투스</value>
+  </data>
+  <data name="Trap" xml:space="preserve">
+    <value>함정</value>
+  </data>
+  <data name="Statue" xml:space="preserve">
+    <value>동상</value>
+  </data>
+  <data name="RushGate" xml:space="preserve">
+    <value>러시 게이트</value>
+  </data>
+  <data name="StarGate" xml:space="preserve">
+    <value>스타 게이트</value>
+  </data>
+  <data name="GayionTheGladiator" xml:space="preserve">
+    <value>검투사 가이온</value>
+  </data>
+  <data name="Forsaker" xml:space="preserve">
+    <value>포세이커</value>
+  </data>
+  <data name="Defender" xml:space="preserve">
+    <value>수비수</value>
+  </data>
+  <data name="EricTheGuard" xml:space="preserve">
+    <value>경비병 에릭</value>
+  </data>
+  <data name="Jerry" xml:space="preserve">
+    <value>제리</value>
+  </data>
+  <data name="Raymond" xml:space="preserve">
+    <value>레이먼드</value>
+  </data>
+  <data name="Lucas" xml:space="preserve">
+    <value>루카스</value>
+  </data>
+  <data name="LionGate" xml:space="preserve">
+    <value>라이온 게이트</value>
+  </data>
+  <data name="EvilGate" xml:space="preserve">
+    <value>이블 게이트</value>
+  </data>
+  <data name="HeadMounter" xml:space="preserve">
+    <value>헤드 마운터</value>
+  </data>
+  <data name="Banshee" xml:space="preserve">
+    <value>밴시</value>
+  </data>
+  <data name="OcelotTheLord" xml:space="preserve">
+    <value>오셀롯 주님</value>
+  </data>
+  <data name="DualBerserker" xml:space="preserve">
+    <value>듀얼 버서커</value>
+  </data>
+  <data name="DarkGhost" xml:space="preserve">
+    <value>다크 고스트</value>
+  </data>
+  <data name="AticlesHead" xml:space="preserve">
+    <value>아티클의 머리</value>
+  </data>
+  <data name="Hammerize" xml:space="preserve">
+    <value>해머라이즈</value>
+  </data>
+  <data name="DevilLord" xml:space="preserve">
+    <value>마왕</value>
+  </data>
+  <data name="CombatInstructor" xml:space="preserve">
+    <value>전투 교관</value>
+  </data>
+  <data name="QuarterMaster" xml:space="preserve">
+    <value>쿼터 마스터</value>
+  </data>
+  <data name="Fred" xml:space="preserve">
+    <value>프레드</value>
+  </data>
+  <data name="ChaosCastle14" xml:space="preserve">
+    <value>카오스 캐슬 14</value>
+  </data>
+  <data name="ChaosCastle13" xml:space="preserve">
+    <value>카오스 캐슬 13</value>
+  </data>
+  <data name="ChaosCastle12" xml:space="preserve">
+    <value>카오스 캐슬 12</value>
+  </data>
+  <data name="ChaosCastle11" xml:space="preserve">
+    <value>카오스 캐슬 11</value>
+  </data>
+  <data name="ChaosCastle10" xml:space="preserve">
+    <value>카오스 캐슬 10</value>
+  </data>
+  <data name="ChaosCastle9" xml:space="preserve">
+    <value>카오스 캐슬 9</value>
+  </data>
+  <data name="ChaosCastle8" xml:space="preserve">
+    <value>카오스 캐슬 8</value>
+  </data>
+  <data name="ChaosCastle7" xml:space="preserve">
+    <value>카오스 캐슬 7</value>
+  </data>
+  <data name="ChaosCastle6" xml:space="preserve">
+    <value>카오스 캐슬 6</value>
+  </data>
+  <data name="ChaosCastle5" xml:space="preserve">
+    <value>카오스 캐슬 5</value>
+  </data>
+  <data name="ChaosCastle4" xml:space="preserve">
+    <value>카오스 캐슬 4</value>
+  </data>
+  <data name="ChaosCastle3" xml:space="preserve">
+    <value>카오스 캐슬 3</value>
+  </data>
+  <data name="ChaosCastle2" xml:space="preserve">
+    <value>카오스 캐슬 2</value>
+  </data>
+  <data name="ChaosCastle1" xml:space="preserve">
+    <value>카오스 캐슬 1</value>
+  </data>
+  <data name="MagicSkeleton8" xml:space="preserve">
+    <value>매직 스켈레톤 8</value>
+  </data>
+  <data name="RedSkeletonKnight8" xml:space="preserve">
+    <value>붉은 해골기사 8</value>
+  </data>
+  <data name="GiantOgre8" xml:space="preserve">
+    <value>거대 오우거 8</value>
+  </data>
+  <data name="DarkSkullSoldier8" xml:space="preserve">
+    <value>다크 스컬 솔저 8</value>
+  </data>
+  <data name="ChiefSkeletonArcher8" xml:space="preserve">
+    <value>치프 스켈레톤 아처 8</value>
+  </data>
+  <data name="ChiefSkeletonWarrior8" xml:space="preserve">
+    <value>수석 해골 전사 8</value>
+  </data>
+  <data name="Archangel" xml:space="preserve">
+    <value>대천사</value>
+  </data>
+  <data name="CastleGate" xml:space="preserve">
+    <value>캐슬 게이트</value>
+  </data>
+  <data name="StatueOfSaint" xml:space="preserve">
+    <value>성자의 동상</value>
+  </data>
+  <data name="MagicSkeleton7" xml:space="preserve">
+    <value>매직 스켈레톤 7</value>
+  </data>
+  <data name="RedSkeletonKnight7" xml:space="preserve">
+    <value>붉은 해골기사 7</value>
+  </data>
+  <data name="GiantOgre7" xml:space="preserve">
+    <value>거대 오우거 7</value>
+  </data>
+  <data name="DarkSkullSoldier7" xml:space="preserve">
+    <value>다크 스컬 솔저 7</value>
+  </data>
+  <data name="ChiefSkeletonArcher7" xml:space="preserve">
+    <value>치프 스켈레톤 아처 7</value>
+  </data>
+  <data name="ChiefSkeletonWarrior7" xml:space="preserve">
+    <value>수석 해골 전사 7</value>
+  </data>
+  <data name="MagicSkeleton6" xml:space="preserve">
+    <value>매직 스켈레톤 6</value>
+  </data>
+  <data name="RedSkeletonKnight6" xml:space="preserve">
+    <value>붉은 해골 기사 6</value>
+  </data>
+  <data name="GiantOgre6" xml:space="preserve">
+    <value>거대 오우거 6</value>
+  </data>
+  <data name="DarkSkullSoldier6" xml:space="preserve">
+    <value>다크 스컬 솔저 6</value>
+  </data>
+  <data name="ChiefSkeletonArcher6" xml:space="preserve">
+    <value>수석 스켈레톤 아처 6</value>
+  </data>
+  <data name="ChiefSkeletonWarrior6" xml:space="preserve">
+    <value>수석 해골 전사 6</value>
+  </data>
+  <data name="MagicSkeleton5" xml:space="preserve">
+    <value>매직 스켈레톤 5</value>
+  </data>
+  <data name="RedSkeletonKnight5" xml:space="preserve">
+    <value>붉은 해골기사 5</value>
+  </data>
+  <data name="GiantOgre5" xml:space="preserve">
+    <value>거대 오우거 5</value>
+  </data>
+  <data name="DarkSkullSoldier5" xml:space="preserve">
+    <value>다크 스컬 솔저 5</value>
+  </data>
+  <data name="ChiefSkeletonArcher5" xml:space="preserve">
+    <value>수석 스켈레톤 아처 5</value>
+  </data>
+  <data name="ChiefSkeletonWarrior5" xml:space="preserve">
+    <value>수석 해골 전사 5</value>
+  </data>
+  <data name="MagicSkeleton4" xml:space="preserve">
+    <value>매직 스켈레톤 4</value>
+  </data>
+  <data name="RedSkeletonKnight4" xml:space="preserve">
+    <value>붉은 해골 기사 4</value>
+  </data>
+  <data name="GiantOgre4" xml:space="preserve">
+    <value>자이언트 오우거 4</value>
+  </data>
+  <data name="DarkSkullSoldier4" xml:space="preserve">
+    <value>다크 스컬 솔져 4</value>
+  </data>
+  <data name="ChiefSkeletonArcher4" xml:space="preserve">
+    <value>치프 스켈레톤 아처 4</value>
+  </data>
+  <data name="ChiefSkeletonWarrior4" xml:space="preserve">
+    <value>수석 해골 전사 4</value>
+  </data>
+  <data name="MagicSkeleton3" xml:space="preserve">
+    <value>매직 스켈레톤 3</value>
+  </data>
+  <data name="RedSkeletonKnight3" xml:space="preserve">
+    <value>붉은 해골 기사 3</value>
+  </data>
+  <data name="GiantOgre3" xml:space="preserve">
+    <value>자이언트 오우거 3</value>
+  </data>
+  <data name="DarkSkullSoldier3" xml:space="preserve">
+    <value>다크 스컬 솔저 3</value>
+  </data>
+  <data name="ChiefSkeletonArcher3" xml:space="preserve">
+    <value>치프 스켈레톤 아처 3</value>
+  </data>
+  <data name="ChiefSkeletonWarrior3" xml:space="preserve">
+    <value>최고 해골 전사 3</value>
+  </data>
+  <data name="MagicSkeleton2" xml:space="preserve">
+    <value>매직 스켈레톤 2</value>
+  </data>
+  <data name="RedSkeletonKnight2" xml:space="preserve">
+    <value>붉은 해골 기사 2</value>
+  </data>
+  <data name="GiantOgre2" xml:space="preserve">
+    <value>자이언트 오우거 2</value>
+  </data>
+  <data name="DarkSkullSoldier2" xml:space="preserve">
+    <value>다크 스컬 솔저 2</value>
+  </data>
+  <data name="ChiefSkeletonArcher2" xml:space="preserve">
+    <value>수석 해골 궁수 2</value>
+  </data>
+  <data name="ChiefSkeletonWarrior2" xml:space="preserve">
+    <value>최고 해골 전사 2</value>
+  </data>
+  <data name="MagicSkeleton1" xml:space="preserve">
+    <value>마법의 해골 1</value>
+  </data>
+  <data name="RedSkeletonKnight1" xml:space="preserve">
+    <value>붉은 해골 기사 1</value>
+  </data>
+  <data name="GiantOgre1" xml:space="preserve">
+    <value>거대 오우거 1</value>
+  </data>
+  <data name="DarkSkullSoldier1" xml:space="preserve">
+    <value>다크 스컬 솔저 1</value>
+  </data>
+  <data name="ChiefSkeletonArcher1" xml:space="preserve">
+    <value>수석 해골 궁수 1</value>
+  </data>
+  <data name="ChiefSkeletonWarrior1" xml:space="preserve">
+    <value>수석 해골 전사 1</value>
+  </data>
+  <data name="Doppelganger" xml:space="preserve">
+    <value>도플갱어</value>
+  </data>
+  <data name="ShadowMaster" xml:space="preserve">
+    <value>섀도우 마스터</value>
+  </data>
+  <data name="IceNapin" xml:space="preserve">
+    <value>아이스냅핀</value>
+  </data>
+  <data name="DestructiveOgreArcher" xml:space="preserve">
+    <value>파괴적인 오우거 궁수</value>
+  </data>
+  <data name="DestructiveOgreSoldier" xml:space="preserve">
+    <value>파괴적인 오우거 병사</value>
+  </data>
+  <data name="WhiteWizard" xml:space="preserve">
+    <value>하얀 마법사</value>
+  </data>
+  <data name="GoldenTantallos" xml:space="preserve">
+    <value>골든 탄탈로스</value>
+  </data>
+  <data name="GoldenWheel" xml:space="preserve">
+    <value>골든휠</value>
+  </data>
+  <data name="GoldenLizardKing" xml:space="preserve">
+    <value>황금 도마뱀 왕</value>
+  </data>
+  <data name="GoldenVepar" xml:space="preserve">
+    <value>골든 베파르</value>
+  </data>
+  <data name="GoldenDragon" xml:space="preserve">
+    <value>골든 드래곤</value>
+  </data>
+  <data name="GoldenGoblin" xml:space="preserve">
+    <value>골든 고블린</value>
+  </data>
+  <data name="CapturedStoneStatue10" xml:space="preserve">
+    <value>포획된 석상 (10)</value>
+  </data>
+  <data name="CapturedStoneStatue9" xml:space="preserve">
+    <value>포획된 석상 (9)</value>
+  </data>
+  <data name="CapturedStoneStatue8" xml:space="preserve">
+    <value>포획된 석상 (8)</value>
+  </data>
+  <data name="CapturedStoneStatue7" xml:space="preserve">
+    <value>포획된 석상 (7)</value>
+  </data>
+  <data name="CapturedStoneStatue6" xml:space="preserve">
+    <value>포획된 석상 (6)</value>
+  </data>
+  <data name="CapturedStoneStatue5" xml:space="preserve">
+    <value>포획된 석상 (5)</value>
+  </data>
+  <data name="CapturedStoneStatue4" xml:space="preserve">
+    <value>포획된 석상 (4)</value>
+  </data>
+  <data name="CapturedStoneStatue3" xml:space="preserve">
+    <value>포획된 석상 (3)</value>
+  </data>
+  <data name="CapturedStoneStatue2" xml:space="preserve">
+    <value>포획된 석상(2)</value>
+  </data>
+  <data name="CapturedStoneStatue1" xml:space="preserve">
+    <value>포획된 석상 (1)</value>
+  </data>
+  <data name="CursedStatue" xml:space="preserve">
+    <value>저주받은 조각상</value>
+  </data>
+  <data name="JewelerRaul" xml:space="preserve">
+    <value>보석상 라울</value>
+  </data>
+  <data name="ChristineTheGeneralGoodsMerchant" xml:space="preserve">
+    <value>잡화상인 크리스틴</value>
+  </data>
+  <data name="GoldenCompensationBox" xml:space="preserve">
+    <value>황금 보상 상자</value>
+  </data>
+  <data name="CompensationBox" xml:space="preserve">
+    <value>보상 상자</value>
+  </data>
+  <data name="TransformedSnowman" xml:space="preserve">
+    <value>변신한 눈사람</value>
+  </data>
+  <data name="CursedSanta" xml:space="preserve">
+    <value>저주받은 산타</value>
+  </data>
+  <data name="LittleSantaPink" xml:space="preserve">
+    <value>리틀 산타 핑크</value>
+  </data>
+  <data name="LittleSantaOrange" xml:space="preserve">
+    <value>리틀 산타 오렌지</value>
+  </data>
+  <data name="LittleSantaBlack" xml:space="preserve">
+    <value>리틀 산타 블랙</value>
+  </data>
+  <data name="LittleSantaWhite" xml:space="preserve">
+    <value>리틀 산타 화이트</value>
+  </data>
+  <data name="LittleSantaBlue" xml:space="preserve">
+    <value>리틀 산타 블루</value>
+  </data>
+  <data name="LittleSantaRed" xml:space="preserve">
+    <value>리틀 산타 레드</value>
+  </data>
+  <data name="LittleSantaGreen" xml:space="preserve">
+    <value>리틀 산타 그린</value>
+  </data>
+  <data name="LittleSantaYellow" xml:space="preserve">
+    <value>작은 산타 옐로우</value>
+  </data>
+  <data name="Snowman" xml:space="preserve">
+    <value>눈사람</value>
+  </data>
+  <data name="Gatekeeper" xml:space="preserve">
+    <value>문지기</value>
+  </data>
+  <data name="IllusionSorcerer" xml:space="preserve">
+    <value>환영 마법사</value>
+  </data>
+  <data name="MUAllies" xml:space="preserve">
+    <value>MU 동맹국</value>
+  </data>
+  <data name="BattleGuard2" xml:space="preserve">
+    <value>배틀가드2</value>
+  </data>
+  <data name="BattleGuard1" xml:space="preserve">
+    <value>배틀가드1</value>
+  </data>
+  <data name="Guardian" xml:space="preserve">
+    <value>수호자</value>
+  </data>
+  <data name="Shield" xml:space="preserve">
+    <value>실드</value>
+  </data>
+  <data name="IllusionItemStorage" xml:space="preserve">
+    <value>환상 아이템 보관소</value>
+  </data>
+  <data name="AllianceItemStorage" xml:space="preserve">
+    <value>동맹 아이템 보관소</value>
+  </data>
+  <data name="IllusionElder" xml:space="preserve">
+    <value>일루젼 엘더</value>
+  </data>
+  <data name="MUAlliesGeneral" xml:space="preserve">
+    <value>MU 동맹군 장군</value>
+  </data>
+  <data name="StoneStatue" xml:space="preserve">
+    <value>석상</value>
+  </data>
+  <data name="EliteSkillSoldier" xml:space="preserve">
+    <value>엘리트 스킬 솔저</value>
+  </data>
+  <data name="GameMaster" xml:space="preserve">
+    <value>게임 마스터</value>
+  </data>
+  <data name="Soldier" xml:space="preserve">
+    <value>군인</value>
+  </data>
+  <data name="DarkElf340" xml:space="preserve">
+    <value>다크엘프</value>
+  </data>
+  <data name="DeathSpirit" xml:space="preserve">
+    <value>죽음의 영혼</value>
+  </data>
+  <data name="Tanker" xml:space="preserve">
+    <value>유조선</value>
+  </data>
+  <data name="Balgass" xml:space="preserve">
+    <value>발가스</value>
+  </data>
+  <data name="IllusionSorcererSpirit" xml:space="preserve">
+    <value>일루젼 소르크. 정신</value>
+  </data>
+</root>

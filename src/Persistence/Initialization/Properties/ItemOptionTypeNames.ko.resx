@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="AncientBonusOption" xml:space="preserve">
+    <value>세트 보너스 옵션</value>
+  </data>
+  <data name="AncientOption" xml:space="preserve">
+    <value>세트 옵션</value>
+  </data>
+  <data name="BlackFenrirOption" xml:space="preserve">
+    <value>블랙 펜리르 옵션</value>
+  </data>
+  <data name="BlueFenrirOption" xml:space="preserve">
+    <value>블루 펜리르 옵션</value>
+  </data>
+  <data name="DarkHorseOption" xml:space="preserve">
+    <value>다크호스 옵션</value>
+  </data>
+  <data name="ExcellentOption" xml:space="preserve">
+    <value>엑설런트 옵션</value>
+  </data>
+  <data name="GoldFenrirOption" xml:space="preserve">
+    <value>골드 펜리르 옵션</value>
+  </data>
+  <data name="GuardianOption" xml:space="preserve">
+    <value>가디언 옵션</value>
+  </data>
+  <data name="JewelOfHarmonyOption" xml:space="preserve">
+    <value>조화의 보석 옵션</value>
+  </data>
+  <data name="LuckCriticalDamageChance5" xml:space="preserve">
+    <value>행운(치명타 확률 5%)</value>
+  </data>
+  <data name="Option" xml:space="preserve">
+    <value>옵션</value>
+  </data>
+  <data name="SocketBonusOption" xml:space="preserve">
+    <value>소켓 보너스 옵션</value>
+  </data>
+  <data name="SocketOption" xml:space="preserve">
+    <value>소켓 옵션</value>
+  </data>
+  <data name="WingOption" xml:space="preserve">
+    <value>날개 옵션</value>
+  </data>
+</root>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="ChaosWeapon" xml:space="preserve">
+    <value>카오스 무기</value>
+  </data>
+  <data name="DevilsSquareTicket" xml:space="preserve">
+    <value>데빌 스퀘어 입장권</value>
+  </data>
+  <data name="FirstWings" xml:space="preserve">
+    <value>1레벨 날개</value>
+  </data>
+  <data name="Plus11ItemCombination" xml:space="preserve">
+    <value>+11 아이템 조합</value>
+  </data>
+  <data name="Plus10ItemCombination" xml:space="preserve">
+    <value>+10 아이템 조합</value>
+  </data>
+  <data name="Dinorant" xml:space="preserve">
+    <value>디노런트</value>
+  </data>
+  <data name="RestoreItemRemoveJOHOption" xml:space="preserve">
+    <value>아이템 복원(JOH 옵션 제거)</value>
+  </data>
+  <data name="RefineStone" xml:space="preserve">
+    <value>돌을 정제하다</value>
+  </data>
+  <data name="CherryBlossomEventMix" xml:space="preserve">
+    <value>벚꽃 이벤트 믹스</value>
+  </data>
+  <data name="CompleteSecromicon" xml:space="preserve">
+    <value>완성된 세크로미콘</value>
+  </data>
+  <data name="GuardianOptionLevel380" xml:space="preserve">
+    <value>가디언 옵션 (레벨 380)</value>
+  </data>
+  <data name="ThirdWingsStage2" xml:space="preserve">
+    <value>3층 날개, 2단계</value>
+  </data>
+  <data name="ThirdWingsStage1" xml:space="preserve">
+    <value>3층 날개, 1단계</value>
+  </data>
+  <data name="SecondWings" xml:space="preserve">
+    <value>2층 날개</value>
+  </data>
+  <data name="CapeOfLordFighter" xml:space="preserve">
+    <value>케이프 오브 로드/파이터</value>
+  </data>
+  <data name="FenrirUpgradeStage4" xml:space="preserve">
+    <value>펜리르 업그레이드(4단계)</value>
+  </data>
+  <data name="FenrirStage3" xml:space="preserve">
+    <value>펜리르 3단계</value>
+  </data>
+  <data name="FenrirStage2" xml:space="preserve">
+    <value>펜리르 2단계</value>
+  </data>
+  <data name="FenrirStage1" xml:space="preserve">
+    <value>펜리르 1단계</value>
+  </data>
+  <data name="LargeShieldPotion" xml:space="preserve">
+    <value>대형 방패 물약</value>
+  </data>
+  <data name="MediumShieldPotion" xml:space="preserve">
+    <value>중형 보호막 물약</value>
+  </data>
+  <data name="SmallShieldPotion" xml:space="preserve">
+    <value>소형 방패 물약</value>
+  </data>
+  <data name="LifeStone" xml:space="preserve">
+    <value>생명의 돌</value>
+  </data>
+  <data name="IllusionTempleTicket" xml:space="preserve">
+    <value>환영의 사원 티켓</value>
+  </data>
+  <data name="BloodCastleTicket" xml:space="preserve">
+    <value>블러드 캐슬 티켓</value>
+  </data>
+  <data name="Plus15ItemCombination" xml:space="preserve">
+    <value>+15 아이템 조합</value>
+  </data>
+  <data name="Plus14ItemCombination" xml:space="preserve">
+    <value>+14 아이템 조합</value>
+  </data>
+  <data name="Plus13ItemCombination" xml:space="preserve">
+    <value>+13 아이템 조합</value>
+  </data>
+  <data name="Plus12ItemCombination" xml:space="preserve">
+    <value>+12 아이템 조합</value>
+  </data>
+  <data name="PotionOfSoul" xml:space="preserve">
+    <value>영혼의 물약</value>
+  </data>
+  <data name="PotionOfBless" xml:space="preserve">
+    <value>축복의 물약</value>
+  </data>
+  <data name="Fruits" xml:space="preserve">
+    <value>과일</value>
+  </data>
+  <data name="RemoveSeedSphere" xml:space="preserve">
+    <value>시드 구체 제거</value>
+  </data>
+  <data name="MountSeedSphere" xml:space="preserve">
+    <value>마운트 시드 스피어</value>
+  </data>
+  <data name="SeedSphereCreation" xml:space="preserve">
+    <value>시드 스피어 생성</value>
+  </data>
+  <data name="SeedCreation" xml:space="preserve">
+    <value>종자 창조</value>
+  </data>
+  <data name="DarkRaven" xml:space="preserve">
+    <value>다크 레이븐</value>
+  </data>
+  <data name="DarkHorse" xml:space="preserve">
+    <value>다크호스</value>
+  </data>
+  <data name="GemstoneRefinery" xml:space="preserve">
+    <value>보석 정제소</value>
+  </data>
+  <data name="LuckyItemExchange" xml:space="preserve">
+    <value>행운의 아이템 교환</value>
+  </data>
+</root>

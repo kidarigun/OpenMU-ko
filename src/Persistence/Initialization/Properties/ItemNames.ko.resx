@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Kris" xml:space="preserve">
+    <value>크리스</value>
+  </data>
+  <data name="ShortSword" xml:space="preserve">
+    <value>숏소드</value>
+  </data>
+  <data name="Rapier" xml:space="preserve">
+    <value>레이피어</value>
+  </data>
+  <data name="Katache" xml:space="preserve">
+    <value>카타체</value>
+  </data>
+  <data name="SwordOfAssassin" xml:space="preserve">
+    <value>암살자의 검</value>
+  </data>
+  <data name="Blade" xml:space="preserve">
+    <value>블레이드</value>
+  </data>
+  <data name="Gladius" xml:space="preserve">
+    <value>글라디우스</value>
+  </data>
+  <data name="Falchion" xml:space="preserve">
+    <value>펄션</value>
+  </data>
+  <data name="SerpentSword" xml:space="preserve">
+    <value>뱀 검</value>
+  </data>
+  <data name="SwordOfSalamander" xml:space="preserve">
+    <value>샐러맨더의 검</value>
+  </data>
+  <data name="LightSaber" xml:space="preserve">
+    <value>라이트 세이버</value>
+  </data>
+  <data name="LegendarySword" xml:space="preserve">
+    <value>전설의 검</value>
+  </data>
+  <data name="HeliacalSword" xml:space="preserve">
+    <value>헬리아칼 소드</value>
+  </data>
+  <data name="DoubleBlade" xml:space="preserve">
+    <value>더블 블레이드</value>
+  </data>
+  <data name="LightingSword" xml:space="preserve">
+    <value>번개의 검</value>
+  </data>
+  <data name="GiantSword" xml:space="preserve">
+    <value>거대검</value>
+  </data>
+  <data name="SwordOfDestruction" xml:space="preserve">
+    <value>파괴의 검</value>
+  </data>
+  <data name="DarkBreaker" xml:space="preserve">
+    <value>다크브레이커</value>
+  </data>
+  <data name="ThunderBlade" xml:space="preserve">
+    <value>썬더 블레이드</value>
+  </data>
+  <data name="DivineSwordOfArchangel" xml:space="preserve">
+    <value>대천사의 신검</value>
+  </data>
+  <data name="KnightBlade" xml:space="preserve">
+    <value>나이트 블레이드</value>
+  </data>
+  <data name="DarkReignBlade" xml:space="preserve">
+    <value>다크 레인 블레이드</value>
+  </data>
+  <data name="BoneBlade" xml:space="preserve">
+    <value>뼈칼날</value>
+  </data>
+  <data name="ExplosionBlade" xml:space="preserve">
+    <value>폭발 칼날</value>
+  </data>
+  <data name="Daybreak" xml:space="preserve">
+    <value>새벽</value>
+  </data>
+  <data name="SwordDancer" xml:space="preserve">
+    <value>소드 댄서</value>
+  </data>
+  <data name="Flamberge" xml:space="preserve">
+    <value>플랑베르주</value>
+  </data>
+  <data name="SwordBreaker" xml:space="preserve">
+    <value>소드 브레이커</value>
+  </data>
+  <data name="ImperialSword" xml:space="preserve">
+    <value>임페리얼 소드</value>
+  </data>
+  <data name="RuneBlade" xml:space="preserve">
+    <value>룬 블레이드</value>
+  </data>
+  <data name="SacredGlove" xml:space="preserve">
+    <value>신성한 장갑</value>
+  </data>
+  <data name="StormHardGlove" xml:space="preserve">
+    <value>스톰 하드 장갑</value>
+  </data>
+  <data name="PiercingBladeGlove" xml:space="preserve">
+    <value>날카로운 칼날 장갑</value>
+  </data>
+  <data name="PhoenixSoulStar" xml:space="preserve">
+    <value>피닉스 소울 스타</value>
+  </data>
+  <data name="SmallAxe" xml:space="preserve">
+    <value>작은 도끼</value>
+  </data>
+  <data name="HandAxe" xml:space="preserve">
+    <value>손도끼</value>
+  </data>
+  <data name="DoubleAxe" xml:space="preserve">
+    <value>이중 도끼</value>
+  </data>
+  <data name="Tomahawk" xml:space="preserve">
+    <value>토마호크</value>
+  </data>
+  <data name="ElvenAxe" xml:space="preserve">
+    <value>엘프 도끼</value>
+  </data>
+  <data name="BattleAxe" xml:space="preserve">
+    <value>전투 도끼</value>
+  </data>
+  <data name="NikkeaAxe" xml:space="preserve">
+    <value>니케아 액스</value>
+  </data>
+  <data name="LarkanAxe" xml:space="preserve">
+    <value>라르칸 도끼</value>
+  </data>
+  <data name="CrescentAxe" xml:space="preserve">
+    <value>초승달 도끼</value>
+  </data>
+  <data name="Mace" xml:space="preserve">
+    <value>메이스</value>
+  </data>
+  <data name="MorningStar" xml:space="preserve">
+    <value>모닝스타</value>
+  </data>
+  <data name="Flail" xml:space="preserve">
+    <value>플레일</value>
+  </data>
+  <data name="GreatHammer" xml:space="preserve">
+    <value>그레이트 해머</value>
+  </data>
+  <data name="CrystalMorningStar" xml:space="preserve">
+    <value>크리스탈 모닝 스타</value>
+  </data>
+  <data name="CrystalSword" xml:space="preserve">
+    <value>크리스탈 소드</value>
+  </data>
+  <data name="ChaosDragonAxe" xml:space="preserve">
+    <value>카오스 드래곤 액스</value>
+  </data>
+  <data name="ElementalMace" xml:space="preserve">
+    <value>원소 메이스</value>
+  </data>
+  <data name="BattleScepter" xml:space="preserve">
+    <value>배틀 셉터</value>
+  </data>
+  <data name="MasterScepter" xml:space="preserve">
+    <value>마스터 셉터</value>
+  </data>
+  <data name="GreatScepter" xml:space="preserve">
+    <value>그레이트 홀</value>
+  </data>
+  <data name="LordScepter" xml:space="preserve">
+    <value>로드 셉터</value>
+  </data>
+  <data name="GreatLordScepter" xml:space="preserve">
+    <value>위대한 군주 홀</value>
+  </data>
+  <data name="DivineScepterOfArchangel" xml:space="preserve">
+    <value>대천사의 신성한 홀</value>
+  </data>
+  <data name="SoleilScepter" xml:space="preserve">
+    <value>솔레일 셉터</value>
+  </data>
+  <data name="ShiningScepter" xml:space="preserve">
+    <value>샤이닝 셉터</value>
+  </data>
+  <data name="FrostMace" xml:space="preserve">
+    <value>프로스트 메이스</value>
+  </data>
+  <data name="AbsoluteScepter" xml:space="preserve">
+    <value>절대홀</value>
+  </data>
+  <data name="StrykerScepter" xml:space="preserve">
+    <value>스트라이커 셉터</value>
+  </data>
+  <data name="LightSpear" xml:space="preserve">
+    <value>라이트 스피어</value>
+  </data>
+  <data name="Spear" xml:space="preserve">
+    <value>창</value>
+  </data>
+  <data name="DragonLance" xml:space="preserve">
+    <value>드래곤 랜스</value>
+  </data>
+  <data name="GiantTrident" xml:space="preserve">
+    <value>거대한 삼지창</value>
+  </data>
+  <data name="SerpentSpear" xml:space="preserve">
+    <value>뱀 창</value>
+  </data>
+  <data name="DoublePoleaxe" xml:space="preserve">
+    <value>이중 폴액스</value>
+  </data>
+  <data name="Halberd" xml:space="preserve">
+    <value>할버드</value>
+  </data>
+  <data name="Berdysh" xml:space="preserve">
+    <value>베르디쉬</value>
+  </data>
+  <data name="GreatScythe" xml:space="preserve">
+    <value>큰낫</value>
+  </data>
+  <data name="BillOfBalrog" xml:space="preserve">
+    <value>빌 오브 발로그</value>
+  </data>
+  <data name="DragonSpear" xml:space="preserve">
+    <value>드래곤 스피어</value>
+  </data>
+  <data name="Beuroba" xml:space="preserve">
+    <value>베우로바</value>
+  </data>
+  <data name="ShortBow" xml:space="preserve">
+    <value>짧은 활</value>
+  </data>
+  <data name="Bow" xml:space="preserve">
+    <value>활</value>
+  </data>
+  <data name="ElvenBow" xml:space="preserve">
+    <value>엘프 활</value>
+  </data>
+  <data name="BattleBow" xml:space="preserve">
+    <value>전투활</value>
+  </data>
+  <data name="TigerBow" xml:space="preserve">
+    <value>호랑이 활</value>
+  </data>
+  <data name="SilverBow" xml:space="preserve">
+    <value>은활</value>
+  </data>
+  <data name="ChaosNatureBow" xml:space="preserve">
+    <value>카오스 네이처 보우</value>
+  </data>
+  <data name="Bolt" xml:space="preserve">
+    <value>볼트</value>
+  </data>
+  <data name="Crossbow" xml:space="preserve">
+    <value>석궁</value>
+  </data>
+  <data name="GoldenCrossbow" xml:space="preserve">
+    <value>황금 석궁</value>
+  </data>
+  <data name="Arquebus" xml:space="preserve">
+    <value>아르케부스</value>
+  </data>
+  <data name="LightCrossbow" xml:space="preserve">
+    <value>가벼운 석궁</value>
+  </data>
+  <data name="SerpentCrossbow" xml:space="preserve">
+    <value>뱀 석궁</value>
+  </data>
+  <data name="BluewingCrossbow" xml:space="preserve">
+    <value>푸른날개 석궁</value>
+  </data>
+  <data name="AquagoldCrossbow" xml:space="preserve">
+    <value>아쿠아골드 석궁</value>
+  </data>
+  <data name="Arrows" xml:space="preserve">
+    <value>화살</value>
+  </data>
+  <data name="SaintCrossbow" xml:space="preserve">
+    <value>세인트 크로스보우</value>
+  </data>
+  <data name="CelestialBow" xml:space="preserve">
+    <value>천상의 활</value>
+  </data>
+  <data name="DivineCrossbowOfArchangel" xml:space="preserve">
+    <value>대천사의 신성한 석궁</value>
+  </data>
+  <data name="GreatReignCrossbow" xml:space="preserve">
+    <value>대왕 석궁</value>
+  </data>
+  <data name="ArrowViperBow" xml:space="preserve">
+    <value>애로우 바이퍼 보우</value>
+  </data>
+  <data name="SylphWindBow" xml:space="preserve">
+    <value>실프 바람 활</value>
+  </data>
+  <data name="AlbatrossBow" xml:space="preserve">
+    <value>알바트로스 활</value>
+  </data>
+  <data name="StingerBow" xml:space="preserve">
+    <value>스팅어 보우</value>
+  </data>
+  <data name="AirLynBow" xml:space="preserve">
+    <value>에어린 보우</value>
+  </data>
+  <data name="SkullStaff" xml:space="preserve">
+    <value>해골 지팡이</value>
+  </data>
+  <data name="AngelicStaff" xml:space="preserve">
+    <value>천사의 지팡이</value>
+  </data>
+  <data name="SerpentStaff" xml:space="preserve">
+    <value>뱀 지팡이</value>
+  </data>
+  <data name="ThunderStaff" xml:space="preserve">
+    <value>천둥 지팡이</value>
+  </data>
+  <data name="GorgonStaff" xml:space="preserve">
+    <value>고르곤 지팡이</value>
+  </data>
+  <data name="LegendaryStaff" xml:space="preserve">
+    <value>전설적인 지팡이</value>
+  </data>
+  <data name="StaffOfResurrection" xml:space="preserve">
+    <value>부활의 지팡이</value>
+  </data>
+  <data name="ChaosLightningStaff" xml:space="preserve">
+    <value>카오스 라이트닝 스태프</value>
+  </data>
+  <data name="StaffOfDestruction" xml:space="preserve">
+    <value>파괴의 지팡이</value>
+  </data>
+  <data name="DragonSoulStaff" xml:space="preserve">
+    <value>드래곤 소울 스태프</value>
+  </data>
+  <data name="DivineStaffOfArchangel" xml:space="preserve">
+    <value>대천사의 신성한 지팡이</value>
+  </data>
+  <data name="StaffOfKundun" xml:space="preserve">
+    <value>쿤둔의 직원</value>
+  </data>
+  <data name="GrandViperStaff" xml:space="preserve">
+    <value>그랜드 바이퍼 지팡이</value>
+  </data>
+  <data name="PlatinaStaff" xml:space="preserve">
+    <value>플라티나 스태프</value>
+  </data>
+  <data name="MisteryStick" xml:space="preserve">
+    <value>미스터리 스틱</value>
+  </data>
+  <data name="ViolentWindStick" xml:space="preserve">
+    <value>격렬한 바람의 지팡이</value>
+  </data>
+  <data name="RedWingStick" xml:space="preserve">
+    <value>레드윙 스틱</value>
+  </data>
+  <data name="AncientStick" xml:space="preserve">
+    <value>세트 스틱</value>
+  </data>
+  <data name="DemonicStick" xml:space="preserve">
+    <value>악마의 지팡이</value>
+  </data>
+  <data name="StormBlitzStick" xml:space="preserve">
+    <value>스톰 블리츠 스틱</value>
+  </data>
+  <data name="EternalWingStick" xml:space="preserve">
+    <value>이터널 윙 스틱</value>
+  </data>
+  <data name="BookOfSahamutt" xml:space="preserve">
+    <value>사하무트의 책</value>
+  </data>
+  <data name="BookOfNeil" xml:space="preserve">
+    <value>닐의 책</value>
+  </data>
+  <data name="BookOfLagle" xml:space="preserve">
+    <value>라글의 책</value>
+  </data>
+  <data name="DeadlyStaff" xml:space="preserve">
+    <value>치명적인 지팡이</value>
+  </data>
+  <data name="ImperialStaff" xml:space="preserve">
+    <value>황실 지팡이</value>
+  </data>
+  <data name="ChromaticStaff" xml:space="preserve">
+    <value>크로매틱 스태프</value>
+  </data>
+  <data name="RavenStick" xml:space="preserve">
+    <value>레이븐 스틱</value>
+  </data>
+  <data name="DivineStickOfArchangel" xml:space="preserve">
+    <value>대천사의 신성한 지팡이</value>
+  </data>
+  <data name="SmallShield" xml:space="preserve">
+    <value>작은 방패</value>
+  </data>
+  <data name="HornShield" xml:space="preserve">
+    <value>뿔 방패</value>
+  </data>
+  <data name="KiteShield" xml:space="preserve">
+    <value>카이트 쉴드</value>
+  </data>
+  <data name="ElvenShield" xml:space="preserve">
+    <value>엘프 쉴드</value>
+  </data>
+  <data name="Buckler" xml:space="preserve">
+    <value>버클러</value>
+  </data>
+  <data name="DragonSlayerShield" xml:space="preserve">
+    <value>드래곤 슬레이어 쉴드</value>
+  </data>
+  <data name="SkullShield" xml:space="preserve">
+    <value>해골 방패</value>
+  </data>
+  <data name="SpikedShield" xml:space="preserve">
+    <value>스파이크 쉴드</value>
+  </data>
+  <data name="TowerShield" xml:space="preserve">
+    <value>타워 쉴드</value>
+  </data>
+  <data name="PlateShield" xml:space="preserve">
+    <value>플레이트 쉴드</value>
+  </data>
+  <data name="BigRoundShield" xml:space="preserve">
+    <value>큰 둥근 방패</value>
+  </data>
+  <data name="SerpentShield" xml:space="preserve">
+    <value>뱀 방패</value>
+  </data>
+  <data name="BronzeShield" xml:space="preserve">
+    <value>청동방패</value>
+  </data>
+  <data name="DragonShield" xml:space="preserve">
+    <value>드래곤 쉴드</value>
+  </data>
+  <data name="LegendaryShield" xml:space="preserve">
+    <value>전설의 방패</value>
+  </data>
+  <data name="GrandSoulShield" xml:space="preserve">
+    <value>그랜드 소울 쉴드</value>
+  </data>
+  <data name="ElementalShield" xml:space="preserve">
+    <value>원소의 방패</value>
+  </data>
+  <data name="CrimsonGlory" xml:space="preserve">
+    <value>크림슨 글로리</value>
+  </data>
+  <data name="SalamanderShield" xml:space="preserve">
+    <value>샐러맨더 쉴드</value>
+  </data>
+  <data name="FrostBarrier" xml:space="preserve">
+    <value>서리 방벽</value>
+  </data>
+  <data name="GuardianShield" xml:space="preserve">
+    <value>가디언 쉴드</value>
+  </data>
+  <data name="CrossShield" xml:space="preserve">
+    <value>크로스 쉴드</value>
+  </data>
+  <data name="BronzeHelm" xml:space="preserve">
+    <value>청동 투구</value>
+  </data>
+  <data name="DragonHelm" xml:space="preserve">
+    <value>드래곤 투구</value>
+  </data>
+  <data name="PadHelm" xml:space="preserve">
+    <value>패드 투구</value>
+  </data>
+  <data name="LegendaryHelm" xml:space="preserve">
+    <value>전설의 투구</value>
+  </data>
+  <data name="BoneHelm" xml:space="preserve">
+    <value>뼈 투구</value>
+  </data>
+  <data name="LeatherHelm" xml:space="preserve">
+    <value>가죽 투구</value>
+  </data>
+  <data name="ScaleHelm" xml:space="preserve">
+    <value>비늘 투구</value>
+  </data>
+  <data name="SphinxMask" xml:space="preserve">
+    <value>스핑크스 마스크</value>
+  </data>
+  <data name="BrassHelm" xml:space="preserve">
+    <value>황동 투구</value>
+  </data>
+  <data name="PlateHelm" xml:space="preserve">
+    <value>판금 투구</value>
+  </data>
+  <data name="VineHelm" xml:space="preserve">
+    <value>덩굴 투구</value>
+  </data>
+  <data name="SilkHelm" xml:space="preserve">
+    <value>실크 투구</value>
+  </data>
+  <data name="WindHelm" xml:space="preserve">
+    <value>바람의 투구</value>
+  </data>
+  <data name="SpiritHelm" xml:space="preserve">
+    <value>영혼의 투구</value>
+  </data>
+  <data name="GuardianHelm" xml:space="preserve">
+    <value>수호자 투구</value>
+  </data>
+  <data name="BlackDragonHelm" xml:space="preserve">
+    <value>블랙 드래곤 투구</value>
+  </data>
+  <data name="DarkPhoenixHelm" xml:space="preserve">
+    <value>다크 피닉스 투구</value>
+  </data>
+  <data name="GrandSoulHelm" xml:space="preserve">
+    <value>그랜드 소울 투구</value>
+  </data>
+  <data name="DivineHelm" xml:space="preserve">
+    <value>신성한 투구</value>
+  </data>
+  <data name="GreatDragonHelm" xml:space="preserve">
+    <value>그레이트 드래곤 투구</value>
+  </data>
+  <data name="DarkSoulHelm" xml:space="preserve">
+    <value>다크 소울 투구</value>
+  </data>
+  <data name="RedSpiritHelm" xml:space="preserve">
+    <value>붉은 정령의 투구</value>
+  </data>
+  <data name="LightPlateMask" xml:space="preserve">
+    <value>라이트 플레이트 마스크</value>
+  </data>
+  <data name="AdamantineMask" xml:space="preserve">
+    <value>금강 가면</value>
+  </data>
+  <data name="DarkSteelMask" xml:space="preserve">
+    <value>다크 스틸 마스크</value>
+  </data>
+  <data name="DarkMasterMask" xml:space="preserve">
+    <value>다크 마스터 마스크</value>
+  </data>
+  <data name="DragonKnightHelm" xml:space="preserve">
+    <value>드래곤 나이트 투구</value>
+  </data>
+  <data name="VenomMistHelm" xml:space="preserve">
+    <value>베놈 미스트 투구</value>
+  </data>
+  <data name="SylphidRayHelm" xml:space="preserve">
+    <value>실피드 가오리 투구</value>
+  </data>
+  <data name="SunlightMask" xml:space="preserve">
+    <value>햇빛 마스크</value>
+  </data>
+  <data name="AshcrowHelm" xml:space="preserve">
+    <value>재까마귀 투구</value>
+  </data>
+  <data name="EclipseHelm" xml:space="preserve">
+    <value>이클립스 투구</value>
+  </data>
+  <data name="IrisHelm" xml:space="preserve">
+    <value>아이리스 투구</value>
+  </data>
+  <data name="GloriousMask" xml:space="preserve">
+    <value>영광스러운 가면</value>
+  </data>
+  <data name="MisteryHelm" xml:space="preserve">
+    <value>미스테리 투구</value>
+  </data>
+  <data name="RedWingHelm" xml:space="preserve">
+    <value>레드윙 투구</value>
+  </data>
+  <data name="AncientHelm" xml:space="preserve">
+    <value>세트 투구</value>
+  </data>
+  <data name="BlackRoseHelm" xml:space="preserve">
+    <value>블랙 로즈 투구</value>
+  </data>
+  <data name="AuraHelm" xml:space="preserve">
+    <value>오라 투구</value>
+  </data>
+  <data name="LiliumHelm" xml:space="preserve">
+    <value>나리속 투구</value>
+  </data>
+  <data name="TitanHelm" xml:space="preserve">
+    <value>타이탄 투구</value>
+  </data>
+  <data name="BraveHelm" xml:space="preserve">
+    <value>용감한 투구</value>
+  </data>
+  <data name="SeraphimHelm" xml:space="preserve">
+    <value>세라핌 투구</value>
+  </data>
+  <data name="FaithHelm" xml:space="preserve">
+    <value>믿음의 투구</value>
+  </data>
+  <data name="PaewangMask" xml:space="preserve">
+    <value>패왕탈</value>
+  </data>
+  <data name="HadesHelm" xml:space="preserve">
+    <value>하데스 투구</value>
+  </data>
+  <data name="SacredHelm" xml:space="preserve">
+    <value>신성한 투구</value>
+  </data>
+  <data name="StormHardHelm" xml:space="preserve">
+    <value>스톰 하드 투구</value>
+  </data>
+  <data name="PiercingHelm" xml:space="preserve">
+    <value>피어싱 투구</value>
+  </data>
+  <data name="PhoenixSoulHelmet" xml:space="preserve">
+    <value>피닉스 소울 헬멧</value>
+  </data>
+  <data name="BronzeArmor" xml:space="preserve">
+    <value>청동 갑옷</value>
+  </data>
+  <data name="DragonArmor" xml:space="preserve">
+    <value>드래곤 갑옷</value>
+  </data>
+  <data name="PadArmor" xml:space="preserve">
+    <value>패드 아머</value>
+  </data>
+  <data name="LegendaryArmor" xml:space="preserve">
+    <value>전설적인 갑옷</value>
+  </data>
+  <data name="BoneArmor" xml:space="preserve">
+    <value>뼈 갑옷</value>
+  </data>
+  <data name="LeatherArmor" xml:space="preserve">
+    <value>가죽 갑옷</value>
+  </data>
+  <data name="ScaleArmor" xml:space="preserve">
+    <value>비늘 갑옷</value>
+  </data>
+  <data name="SphinxArmor" xml:space="preserve">
+    <value>스핑크스 갑옷</value>
+  </data>
+  <data name="BrassArmor" xml:space="preserve">
+    <value>황동 갑옷</value>
+  </data>
+  <data name="PlateArmor" xml:space="preserve">
+    <value>판금 갑옷</value>
+  </data>
+  <data name="VineArmor" xml:space="preserve">
+    <value>덩굴 갑옷</value>
+  </data>
+  <data name="SilkArmor" xml:space="preserve">
+    <value>비단 갑옷</value>
+  </data>
+  <data name="WindArmor" xml:space="preserve">
+    <value>윈드 아머</value>
+  </data>
+  <data name="SpiritArmor" xml:space="preserve">
+    <value>영혼의 갑옷</value>
+  </data>
+  <data name="GuardianArmor" xml:space="preserve">
+    <value>수호 갑옷</value>
+  </data>
+  <data name="StormCrowArmor" xml:space="preserve">
+    <value>폭풍까마귀 갑옷</value>
+  </data>
+  <data name="BlackDragonArmor" xml:space="preserve">
+    <value>흑룡의 갑옷</value>
+  </data>
+  <data name="DarkPhoenixArmor" xml:space="preserve">
+    <value>다크 피닉스 갑옷</value>
+  </data>
+  <data name="GrandSoulArmor" xml:space="preserve">
+    <value>그랜드 소울 아머</value>
+  </data>
+  <data name="DivineArmor" xml:space="preserve">
+    <value>신성한 갑옷</value>
+  </data>
+  <data name="ThunderHawkArmor" xml:space="preserve">
+    <value>썬더 호크 갑옷</value>
+  </data>
+  <data name="GreatDragonArmor" xml:space="preserve">
+    <value>그레이트 드래곤 갑옷</value>
+  </data>
+  <data name="DarkSoulArmor" xml:space="preserve">
+    <value>다크 소울 갑옷</value>
+  </data>
+  <data name="HurricaneArmor" xml:space="preserve">
+    <value>허리케인 갑옷</value>
+  </data>
+  <data name="RedSpritArmor" xml:space="preserve">
+    <value>레드 스피릿 갑옷</value>
+  </data>
+  <data name="LightPlateArmor" xml:space="preserve">
+    <value>라이트 플레이트 아머</value>
+  </data>
+  <data name="AdamantineArmor" xml:space="preserve">
+    <value>금강갑옷</value>
+  </data>
+  <data name="DarkSteelArmor" xml:space="preserve">
+    <value>암흑 강철 갑옷</value>
+  </data>
+  <data name="DarkMasterArmor" xml:space="preserve">
+    <value>다크 마스터 아머</value>
+  </data>
+  <data name="DragonKnightArmor" xml:space="preserve">
+    <value>드래곤 나이트 갑옷</value>
+  </data>
+  <data name="VenomMistArmor" xml:space="preserve">
+    <value>베놈 미스트 아머</value>
+  </data>
+  <data name="SylphidRayArmor" xml:space="preserve">
+    <value>실피드 가오리 갑옷</value>
+  </data>
+  <data name="VolcanoArmor" xml:space="preserve">
+    <value>화산 갑옷</value>
+  </data>
+  <data name="SunlightArmor" xml:space="preserve">
+    <value>햇빛 갑옷</value>
+  </data>
+  <data name="AshcrowArmor" xml:space="preserve">
+    <value>재까마귀 갑옷</value>
+  </data>
+  <data name="EclipseArmor" xml:space="preserve">
+    <value>이클립스 갑옷</value>
+  </data>
+  <data name="IrisArmor" xml:space="preserve">
+    <value>아이리스 갑옷</value>
+  </data>
+  <data name="ValiantArmor" xml:space="preserve">
+    <value>용감한 갑옷</value>
+  </data>
+  <data name="GloriousArmor" xml:space="preserve">
+    <value>영광스러운 갑옷</value>
+  </data>
+  <data name="MisteryArmor" xml:space="preserve">
+    <value>미스터리 갑옷</value>
+  </data>
+  <data name="RedWingArmor" xml:space="preserve">
+    <value>레드윙 갑옷</value>
+  </data>
+  <data name="AncientArmor" xml:space="preserve">
+    <value>세트 방어구</value>
+  </data>
+  <data name="BlackRoseArmor" xml:space="preserve">
+    <value>블랙 로즈 갑옷</value>
+  </data>
+  <data name="AuraArmor" xml:space="preserve">
+    <value>오라 갑옷</value>
+  </data>
+  <data name="LiliumArmor" xml:space="preserve">
+    <value>나리속 갑옷</value>
+  </data>
+  <data name="TitanArmor" xml:space="preserve">
+    <value>타이탄 갑옷</value>
+  </data>
+  <data name="BraveArmor" xml:space="preserve">
+    <value>용감한 갑옷</value>
+  </data>
+  <data name="DestoryArmor" xml:space="preserve">
+    <value>파괴 갑옷</value>
+  </data>
+  <data name="PhantomArmor" xml:space="preserve">
+    <value>팬텀 아머</value>
+  </data>
+  <data name="SeraphimArmor" xml:space="preserve">
+    <value>세라핌 갑옷</value>
+  </data>
+  <data name="FaithArmor" xml:space="preserve">
+    <value>신앙 갑옷</value>
+  </data>
+  <data name="PaewangArmor" xml:space="preserve">
+    <value>패왕갑옷</value>
+  </data>
+  <data name="HadesArmor" xml:space="preserve">
+    <value>하데스 갑옷</value>
+  </data>
+  <data name="SacredArmor" xml:space="preserve">
+    <value>신성한 갑옷</value>
+  </data>
+  <data name="StormHardArmor" xml:space="preserve">
+    <value>스톰 하드 아머</value>
+  </data>
+  <data name="PiercingArmor" xml:space="preserve">
+    <value>피어싱 갑옷</value>
+  </data>
+  <data name="PhoenixSoulArmor" xml:space="preserve">
+    <value>피닉스 소울 아머</value>
+  </data>
+  <data name="BronzePants" xml:space="preserve">
+    <value>브론즈 바지</value>
+  </data>
+  <data name="DragonPants" xml:space="preserve">
+    <value>드래곤 팬츠</value>
+  </data>
+  <data name="PadPants" xml:space="preserve">
+    <value>패드팬츠</value>
+  </data>
+  <data name="LegendaryPants" xml:space="preserve">
+    <value>전설의 바지</value>
+  </data>
+  <data name="BonePants" xml:space="preserve">
+    <value>뼈 바지</value>
+  </data>
+  <data name="LeatherPants" xml:space="preserve">
+    <value>가죽 바지</value>
+  </data>
+  <data name="ScalePants" xml:space="preserve">
+    <value>비늘 바지</value>
+  </data>
+  <data name="SphinxPants" xml:space="preserve">
+    <value>스핑크스 바지</value>
+  </data>
+  <data name="BrassPants" xml:space="preserve">
+    <value>황동 바지</value>
+  </data>
+  <data name="PlatePants" xml:space="preserve">
+    <value>플레이트 팬츠</value>
+  </data>
+  <data name="VinePants" xml:space="preserve">
+    <value>덩굴 바지</value>
+  </data>
+  <data name="SilkPants" xml:space="preserve">
+    <value>실크 바지</value>
+  </data>
+  <data name="WindPants" xml:space="preserve">
+    <value>윈드팬츠</value>
+  </data>
+  <data name="SpiritPants" xml:space="preserve">
+    <value>스피릿 팬츠</value>
+  </data>
+  <data name="GuardianPants" xml:space="preserve">
+    <value>수호 바지</value>
+  </data>
+  <data name="StormCrowPants" xml:space="preserve">
+    <value>폭풍까마귀 바지</value>
+  </data>
+  <data name="BlackDragonPants" xml:space="preserve">
+    <value>흑룡바지</value>
+  </data>
+  <data name="DarkPhoenixPants" xml:space="preserve">
+    <value>다크 피닉스 바지</value>
+  </data>
+  <data name="GrandSoulPants" xml:space="preserve">
+    <value>그랜드 소울 팬츠</value>
+  </data>
+  <data name="DivinePants" xml:space="preserve">
+    <value>신성한 바지</value>
+  </data>
+  <data name="ThunderHawkPants" xml:space="preserve">
+    <value>썬더 호크 바지</value>
+  </data>
+  <data name="GreatDragonPants" xml:space="preserve">
+    <value>그레이트 드래곤 팬츠</value>
+  </data>
+  <data name="DarkSoulPants" xml:space="preserve">
+    <value>다크 소울 바지</value>
+  </data>
+  <data name="HurricanePants" xml:space="preserve">
+    <value>허리케인 바지</value>
+  </data>
+  <data name="RedSpiritPants" xml:space="preserve">
+    <value>붉은 정령 바지</value>
+  </data>
+  <data name="LightPlatePants" xml:space="preserve">
+    <value>라이트 플레이트 팬츠</value>
+  </data>
+  <data name="AdamantinePants" xml:space="preserve">
+    <value>금강 바지</value>
+  </data>
+  <data name="DarkSteelPants" xml:space="preserve">
+    <value>암흑 강철 바지</value>
+  </data>
+  <data name="DarkMasterPants" xml:space="preserve">
+    <value>다크마스터 팬츠</value>
+  </data>
+  <data name="DragonKnightPants" xml:space="preserve">
+    <value>드래곤 나이트 바지</value>
+  </data>
+  <data name="VenomMistPants" xml:space="preserve">
+    <value>베놈 미스트 팬츠</value>
+  </data>
+  <data name="SylphidRayPants" xml:space="preserve">
+    <value>실피드 가오리 바지</value>
+  </data>
+  <data name="VolcanoPants" xml:space="preserve">
+    <value>화산 바지</value>
+  </data>
+  <data name="SunlightPants" xml:space="preserve">
+    <value>햇빛 바지</value>
+  </data>
+  <data name="AshcrowPants" xml:space="preserve">
+    <value>물푸레나무 바지</value>
+  </data>
+  <data name="EclipsePants" xml:space="preserve">
+    <value>이클립스 팬츠</value>
+  </data>
+  <data name="IrisPants" xml:space="preserve">
+    <value>아이리스 팬츠</value>
+  </data>
+  <data name="ValiantPants" xml:space="preserve">
+    <value>용감한 바지</value>
+  </data>
+  <data name="GloriousPants" xml:space="preserve">
+    <value>영광스러운 바지</value>
+  </data>
+  <data name="MisteryPants" xml:space="preserve">
+    <value>미스터리 팬츠</value>
+  </data>
+  <data name="RedWingPants" xml:space="preserve">
+    <value>레드윙팬츠</value>
+  </data>
+  <data name="AncientPants" xml:space="preserve">
+    <value>세트 바지</value>
+  </data>
+  <data name="BlackRosePants" xml:space="preserve">
+    <value>블랙 로즈 팬츠</value>
+  </data>
+  <data name="AuraPants" xml:space="preserve">
+    <value>아우라 팬츠</value>
+  </data>
+  <data name="LiliumPants" xml:space="preserve">
+    <value>릴리움 바지</value>
+  </data>
+  <data name="TitanPants" xml:space="preserve">
+    <value>타이탄 바지</value>
+  </data>
+  <data name="BravePants" xml:space="preserve">
+    <value>브레이브 팬츠</value>
+  </data>
+  <data name="DestoryPants" xml:space="preserve">
+    <value>디스토리 팬츠</value>
+  </data>
+  <data name="PhantomPants" xml:space="preserve">
+    <value>팬텀팬츠</value>
+  </data>
+  <data name="SeraphimPants" xml:space="preserve">
+    <value>세라핌 바지</value>
+  </data>
+  <data name="FaithPants" xml:space="preserve">
+    <value>신앙 바지</value>
+  </data>
+  <data name="PaewangPants" xml:space="preserve">
+    <value>패왕팬츠</value>
+  </data>
+  <data name="HadesPants" xml:space="preserve">
+    <value>하데스 바지</value>
+  </data>
+  <data name="SacredPants" xml:space="preserve">
+    <value>신성한 바지</value>
+  </data>
+  <data name="StormHardPants" xml:space="preserve">
+    <value>스톰하드팬츠</value>
+  </data>
+  <data name="PiercingPants" xml:space="preserve">
+    <value>피어싱 팬츠</value>
+  </data>
+  <data name="PhoenixSoulPants" xml:space="preserve">
+    <value>피닉스 소울 팬츠</value>
+  </data>
+  <data name="BronzeGloves" xml:space="preserve">
+    <value>청동 장갑</value>
+  </data>
+  <data name="DragonGloves" xml:space="preserve">
+    <value>드래곤 장갑</value>
+  </data>
+  <data name="PadGloves" xml:space="preserve">
+    <value>패드 장갑</value>
+  </data>
+  <data name="LegendaryGloves" xml:space="preserve">
+    <value>전설의 장갑</value>
+  </data>
+  <data name="BoneGloves" xml:space="preserve">
+    <value>뼈 장갑</value>
+  </data>
+  <data name="LeatherGloves" xml:space="preserve">
+    <value>가죽 장갑</value>
+  </data>
+  <data name="ScaleGloves" xml:space="preserve">
+    <value>비늘 장갑</value>
+  </data>
+  <data name="SphinxGloves" xml:space="preserve">
+    <value>스핑크스 장갑</value>
+  </data>
+  <data name="BrassGloves" xml:space="preserve">
+    <value>황동 장갑</value>
+  </data>
+  <data name="PlateGloves" xml:space="preserve">
+    <value>판금 장갑</value>
+  </data>
+  <data name="VineGloves" xml:space="preserve">
+    <value>덩굴 장갑</value>
+  </data>
+  <data name="SilkGloves" xml:space="preserve">
+    <value>실크 장갑</value>
+  </data>
+  <data name="WindGloves" xml:space="preserve">
+    <value>바람의 장갑</value>
+  </data>
+  <data name="SpiritGloves" xml:space="preserve">
+    <value>영혼의 장갑</value>
+  </data>
+  <data name="GuardianGloves" xml:space="preserve">
+    <value>수호 장갑</value>
+  </data>
+  <data name="StormCrowGloves" xml:space="preserve">
+    <value>폭풍까마귀 장갑</value>
+  </data>
+  <data name="BlackDragonGloves" xml:space="preserve">
+    <value>블랙 드래곤 장갑</value>
+  </data>
+  <data name="DarkPhoenixGloves" xml:space="preserve">
+    <value>다크 피닉스 장갑</value>
+  </data>
+  <data name="GrandSoulGloves" xml:space="preserve">
+    <value>그랜드 소울 장갑</value>
+  </data>
+  <data name="DivineGloves" xml:space="preserve">
+    <value>신성한 장갑</value>
+  </data>
+  <data name="ThunderHawkGloves" xml:space="preserve">
+    <value>썬더 호크 장갑</value>
+  </data>
+  <data name="GreatDragonGloves" xml:space="preserve">
+    <value>그레이트 드래곤 장갑</value>
+  </data>
+  <data name="DarkSoulGloves" xml:space="preserve">
+    <value>다크 소울 장갑</value>
+  </data>
+  <data name="HurricaneGloves" xml:space="preserve">
+    <value>허리케인 장갑</value>
+  </data>
+  <data name="RedSpiritGloves" xml:space="preserve">
+    <value>붉은 정령 장갑</value>
+  </data>
+  <data name="LightPlateGloves" xml:space="preserve">
+    <value>라이트 플레이트 장갑</value>
+  </data>
+  <data name="AdamantineGloves" xml:space="preserve">
+    <value>금강 장갑</value>
+  </data>
+  <data name="DarkSteelGloves" xml:space="preserve">
+    <value>암흑 강철 장갑</value>
+  </data>
+  <data name="DarkMasterGloves" xml:space="preserve">
+    <value>다크 마스터 장갑</value>
+  </data>
+  <data name="DragonKnightGloves" xml:space="preserve">
+    <value>드래곤 나이트 장갑</value>
+  </data>
+  <data name="VenomMistGloves" xml:space="preserve">
+    <value>베놈 미스트 장갑</value>
+  </data>
+  <data name="SylphidRayGloves" xml:space="preserve">
+    <value>실피드 가오리 장갑</value>
+  </data>
+  <data name="VolcanoGloves" xml:space="preserve">
+    <value>화산 장갑</value>
+  </data>
+  <data name="SunlightGloves" xml:space="preserve">
+    <value>햇빛 장갑</value>
+  </data>
+  <data name="AshcrowGloves" xml:space="preserve">
+    <value>재떨이 장갑</value>
+  </data>
+  <data name="EclipseGloves" xml:space="preserve">
+    <value>이클립스 장갑</value>
+  </data>
+  <data name="IrisGloves" xml:space="preserve">
+    <value>아이리스 장갑</value>
+  </data>
+  <data name="ValiantGloves" xml:space="preserve">
+    <value>용감한 장갑</value>
+  </data>
+  <data name="GloriousGloves" xml:space="preserve">
+    <value>영광의 장갑</value>
+  </data>
+  <data name="MisteryGloves" xml:space="preserve">
+    <value>미스터리 장갑</value>
+  </data>
+  <data name="RedWingGloves" xml:space="preserve">
+    <value>레드윙 장갑</value>
+  </data>
+  <data name="AncientGloves" xml:space="preserve">
+    <value>세트 장갑</value>
+  </data>
+  <data name="BlackRoseGloves" xml:space="preserve">
+    <value>블랙 로즈 장갑</value>
+  </data>
+  <data name="AuraGloves" xml:space="preserve">
+    <value>오라 장갑</value>
+  </data>
+  <data name="LiliumGloves" xml:space="preserve">
+    <value>나리속 장갑</value>
+  </data>
+  <data name="TitanGloves" xml:space="preserve">
+    <value>타이탄 장갑</value>
+  </data>
+  <data name="BraveGloves" xml:space="preserve">
+    <value>용감한 장갑</value>
+  </data>
+  <data name="DestroyGloves" xml:space="preserve">
+    <value>디스트로이 글러브</value>
+  </data>
+  <data name="PhantomGloves" xml:space="preserve">
+    <value>팬텀 장갑</value>
+  </data>
+  <data name="SeraphimGloves" xml:space="preserve">
+    <value>세라핌 장갑</value>
+  </data>
+  <data name="FaithGloves" xml:space="preserve">
+    <value>신앙 장갑</value>
+  </data>
+  <data name="PaewangGloves" xml:space="preserve">
+    <value>패왕장갑</value>
+  </data>
+  <data name="HadesGloves" xml:space="preserve">
+    <value>하데스 장갑</value>
+  </data>
+  <data name="BronzeBoots" xml:space="preserve">
+    <value>브론즈 부츠</value>
+  </data>
+  <data name="DragonBoots" xml:space="preserve">
+    <value>드래곤 부츠</value>
+  </data>
+  <data name="PadBoots" xml:space="preserve">
+    <value>패드 부츠</value>
+  </data>
+  <data name="LegendaryBoots" xml:space="preserve">
+    <value>전설적인 부츠</value>
+  </data>
+  <data name="BoneBoots" xml:space="preserve">
+    <value>뼈 장화</value>
+  </data>
+  <data name="LeatherBoots" xml:space="preserve">
+    <value>가죽 부츠</value>
+  </data>
+  <data name="ScaleBoots" xml:space="preserve">
+    <value>비늘 장화</value>
+  </data>
+  <data name="SphinxBoots" xml:space="preserve">
+    <value>스핑크스 부츠</value>
+  </data>
+  <data name="BrassBoots" xml:space="preserve">
+    <value>황동 부츠</value>
+  </data>
+  <data name="PlateBoots" xml:space="preserve">
+    <value>플레이트 부츠</value>
+  </data>
+  <data name="VineBoots" xml:space="preserve">
+    <value>덩굴 장화</value>
+  </data>
+  <data name="SilkBoots" xml:space="preserve">
+    <value>실크 부츠</value>
+  </data>
+  <data name="WindBoots" xml:space="preserve">
+    <value>윈드 부츠</value>
+  </data>
+  <data name="SpiritBoots" xml:space="preserve">
+    <value>스피릿 부츠</value>
+  </data>
+  <data name="GuardianBoots" xml:space="preserve">
+    <value>가디언 부츠</value>
+  </data>
+  <data name="StormCrowBoots" xml:space="preserve">
+    <value>스톰 크로우 부츠</value>
+  </data>
+  <data name="BlackDragonBoots" xml:space="preserve">
+    <value>블랙 드래곤 부츠</value>
+  </data>
+  <data name="DarkPhoenixBoots" xml:space="preserve">
+    <value>다크 피닉스 부츠</value>
+  </data>
+  <data name="GrandSoulBoots" xml:space="preserve">
+    <value>그랜드 소울 부츠</value>
+  </data>
+  <data name="DivineBoots" xml:space="preserve">
+    <value>디바인 부츠</value>
+  </data>
+  <data name="ThunderHawkBoots" xml:space="preserve">
+    <value>썬더 호크 부츠</value>
+  </data>
+  <data name="GreatDragonBoots" xml:space="preserve">
+    <value>그레이트 드래곤 부츠</value>
+  </data>
+  <data name="DarkSoulBoots" xml:space="preserve">
+    <value>다크 소울 부츠</value>
+  </data>
+  <data name="HurricaneBoots" xml:space="preserve">
+    <value>허리케인 부츠</value>
+  </data>
+  <data name="RedSpiritBoots" xml:space="preserve">
+    <value>붉은 정령의 장화</value>
+  </data>
+  <data name="LightPlateBoots" xml:space="preserve">
+    <value>라이트 플레이트 부츠</value>
+  </data>
+  <data name="AdamantineBoots" xml:space="preserve">
+    <value>금강 장화</value>
+  </data>
+  <data name="DarkSteelBoots" xml:space="preserve">
+    <value>암흑 강철 장화</value>
+  </data>
+  <data name="DarkMasterBoots" xml:space="preserve">
+    <value>다크 마스터 부츠</value>
+  </data>
+  <data name="DragonKnightBoots" xml:space="preserve">
+    <value>드래곤 나이트 부츠</value>
+  </data>
+  <data name="VenomMistBoots" xml:space="preserve">
+    <value>베놈 미스트 부츠</value>
+  </data>
+  <data name="SylphidRayBoots" xml:space="preserve">
+    <value>실피드 가오리 장화</value>
+  </data>
+  <data name="VolcanoBoots" xml:space="preserve">
+    <value>화산 장화</value>
+  </data>
+  <data name="SunlightBoots" xml:space="preserve">
+    <value>햇빛 장화</value>
+  </data>
+  <data name="AshcrowBoots" xml:space="preserve">
+    <value>재아까마귀 장화</value>
+  </data>
+  <data name="EclipseBoots" xml:space="preserve">
+    <value>이클립스 부츠</value>
+  </data>
+  <data name="IrisBoots" xml:space="preserve">
+    <value>아이리스 부츠</value>
+  </data>
+  <data name="ValiantBoots" xml:space="preserve">
+    <value>용감한 장화</value>
+  </data>
+  <data name="GloriousBoots" xml:space="preserve">
+    <value>영광스러운 부츠</value>
+  </data>
+  <data name="MisteryBoots" xml:space="preserve">
+    <value>미스테리 부츠</value>
+  </data>
+  <data name="RedWingBoots" xml:space="preserve">
+    <value>레드윙 부츠</value>
+  </data>
+  <data name="AncientBoots" xml:space="preserve">
+    <value>세트 부츠</value>
+  </data>
+  <data name="BlackRoseBoots" xml:space="preserve">
+    <value>블랙 로즈 부츠</value>
+  </data>
+  <data name="AuraBoots" xml:space="preserve">
+    <value>오라 부츠</value>
+  </data>
+  <data name="LiliumBoots" xml:space="preserve">
+    <value>릴리움 부츠</value>
+  </data>
+  <data name="TitanBoots" xml:space="preserve">
+    <value>타이탄 부츠</value>
+  </data>
+  <data name="BraveBoots" xml:space="preserve">
+    <value>용감한 부츠</value>
+  </data>
+  <data name="DestoryBoots" xml:space="preserve">
+    <value>파괴의 부츠</value>
+  </data>
+  <data name="PhantomBoots" xml:space="preserve">
+    <value>팬텀 부츠</value>
+  </data>
+  <data name="SeraphimBoots" xml:space="preserve">
+    <value>세라핌 부츠</value>
+  </data>
+  <data name="FaithBoots" xml:space="preserve">
+    <value>믿음의 부츠</value>
+  </data>
+  <data name="PhaewangBoots" xml:space="preserve">
+    <value>파왕 부츠</value>
+  </data>
+  <data name="HadesBoots" xml:space="preserve">
+    <value>하데스 부츠</value>
+  </data>
+  <data name="SacredBoots" xml:space="preserve">
+    <value>신성한 장화</value>
+  </data>
+  <data name="StormHardBoots" xml:space="preserve">
+    <value>스톰 하드 부츠</value>
+  </data>
+  <data name="PiercingBoots" xml:space="preserve">
+    <value>피어싱 부츠</value>
+  </data>
+  <data name="PhoenixSoulBoots" xml:space="preserve">
+    <value>피닉스 소울 부츠</value>
+  </data>
+  <data name="WingsOfElf" xml:space="preserve">
+    <value>엘프의 날개</value>
+  </data>
+  <data name="WingsOfHeaven" xml:space="preserve">
+    <value>천국의 날개</value>
+  </data>
+  <data name="WingsOfSatan" xml:space="preserve">
+    <value>사탄의 날개</value>
+  </data>
+  <data name="WingsOfSpirits" xml:space="preserve">
+    <value>영혼의 날개</value>
+  </data>
+  <data name="WingsOfSoul" xml:space="preserve">
+    <value>영혼의 날개</value>
+  </data>
+  <data name="WingsOfDragon" xml:space="preserve">
+    <value>드래곤의 날개</value>
+  </data>
+  <data name="WingsOfDarkness" xml:space="preserve">
+    <value>어둠의 날개</value>
+  </data>
+  <data name="OrbOfTwistingSlash" xml:space="preserve">
+    <value>회오리 베기의 구체</value>
+  </data>
+  <data name="OrbOfHealing" xml:space="preserve">
+    <value>치유의 오브</value>
+  </data>
+  <data name="OrbOfGreaterDefense" xml:space="preserve">
+    <value>방어력 향상의 구체</value>
+  </data>
+  <data name="OrbOfGreaterDamage" xml:space="preserve">
+    <value>공격력 향상의 구체</value>
+  </data>
+  <data name="OrbOfSummoning" xml:space="preserve">
+    <value>소환의 오브</value>
+  </data>
+  <data name="OrbOfRagefulBlow" xml:space="preserve">
+    <value>분노의 일격의 구체</value>
+  </data>
+  <data name="OrbOfImpale" xml:space="preserve">
+    <value>꿰뚫는 오브</value>
+  </data>
+  <data name="OrbOfGreaterFortitude" xml:space="preserve">
+    <value>더 큰 인내의 오브</value>
+  </data>
+  <data name="JewelOfChaos" xml:space="preserve">
+    <value>혼돈의 보석</value>
+  </data>
+  <data name="OrbOfFireSlash" xml:space="preserve">
+    <value>파이어 슬래시 오브</value>
+  </data>
+  <data name="OrbOfPenetration" xml:space="preserve">
+    <value>관통의 오브</value>
+  </data>
+  <data name="OrbOfIceArrow" xml:space="preserve">
+    <value>얼음 화살의 오브</value>
+  </data>
+  <data name="OrbOfDeathStab" xml:space="preserve">
+    <value>찌르기의 구체</value>
+  </data>
+  <data name="ScrollOfFireBurst" xml:space="preserve">
+    <value>FireBurst의 스크롤</value>
+  </data>
+  <data name="ScrollOfSummon" xml:space="preserve">
+    <value>소환의 두루마리</value>
+  </data>
+  <data name="ScrollOfCriticalDamage" xml:space="preserve">
+    <value>치명타 데미지 두루마리</value>
+  </data>
+  <data name="ScrollOfElectricSpark" xml:space="preserve">
+    <value>전기 스파크의 두루마리</value>
+  </data>
+  <data name="PackedJewelOfBless" xml:space="preserve">
+    <value>축복의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfSoul" xml:space="preserve">
+    <value>영혼의 보석 포장됨</value>
+  </data>
+  <data name="RedRibbonBox" xml:space="preserve">
+    <value>빨간 리본 상자</value>
+  </data>
+  <data name="GreenRibbonBox" xml:space="preserve">
+    <value>녹색 리본 상자</value>
+  </data>
+  <data name="BlueRibbonBox" xml:space="preserve">
+    <value>블루리본박스</value>
+  </data>
+  <data name="ScrollOfFireScream" xml:space="preserve">
+    <value>불의 비명 두루마리</value>
+  </data>
+  <data name="WingOfStorm" xml:space="preserve">
+    <value>폭풍의 날개</value>
+  </data>
+  <data name="WingOfEternal" xml:space="preserve">
+    <value>영원의 날개</value>
+  </data>
+  <data name="WingOfIllusion" xml:space="preserve">
+    <value>환상의 날개</value>
+  </data>
+  <data name="WingOfRuin" xml:space="preserve">
+    <value>폐허의 날개</value>
+  </data>
+  <data name="CapeOfEmperor" xml:space="preserve">
+    <value>황제의 곶</value>
+  </data>
+  <data name="WingsOfCurse" xml:space="preserve">
+    <value>저주의 날개</value>
+  </data>
+  <data name="WingsOfDespair" xml:space="preserve">
+    <value>절망의 날개</value>
+  </data>
+  <data name="WingOfDimension" xml:space="preserve">
+    <value>차원의 날개</value>
+  </data>
+  <data name="CrystalOfDestruction" xml:space="preserve">
+    <value>파괴의 수정</value>
+  </data>
+  <data name="CrystalOfMultiShot" xml:space="preserve">
+    <value>멀티샷의 크리스탈</value>
+  </data>
+  <data name="CrystalOfRecovery" xml:space="preserve">
+    <value>회복의 수정</value>
+  </data>
+  <data name="CrystalOfFlameStrike" xml:space="preserve">
+    <value>화염 타격의 수정</value>
+  </data>
+  <data name="ScrollOfChaoticDiseier" xml:space="preserve">
+    <value>혼돈의 디세이어 두루마리</value>
+  </data>
+  <data name="CapeOfFighter" xml:space="preserve">
+    <value>케이프 오브 파이터</value>
+  </data>
+  <data name="CapeOfOverrule" xml:space="preserve">
+    <value>케이프 오브 오버룰</value>
+  </data>
+  <data name="SeedFire" xml:space="preserve">
+    <value>씨앗(불)</value>
+  </data>
+  <data name="SeedWater" xml:space="preserve">
+    <value>씨앗(물)</value>
+  </data>
+  <data name="SeedIce" xml:space="preserve">
+    <value>시드(얼음)</value>
+  </data>
+  <data name="SeedWind" xml:space="preserve">
+    <value>씨앗(바람)</value>
+  </data>
+  <data name="SeedLightning" xml:space="preserve">
+    <value>씨앗(번개)</value>
+  </data>
+  <data name="SeedEarth" xml:space="preserve">
+    <value>씨앗(지구)</value>
+  </data>
+  <data name="SphereMono" xml:space="preserve">
+    <value>구(모노)</value>
+  </data>
+  <data name="SphereDi" xml:space="preserve">
+    <value>구(Di)</value>
+  </data>
+  <data name="SphereTri" xml:space="preserve">
+    <value>구(트라이)</value>
+  </data>
+  <data name="Sphere4" xml:space="preserve">
+    <value>구체 (4)</value>
+  </data>
+  <data name="Sphere5" xml:space="preserve">
+    <value>구체 (5)</value>
+  </data>
+  <data name="SeedSphereFire1" xml:space="preserve">
+    <value>시드 스피어(불꽃) (1)</value>
+  </data>
+  <data name="SeedSphereWater1" xml:space="preserve">
+    <value>씨앗 구체(물) (1)</value>
+  </data>
+  <data name="SeedSphereIce1" xml:space="preserve">
+    <value>시드 스피어(얼음) (1)</value>
+  </data>
+  <data name="SeedSphereWind1" xml:space="preserve">
+    <value>시드스피어(바람) (1)</value>
+  </data>
+  <data name="SeedSphereLightning1" xml:space="preserve">
+    <value>시드 스피어(번개) (1)</value>
+  </data>
+  <data name="SeedSphereEarth1" xml:space="preserve">
+    <value>시드 스피어(지구) (1)</value>
+  </data>
+  <data name="SeedSphereFire2" xml:space="preserve">
+    <value>시드 스피어(불꽃) (2)</value>
+  </data>
+  <data name="SeedSphereWater2" xml:space="preserve">
+    <value>씨앗 구체(물) (2)</value>
+  </data>
+  <data name="SeedSphereIce2" xml:space="preserve">
+    <value>시드스피어(얼음)(2)</value>
+  </data>
+  <data name="SeedSphereWind2" xml:space="preserve">
+    <value>시드스피어(바람) (2)</value>
+  </data>
+  <data name="SeedSphereLightning2" xml:space="preserve">
+    <value>시드 스피어(번개) (2)</value>
+  </data>
+  <data name="SeedSphereEarth2" xml:space="preserve">
+    <value>시드스피어(지구) (2)</value>
+  </data>
+  <data name="SeedSphereFire3" xml:space="preserve">
+    <value>시드 스피어(불꽃) (3)</value>
+  </data>
+  <data name="SeedSphereWater3" xml:space="preserve">
+    <value>씨앗 구체(물) (3)</value>
+  </data>
+  <data name="SeedSphereIce3" xml:space="preserve">
+    <value>시드스피어(얼음) (3)</value>
+  </data>
+  <data name="SeedSphereWind3" xml:space="preserve">
+    <value>시드스피어(바람) (3)</value>
+  </data>
+  <data name="SeedSphereLightning3" xml:space="preserve">
+    <value>시드 스피어(번개) (3)</value>
+  </data>
+  <data name="SeedSphereEarth3" xml:space="preserve">
+    <value>시드스피어(지구) (3)</value>
+  </data>
+  <data name="SeedSphereFire4" xml:space="preserve">
+    <value>시드 스피어(불꽃) (4)</value>
+  </data>
+  <data name="SeedSphereWater4" xml:space="preserve">
+    <value>씨앗 구체(물) (4)</value>
+  </data>
+  <data name="SeedSphereIce4" xml:space="preserve">
+    <value>시드 스피어(얼음) (4)</value>
+  </data>
+  <data name="SeedSphereWind4" xml:space="preserve">
+    <value>시드스피어(바람) (4)</value>
+  </data>
+  <data name="SeedSphereLightning4" xml:space="preserve">
+    <value>시드 스피어(번개) (4)</value>
+  </data>
+  <data name="SeedSphereEarth4" xml:space="preserve">
+    <value>시드스피어(지구) (4)</value>
+  </data>
+  <data name="SeedSphereFire5" xml:space="preserve">
+    <value>씨앗 구체(불꽃) (5)</value>
+  </data>
+  <data name="SeedSphereWater5" xml:space="preserve">
+    <value>씨앗 구체(물) (5)</value>
+  </data>
+  <data name="SeedSphereIce5" xml:space="preserve">
+    <value>시드 스피어(얼음) (5)</value>
+  </data>
+  <data name="SeedSphereWind5" xml:space="preserve">
+    <value>시드스피어(바람) (5)</value>
+  </data>
+  <data name="SeedSphereLightning5" xml:space="preserve">
+    <value>시드 스피어(번개) (5)</value>
+  </data>
+  <data name="SeedSphereEarth5" xml:space="preserve">
+    <value>시드스피어(지구) (5)</value>
+  </data>
+  <data name="PackedJewelOfLife" xml:space="preserve">
+    <value>생명의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfCreation" xml:space="preserve">
+    <value>창조의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfGuardian" xml:space="preserve">
+    <value>수호의 보석 포장됨</value>
+  </data>
+  <data name="PackedGemstone" xml:space="preserve">
+    <value>포장된 보석</value>
+  </data>
+  <data name="PackedJewelOfHarmony" xml:space="preserve">
+    <value>조화의 보석 포장됨</value>
+  </data>
+  <data name="PackedJewelOfChaos" xml:space="preserve">
+    <value>혼돈의 보석 포장됨</value>
+  </data>
+  <data name="PackedLowerRefineStone" xml:space="preserve">
+    <value>포장된 하층 정제석</value>
+  </data>
+  <data name="PackedHigherRefineStone" xml:space="preserve">
+    <value>포장된 고급 정제석</value>
+  </data>
+  <data name="GuardianAngel" xml:space="preserve">
+    <value>수호천사</value>
+  </data>
+  <data name="Imp" xml:space="preserve">
+    <value>임프</value>
+  </data>
+  <data name="HornOfUniria" xml:space="preserve">
+    <value>유니리아의 뿔</value>
+  </data>
+  <data name="HornOfDinorant" xml:space="preserve">
+    <value>디노란트의 뿔</value>
+  </data>
+  <data name="DarkHorse" xml:space="preserve">
+    <value>다크호스</value>
+  </data>
+  <data name="DarkRaven" xml:space="preserve">
+    <value>다크 레이븐</value>
+  </data>
+  <data name="RingOfIce" xml:space="preserve">
+    <value>얼음의 반지</value>
+  </data>
+  <data name="RingOfPoison" xml:space="preserve">
+    <value>독의 반지</value>
+  </data>
+  <data name="TransformationRing" xml:space="preserve">
+    <value>변신 반지</value>
+  </data>
+  <data name="LifeStone" xml:space="preserve">
+    <value>생명의 돌</value>
+  </data>
+  <data name="PendantOfLighting" xml:space="preserve">
+    <value>번개의 목걸이</value>
+  </data>
+  <data name="PendantOfFire" xml:space="preserve">
+    <value>불의 펜던트</value>
+  </data>
+  <data name="LochSFeather" xml:space="preserve">
+    <value>호수의 깃털</value>
+  </data>
+  <data name="Fruits" xml:space="preserve">
+    <value>과일</value>
+  </data>
+  <data name="ScrollOfArchangel" xml:space="preserve">
+    <value>대천사의 두루마리</value>
+  </data>
+  <data name="BloodBone" xml:space="preserve">
+    <value>블러드본</value>
+  </data>
+  <data name="InvisibilityCloak" xml:space="preserve">
+    <value>투명 망토</value>
+  </data>
+  <data name="WeaponOfArchangel" xml:space="preserve">
+    <value>대천사의 무기</value>
+  </data>
+  <data name="WizardSRing" xml:space="preserve">
+    <value>마법사의 반지</value>
+  </data>
+  <data name="RingOfFire" xml:space="preserve">
+    <value>불의 고리</value>
+  </data>
+  <data name="RingOfEarth" xml:space="preserve">
+    <value>대지의 고리</value>
+  </data>
+  <data name="RingOfWind" xml:space="preserve">
+    <value>바람의 고리</value>
+  </data>
+  <data name="RingOfMagic" xml:space="preserve">
+    <value>마법의 반지</value>
+  </data>
+  <data name="PendantOfIce" xml:space="preserve">
+    <value>얼음의 펜던트</value>
+  </data>
+  <data name="PendantOfWind" xml:space="preserve">
+    <value>바람의 펜던트</value>
+  </data>
+  <data name="PendantOfWater" xml:space="preserve">
+    <value>물의 펜던트</value>
+  </data>
+  <data name="PendantOfAbility" xml:space="preserve">
+    <value>능력의 펜던트</value>
+  </data>
+  <data name="ArmorOfGuardsman" xml:space="preserve">
+    <value>경비병의 갑옷</value>
+  </data>
+  <data name="CapeOfLord" xml:space="preserve">
+    <value>케이프 오브 로드</value>
+  </data>
+  <data name="Spirit" xml:space="preserve">
+    <value>정신</value>
+  </data>
+  <data name="SplinterOfArmor" xml:space="preserve">
+    <value>갑옷의 파편</value>
+  </data>
+  <data name="BlessOfGuardian" xml:space="preserve">
+    <value>수호자의 축복</value>
+  </data>
+  <data name="ClawOfBeast" xml:space="preserve">
+    <value>짐승의 발톱</value>
+  </data>
+  <data name="FragmentOfHorn" xml:space="preserve">
+    <value>뿔 조각</value>
+  </data>
+  <data name="BrokenHorn" xml:space="preserve">
+    <value>부러진 뿔</value>
+  </data>
+  <data name="HornOfFenrir" xml:space="preserve">
+    <value>펜리르의 뿔</value>
+  </data>
+  <data name="MoonstonePendant" xml:space="preserve">
+    <value>문스톤 펜던트</value>
+  </data>
+  <data name="EliteSkeletonTransformationRing" xml:space="preserve">
+    <value>엘리트 해골 변신 반지</value>
+  </data>
+  <data name="JackOLanternTransformationRing" xml:space="preserve">
+    <value>잭오랜턴 변신 반지</value>
+  </data>
+  <data name="ChristmasTransformationRing" xml:space="preserve">
+    <value>크리스마스 변신 반지</value>
+  </data>
+  <data name="GameMasterTransformationRing" xml:space="preserve">
+    <value>게임 마스터 변신 반지</value>
+  </data>
+  <data name="OldScroll" xml:space="preserve">
+    <value>오래된 두루마리</value>
+  </data>
+  <data name="IllusionSorcererCovenant" xml:space="preserve">
+    <value>환영 마법사의 계약</value>
+  </data>
+  <data name="ScrollOfBlood" xml:space="preserve">
+    <value>피의 두루마리</value>
+  </data>
+  <data name="FlameOfCondor" xml:space="preserve">
+    <value>콘도르의 불꽃</value>
+  </data>
+  <data name="FeatherOfCondor" xml:space="preserve">
+    <value>콘도르의 깃털</value>
+  </data>
+  <data name="Demon" xml:space="preserve">
+    <value>악마</value>
+  </data>
+  <data name="SpiritOfGuardian" xml:space="preserve">
+    <value>수호자의 정신</value>
+  </data>
+  <data name="PetRudolf" xml:space="preserve">
+    <value>펫 루돌프</value>
+  </data>
+  <data name="SnowmanTransformationRing" xml:space="preserve">
+    <value>눈사람 변신 반지</value>
+  </data>
+  <data name="PandaTransformationRing" xml:space="preserve">
+    <value>팬더 변신 반지</value>
+  </data>
+  <data name="PetPanda" xml:space="preserve">
+    <value>펫 팬더</value>
+  </data>
+  <data name="PetUnicorn" xml:space="preserve">
+    <value>펫 유니콘</value>
+  </data>
+  <data name="SkeletonTransformationRing" xml:space="preserve">
+    <value>해골 변신 반지</value>
+  </data>
+  <data name="PetSkeleton" xml:space="preserve">
+    <value>펫 해골</value>
+  </data>
+  <data name="Apple" xml:space="preserve">
+    <value>사과</value>
+  </data>
+  <data name="SmallHealingPotion" xml:space="preserve">
+    <value>소형 치유 물약</value>
+  </data>
+  <data name="MediumHealingPotion" xml:space="preserve">
+    <value>중간 치유 물약</value>
+  </data>
+  <data name="LargeHealingPotion" xml:space="preserve">
+    <value>대형 치유 물약</value>
+  </data>
+  <data name="SmallManaPotion" xml:space="preserve">
+    <value>작은 마나 물약</value>
+  </data>
+  <data name="MediumManaPotion" xml:space="preserve">
+    <value>중간 마나 물약</value>
+  </data>
+  <data name="LargeManaPotion" xml:space="preserve">
+    <value>대형 마나 물약</value>
+  </data>
+  <data name="PotionOfBlessPotionOfSoul" xml:space="preserve">
+    <value>축복의 물약;영혼의 물약</value>
+  </data>
+  <data name="Antidote" xml:space="preserve">
+    <value>해독제</value>
+  </data>
+  <data name="Ale" xml:space="preserve">
+    <value>에일</value>
+  </data>
+  <data name="TownPortalScroll" xml:space="preserve">
+    <value>타운 포탈 스크롤</value>
+  </data>
+  <data name="BoxOfLuck" xml:space="preserve">
+    <value>행운의 상자</value>
+  </data>
+  <data name="JewelOfBless" xml:space="preserve">
+    <value>축복의 보석</value>
+  </data>
+  <data name="JewelOfSoul" xml:space="preserve">
+    <value>영혼의 보석</value>
+  </data>
+  <data name="JewelOfLife" xml:space="preserve">
+    <value>생명의 보석</value>
+  </data>
+  <data name="DevilSEye" xml:space="preserve">
+    <value>악마의 눈</value>
+  </data>
+  <data name="DevilSKey" xml:space="preserve">
+    <value>악마의 열쇠</value>
+  </data>
+  <data name="DevilSInvitation" xml:space="preserve">
+    <value>악마의 초대</value>
+  </data>
+  <data name="Rena" xml:space="preserve">
+    <value>레나</value>
+  </data>
+  <data name="JewelOfCreation" xml:space="preserve">
+    <value>창조의 보석</value>
+  </data>
+  <data name="ScrollOfEmperorRingOfHonor" xml:space="preserve">
+    <value>황제의 두루마리, 명예의 반지</value>
+  </data>
+  <data name="BrokenSwordDarkStone" xml:space="preserve">
+    <value>부러진 검;암흑석</value>
+  </data>
+  <data name="TearOfElf" xml:space="preserve">
+    <value>엘프의 눈물</value>
+  </data>
+  <data name="SoulShardOfWizard" xml:space="preserve">
+    <value>마법사의 영혼조각</value>
+  </data>
+  <data name="LostMap" xml:space="preserve">
+    <value>잃어버린 지도</value>
+  </data>
+  <data name="SymbolOfKundun" xml:space="preserve">
+    <value>쿤둔의 상징</value>
+  </data>
+  <data name="JewelOfGuardian" xml:space="preserve">
+    <value>수호의 보석</value>
+  </data>
+  <data name="PinkChocolateBox" xml:space="preserve">
+    <value>핑크 초콜릿 상자</value>
+  </data>
+  <data name="RedChocolateBox" xml:space="preserve">
+    <value>레드 초콜릿 상자</value>
+  </data>
+  <data name="BlueChocolateBox" xml:space="preserve">
+    <value>블루 초콜릿 상자</value>
+  </data>
+  <data name="SmallShieldPotion" xml:space="preserve">
+    <value>소형 방패 물약</value>
+  </data>
+  <data name="MediumShieldPotion" xml:space="preserve">
+    <value>중형 보호막 물약</value>
+  </data>
+  <data name="LargeShieldPotion" xml:space="preserve">
+    <value>대형 방패 물약</value>
+  </data>
+  <data name="SmallComplexPotion" xml:space="preserve">
+    <value>소형 복합 물약</value>
+  </data>
+  <data name="MediumComplexPotion" xml:space="preserve">
+    <value>중간 복합 물약</value>
+  </data>
+  <data name="LargeComplexPotion" xml:space="preserve">
+    <value>대형 복합 물약</value>
+  </data>
+  <data name="Gemstone" xml:space="preserve">
+    <value>보석</value>
+  </data>
+  <data name="JewelOfHarmony" xml:space="preserve">
+    <value>조화의 보석</value>
+  </data>
+  <data name="LowerRefineStone" xml:space="preserve">
+    <value>하층 제련석</value>
+  </data>
+  <data name="HigherRefineStone" xml:space="preserve">
+    <value>더 높은 정제석</value>
+  </data>
+  <data name="PumpkinOfLuck" xml:space="preserve">
+    <value>행운의 호박</value>
+  </data>
+  <data name="JackOLanternBlessings" xml:space="preserve">
+    <value>잭오랜턴의 축복</value>
+  </data>
+  <data name="JackOLanternWrath" xml:space="preserve">
+    <value>잭오랜턴의 분노</value>
+  </data>
+  <data name="JackOLanternCry" xml:space="preserve">
+    <value>잭오랜턴 크라이</value>
+  </data>
+  <data name="JackOLanternFood" xml:space="preserve">
+    <value>잭오랜턴 음식</value>
+  </data>
+  <data name="JackOLanternDrink" xml:space="preserve">
+    <value>잭오랜턴 음료</value>
+  </data>
+  <data name="ChristmasStar" xml:space="preserve">
+    <value>크리스마스 스타</value>
+  </data>
+  <data name="GMGift" xml:space="preserve">
+    <value>GM 선물</value>
+  </data>
+  <data name="Firecracker" xml:space="preserve">
+    <value>폭죽</value>
+  </data>
+  <data name="FlameOfDeathBeamKnight" xml:space="preserve">
+    <value>데스빔 나이트의 불꽃</value>
+  </data>
+  <data name="HornOfHellMaine" xml:space="preserve">
+    <value>지옥의 뿔 메인</value>
+  </data>
+  <data name="FeatherOfDarkPhoenix" xml:space="preserve">
+    <value>다크 피닉스의 깃털</value>
+  </data>
+  <data name="EyeOfAbyssal" xml:space="preserve">
+    <value>심연의 눈</value>
+  </data>
+  <data name="CherryBlossomPlayBox" xml:space="preserve">
+    <value>벚꽃놀이박스</value>
+  </data>
+  <data name="CherryBlossomWine" xml:space="preserve">
+    <value>벚꽃 와인</value>
+  </data>
+  <data name="CherryBlossomRiceCake" xml:space="preserve">
+    <value>벚꽃떡</value>
+  </data>
+  <data name="CherryBlossomFlowerPetal" xml:space="preserve">
+    <value>벚꽃 꽃 꽃잎</value>
+  </data>
+  <data name="GoldenCherryBlossomBranch" xml:space="preserve">
+    <value>황금빛 벚꽃 가지</value>
+  </data>
+  <data name="ChristmasFirecracker" xml:space="preserve">
+    <value>크리스마스 폭죽</value>
+  </data>
+  <data name="SuspiciousScrapOfPaper" xml:space="preserve">
+    <value>의심스러운 종이 조각</value>
+  </data>
+  <data name="GaionSOrder" xml:space="preserve">
+    <value>가이온의 명령</value>
+  </data>
+  <data name="FirstSecromiconFragment" xml:space="preserve">
+    <value>첫 번째 세크로미콘 조각</value>
+  </data>
+  <data name="SecondSecromiconFragment" xml:space="preserve">
+    <value>두 번째 세크로미콘 조각</value>
+  </data>
+  <data name="ThirdSecromiconFragment" xml:space="preserve">
+    <value>세 번째 세크로콘 조각</value>
+  </data>
+  <data name="FourthSecromiconFragment" xml:space="preserve">
+    <value>네 번째 세크로미콘 조각</value>
+  </data>
+  <data name="FifthSecromiconFragment" xml:space="preserve">
+    <value>다섯 번째 세크로미콘 조각</value>
+  </data>
+  <data name="SixthSecromiconFragment" xml:space="preserve">
+    <value>여섯 번째 세크로미콘 조각</value>
+  </data>
+  <data name="CompleteSecromicon" xml:space="preserve">
+    <value>완성된 세크로미콘</value>
+  </data>
+  <data name="ScrollOfPoison" xml:space="preserve">
+    <value>독의 두루마리</value>
+  </data>
+  <data name="ScrollOfMeteorite" xml:space="preserve">
+    <value>운석 두루마리</value>
+  </data>
+  <data name="ScrollOfLighting" xml:space="preserve">
+    <value>번개의 두루마리</value>
+  </data>
+  <data name="ScrollOfFireBall" xml:space="preserve">
+    <value>파이어볼 두루마리</value>
+  </data>
+  <data name="ScrollOfFlame" xml:space="preserve">
+    <value>불꽃의 두루마리</value>
+  </data>
+  <data name="ScrollOfTeleport" xml:space="preserve">
+    <value>순간이동의 두루마리</value>
+  </data>
+  <data name="ScrollOfIce" xml:space="preserve">
+    <value>얼음의 두루마리</value>
+  </data>
+  <data name="ScrollOfTwister" xml:space="preserve">
+    <value>트위스터의 두루마리</value>
+  </data>
+  <data name="ScrollOfEvilSpirit" xml:space="preserve">
+    <value>악령의 스크롤</value>
+  </data>
+  <data name="ScrollOfHellfire" xml:space="preserve">
+    <value>지옥불의 두루마리</value>
+  </data>
+  <data name="ScrollOfPowerWave" xml:space="preserve">
+    <value>파워 웨이브의 두루마리</value>
+  </data>
+  <data name="ScrollOfAquaBeam" xml:space="preserve">
+    <value>아쿠아빔의 두루마리</value>
+  </data>
+  <data name="ScrollOfCometfall" xml:space="preserve">
+    <value>혜성폭포 두루마리</value>
+  </data>
+  <data name="ScrollOfInferno" xml:space="preserve">
+    <value>지옥의 두루마리</value>
+  </data>
+  <data name="ScrollOfTeleportAlly" xml:space="preserve">
+    <value>텔레포트 아군 스크롤</value>
+  </data>
+  <data name="ScrollOfSoulBarrier" xml:space="preserve">
+    <value>소울 바리어의 스크롤</value>
+  </data>
+  <data name="ScrollOfDecay" xml:space="preserve">
+    <value>부패의 두루마리</value>
+  </data>
+  <data name="ScrollOfIceStorm" xml:space="preserve">
+    <value>얼음폭풍의 두루마리</value>
+  </data>
+  <data name="ScrollOfNova" xml:space="preserve">
+    <value>노바의 스크롤</value>
+  </data>
+  <data name="ChainLightningParchment" xml:space="preserve">
+    <value>연쇄 번개 양피지</value>
+  </data>
+  <data name="DrainLifeParchment" xml:space="preserve">
+    <value>드레인 라이프 양피지</value>
+  </data>
+  <data name="LightningShockParchment" xml:space="preserve">
+    <value>번개 충격 양피지</value>
+  </data>
+  <data name="DamageReflectionParchment" xml:space="preserve">
+    <value>데미지 반사 양피지</value>
+  </data>
+  <data name="BerserkerParchment" xml:space="preserve">
+    <value>버서커 양피지</value>
+  </data>
+  <data name="SleepParchment" xml:space="preserve">
+    <value>수면 양피지</value>
+  </data>
+  <data name="WeaknessParchment" xml:space="preserve">
+    <value>약점 양피지</value>
+  </data>
+  <data name="InnovationParchment" xml:space="preserve">
+    <value>혁신 양피지</value>
+  </data>
+  <data name="ScrollOfWizardryEnhance" xml:space="preserve">
+    <value>마법 강화 스크롤</value>
+  </data>
+  <data name="ScrollOfGiganticStorm" xml:space="preserve">
+    <value>거대폭풍의 두루마리</value>
+  </data>
+  <data name="ChainDriveParchment" xml:space="preserve">
+    <value>체인 드라이브 양피지</value>
+  </data>
+  <data name="DarkSideParchment" xml:space="preserve">
+    <value>다크사이드 양피지</value>
+  </data>
+  <data name="DragonRoarParchment" xml:space="preserve">
+    <value>용의 포효 양피지</value>
+  </data>
+  <data name="DragonSlasherParchment" xml:space="preserve">
+    <value>드래곤 슬래셔 양피지</value>
+  </data>
+  <data name="IgnoreDefenseParchment" xml:space="preserve">
+    <value>방어 양피지 무시</value>
+  </data>
+  <data name="IncreaseHealthParchment" xml:space="preserve">
+    <value>체력 증가 양피지</value>
+  </data>
+  <data name="IncreaseBlockParchment" xml:space="preserve">
+    <value>블록 양피지 증가</value>
+  </data>
+  <data name="SmallCapeOfLord" xml:space="preserve">
+    <value>주님의 작은 망토</value>
+  </data>
+  <data name="SmallWingOfCurse" xml:space="preserve">
+    <value>저주의 작은 날개</value>
+  </data>
+  <data name="SmallWingsOfElf" xml:space="preserve">
+    <value>엘프의 작은 날개</value>
+  </data>
+  <data name="SmallWingsOfHeaven" xml:space="preserve">
+    <value>천국의 작은 날개</value>
+  </data>
+  <data name="SmallWingsOfSatan" xml:space="preserve">
+    <value>사탄의 작은 날개</value>
+  </data>
+  <data name="LittleWarriorsCloak" xml:space="preserve">
+    <value>작은 전사의 망토</value>
+  </data>
+  <data name="MagicBackpack" xml:space="preserve">
+    <value>매직 백팩</value>
+  </data>
+  <data name="VaultExpansionCertificate" xml:space="preserve">
+    <value>볼트 확장 인증서</value>
+  </data>
+  <data name="SummonerCharacterCard" xml:space="preserve">
+    <value>소환술사 캐릭터 카드</value>
+  </data>
+  <data name="RageFighterCharacterCard" xml:space="preserve">
+    <value>레이지파이터 캐릭터 카드</value>
+  </data>
+  <data name="SignOfDimensions" xml:space="preserve">
+    <value>차원의 표시</value>
+  </data>
+  <data name="DoppelgangerFreeTicket" xml:space="preserve">
+    <value>도플갱어 무료 티켓</value>
+  </data>
+  <data name="InvitationToSantaVillage" xml:space="preserve">
+    <value>산타마을로의 초대</value>
+  </data>
+  <data name="DevilSquareFreeTicket" xml:space="preserve">
+    <value>데빌 스퀘어 티켓</value>
+  </data>
+  <data name="BloodCastleFreeTicket" xml:space="preserve">
+    <value>블러드 캐슬 티켓</value>
+  </data>
+  <data name="IllusionTempleFreeTicket" xml:space="preserve">
+    <value>환영의 사원 티켓</value>
+  </data>
+  <data name="ChaosCastleFreeTicket" xml:space="preserve">
+    <value>카오스 캐슬에 대한 오픈 액세스 티켓</value>
+  </data>
+  <data name="MirrorOfDimensions" xml:space="preserve">
+    <value>차원의 거울</value>
+  </data>
+  <data name="ShiningJewelleryCase" xml:space="preserve">
+    <value>빛나는 주얼리 케이스</value>
+  </data>
+  <data name="ElegantJewelleryCase" xml:space="preserve">
+    <value>우아한 주얼리 케이스</value>
+  </data>
+  <data name="SteelJewelleryCase" xml:space="preserve">
+    <value>스틸 주얼리 케이스</value>
+  </data>
+  <data name="OldJewelleryCase" xml:space="preserve">
+    <value>오래된 보석함</value>
+  </data>
+  <data name="CursedCastleWater" xml:space="preserve">
+    <value>저주받은 성수</value>
+  </data>
+  <data name="ResetFruitStrength" xml:space="preserve">
+    <value>과일 재설정(힘)</value>
+  </data>
+  <data name="ResetFruitAgility" xml:space="preserve">
+    <value>과일 재설정(민첩성)</value>
+  </data>
+  <data name="ResetFruitVitality" xml:space="preserve">
+    <value>과일 초기화(체력)</value>
+  </data>
+  <data name="ResetFruitEnergy" xml:space="preserve">
+    <value>과일 재설정(에너지)</value>
+  </data>
+  <data name="ResetFruitCommand" xml:space="preserve">
+    <value>과일 재설정(명령)</value>
+  </data>
+  <data name="KalimaTicket" xml:space="preserve">
+    <value>칼리마 티켓</value>
+  </data>
+  <data name="LethalWizardsRing" xml:space="preserve">
+    <value>치명적인 마법사의 반지</value>
+  </data>
+  <data name="SapphireRing" xml:space="preserve">
+    <value>사파이어 반지</value>
+  </data>
+  <data name="RubyRing" xml:space="preserve">
+    <value>루비 반지</value>
+  </data>
+  <data name="TopazRing" xml:space="preserve">
+    <value>토파즈 반지</value>
+  </data>
+  <data name="AmethystRing" xml:space="preserve">
+    <value>자수정 반지</value>
+  </data>
+  <data name="RubyNecklace" xml:space="preserve">
+    <value>루비 목걸이</value>
+  </data>
+  <data name="EmeraldNecklace" xml:space="preserve">
+    <value>에메랄드 목걸이</value>
+  </data>
+  <data name="SapphireNecklace" xml:space="preserve">
+    <value>사파이어 목걸이</value>
+  </data>
+  <data name="EliteHealingPotion" xml:space="preserve">
+    <value>엘리트 힐링 포션</value>
+  </data>
+  <data name="EliteManaPotion" xml:space="preserve">
+    <value>엘리트 마나 물약</value>
+  </data>
+  <data name="MediumEliteHealingPotion" xml:space="preserve">
+    <value>중형 엘리트 치유 물약</value>
+  </data>
+  <data name="EliteShieldPotion" xml:space="preserve">
+    <value>엘리트 SD 포션</value>
+  </data>
+  <data name="SphinxHelm" xml:space="preserve">
+    <value>스핑크스 투구</value>
+  </data>
+  <data name="ViolentWindHelm" xml:space="preserve">
+    <value>맹렬한 바람의 투구</value>
+  </data>
+  <data name="ViolentWindArmor" xml:space="preserve">
+    <value>맹렬한 바람 갑옷</value>
+  </data>
+  <data name="ViolentWindPants" xml:space="preserve">
+    <value>격렬한 바람 바지</value>
+  </data>
+  <data name="ViolentWindGloves" xml:space="preserve">
+    <value>맹렬한 바람의 장갑</value>
+  </data>
+  <data name="ViolentWindBoots" xml:space="preserve">
+    <value>격렬한 바람 장화</value>
+  </data>
+  <data name="AtlansArmor" xml:space="preserve">
+    <value>아틀란스 방어구</value>
+  </data>
+  <data name="AtlansPants" xml:space="preserve">
+    <value>아틀란스 바지</value>
+  </data>
+  <data name="AtlansGloves" xml:space="preserve">
+    <value>아틀란스 장갑</value>
+  </data>
+  <data name="AtlansBoots" xml:space="preserve">
+    <value>아틀란스 부츠</value>
+  </data>
+  <data name="StormJahadHelm" xml:space="preserve">
+    <value>폭풍 자하드 투구</value>
+  </data>
+  <data name="StormJahadArmor" xml:space="preserve">
+    <value>스톰 자하드 갑옷</value>
+  </data>
+  <data name="StormJahadPants" xml:space="preserve">
+    <value>스톰 자하드 바지</value>
+  </data>
+  <data name="StormJahadBoots" xml:space="preserve">
+    <value>스톰 자하드 부츠</value>
+  </data>
+  <data name="FirstLuckyArmorTicket" xml:space="preserve">
+    <value>1차 럭키아머 티켓</value>
+  </data>
+  <data name="FirstLuckyPantsTicket" xml:space="preserve">
+    <value>1차 럭키팬츠 티켓</value>
+  </data>
+  <data name="FirstLuckyHelmTicket" xml:space="preserve">
+    <value>1차 행운의 투구 티켓</value>
+  </data>
+  <data name="FirstLuckyGlovesTicket" xml:space="preserve">
+    <value>1차 럭키글러브 티켓</value>
+  </data>
+  <data name="FirstLuckyBootsTicket" xml:space="preserve">
+    <value>1차 럭키부츠 티켓</value>
+  </data>
+  <data name="SecondLuckyArmorTicket" xml:space="preserve">
+    <value>2차 럭키아머 티켓</value>
+  </data>
+  <data name="SecondLuckyPantsTicket" xml:space="preserve">
+    <value>2차 럭키팬츠 티켓</value>
+  </data>
+  <data name="SecondLuckyHelmTicket" xml:space="preserve">
+    <value>2차 행운의 투구 티켓</value>
+  </data>
+  <data name="SecondLuckyGlovesTicket" xml:space="preserve">
+    <value>2차 럭키글러브 티켓</value>
+  </data>
+  <data name="SecondLuckyBootsTicket" xml:space="preserve">
+    <value>2차 럭키부츠 티켓</value>
+  </data>
+  <data name="JewelOfExtension" xml:space="preserve">
+    <value>확장의 보석</value>
+  </data>
+  <data name="JewelOfElevation" xml:space="preserve">
+    <value>고양의 보석</value>
+  </data>
+  <data name="SealOfAscension" xml:space="preserve">
+    <value>승천의 인장</value>
+  </data>
+  <data name="SealOfWealth" xml:space="preserve">
+    <value>부의 인장</value>
+  </data>
+  <data name="SealOfSustenance" xml:space="preserve">
+    <value>생계의 인장</value>
+  </data>
+  <data name="SealOfHealing" xml:space="preserve">
+    <value>치유의 인장</value>
+  </data>
+  <data name="SealOfDivinity" xml:space="preserve">
+    <value>신성의 인장</value>
+  </data>
+  <data name="MasterSealOfAscension" xml:space="preserve">
+    <value>승천의 마스터 인장</value>
+  </data>
+  <data name="MasterSealOfWealth" xml:space="preserve">
+    <value>마스터 부의 인장</value>
+  </data>
+  <data name="MaxAgBoostAura" xml:space="preserve">
+    <value>Max AG 부스트 아우라</value>
+  </data>
+  <data name="MaxSdBoostAura" xml:space="preserve">
+    <value>최대 SD 부스트 아우라</value>
+  </data>
+  <data name="ScrollOfQuickness" xml:space="preserve">
+    <value>신속의 두루마리</value>
+  </data>
+  <data name="ScrollOfDefense" xml:space="preserve">
+    <value>방어의 두루마리</value>
+  </data>
+  <data name="ScrollOfWrath" xml:space="preserve">
+    <value>분노의 두루마리</value>
+  </data>
+  <data name="ScrollOfWizardry" xml:space="preserve">
+    <value>마법의 두루마리</value>
+  </data>
+  <data name="ScrollOfHealth" xml:space="preserve">
+    <value>건강의 두루마리</value>
+  </data>
+  <data name="ScrollOfMana" xml:space="preserve">
+    <value>마나의 두루마리</value>
+  </data>
+  <data name="ElixirOfStrength" xml:space="preserve">
+    <value>힘의 비약</value>
+  </data>
+  <data name="ElixirOfAgility" xml:space="preserve">
+    <value>민첩성의 비약</value>
+  </data>
+  <data name="ElixirOfHealth" xml:space="preserve">
+    <value>건강의 비약</value>
+  </data>
+  <data name="ElixirOfEnergy" xml:space="preserve">
+    <value>에너지의 비약</value>
+  </data>
+  <data name="ElixirOfControl" xml:space="preserve">
+    <value>통제의 비약</value>
+  </data>
+  <data name="ScrollOfBattle" xml:space="preserve">
+    <value>전투의 두루마리</value>
+  </data>
+  <data name="ScrollOfStrength" xml:space="preserve">
+    <value>힘의 두루마리</value>
+  </data>
+  <data name="ScrollOfHealing" xml:space="preserve">
+    <value>치유의 두루마리</value>
+  </data>
+  <data name="TalismanOfLuck" xml:space="preserve">
+    <value>행운의 부적</value>
+  </data>
+  <data name="TalismanOfChaosAssembly" xml:space="preserve">
+    <value>혼돈의 부적 조립</value>
+  </data>
+</root>
