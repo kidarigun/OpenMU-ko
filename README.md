@@ -1,3 +1,39 @@
+# OpenMU 한국어판 (OpenMU-ko)
+
+[MUnique/OpenMU](https://github.com/MUnique/OpenMU)를 한국어로 옮긴 포크입니다.
+OpenMU는 MMORPG "MU Online"의 서버를 처음부터 새로 작성한 오픈 소스
+프로젝트이며, 이 저장소는 그 위에 다음을 더합니다.
+
+- **관리자 패널 한국어:** 대시보드, 게임 구성, 계정, 공성전, Discord 연동 등 관리자
+  패널 전체 문구. 언어 선택에서 **한국어**를 고르면 됩니다.
+- **게임 데이터 한국어:** 아이템, 몬스터, 스킬, 맵, 퀘스트, 이벤트 이름과 설명.
+- **플레이어 메시지 한국어:** 서버가 플레이어에게 보내는 메시지. 게임 안에서
+  `/language ko`를 입력하면 한국어로 바뀝니다.
+- **클라이언트 런처 한국어:** `launcher.config`에 `<UiCulture>ko</UiCulture>`를
+  넣으면 Windows 표시 언어와 관계없이 한국어로 표시됩니다.
+
+용어는 [한국어 용어집](docs/korean-localization/terminology-ko.md)을 따르며,
+`tests/MUnique.OpenMU.Tests/Localization`의 테스트가 번역의 키·자리표시자·명령어
+보존을 검사합니다.
+
+### 게임 클라이언트
+
+이 저장소에는 게임 클라이언트가 포함되어 있지 않습니다. OpenMU가 권장하는 오픈 소스
+클라이언트 [sven-n/MuMain](https://github.com/sven-n/MuMain)은 원작 클라이언트
+소스에서 파생되었고 별도 라이선스가 없으며 원작 게임 리소스를 포함하므로, 이
+프로젝트에서 재배포하지 않습니다. 클라이언트 한국어화는 MuMain 쪽에 기여하는
+방식으로 진행합니다.
+
+### 원본과의 관계와 라이선스
+
+원본 OpenMU의 전체 Git 히스토리를 그대로 유지하고 있으며, 원본 프로젝트의 MIT
+라이선스([LICENSE](LICENSE), Copyright 2017 MUnique)를 따릅니다. 원본의 새 변경은
+`upstream` 원격(`https://github.com/MUnique/OpenMU.git`)에서 가져와 병합합니다.
+서버 실행 방법과 그 밖의 문서는 아래 원본 README와 [docs-website](docs-website)를
+참고하세요.
+
+---
+
 # OpenMU Project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
