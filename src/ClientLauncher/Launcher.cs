@@ -43,19 +43,19 @@ public class Launcher : ILauncher
     {
         if (string.IsNullOrWhiteSpace(this.HostAddress))
         {
-            MessageBox.Show("Host address is not set.", "Error");
+            MessageBox.Show(LauncherTexts.Get("HostAddressNotSet"), LauncherTexts.Get("ErrorCaption"));
             return;
         }
 
         if (string.IsNullOrWhiteSpace(this.MainExePath))
         {
-            MessageBox.Show("The path to the main.exe is not set.", "Error");
+            MessageBox.Show(LauncherTexts.Get("MainExePathNotSet"), LauncherTexts.Get("ErrorCaption"));
             return;
         }
 
         if (this.ResolveHost() is not { } ipAddress)
         {
-            MessageBox.Show($"Address '{this.HostAddress} could not be resolved to an IPv4 address.", "Error");
+            MessageBox.Show(LauncherTexts.Format("AddressNotResolved", this.HostAddress), LauncherTexts.Get("ErrorCaption"));
             return;
         }
 
@@ -70,7 +70,7 @@ public class Launcher : ILauncher
         else
         {
             if (MessageBox.Show(
-                    "IP and Port couldn't be set, because the operating system is not windows. Try to launch the game client anyway?",
+                    LauncherTexts.Get("NotWindowsLaunchAnyway"),
                     string.Empty,
                     MessageBoxButtons.YesNo) != DialogResult.Yes)
             {

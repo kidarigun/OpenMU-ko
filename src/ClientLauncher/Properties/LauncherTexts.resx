@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MainFormTitle" xml:space="preserve">
+    <value>MU Game Client Launcher</value>
+  </data>
+  <data name="LaunchClient" xml:space="preserve">
+    <value>Launch Client</value>
+  </data>
+  <data name="MainExePath" xml:space="preserve">
+    <value>main.exe Path:</value>
+  </data>
+  <data name="Server" xml:space="preserve">
+    <value>Server:</value>
+  </data>
+  <data name="ExecutablesFilter" xml:space="preserve">
+    <value>Executables|*.exe</value>
+  </data>
+  <data name="RegistryAccessDenied" xml:space="preserve">
+    <value>Can't access Windows Registry. To use the launcher, run it as Administrator.</value>
+  </data>
+  <data name="StartError" xml:space="preserve">
+    <value>Error Starting MU. Path correct?</value>
+  </data>
+  <data name="ClientSettingsWindowsOnly" xml:space="preserve">
+    <value>Changing the configuration of the MU game client is only supported on windows.</value>
+  </data>
+  <data name="LocalConnectServer" xml:space="preserve">
+    <value>Local ConnectServer</value>
+  </data>
+  <data name="LocalGameServer1" xml:space="preserve">
+    <value>Local GameServer 1</value>
+  </data>
+  <data name="ErrorCaption" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="HostAddressNotSet" xml:space="preserve">
+    <value>Host address is not set.</value>
+  </data>
+  <data name="MainExePathNotSet" xml:space="preserve">
+    <value>The path to the main.exe is not set.</value>
+  </data>
+  <data name="AddressNotResolved" xml:space="preserve">
+    <value>Address '{0}' could not be resolved to an IPv4 address.</value>
+  </data>
+  <data name="NotWindowsLaunchAnyway" xml:space="preserve">
+    <value>IP and Port couldn't be set, because the operating system is not windows. Try to launch the game client anyway?</value>
+  </data>
+  <data name="ClientSettingsTitle" xml:space="preserve">
+    <value>Change Client Settings</value>
+  </data>
+  <data name="WindowMode" xml:space="preserve">
+    <value>Window Mode</value>
+  </data>
+  <data name="BackgroundMusic" xml:space="preserve">
+    <value>Background Music</value>
+  </data>
+  <data name="SoundEffects" xml:space="preserve">
+    <value>Sound Effects</value>
+  </data>
+  <data name="Sound" xml:space="preserve">
+    <value>Sound</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="LanguageEnglish" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="LanguagePortuguese" xml:space="preserve">
+    <value>Portuguese</value>
+  </data>
+  <data name="LanguageSpanish" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="LanguageKorean" xml:space="preserve">
+    <value>Korean</value>
+  </data>
+  <data name="ScreenResolution" xml:space="preserve">
+    <value>Screen Resolution</value>
+  </data>
+  <data name="ColorDepth" xml:space="preserve">
+    <value>Color Depth</value>
+  </data>
+  <data name="ColorDepthMin" xml:space="preserve">
+    <value>Min Color (16 bit)</value>
+  </data>
+  <data name="ColorDepthMax" xml:space="preserve">
+    <value>Max Color (32 bit)</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ConfigureConnectionTitle" xml:space="preserve">
+    <value>Configure Connection</value>
+  </data>
+  <data name="ServerAddress" xml:space="preserve">
+    <value>Server-Address:</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Description:</value>
+  </data>
+  <data name="DescriptionPlaceholder" xml:space="preserve">
+    <value>&lt;Enter a description here&gt;</value>
+  </data>
+</root>

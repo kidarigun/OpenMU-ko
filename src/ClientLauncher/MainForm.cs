@@ -15,7 +15,15 @@ using System.Xml.Serialization;
 /// </summary>
 public partial class MainForm : Form
 {
-    private const string ConfigFileName = "launcher.config";
+    /// <summary>
+    /// The file name of the launcher configuration.
+    /// </summary>
+    internal const string ConfigFileName = "launcher.config";
+
+    /// <summary>
+    /// The configured culture of the texts, which is kept when the options are saved.
+    /// </summary>
+    private string? _uiCulture;
 
     /// <summary>
     /// Gets or sets the binding list for the configured hosts.
@@ -28,6 +36,7 @@ public partial class MainForm : Form
     public MainForm()
     {
         this.InitializeComponent();
+        this.ApplyTexts();
         this.LoadOptions();
         this.UpdateButtonStates();
     }
@@ -66,12 +75,21 @@ public partial class MainForm : Form
         }
         catch (UnauthorizedAccessException)
         {
-            MessageBox.Show("Can't access Windows Registry. To use the launcher, run it as Administrator.");
+            MessageBox.Show(LauncherTexts.Get("RegistryAccessDenied"));
         }
         catch (Exception ex)
         {
-            MessageBox.Show("Error Starting MU. Path correct?" + Environment.NewLine + ex.Message);
+            MessageBox.Show(LauncherTexts.Get("StartError") + Environment.NewLine + ex.Message);
         }
+    }
+
+    private void ApplyTexts()
+    {
+        this.Text = LauncherTexts.Get("MainFormTitle");
+        this._launchButton.Text = LauncherTexts.Get("LaunchClient");
+        this.label1.Text = LauncherTexts.Get("MainExePath");
+        this.label2.Text = LauncherTexts.Get("Server");
+        this.openFileDialog.Filter = LauncherTexts.Get("ExecutablesFilter");
     }
 
     private void LoadOptions()
@@ -89,6 +107,7 @@ public partial class MainForm : Form
             if (reader.Deserialize(file) is LauncherSettings launcherSettings)
             {
                 this.MainExePathTextBox.Text = launcherSettings.MainExePath;
+                this._uiCulture = launcherSettings.UiCulture;
                 this.Hosts = new BindingList<ServerHostSettings>(launcherSettings.Hosts);
                 if (launcherSettings.AvailableResolutions?.Any() is true)
                 {
@@ -105,8 +124,8 @@ public partial class MainForm : Form
         catch
         {
             this.Hosts.Clear();
-            this.Hosts.Add(new ServerHostSettings { Description = "Local ConnectServer", Address = "localhost", Port = 44405 });
-            this.Hosts.Add(new ServerHostSettings { Description = "Local GameServer 1", Address = "localhost", Port = 45901 });
+            this.Hosts.Add(new ServerHostSettings { Description = LauncherTexts.Get("LocalConnectServer"), Address = "localhost", Port = 44405 });
+            this.Hosts.Add(new ServerHostSettings { Description = LauncherTexts.Get("LocalGameServer1"), Address = "localhost", Port = 45901 });
         }
     }
 
@@ -117,6 +136,7 @@ public partial class MainForm : Form
             Hosts = this._hostsBindingList.ToList(),
             MainExePath = this.MainExePathTextBox.Text,
             AvailableResolutions = this.Resolutions.ToList(),
+            UiCulture = this._uiCulture,
         };
 
         var writer = new XmlSerializer(typeof(LauncherSettings));
@@ -144,7 +164,7 @@ public partial class MainForm : Form
         }
         else
         {
-            MessageBox.Show("Changing the configuration of the MU game client is only supported on windows.");
+            MessageBox.Show(LauncherTexts.Get("ClientSettingsWindowsOnly"));
         }
     }
 

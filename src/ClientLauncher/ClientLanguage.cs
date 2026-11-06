@@ -24,4 +24,9 @@ public enum ClientLanguage
     /// The spanish language.
     /// </summary>
     Spanish = 2,
+
+    /// <summary>
+    /// The korean language.
+    /// </summary>
+    Korean = 3,
 }

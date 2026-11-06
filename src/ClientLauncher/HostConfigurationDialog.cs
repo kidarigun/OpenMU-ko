@@ -20,6 +20,12 @@ public partial class HostConfigurationDialog : Form
     public HostConfigurationDialog()
     {
         this.InitializeComponent();
+        this.Text = LauncherTexts.Get("ConfigureConnectionTitle");
+        this.label2.Text = LauncherTexts.Get("ServerAddress");
+        this.label1.Text = LauncherTexts.Get("Description");
+        this._descriptionTextBox.PlaceholderText = LauncherTexts.Get("DescriptionPlaceholder");
+        this.button1.Text = LauncherTexts.Get("Ok");
+        this._cancelButton.Text = LauncherTexts.Get("Cancel");
     }
 
     /// <summary>

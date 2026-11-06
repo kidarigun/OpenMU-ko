@@ -21,6 +21,7 @@ internal partial class ClientSettingsDialog : Form
     public ClientSettingsDialog()
     {
         this.InitializeComponent();
+        this.ApplyTexts();
         this.clientResolutionComboBox.DisplayMember = nameof(ClientResolution.Caption);
         this.clientResolutionComboBox.ValueMember = nameof(ClientResolution.Index);
         this.clientResolutionComboBox.DataSource = LauncherSettings.DefaultResolutions;
@@ -57,6 +58,33 @@ internal partial class ClientSettingsDialog : Form
 
         this.SetConfig(config);
         config.Save();
+    }
+
+    private void ApplyTexts()
+    {
+        this.Text = LauncherTexts.Get("ClientSettingsTitle");
+        this.windowModeCheckBox.Text = LauncherTexts.Get("WindowMode");
+        this.musicActiveCheckBox.Text = LauncherTexts.Get("BackgroundMusic");
+        this.soundActiveCheckBox.Text = LauncherTexts.Get("SoundEffects");
+        this.groupBox3.Text = LauncherTexts.Get("Sound");
+        this.groupBox4.Text = LauncherTexts.Get("Language");
+        this.groupBox5.Text = LauncherTexts.Get("ScreenResolution");
+        this.groupBox1.Text = LauncherTexts.Get("ColorDepth");
+        this.saveButton.Text = LauncherTexts.Get("Ok");
+        this.closeButton.Text = LauncherTexts.Get("Cancel");
+
+        // The item order follows ClientLanguage, because the selected index is stored as language.
+        this.clientLanguageComboBox.Items.Clear();
+        this.clientLanguageComboBox.Items.AddRange(new object[]
+        {
+            LauncherTexts.Get("LanguageEnglish"),
+            LauncherTexts.Get("LanguagePortuguese"),
+            LauncherTexts.Get("LanguageSpanish"),
+            LauncherTexts.Get("LanguageKorean"),
+        });
+
+        this.colorDepthComboBox.Items.Clear();
+        this.colorDepthComboBox.Items.AddRange(new object[] { LauncherTexts.Get("ColorDepthMin"), LauncherTexts.Get("ColorDepthMax") });
     }
 
     private void ReadConfig(ClientSettings clientSettings)

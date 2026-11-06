@@ -41,4 +41,10 @@ public class LauncherSettings
     /// Gets or sets the resolutions.
     /// </summary>
     public List<ClientResolution> AvailableResolutions { get; set; } = [];
+
+    /// <summary>
+    /// Gets or sets the culture name of the launcher's texts, e.g. <c>ko-KR</c>.
+    /// When it's empty, the display language of the operating system is used.
+    /// </summary>
+    public string? UiCulture { get; set; }
 }
